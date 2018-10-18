@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+locstring Field_7_3_0_24715_000_lang
+float Field_7_3_0_24715_001
+float Field_7_3_0_24715_002
+int Field_7_3_0_24715_003
+int Field_7_3_0_24715_004
+int Field_7_3_0_24715_005
+int Field_7_3_0_24715_006
+
+LAYOUT BCCA6581
+BUILD 7.3.0.24715
+$noninline,id$ID<32>
+Field_7_3_0_24715_000_lang
+Field_7_3_0_24715_001
+Field_7_3_0_24715_002
+Field_7_3_0_24715_003<u8>
+Field_7_3_0_24715_004<u32>
+Field_7_3_0_24715_005<u32>
+Field_7_3_0_24715_006<u32>

@@ -1,0 +1,12 @@
+COLUMNS
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT 3716BBCD
+BUILD 8.1.0.27934
+$id$����<32>
+$relation$����<u16>
+����<u16>
+����<u32>

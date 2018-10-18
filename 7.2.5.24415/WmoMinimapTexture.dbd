@@ -1,0 +1,17 @@
+COLUMNS
+int ID
+int Field_7_2_5_24415_000
+int Field_7_2_5_24415_001
+int Field_7_2_5_24415_002
+int Field_7_2_5_24415_003
+int Field_7_2_5_24415_004
+
+LAYOUT 5193E175
+BUILD 7.2.5.24415
+COMMENT table is sparse
+$noninline,id$ID<32>
+Field_7_2_5_24415_000<32>
+Field_7_2_5_24415_001<16>
+Field_7_2_5_24415_002<u16>
+Field_7_2_5_24415_003<u8>
+Field_7_2_5_24415_004<u8>

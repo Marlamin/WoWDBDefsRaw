@@ -1,0 +1,13 @@
+COLUMNS
+int ID
+locstring ����_lang
+locstring ����_lang
+locstring ����_lang
+
+LAYOUT FFF1DA38
+BUILD 8.1.0.28151
+COMMENT table is sparse
+$noninline,id$ID<32>
+����_lang
+����_lang
+����_lang

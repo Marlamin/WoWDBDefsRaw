@@ -1,0 +1,18 @@
+COLUMNS
+int Field_8_0_1_27178_000
+int Field_8_0_1_27178_001
+int Field_8_0_1_27178_002
+int Field_8_0_1_27178_003
+float Field_8_0_1_27178_004
+int Field_8_0_1_27178_005
+int Field_8_0_1_27178_006
+
+LAYOUT F321EA82
+BUILD 8.0.1.27178
+$id$Field_8_0_1_27178_000<32>
+$relation$Field_8_0_1_27178_001<32>
+Field_8_0_1_27178_002<u32>
+Field_8_0_1_27178_003<u8>
+Field_8_0_1_27178_004
+Field_8_0_1_27178_005<u8>
+Field_8_0_1_27178_006<u8>

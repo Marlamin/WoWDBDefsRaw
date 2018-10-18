@@ -1,0 +1,32 @@
+COLUMNS
+int ID
+int ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+
+LAYOUT 62B1D302
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����<u8>
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����

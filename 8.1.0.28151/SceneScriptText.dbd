@@ -1,0 +1,11 @@
+COLUMNS
+int ID
+string ����
+string ����
+
+LAYOUT DE6E2251
+BUILD 8.1.0.28151
+COMMENT table is sparse
+$noninline,id$ID<32>
+����
+����

@@ -1,0 +1,10 @@
+COLUMNS
+int Field_8_0_1_27326_000
+int Field_8_0_1_27326_001
+int Field_8_0_1_27326_002
+
+LAYOUT 81B7C74C
+BUILD 8.0.1.27326
+$id$Field_8_0_1_27326_000<32>
+Field_8_0_1_27326_001<u16>
+$noninline,relation$Field_8_0_1_27326_002<u8>

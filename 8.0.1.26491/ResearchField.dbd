@@ -1,0 +1,10 @@
+COLUMNS
+locstring Field_8_0_1_26491_000_lang
+int Field_8_0_1_26491_001
+int Field_8_0_1_26491_002
+
+LAYOUT FE742A58
+BUILD 8.0.1.26491
+Field_8_0_1_26491_000_lang
+Field_8_0_1_26491_001<u8>
+$id$Field_8_0_1_26491_002<32>

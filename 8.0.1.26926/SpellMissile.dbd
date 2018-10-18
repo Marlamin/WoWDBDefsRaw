@@ -1,0 +1,36 @@
+COLUMNS
+int ID
+int Field_8_0_1_26926_000
+int Field_8_0_1_26926_001
+float Field_8_0_1_26926_002
+float Field_8_0_1_26926_003
+float Field_8_0_1_26926_004
+float Field_8_0_1_26926_005
+float Field_8_0_1_26926_006
+float Field_8_0_1_26926_007
+float Field_8_0_1_26926_008
+float Field_8_0_1_26926_009
+float Field_8_0_1_26926_010
+float Field_8_0_1_26926_011
+float Field_8_0_1_26926_012
+float Field_8_0_1_26926_013
+float Field_8_0_1_26926_014
+
+LAYOUT AF286A50
+BUILD 8.0.1.26926
+$noninline,id$ID<32>
+Field_8_0_1_26926_000<32>
+Field_8_0_1_26926_001<u8>
+Field_8_0_1_26926_002
+Field_8_0_1_26926_003
+Field_8_0_1_26926_004
+Field_8_0_1_26926_005
+Field_8_0_1_26926_006
+Field_8_0_1_26926_007
+Field_8_0_1_26926_008
+Field_8_0_1_26926_009
+Field_8_0_1_26926_010
+Field_8_0_1_26926_011
+Field_8_0_1_26926_012
+Field_8_0_1_26926_013
+Field_8_0_1_26926_014

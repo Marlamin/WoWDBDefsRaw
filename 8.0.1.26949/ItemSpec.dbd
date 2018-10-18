@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_8_0_1_26949_000
+int Field_8_0_1_26949_001
+int Field_8_0_1_26949_002
+int Field_8_0_1_26949_003
+int Field_8_0_1_26949_004
+int Field_8_0_1_26949_005
+
+LAYOUT EB138F8E
+BUILD 8.0.1.26949
+$noninline,id$ID<32>
+Field_8_0_1_26949_000<u8>
+Field_8_0_1_26949_001<u8>
+$relation$Field_8_0_1_26949_002<u8>
+Field_8_0_1_26949_003<u8>
+Field_8_0_1_26949_004<u8>
+Field_8_0_1_26949_005<u16>

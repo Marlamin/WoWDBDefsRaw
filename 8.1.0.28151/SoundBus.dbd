@@ -1,0 +1,20 @@
+COLUMNS
+int ����
+int ����
+int ����
+int ����
+float ����
+int ����
+int ����
+int ����
+
+LAYOUT 7CC84C2D
+BUILD 8.1.0.28151
+$id$����<32>
+����<u8>
+����<u8>
+����<u8>
+����
+����<u8>
+����<8>
+$noninline,relation$����<u16>

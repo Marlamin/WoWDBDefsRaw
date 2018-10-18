@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+float Field_7_3_5_26972_000
+float Field_7_3_5_26972_001
+int Field_7_3_5_26972_002
+int Field_7_3_5_26972_003
+int Field_7_3_5_26972_004
+
+LAYOUT ACC168A6
+BUILD 7.3.5.26972
+$noninline,id$ID<32>
+Field_7_3_5_26972_000
+Field_7_3_5_26972_001
+Field_7_3_5_26972_002<16>
+Field_7_3_5_26972_003<u8>
+Field_7_3_5_26972_004<u8>

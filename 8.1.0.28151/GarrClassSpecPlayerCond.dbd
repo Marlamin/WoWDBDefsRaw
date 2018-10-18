@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+locstring ����_lang
+int ����
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT 561DEBFE
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����_lang
+����<u32>
+����<u32>
+����<32>
+����<32>
+����<u8>

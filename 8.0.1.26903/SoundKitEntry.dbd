@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_8_0_1_26903_000
+int Field_8_0_1_26903_001
+int Field_8_0_1_26903_002
+float Field_8_0_1_26903_003
+
+LAYOUT CBC66B5F
+BUILD 8.0.1.26903
+$noninline,id$ID<32>
+$relation$Field_8_0_1_26903_000<u32>
+Field_8_0_1_26903_001<32>
+Field_8_0_1_26903_002<u8>
+Field_8_0_1_26903_003

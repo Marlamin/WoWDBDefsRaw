@@ -1,0 +1,28 @@
+COLUMNS
+int ID
+locstring ����_lang
+locstring ����_lang
+locstring ����_lang
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT C263D77C
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����_lang
+����_lang
+����_lang
+����<32>
+����<32>
+����<32>
+����<u32>
+����<32>
+����<32>
+����<32>
+����<32>

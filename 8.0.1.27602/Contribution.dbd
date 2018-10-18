@@ -1,0 +1,18 @@
+COLUMNS
+locstring Field_8_0_1_27602_000_lang
+locstring Field_8_0_1_27602_001_lang
+int Field_8_0_1_27602_002
+int Field_8_0_1_27602_003
+int Field_8_0_1_27602_004
+int Field_8_0_1_27602_005
+int Field_8_0_1_27602_006
+
+LAYOUT 37C49135
+BUILD 8.0.1.27602
+Field_8_0_1_27602_000_lang
+Field_8_0_1_27602_001_lang
+$id$Field_8_0_1_27602_002<32>
+$relation$Field_8_0_1_27602_003<32>
+Field_8_0_1_27602_004<32>
+Field_8_0_1_27602_005<32>
+Field_8_0_1_27602_006<32>[4]

@@ -1,0 +1,26 @@
+COLUMNS
+int ID
+int Field_8_1_0_27826_000
+float Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
+float Field_8_1_0_27826_003
+float Field_8_1_0_27826_004
+float Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+
+LAYOUT C3B87CA4
+BUILD 8.1.0.27826
+$noninline,id$ID<32>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001
+Field_8_1_0_27826_002
+Field_8_1_0_27826_003
+Field_8_1_0_27826_004
+Field_8_1_0_27826_005
+Field_8_1_0_27826_006<8>
+Field_8_1_0_27826_007<8>
+Field_8_1_0_27826_008<u8>
+$noninline,relation$Field_8_1_0_27826_009<u16>

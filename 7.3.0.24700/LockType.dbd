@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_7_3_0_24700_000_lang
+locstring Field_7_3_0_24700_001_lang
+locstring Field_7_3_0_24700_002_lang
+string Field_7_3_0_24700_003
+int Field_7_3_0_24700_004
+
+LAYOUT CD5E1D2F
+BUILD 7.3.0.24700
+Field_7_3_0_24700_000_lang
+Field_7_3_0_24700_001_lang
+Field_7_3_0_24700_002_lang
+Field_7_3_0_24700_003
+$id$Field_7_3_0_24700_004<32>

@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+float Field_7_2_5_24415_000
+float Field_7_2_5_24415_001
+float Field_7_2_5_24415_002
+float Field_7_2_5_24415_003
+int Field_7_2_5_24415_004
+
+LAYOUT BF25F97C
+BUILD 7.2.5.24415
+$noninline,id$ID<32>
+Field_7_2_5_24415_000
+Field_7_2_5_24415_001
+Field_7_2_5_24415_002
+Field_7_2_5_24415_003
+Field_7_2_5_24415_004<16>

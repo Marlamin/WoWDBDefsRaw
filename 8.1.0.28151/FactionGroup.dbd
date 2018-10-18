@@ -1,0 +1,16 @@
+COLUMNS
+string ����
+locstring ����_lang
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT B9B4369B
+BUILD 8.1.0.28151
+����
+����_lang
+$id$����<32>
+����<u8>
+����<32>
+����<32>

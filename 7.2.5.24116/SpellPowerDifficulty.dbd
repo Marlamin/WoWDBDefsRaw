@@ -1,0 +1,10 @@
+COLUMNS
+int Field_7_2_5_24116_000
+int Field_7_2_5_24116_001
+int Field_7_2_5_24116_002
+
+LAYOUT CE90A34A
+BUILD 7.2.5.24116
+Field_7_2_5_24116_000<u8>
+Field_7_2_5_24116_001<u8>
+$id$Field_7_2_5_24116_002<32>

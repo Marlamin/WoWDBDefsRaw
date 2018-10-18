@@ -1,0 +1,28 @@
+COLUMNS
+int ID
+int Field_7_3_5_26972_000
+int Field_7_3_5_26972_001
+int Field_7_3_5_26972_002
+int Field_7_3_5_26972_003
+int Field_7_3_5_26972_004
+float Field_7_3_5_26972_005
+int Field_7_3_5_26972_006
+float Field_7_3_5_26972_007
+int Field_7_3_5_26972_008
+int Field_7_3_5_26972_009
+int Field_7_3_5_26972_010
+
+LAYOUT CDC114D5
+BUILD 7.3.5.26972
+$noninline,id$ID<32>
+Field_7_3_5_26972_000<u16>
+Field_7_3_5_26972_001<u16>
+Field_7_3_5_26972_002<u16>
+Field_7_3_5_26972_003<u8>
+Field_7_3_5_26972_004<32>
+Field_7_3_5_26972_005
+Field_7_3_5_26972_006<32>
+Field_7_3_5_26972_007
+Field_7_3_5_26972_008<u8>
+Field_7_3_5_26972_009<32>[14]
+$noninline,relation$Field_7_3_5_26972_010<32>

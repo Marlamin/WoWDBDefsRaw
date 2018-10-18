@@ -1,0 +1,26 @@
+COLUMNS
+int ID
+locstring ����_lang
+locstring ����_lang
+float ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT 5E057FAD
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����_lang
+����_lang
+����[2]
+����<u16>
+����<u32>
+����<u16>
+����<u16>
+����<u32>
+����<u8>
+����<8>

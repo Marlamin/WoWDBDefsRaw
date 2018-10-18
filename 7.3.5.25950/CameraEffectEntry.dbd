@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+float Field_7_3_5_25950_000
+float Field_7_3_5_25950_001
+float Field_7_3_5_25950_002
+float Field_7_3_5_25950_003
+float Field_7_3_5_25950_004
+float Field_7_3_5_25950_005
+float Field_7_3_5_25950_006
+float Field_7_3_5_25950_007
+int Field_7_3_5_25950_008
+int Field_7_3_5_25950_009
+int Field_7_3_5_25950_010
+int Field_7_3_5_25950_011
+int Field_7_3_5_25950_012
+int Field_7_3_5_25950_013
+int Field_7_3_5_25950_014
+int Field_7_3_5_25950_015
+
+LAYOUT C5105557
+BUILD 7.3.5.25950
+$noninline,id$ID<32>
+Field_7_3_5_25950_000
+Field_7_3_5_25950_001
+Field_7_3_5_25950_002
+Field_7_3_5_25950_003
+Field_7_3_5_25950_004
+Field_7_3_5_25950_005
+Field_7_3_5_25950_006
+Field_7_3_5_25950_007
+Field_7_3_5_25950_008<u16>
+Field_7_3_5_25950_009<u8>
+Field_7_3_5_25950_010<u8>
+Field_7_3_5_25950_011<u8>
+Field_7_3_5_25950_012<u8>
+Field_7_3_5_25950_013<u8>
+Field_7_3_5_25950_014<u8>
+$noninline,relation$Field_7_3_5_25950_015<u16>

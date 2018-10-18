@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+float Field_7_3_5_26972_000
+int Field_7_3_5_26972_001
+int Field_7_3_5_26972_002
+int Field_7_3_5_26972_003
+
+LAYOUT 2503C18B
+BUILD 7.3.5.26972
+$noninline,id$ID<32>
+Field_7_3_5_26972_000
+Field_7_3_5_26972_001<16>
+Field_7_3_5_26972_002<u8>
+$noninline,relation$Field_7_3_5_26972_003<u16>

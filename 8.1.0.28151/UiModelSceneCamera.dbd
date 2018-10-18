@@ -1,0 +1,36 @@
+COLUMNS
+string ����
+float ����
+float ����
+int ����
+int ����
+int ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+int ����
+
+LAYOUT EDFBD5A2
+BUILD 8.1.0.28151
+����
+����[3]
+����[3]
+$id$����<32>
+����<u8>
+����<u8>
+����
+����
+����
+����
+����
+����
+����
+����
+����
+$noninline,relation$����<32>

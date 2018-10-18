@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int ����
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT DB24A281
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����<u16>
+����<u8>
+����<u8>
+����<u8>
+$noninline,relation$����<u16>

@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+locstring ����_lang
+int ����
+int ����
+
+LAYOUT 3FC87149
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����_lang
+����<u16>
+����<u16>

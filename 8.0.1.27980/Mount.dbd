@@ -1,0 +1,26 @@
+COLUMNS
+locstring Field_8_0_1_27980_000_lang
+locstring Field_8_0_1_27980_001_lang
+locstring Field_8_0_1_27980_002_lang
+int Field_8_0_1_27980_003
+int Field_8_0_1_27980_004
+int Field_8_0_1_27980_005
+int Field_8_0_1_27980_006
+int Field_8_0_1_27980_007
+int Field_8_0_1_27980_008
+float Field_8_0_1_27980_009
+int Field_8_0_1_27980_010
+
+LAYOUT 629E87E2
+BUILD 8.0.1.27980
+Field_8_0_1_27980_000_lang
+Field_8_0_1_27980_001_lang
+Field_8_0_1_27980_002_lang
+$id$Field_8_0_1_27980_003<32>
+Field_8_0_1_27980_004<u16>
+Field_8_0_1_27980_005<u16>
+Field_8_0_1_27980_006<8>
+Field_8_0_1_27980_007<32>
+Field_8_0_1_27980_008<u32>
+Field_8_0_1_27980_009
+Field_8_0_1_27980_010<32>

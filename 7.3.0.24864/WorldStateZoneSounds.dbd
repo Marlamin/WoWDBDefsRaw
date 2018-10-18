@@ -1,0 +1,22 @@
+COLUMNS
+int ID
+int Field_7_3_0_24864_000
+int Field_7_3_0_24864_001
+int Field_7_3_0_24864_002
+int Field_7_3_0_24864_003
+int Field_7_3_0_24864_004
+int Field_7_3_0_24864_005
+int Field_7_3_0_24864_006
+int Field_7_3_0_24864_007
+
+LAYOUT B9572D3D
+BUILD 7.3.0.24864
+$noninline,id$ID<32>
+Field_7_3_0_24864_000<u32>
+Field_7_3_0_24864_001<u16>
+Field_7_3_0_24864_002<u16>
+Field_7_3_0_24864_003<u16>
+Field_7_3_0_24864_004<u16>
+Field_7_3_0_24864_005<u16>
+Field_7_3_0_24864_006<u16>
+Field_7_3_0_24864_007<u8>

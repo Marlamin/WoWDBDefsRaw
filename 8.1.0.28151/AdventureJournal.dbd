@@ -1,0 +1,50 @@
+COLUMNS
+int ID
+locstring ����_lang
+locstring ����_lang
+locstring ����_lang
+locstring ����_lang
+locstring ����_lang
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT 9D620FC8
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����_lang
+����_lang
+����_lang
+����_lang
+����_lang
+����<u8>
+����<u32>
+����<u8>
+����<u8>
+����<32>
+����<u16>
+����<u16>
+����<u16>
+����<u8>
+����<u8>
+����<32>
+����<u32>
+����<u16>
+����<u8>
+����<u16>
+����<u32>[2]
+����<u8>[2]

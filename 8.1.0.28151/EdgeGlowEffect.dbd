@@ -1,0 +1,32 @@
+COLUMNS
+int ID
+float Field_8_1_0_28151_000
+float Field_8_1_0_28151_001
+float Field_8_1_0_28151_002
+float Field_8_1_0_28151_003
+float Field_8_1_0_28151_004
+float Field_8_1_0_28151_005
+float Field_8_1_0_28151_006
+float Field_8_1_0_28151_007
+float Field_8_1_0_28151_008
+int Field_8_1_0_28151_009
+float Field_8_1_0_28151_010
+int Field_8_1_0_28151_011
+int Field_8_1_0_28151_012
+
+LAYOUT CBCC7336
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+Field_8_1_0_28151_000
+Field_8_1_0_28151_001
+Field_8_1_0_28151_002
+Field_8_1_0_28151_003
+Field_8_1_0_28151_004
+Field_8_1_0_28151_005
+Field_8_1_0_28151_006
+Field_8_1_0_28151_007
+Field_8_1_0_28151_008
+Field_8_1_0_28151_009<8>
+Field_8_1_0_28151_010
+Field_8_1_0_28151_011<32>
+Field_8_1_0_28151_012<u32>

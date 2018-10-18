@@ -1,0 +1,16 @@
+COLUMNS
+int Field_7_2_5_24430_000
+int Field_7_2_5_24430_001
+locstring Field_7_2_5_24430_002_lang
+int Field_7_2_5_24430_003
+int Field_7_2_5_24430_004
+int Field_7_2_5_24430_005
+
+LAYOUT 25DB72F3
+BUILD 7.2.5.24430
+Field_7_2_5_24430_000<32>
+Field_7_2_5_24430_001<32>
+Field_7_2_5_24430_002_lang
+Field_7_2_5_24430_003<u16>
+Field_7_2_5_24430_004<u8>
+$id$Field_7_2_5_24430_005<32>

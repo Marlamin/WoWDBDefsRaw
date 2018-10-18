@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int Field_7_3_5_26124_000
+int Field_7_3_5_26124_001
+int Field_7_3_5_26124_002
+int Field_7_3_5_26124_003
+int Field_7_3_5_26124_004
+
+LAYOUT 84FE93B7
+BUILD 7.3.5.26124
+$noninline,id$ID<32>
+Field_7_3_5_26124_000<u16>
+Field_7_3_5_26124_001<u16>
+Field_7_3_5_26124_002<u16>
+Field_7_3_5_26124_003<u8>
+$noninline,relation$Field_7_3_5_26124_004<u16>

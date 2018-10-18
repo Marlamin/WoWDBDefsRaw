@@ -1,0 +1,26 @@
+COLUMNS
+locstring Field_8_0_1_27026_000_lang
+locstring Field_8_0_1_27026_001_lang
+int Field_8_0_1_27026_002
+int Field_8_0_1_27026_003
+int Field_8_0_1_27026_004
+int Field_8_0_1_27026_005
+int Field_8_0_1_27026_006
+int Field_8_0_1_27026_007
+int Field_8_0_1_27026_008
+int Field_8_0_1_27026_009
+int Field_8_0_1_27026_010
+
+LAYOUT BB10478F
+BUILD 8.0.1.27026
+Field_8_0_1_27026_000_lang
+Field_8_0_1_27026_001_lang
+$id$Field_8_0_1_27026_002<32>
+Field_8_0_1_27026_003<u16>
+Field_8_0_1_27026_004<32>
+Field_8_0_1_27026_005<32>
+Field_8_0_1_27026_006<32>
+Field_8_0_1_27026_007<32>
+Field_8_0_1_27026_008<u8>
+Field_8_0_1_27026_009<u8>
+Field_8_0_1_27026_010<u16>

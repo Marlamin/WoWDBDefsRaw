@@ -1,0 +1,62 @@
+COLUMNS
+int ID
+int ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+int ����
+float ����
+float ����
+float ����
+float ����
+int ����
+int ����
+int ����
+
+LAYOUT 9854A6AC
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����<u32>
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����<32>
+����
+����
+����
+����
+����<u32>
+����<u32>
+����<u32>

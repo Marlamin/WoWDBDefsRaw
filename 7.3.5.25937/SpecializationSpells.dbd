@@ -1,0 +1,16 @@
+COLUMNS
+locstring Field_7_3_5_25937_000_lang
+int Field_7_3_5_25937_001
+int Field_7_3_5_25937_002
+int Field_7_3_5_25937_003
+int Field_7_3_5_25937_004
+int Field_7_3_5_25937_005
+
+LAYOUT AE3436F3
+BUILD 7.3.5.25937
+Field_7_3_5_25937_000_lang
+Field_7_3_5_25937_001<32>
+Field_7_3_5_25937_002<32>
+$relation$Field_7_3_5_25937_003<u16>
+Field_7_3_5_25937_004<u8>
+$id$Field_7_3_5_25937_005<32>

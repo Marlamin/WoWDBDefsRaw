@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+string Field_7_3_0_24681_000
+float Field_7_3_0_24681_001
+float Field_7_3_0_24681_002
+float Field_7_3_0_24681_003
+int Field_7_3_0_24681_004
+int Field_7_3_0_24681_005
+int Field_7_3_0_24681_006
+int Field_7_3_0_24681_007
+int Field_7_3_0_24681_008
+
+LAYOUT CA6C98D4
+BUILD 7.3.0.24681
+$noninline,id$ID<32>
+Field_7_3_0_24681_000
+Field_7_3_0_24681_001[3]
+Field_7_3_0_24681_002[3]
+Field_7_3_0_24681_003[3]
+Field_7_3_0_24681_004<16>
+Field_7_3_0_24681_005<u8>
+Field_7_3_0_24681_006<8>
+Field_7_3_0_24681_007<u8>
+Field_7_3_0_24681_008<32>

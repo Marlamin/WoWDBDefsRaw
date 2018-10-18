@@ -1,0 +1,18 @@
+COLUMNS
+locstring ����_lang
+string ����
+locstring ����_lang
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT 2D49AABD
+BUILD 8.1.0.28151
+����_lang
+����
+����_lang
+$id$����<u32>
+����<u32>
+����<u32>
+����<u32>

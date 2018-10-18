@@ -1,0 +1,26 @@
+COLUMNS
+int ID
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT D7479271
+BUILD 8.1.0.27934
+$noninline,id$ID<32>
+����<u8>
+����<u8>
+����<u8>
+����<u8>
+����<u8>
+����<32>
+����<32>
+����<32>
+����<32>
+$noninline,relation$����<32>

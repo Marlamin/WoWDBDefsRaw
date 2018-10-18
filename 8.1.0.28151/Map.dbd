@@ -1,0 +1,50 @@
+COLUMNS
+int ID
+string ����
+locstring ����_lang
+locstring ����_lang
+locstring ����_lang
+locstring ����_lang
+locstring ����_lang
+float ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+float ����
+int ����
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT 503A3E58
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����
+����_lang
+����_lang
+����_lang
+����_lang
+����_lang
+����[2]
+����<u8>
+����<8>
+����<u8>
+����<u16>
+����<16>
+����<16>
+����<16>
+����<16>
+����<u8>
+����
+����<16>
+����<u8>
+����<16>
+����<32>
+����<32>[2]

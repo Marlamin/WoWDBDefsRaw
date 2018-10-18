@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+float ����
+float ����
+float ����
+float ����
+float ����
+
+LAYOUT 1C0BBC02
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����
+����
+����
+����
+����

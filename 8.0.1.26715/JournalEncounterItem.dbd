@@ -1,0 +1,16 @@
+COLUMNS
+int Field_8_0_1_26715_000
+int Field_8_0_1_26715_001
+int Field_8_0_1_26715_002
+int Field_8_0_1_26715_003
+int Field_8_0_1_26715_004
+int Field_8_0_1_26715_005
+
+LAYOUT C04C7FBD
+BUILD 8.0.1.26715
+Field_8_0_1_26715_000<u32>
+$relation$Field_8_0_1_26715_001<u16>
+Field_8_0_1_26715_002<8>
+Field_8_0_1_26715_003<u8>
+Field_8_0_1_26715_004<8>
+$id$Field_8_0_1_26715_005<u32>

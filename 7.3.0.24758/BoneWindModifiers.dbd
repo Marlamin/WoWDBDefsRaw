@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+float Field_7_3_0_24758_000
+float Field_7_3_0_24758_001
+
+LAYOUT B4E7449E
+BUILD 7.3.0.24758
+$noninline,id$ID<32>
+Field_7_3_0_24758_000[3]
+Field_7_3_0_24758_001

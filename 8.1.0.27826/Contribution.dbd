@@ -1,0 +1,18 @@
+COLUMNS
+locstring ����_lang
+locstring ����_lang
+int ����
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT 37C49135
+BUILD 8.1.0.27826
+����_lang
+����_lang
+$id$����<32>
+$relation$����<32>
+����<32>
+����<32>
+����<32>[4]

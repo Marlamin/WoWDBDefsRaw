@@ -1,0 +1,12 @@
+COLUMNS
+int Field_7_3_5_26365_000
+int Field_7_3_5_26365_001
+int Field_7_3_5_26365_002
+int Field_7_3_5_26365_003
+
+LAYOUT F44E2BF5
+BUILD 7.3.5.26365
+$relation$Field_7_3_5_26365_000<u16>
+Field_7_3_5_26365_001<u16>
+$id$Field_7_3_5_26365_002<32>
+Field_7_3_5_26365_003<u32>

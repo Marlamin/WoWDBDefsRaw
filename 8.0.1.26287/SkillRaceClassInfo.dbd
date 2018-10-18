@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+int Field_8_0_1_26287_000
+int Field_8_0_1_26287_001
+int Field_8_0_1_26287_002
+int Field_8_0_1_26287_003
+int Field_8_0_1_26287_004
+int Field_8_0_1_26287_005
+int Field_8_0_1_26287_006
+
+LAYOUT BB5112FA
+BUILD 8.0.1.26287
+$noninline,id$ID<32>
+Field_8_0_1_26287_000<64>
+$relation$Field_8_0_1_26287_001<16>
+Field_8_0_1_26287_002<u16>
+Field_8_0_1_26287_003<16>
+Field_8_0_1_26287_004<8>
+Field_8_0_1_26287_005<8>
+Field_8_0_1_26287_006<32>

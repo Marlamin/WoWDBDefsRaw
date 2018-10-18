@@ -1,0 +1,16 @@
+COLUMNS
+locstring Field_7_3_5_25875_000_lang
+locstring Field_7_3_5_25875_001_lang
+int Field_7_3_5_25875_002
+int Field_7_3_5_25875_003
+int Field_7_3_5_25875_004
+int Field_7_3_5_25875_005
+
+LAYOUT 8EDF6090
+BUILD 7.3.5.25875
+Field_7_3_5_25875_000_lang
+Field_7_3_5_25875_001_lang
+$id$Field_7_3_5_25875_002<32>
+$relation$Field_7_3_5_25875_003<32>
+Field_7_3_5_25875_004<32>[4]
+Field_7_3_5_25875_005<32>

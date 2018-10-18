@@ -1,0 +1,20 @@
+COLUMNS
+locstring Field_7_2_5_24430_000_lang
+locstring Field_7_2_5_24430_001_lang
+locstring Field_7_2_5_24430_002_lang
+int Field_7_2_5_24430_003
+int Field_7_2_5_24430_004
+int Field_7_2_5_24430_005
+int Field_7_2_5_24430_006
+int Field_7_2_5_24430_007
+
+LAYOUT AC7554D2
+BUILD 7.2.5.24430
+Field_7_2_5_24430_000_lang
+Field_7_2_5_24430_001_lang
+Field_7_2_5_24430_002_lang
+Field_7_2_5_24430_003<u16>
+Field_7_2_5_24430_004<u16>
+Field_7_2_5_24430_005<u8>
+Field_7_2_5_24430_006<u8>
+$id$Field_7_2_5_24430_007<u32>

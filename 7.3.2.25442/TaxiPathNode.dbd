@@ -1,0 +1,16 @@
+COLUMNS
+float Field_7_3_2_25442_000
+int Field_7_3_2_25442_001
+int Field_7_3_2_25442_002
+int Field_7_3_2_25442_003
+int Field_7_3_2_25442_004
+int Field_7_3_2_25442_005
+
+LAYOUT D38E8C01
+BUILD 7.3.2.25442
+Field_7_3_2_25442_000[3]
+Field_7_3_2_25442_001<u16>
+Field_7_3_2_25442_002<u16>
+Field_7_3_2_25442_003<u8>
+$id$Field_7_3_2_25442_004<32>
+$noninline,relation$Field_7_3_2_25442_005<u64>[21]

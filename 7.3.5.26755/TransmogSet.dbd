@@ -1,0 +1,24 @@
+COLUMNS
+locstring Field_7_3_5_26755_000_lang
+int Field_7_3_5_26755_001
+int Field_7_3_5_26755_002
+int Field_7_3_5_26755_003
+int Field_7_3_5_26755_004
+int Field_7_3_5_26755_005
+int Field_7_3_5_26755_006
+int Field_7_3_5_26755_007
+int Field_7_3_5_26755_008
+int Field_7_3_5_26755_009
+
+LAYOUT BEDFD7D1
+BUILD 7.3.5.26755
+Field_7_3_5_26755_000_lang
+$relation$Field_7_3_5_26755_001<u16>
+Field_7_3_5_26755_002<16>
+Field_7_3_5_26755_003<u8>
+$id$Field_7_3_5_26755_004<u32>
+Field_7_3_5_26755_005<32>
+Field_7_3_5_26755_006<u32>
+Field_7_3_5_26755_007<32>
+Field_7_3_5_26755_008<32>
+Field_7_3_5_26755_009<u32>

@@ -1,0 +1,18 @@
+COLUMNS
+int Field_7_3_0_24681_000
+locstring Field_7_3_0_24681_001_lang
+float Field_7_3_0_24681_002
+float Field_7_3_0_24681_003
+int Field_7_3_0_24681_004
+int Field_7_3_0_24681_005
+int Field_7_3_0_24681_006
+
+LAYOUT 14C54596
+BUILD 7.3.0.24681
+Field_7_3_0_24681_000<32>
+Field_7_3_0_24681_001_lang
+Field_7_3_0_24681_002
+Field_7_3_0_24681_003
+Field_7_3_0_24681_004<32>
+$id$Field_7_3_0_24681_005<32>
+Field_7_3_0_24681_006<u32>

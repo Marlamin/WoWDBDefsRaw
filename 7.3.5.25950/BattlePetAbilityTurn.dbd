@@ -1,0 +1,16 @@
+COLUMNS
+int Field_7_3_5_25950_000
+int Field_7_3_5_25950_001
+int Field_7_3_5_25950_002
+int Field_7_3_5_25950_003
+int Field_7_3_5_25950_004
+int Field_7_3_5_25950_005
+
+LAYOUT CB063F4F
+BUILD 7.3.5.25950
+$relation$Field_7_3_5_25950_000<u16>
+Field_7_3_5_25950_001<u16>
+Field_7_3_5_25950_002<u8>
+Field_7_3_5_25950_003<u8>
+Field_7_3_5_25950_004<8>
+$id$Field_7_3_5_25950_005<32>

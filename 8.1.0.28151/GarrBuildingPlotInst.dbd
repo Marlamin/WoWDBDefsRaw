@@ -1,0 +1,14 @@
+COLUMNS
+float ����
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT FB61E627
+BUILD 8.1.0.28151
+����[2]
+$id$����<32>
+$relation$����<u8>
+����<u16>
+����<u16>

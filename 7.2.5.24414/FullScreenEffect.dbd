@@ -1,0 +1,84 @@
+COLUMNS
+int ID
+float Field_7_2_5_24414_000
+float Field_7_2_5_24414_001
+float Field_7_2_5_24414_002
+float Field_7_2_5_24414_003
+float Field_7_2_5_24414_004
+float Field_7_2_5_24414_005
+float Field_7_2_5_24414_006
+float Field_7_2_5_24414_007
+float Field_7_2_5_24414_008
+float Field_7_2_5_24414_009
+float Field_7_2_5_24414_010
+float Field_7_2_5_24414_011
+float Field_7_2_5_24414_012
+float Field_7_2_5_24414_013
+float Field_7_2_5_24414_014
+float Field_7_2_5_24414_015
+float Field_7_2_5_24414_016
+float Field_7_2_5_24414_017
+float Field_7_2_5_24414_018
+int Field_7_2_5_24414_019
+int Field_7_2_5_24414_020
+float Field_7_2_5_24414_021
+float Field_7_2_5_24414_022
+float Field_7_2_5_24414_023
+float Field_7_2_5_24414_024
+float Field_7_2_5_24414_025
+float Field_7_2_5_24414_026
+float Field_7_2_5_24414_027
+float Field_7_2_5_24414_028
+float Field_7_2_5_24414_029
+float Field_7_2_5_24414_030
+float Field_7_2_5_24414_031
+float Field_7_2_5_24414_032
+float Field_7_2_5_24414_033
+float Field_7_2_5_24414_034
+int Field_7_2_5_24414_035
+int Field_7_2_5_24414_036
+int Field_7_2_5_24414_037
+int Field_7_2_5_24414_038
+
+LAYOUT 16E44121
+BUILD 7.2.5.24414
+$noninline,id$ID<32>
+Field_7_2_5_24414_000
+Field_7_2_5_24414_001
+Field_7_2_5_24414_002
+Field_7_2_5_24414_003
+Field_7_2_5_24414_004
+Field_7_2_5_24414_005
+Field_7_2_5_24414_006
+Field_7_2_5_24414_007
+Field_7_2_5_24414_008
+Field_7_2_5_24414_009
+Field_7_2_5_24414_010
+Field_7_2_5_24414_011
+Field_7_2_5_24414_012
+Field_7_2_5_24414_013
+Field_7_2_5_24414_014
+Field_7_2_5_24414_015
+Field_7_2_5_24414_016
+Field_7_2_5_24414_017
+Field_7_2_5_24414_018
+Field_7_2_5_24414_019<u32>
+Field_7_2_5_24414_020<u32>
+Field_7_2_5_24414_021
+Field_7_2_5_24414_022
+Field_7_2_5_24414_023
+Field_7_2_5_24414_024
+Field_7_2_5_24414_025
+Field_7_2_5_24414_026
+Field_7_2_5_24414_027
+Field_7_2_5_24414_028
+Field_7_2_5_24414_029
+Field_7_2_5_24414_030
+Field_7_2_5_24414_031
+Field_7_2_5_24414_032
+Field_7_2_5_24414_033
+Field_7_2_5_24414_034
+Field_7_2_5_24414_035<u8>
+Field_7_2_5_24414_036<u32>
+Field_7_2_5_24414_037<u32>
+Field_7_2_5_24414_038<u32>

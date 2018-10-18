@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+int ����
+int ����
+
+LAYOUT F00195AE
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����<u16>
+$noninline,relation$����<u16>

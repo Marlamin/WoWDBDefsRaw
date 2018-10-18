@@ -1,0 +1,22 @@
+COLUMNS
+locstring Field_8_0_1_27165_000_lang
+locstring Field_8_0_1_27165_001_lang
+int Field_8_0_1_27165_002
+int Field_8_0_1_27165_003
+int Field_8_0_1_27165_004
+int Field_8_0_1_27165_005
+int Field_8_0_1_27165_006
+int Field_8_0_1_27165_007
+int Field_8_0_1_27165_008
+
+LAYOUT BB4DB4D3
+BUILD 8.0.1.27165
+Field_8_0_1_27165_000_lang
+Field_8_0_1_27165_001_lang
+$id$Field_8_0_1_27165_002<u32>
+Field_8_0_1_27165_003<u8>
+Field_8_0_1_27165_004<u16>
+Field_8_0_1_27165_005<u16>
+Field_8_0_1_27165_006<8>
+Field_8_0_1_27165_007<u8>
+$noninline,relation$Field_8_0_1_27165_008<u8>

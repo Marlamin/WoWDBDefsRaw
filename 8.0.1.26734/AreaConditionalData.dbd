@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_8_0_1_26734_000_lang
+int Field_8_0_1_26734_001
+int Field_8_0_1_26734_002
+int Field_8_0_1_26734_003
+int Field_8_0_1_26734_004
+
+LAYOUT 24BE206C
+BUILD 8.0.1.26734
+Field_8_0_1_26734_000_lang
+Field_8_0_1_26734_001<32>
+$id$Field_8_0_1_26734_002<32>
+Field_8_0_1_26734_003<32>
+$noninline,relation$Field_8_0_1_26734_004<32>

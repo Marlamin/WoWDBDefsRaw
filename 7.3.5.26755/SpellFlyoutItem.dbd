@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int Field_7_3_5_26755_000
+int Field_7_3_5_26755_001
+int Field_7_3_5_26755_002
+
+LAYOUT F86ADE09
+BUILD 7.3.5.26755
+$noninline,id$ID<32>
+Field_7_3_5_26755_000<32>
+Field_7_3_5_26755_001<u8>
+$noninline,relation$Field_7_3_5_26755_002<u8>

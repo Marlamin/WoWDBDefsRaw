@@ -1,0 +1,14 @@
+COLUMNS
+float Field_7_3_5_25946_000
+int Field_7_3_5_25946_001
+int Field_7_3_5_25946_002
+int Field_7_3_5_25946_003
+int Field_7_3_5_25946_004
+
+LAYOUT F45B6227
+BUILD 7.3.5.25946
+Field_7_3_5_25946_000[2]
+Field_7_3_5_25946_001<u16>
+Field_7_3_5_25946_002<u16>
+$relation$Field_7_3_5_25946_003<u8>
+$id$Field_7_3_5_25946_004<32>

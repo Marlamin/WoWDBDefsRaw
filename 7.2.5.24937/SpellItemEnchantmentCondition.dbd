@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_7_2_5_24937_000
+int Field_7_2_5_24937_001
+int Field_7_2_5_24937_002
+int Field_7_2_5_24937_003
+int Field_7_2_5_24937_004
+int Field_7_2_5_24937_005
+
+LAYOUT EF6322FD
+BUILD 7.2.5.24937
+$noninline,id$ID<32>
+Field_7_2_5_24937_000<u8>[5]
+Field_7_2_5_24937_001<u8>[5]
+Field_7_2_5_24937_002<u8>[5]
+Field_7_2_5_24937_003<u8>[5]
+Field_7_2_5_24937_004<u8>[5]
+Field_7_2_5_24937_005<u32>[5]

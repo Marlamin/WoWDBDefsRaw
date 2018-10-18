@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+int Field_7_3_0_25021_000
+float Field_7_3_0_25021_001
+locstring Field_7_3_0_25021_002_lang
+locstring Field_7_3_0_25021_003_lang
+int Field_7_3_0_25021_004
+int Field_7_3_0_25021_005
+int Field_7_3_0_25021_006
+int Field_7_3_0_25021_007
+int Field_7_3_0_25021_008
+int Field_7_3_0_25021_009
+int Field_7_3_0_25021_010
+int Field_7_3_0_25021_011
+int Field_7_3_0_25021_012
+int Field_7_3_0_25021_013
+int Field_7_3_0_25021_014
+int Field_7_3_0_25021_015
+
+LAYOUT EF88CC36
+BUILD 7.3.0.25021
+$noninline,id$ID<32>
+Field_7_3_0_25021_000<u32>
+Field_7_3_0_25021_001[3]
+Field_7_3_0_25021_002_lang
+Field_7_3_0_25021_003_lang
+Field_7_3_0_25021_004<32>
+Field_7_3_0_25021_005<32>
+Field_7_3_0_25021_006<u16>
+Field_7_3_0_25021_007<16>
+Field_7_3_0_25021_008<u16>
+Field_7_3_0_25021_009<u16>
+Field_7_3_0_25021_010<u8>
+Field_7_3_0_25021_011<u8>
+Field_7_3_0_25021_012<u32>
+Field_7_3_0_25021_013<u32>
+Field_7_3_0_25021_014<32>
+Field_7_3_0_25021_015<32>

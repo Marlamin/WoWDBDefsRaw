@@ -1,0 +1,36 @@
+COLUMNS
+int ID
+int ����
+int ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+
+LAYOUT AF286A50
+BUILD 8.1.0.27985
+$noninline,id$ID<32>
+����<32>
+����<u8>
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����
+����

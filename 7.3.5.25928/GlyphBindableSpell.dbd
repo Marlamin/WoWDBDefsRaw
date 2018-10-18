@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+int Field_7_3_5_25928_000
+int Field_7_3_5_25928_001
+
+LAYOUT EA228DFA
+BUILD 7.3.5.25928
+$noninline,id$ID<32>
+Field_7_3_5_25928_000<32>
+$noninline,relation$Field_7_3_5_25928_001<16>

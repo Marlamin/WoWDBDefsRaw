@@ -1,0 +1,16 @@
+COLUMNS
+float Field_7_3_0_24887_000
+float Field_7_3_0_24887_001
+int Field_7_3_0_24887_002
+int Field_7_3_0_24887_003
+int Field_7_3_0_24887_004
+int Field_7_3_0_24887_005
+
+LAYOUT AC810A44
+BUILD 7.3.0.24887
+Field_7_3_0_24887_000[3]
+Field_7_3_0_24887_001[3]
+Field_7_3_0_24887_002<8>
+Field_7_3_0_24887_003<8>
+$id$Field_7_3_0_24887_004<32>
+$noninline,relation$Field_7_3_0_24887_005<64>[30]

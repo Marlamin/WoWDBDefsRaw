@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_8_0_1_26367_000
+float Field_8_0_1_26367_001
+int Field_8_0_1_26367_002
+int Field_8_0_1_26367_003
+int Field_8_0_1_26367_004
+int Field_8_0_1_26367_005
+
+LAYOUT ADCBB963
+BUILD 8.0.1.26367
+$noninline,id$ID<32>
+Field_8_0_1_26367_000<u32>
+Field_8_0_1_26367_001
+Field_8_0_1_26367_002<8>
+Field_8_0_1_26367_003<u8>
+Field_8_0_1_26367_004<32>
+Field_8_0_1_26367_005<u32>

@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_8_0_1_26838_000
+int Field_8_0_1_26838_001
+int Field_8_0_1_26838_002
+int Field_8_0_1_26838_003
+int Field_8_0_1_26838_004
+int Field_8_0_1_26838_005
+
+LAYOUT BCB8719B
+BUILD 8.0.1.26838
+$noninline,id$ID<32>
+Field_8_0_1_26838_000<u32>
+Field_8_0_1_26838_001<u8>
+Field_8_0_1_26838_002<u8>
+Field_8_0_1_26838_003<32>
+Field_8_0_1_26838_004<u32>
+Field_8_0_1_26838_005<u16>

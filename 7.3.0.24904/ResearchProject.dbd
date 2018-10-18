@@ -1,0 +1,22 @@
+COLUMNS
+locstring Field_7_3_0_24904_000_lang
+locstring Field_7_3_0_24904_001_lang
+int Field_7_3_0_24904_002
+int Field_7_3_0_24904_003
+int Field_7_3_0_24904_004
+int Field_7_3_0_24904_005
+int Field_7_3_0_24904_006
+int Field_7_3_0_24904_007
+int Field_7_3_0_24904_008
+
+LAYOUT B1CAB80B
+BUILD 7.3.0.24904
+Field_7_3_0_24904_000_lang
+Field_7_3_0_24904_001_lang
+Field_7_3_0_24904_002<32>
+Field_7_3_0_24904_003<u16>
+Field_7_3_0_24904_004<u8>
+Field_7_3_0_24904_005<u8>
+$id$Field_7_3_0_24904_006<32>
+Field_7_3_0_24904_007<32>
+Field_7_3_0_24904_008<u32>

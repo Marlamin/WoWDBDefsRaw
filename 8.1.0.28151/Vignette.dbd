@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+locstring ����_lang
+int ����
+int ����
+int ����
+int ����
+float ����
+float ����
+int ����
+int ����
+
+LAYOUT E70E083E
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����_lang
+����<u32>
+����<u32>
+����<u32>
+����<u32>
+����
+����
+����<8>
+����<32>

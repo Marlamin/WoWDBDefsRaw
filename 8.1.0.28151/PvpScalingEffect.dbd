@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int ����
+int ����
+float ����
+
+LAYOUT AF88F6DB
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����<32>
+$relation$����<32>
+����

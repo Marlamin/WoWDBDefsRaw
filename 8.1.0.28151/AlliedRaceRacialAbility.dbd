@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+locstring ����_lang
+locstring ����_lang
+int ����
+int ����
+int ����
+
+LAYOUT 96902165
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����_lang
+����_lang
+����<32>
+����<u8>
+$noninline,relation$����<32>

@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+float Field_7_2_5_24287_000
+float Field_7_2_5_24287_001
+int Field_7_2_5_24287_002
+int Field_7_2_5_24287_003
+locstring Field_7_2_5_24287_004_lang
+locstring Field_7_2_5_24287_005_lang
+locstring Field_7_2_5_24287_006_lang
+locstring Field_7_2_5_24287_007_lang
+float Field_7_2_5_24287_008
+float Field_7_2_5_24287_009
+int Field_7_2_5_24287_010
+int Field_7_2_5_24287_011
+int Field_7_2_5_24287_012
+int Field_7_2_5_24287_013
+int Field_7_2_5_24287_014
+int Field_7_2_5_24287_015
+
+LAYOUT 5D8A83F5
+BUILD 7.2.5.24287
+$noninline,id$ID<32>
+Field_7_2_5_24287_000
+Field_7_2_5_24287_001
+Field_7_2_5_24287_002<32>[6]
+Field_7_2_5_24287_003<32>[6]
+Field_7_2_5_24287_004_lang
+Field_7_2_5_24287_005_lang
+Field_7_2_5_24287_006_lang
+Field_7_2_5_24287_007_lang
+Field_7_2_5_24287_008
+Field_7_2_5_24287_009
+Field_7_2_5_24287_010<u16>
+Field_7_2_5_24287_011<u16>
+Field_7_2_5_24287_012<u8>
+Field_7_2_5_24287_013<u8>
+Field_7_2_5_24287_014<u32>
+Field_7_2_5_24287_015<u32>

@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+locstring Field_7_3_5_26365_000_lang
+int Field_7_3_5_26365_001
+int Field_7_3_5_26365_002
+int Field_7_3_5_26365_003
+int Field_7_3_5_26365_004
+int Field_7_3_5_26365_005
+
+LAYOUT EA60E384
+BUILD 7.3.5.26365
+$noninline,id$ID<32>
+Field_7_3_5_26365_000_lang
+Field_7_3_5_26365_001<32>
+Field_7_3_5_26365_002<8>
+Field_7_3_5_26365_003<u8>
+Field_7_3_5_26365_004<8>
+Field_7_3_5_26365_005<32>

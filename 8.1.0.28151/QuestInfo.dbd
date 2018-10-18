@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+locstring ����_lang
+int ����
+int ����
+int ����
+
+LAYOUT DDB38B83
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����_lang
+����<8>
+����<u8>
+����<u16>

@@ -1,0 +1,12 @@
+COLUMNS
+locstring Field_7_3_0_24681_000_lang
+int Field_7_3_0_24681_001
+int Field_7_3_0_24681_002
+int Field_7_3_0_24681_003
+
+LAYOUT ED226BC9
+BUILD 7.3.0.24681
+Field_7_3_0_24681_000_lang
+Field_7_3_0_24681_001<16>
+Field_7_3_0_24681_002<8>
+$id$Field_7_3_0_24681_003<32>

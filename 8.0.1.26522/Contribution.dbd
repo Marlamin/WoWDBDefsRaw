@@ -1,0 +1,16 @@
+COLUMNS
+locstring Field_8_0_1_26522_000_lang
+locstring Field_8_0_1_26522_001_lang
+int Field_8_0_1_26522_002
+int Field_8_0_1_26522_003
+int Field_8_0_1_26522_004
+int Field_8_0_1_26522_005
+
+LAYOUT AE5BA348
+BUILD 8.0.1.26522
+Field_8_0_1_26522_000_lang
+Field_8_0_1_26522_001_lang
+$id$Field_8_0_1_26522_002<32>
+$relation$Field_8_0_1_26522_003<32>
+Field_8_0_1_26522_004<32>[4]
+Field_8_0_1_26522_005<32>

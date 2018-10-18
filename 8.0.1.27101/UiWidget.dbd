@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+string Field_8_0_1_27101_000
+int Field_8_0_1_27101_001
+int Field_8_0_1_27101_002
+int Field_8_0_1_27101_003
+int Field_8_0_1_27101_004
+int Field_8_0_1_27101_005
+
+LAYOUT C4C60F67
+BUILD 8.0.1.27101
+$noninline,id$ID<32>
+Field_8_0_1_27101_000
+Field_8_0_1_27101_001<u16>
+Field_8_0_1_27101_002<32>
+Field_8_0_1_27101_003<32>
+Field_8_0_1_27101_004<32>
+Field_8_0_1_27101_005<u32>

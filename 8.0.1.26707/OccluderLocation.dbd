@@ -1,0 +1,12 @@
+COLUMNS
+int Field_8_0_1_26707_000
+int Field_8_0_1_26707_001
+float Field_8_0_1_26707_002
+float Field_8_0_1_26707_003
+
+LAYOUT BA7B612A
+BUILD 8.0.1.26707
+$id$Field_8_0_1_26707_000<32>
+Field_8_0_1_26707_001<32>
+Field_8_0_1_26707_002[3]
+Field_8_0_1_26707_003[3]

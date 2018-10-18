@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_8_0_1_26838_000
+int Field_8_0_1_26838_001
+int Field_8_0_1_26838_002
+int Field_8_0_1_26838_003
+
+LAYOUT 65638FD5
+BUILD 8.0.1.26838
+$noninline,id$ID<32>
+Field_8_0_1_26838_000<u8>
+Field_8_0_1_26838_001<32>
+Field_8_0_1_26838_002<u8>
+Field_8_0_1_26838_003<u8>

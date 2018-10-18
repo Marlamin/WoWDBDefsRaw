@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+float ����
+int ����
+int ����
+
+LAYOUT FA003217
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����[2]
+����<u16>
+����<u8>

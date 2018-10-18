@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_7_3_5_25901_000_lang
+int Field_7_3_5_25901_001
+int Field_7_3_5_25901_002
+int Field_7_3_5_25901_003
+int Field_7_3_5_25901_004
+
+LAYOUT C5261662
+BUILD 7.3.5.25901
+Field_7_3_5_25901_000_lang
+$id$Field_7_3_5_25901_001<32>
+$relation$Field_7_3_5_25901_002<u16>
+Field_7_3_5_25901_003<16>[3]
+Field_7_3_5_25901_004<u8>

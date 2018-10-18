@@ -1,0 +1,8 @@
+COLUMNS
+int ID
+int ����
+
+LAYOUT 1A696886
+BUILD 8.1.0.28048
+$noninline,id$ID<32>
+����<u8>[8]

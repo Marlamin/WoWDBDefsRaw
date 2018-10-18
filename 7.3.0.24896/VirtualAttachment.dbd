@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+string Field_7_3_0_24896_000
+int Field_7_3_0_24896_001
+
+LAYOUT EC767C57
+BUILD 7.3.0.24896
+$noninline,id$ID<32>
+Field_7_3_0_24896_000
+Field_7_3_0_24896_001<16>

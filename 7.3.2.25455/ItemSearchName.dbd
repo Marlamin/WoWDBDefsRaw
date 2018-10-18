@@ -1,0 +1,24 @@
+COLUMNS
+int Field_7_3_2_25455_000
+locstring Field_7_3_2_25455_001_lang
+int Field_7_3_2_25455_002
+int Field_7_3_2_25455_003
+int Field_7_3_2_25455_004
+int Field_7_3_2_25455_005
+int Field_7_3_2_25455_006
+int Field_7_3_2_25455_007
+int Field_7_3_2_25455_008
+int Field_7_3_2_25455_009
+
+LAYOUT 4DB151B2
+BUILD 7.3.2.25455
+$id$Field_7_3_2_25455_000<32>
+Field_7_3_2_25455_001_lang
+Field_7_3_2_25455_002<32>[3]
+Field_7_3_2_25455_003<32>
+Field_7_3_2_25455_004<u16>
+Field_7_3_2_25455_005<u8>
+Field_7_3_2_25455_006<u8>
+Field_7_3_2_25455_007<8>
+Field_7_3_2_25455_008<32>
+$noninline,relation$Field_7_3_2_25455_009<u64>[33]

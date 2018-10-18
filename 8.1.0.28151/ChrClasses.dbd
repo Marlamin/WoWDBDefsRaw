@@ -1,0 +1,44 @@
+COLUMNS
+locstring ����_lang
+string ����
+locstring ����_lang
+locstring ����_lang
+string ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT 2CD115AC
+BUILD 8.1.0.28151
+����_lang
+����
+����_lang
+����_lang
+����
+$id$����<32>
+����<u32>
+����<u32>
+����<u32>
+����<u32>
+����<32>
+����<u16>
+����<u16>
+����<u16>
+����<u8>
+����<u8>
+����<u8>
+����<u8>
+����<u8>
+����<u8>

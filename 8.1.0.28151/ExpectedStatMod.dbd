@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+float ����
+
+LAYOUT EA56E599
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����
+����
+����
+����
+����
+����
+����
+����
+����

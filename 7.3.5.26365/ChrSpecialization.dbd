@@ -1,0 +1,30 @@
+COLUMNS
+locstring Field_7_3_5_26365_000_lang
+locstring Field_7_3_5_26365_001_lang
+locstring Field_7_3_5_26365_002_lang
+int Field_7_3_5_26365_003
+int Field_7_3_5_26365_004
+int Field_7_3_5_26365_005
+int Field_7_3_5_26365_006
+int Field_7_3_5_26365_007
+int Field_7_3_5_26365_008
+int Field_7_3_5_26365_009
+int Field_7_3_5_26365_010
+int Field_7_3_5_26365_011
+int Field_7_3_5_26365_012
+
+LAYOUT 3D86B8F7
+BUILD 7.3.5.26365
+Field_7_3_5_26365_000_lang
+Field_7_3_5_26365_001_lang
+Field_7_3_5_26365_002_lang
+Field_7_3_5_26365_003<32>[2]
+$relation$Field_7_3_5_26365_004<8>
+Field_7_3_5_26365_005<8>
+Field_7_3_5_26365_006<8>
+Field_7_3_5_26365_007<8>
+Field_7_3_5_26365_008<8>
+$id$Field_7_3_5_26365_009<32>
+Field_7_3_5_26365_010<32>
+Field_7_3_5_26365_011<u32>
+Field_7_3_5_26365_012<32>

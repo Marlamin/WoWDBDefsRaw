@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+string ����
+int ����
+int ����
+
+LAYOUT A2D4ADF5
+BUILD 8.1.0.27985
+$noninline,id$ID<32>
+����[6]
+����<u16>
+����<u8>[6]

@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_8_0_1_26926_000_lang
+int Field_8_0_1_26926_001
+int Field_8_0_1_26926_002
+int Field_8_0_1_26926_003
+int Field_8_0_1_26926_004
+
+LAYOUT 50F3ABC2
+BUILD 8.0.1.26926
+Field_8_0_1_26926_000_lang
+$id$Field_8_0_1_26926_001<32>
+$relation$Field_8_0_1_26926_002<u16>
+Field_8_0_1_26926_003<u8>
+Field_8_0_1_26926_004<16>[3]

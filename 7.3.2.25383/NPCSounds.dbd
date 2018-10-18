@@ -1,0 +1,8 @@
+COLUMNS
+int ID
+int Field_7_3_2_25383_000
+
+LAYOUT DCB396EF
+BUILD 7.3.2.25383
+$noninline,id$ID<32>
+Field_7_3_2_25383_000<u32>[4]

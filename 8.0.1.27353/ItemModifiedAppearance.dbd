@@ -1,0 +1,16 @@
+COLUMNS
+int Field_8_0_1_27353_000
+int Field_8_0_1_27353_001
+int Field_8_0_1_27353_002
+int Field_8_0_1_27353_003
+int Field_8_0_1_27353_004
+int Field_8_0_1_27353_005
+
+LAYOUT 9C32B7FF
+BUILD 8.0.1.27353
+$id$Field_8_0_1_27353_000<32>
+$relation$Field_8_0_1_27353_001<32>
+Field_8_0_1_27353_002<u8>
+Field_8_0_1_27353_003<u16>
+Field_8_0_1_27353_004<u8>
+Field_8_0_1_27353_005<8>

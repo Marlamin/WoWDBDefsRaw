@@ -1,0 +1,14 @@
+COLUMNS
+float Field_8_0_1_26476_000
+int Field_8_0_1_26476_001
+int Field_8_0_1_26476_002
+int Field_8_0_1_26476_003
+int Field_8_0_1_26476_004
+
+LAYOUT 85B1F26D
+BUILD 8.0.1.26476
+Field_8_0_1_26476_000[2]
+Field_8_0_1_26476_001<u16>
+Field_8_0_1_26476_002<u16>
+$relation$Field_8_0_1_26476_003<u8>
+$id$Field_8_0_1_26476_004<32>

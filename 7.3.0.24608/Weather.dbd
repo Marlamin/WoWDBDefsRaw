@@ -1,0 +1,34 @@
+COLUMNS
+int ID
+float Field_7_3_0_24608_000
+float Field_7_3_0_24608_001
+float Field_7_3_0_24608_002
+string Field_7_3_0_24608_003
+float Field_7_3_0_24608_004
+float Field_7_3_0_24608_005
+float Field_7_3_0_24608_006
+float Field_7_3_0_24608_007
+float Field_7_3_0_24608_008
+int Field_7_3_0_24608_009
+int Field_7_3_0_24608_010
+int Field_7_3_0_24608_011
+int Field_7_3_0_24608_012
+int Field_7_3_0_24608_013
+
+LAYOUT 3FBB66D8
+BUILD 7.3.0.24608
+$noninline,id$ID<32>
+Field_7_3_0_24608_000[2]
+Field_7_3_0_24608_001
+Field_7_3_0_24608_002[3]
+Field_7_3_0_24608_003
+Field_7_3_0_24608_004
+Field_7_3_0_24608_005
+Field_7_3_0_24608_006
+Field_7_3_0_24608_007
+Field_7_3_0_24608_008
+Field_7_3_0_24608_009<u16>
+Field_7_3_0_24608_010<u8>
+Field_7_3_0_24608_011<u8>
+Field_7_3_0_24608_012<u8>
+Field_7_3_0_24608_013<u32>

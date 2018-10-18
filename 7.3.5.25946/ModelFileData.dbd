@@ -1,0 +1,10 @@
+COLUMNS
+int Field_7_3_5_25946_000
+int Field_7_3_5_25946_001
+int Field_7_3_5_25946_002
+
+LAYOUT A395EB50
+BUILD 7.3.5.25946
+Field_7_3_5_25946_000<u8>
+$id$Field_7_3_5_25946_001<32>
+$relation$Field_7_3_5_25946_002<u32>

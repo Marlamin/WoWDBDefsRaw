@@ -1,0 +1,18 @@
+COLUMNS
+float Field_8_0_1_26310_000
+int Field_8_0_1_26310_001
+int Field_8_0_1_26310_002
+int Field_8_0_1_26310_003
+int Field_8_0_1_26310_004
+int Field_8_0_1_26310_005
+int Field_8_0_1_26310_006
+
+LAYOUT D6C0A3FC
+BUILD 8.0.1.26310
+Field_8_0_1_26310_000[2]
+$relation$Field_8_0_1_26310_001<u8>
+Field_8_0_1_26310_002<u8>
+Field_8_0_1_26310_003<u8>
+Field_8_0_1_26310_004<u8>
+$id$Field_8_0_1_26310_005<32>
+Field_8_0_1_26310_006<32>

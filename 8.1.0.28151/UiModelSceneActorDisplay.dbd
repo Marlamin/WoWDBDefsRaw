@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+int ����
+int ����
+int ����
+int ����
+float ����
+float ����
+float ����
+
+LAYOUT DD1DD903
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����<u32>
+����<u32>
+����<u32>
+����<u32>
+����
+����
+����

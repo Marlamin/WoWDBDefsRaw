@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_7_3_5_25875_000
+int Field_7_3_5_25875_001
+int Field_7_3_5_25875_002
+int Field_7_3_5_25875_003
+
+LAYOUT 787A715F
+BUILD 7.3.5.25875
+$noninline,id$ID<32>
+$relation$Field_7_3_5_25875_000<u16>
+Field_7_3_5_25875_001<u16>
+Field_7_3_5_25875_002<u16>
+Field_7_3_5_25875_003<u8>

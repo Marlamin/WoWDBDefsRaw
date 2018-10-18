@@ -1,0 +1,30 @@
+COLUMNS
+locstring ����_lang
+locstring ����_lang
+locstring ����_lang
+locstring ����_lang
+string ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT EC83FE8A
+BUILD 8.1.0.28151
+����_lang
+����_lang
+����_lang
+����_lang
+����
+$id$����<32>
+����<8>
+����<32>
+����<8>
+����<u32>
+����<32>
+����<u16>
+����<32>

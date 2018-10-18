@@ -1,0 +1,26 @@
+COLUMNS
+int ID
+int Field_7_3_0_24852_000
+int Field_7_3_0_24852_001
+locstring Field_7_3_0_24852_002_lang
+int Field_7_3_0_24852_003
+int Field_7_3_0_24852_004
+int Field_7_3_0_24852_005
+int Field_7_3_0_24852_006
+int Field_7_3_0_24852_007
+int Field_7_3_0_24852_008
+int Field_7_3_0_24852_009
+
+LAYOUT D3A8CFAC
+BUILD 7.3.0.24852
+$noninline,id$ID<32>
+Field_7_3_0_24852_000<32>
+Field_7_3_0_24852_001<32>
+Field_7_3_0_24852_002_lang
+Field_7_3_0_24852_003<32>
+Field_7_3_0_24852_004<32>
+Field_7_3_0_24852_005<32>
+Field_7_3_0_24852_006<32>
+Field_7_3_0_24852_007<32>
+Field_7_3_0_24852_008<32>
+Field_7_3_0_24852_009<32>

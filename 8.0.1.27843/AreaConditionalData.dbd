@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_8_0_1_27843_000_lang
+int Field_8_0_1_27843_001
+int Field_8_0_1_27843_002
+int Field_8_0_1_27843_003
+int Field_8_0_1_27843_004
+
+LAYOUT BE8C656A
+BUILD 8.0.1.27843
+Field_8_0_1_27843_000_lang
+$id$Field_8_0_1_27843_001<32>
+Field_8_0_1_27843_002<32>
+Field_8_0_1_27843_003<32>
+$noninline,relation$Field_8_0_1_27843_004<32>

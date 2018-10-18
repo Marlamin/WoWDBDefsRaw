@@ -1,0 +1,20 @@
+COLUMNS
+locstring ����_lang
+locstring ����_lang
+int ����
+int ����
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT 71CE658D
+BUILD 8.1.0.28151
+����_lang
+����_lang
+$id$����<32>
+$relation$����<u16>
+����<u32>
+����<u32>
+����<u8>
+����<u32>

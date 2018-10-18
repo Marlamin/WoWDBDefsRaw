@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int ����
+float ����
+float ����
+int ����
+
+LAYOUT D7028AD6
+BUILD 8.1.0.27826
+$noninline,id$ID<32>
+����<32>
+����
+����
+����<32>

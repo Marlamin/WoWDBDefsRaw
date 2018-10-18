@@ -1,0 +1,34 @@
+COLUMNS
+int ID
+locstring Field_8_0_1_27219_000_lang
+locstring Field_8_0_1_27219_001_lang
+int Field_8_0_1_27219_002
+int Field_8_0_1_27219_003
+int Field_8_0_1_27219_004
+int Field_8_0_1_27219_005
+int Field_8_0_1_27219_006
+int Field_8_0_1_27219_007
+int Field_8_0_1_27219_008
+int Field_8_0_1_27219_009
+int Field_8_0_1_27219_010
+int Field_8_0_1_27219_011
+int Field_8_0_1_27219_012
+int Field_8_0_1_27219_013
+
+LAYOUT EC40E4B1
+BUILD 8.0.1.27219
+$noninline,id$ID<32>
+Field_8_0_1_27219_000_lang
+Field_8_0_1_27219_001_lang
+Field_8_0_1_27219_002<u8>
+Field_8_0_1_27219_003<8>
+Field_8_0_1_27219_004<u8>
+Field_8_0_1_27219_005<u8>
+Field_8_0_1_27219_006<u8>
+Field_8_0_1_27219_007<u32>
+Field_8_0_1_27219_008<u16>
+Field_8_0_1_27219_009<u16>
+Field_8_0_1_27219_010<u8>
+Field_8_0_1_27219_011<u16>
+Field_8_0_1_27219_012<u8>
+Field_8_0_1_27219_013<u8>

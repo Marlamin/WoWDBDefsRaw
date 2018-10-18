@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int ����
+int ����
+int ����
+float ����
+float ����
+
+LAYOUT CDF5DDF1
+BUILD 8.1.0.28151
+$noninline,id$ID<32>
+����<u16>
+����<u8>
+����<u16>
+����[10]
+����[10]

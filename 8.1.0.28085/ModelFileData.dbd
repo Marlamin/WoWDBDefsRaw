@@ -1,0 +1,12 @@
+COLUMNS
+int ����
+int ����
+int ����
+int ����
+
+LAYOUT 9C9B4543
+BUILD 8.1.0.28085
+$id$����<32>
+����<u8>
+����<u8>
+$relation$����<u32>

@@ -1,0 +1,22 @@
+COLUMNS
+int ID
+float Field_8_0_1_26297_000
+int Field_8_0_1_26297_001
+int Field_8_0_1_26297_002
+int Field_8_0_1_26297_003
+int Field_8_0_1_26297_004
+int Field_8_0_1_26297_005
+int Field_8_0_1_26297_006
+int Field_8_0_1_26297_007
+
+LAYOUT CB40214C
+BUILD 8.0.1.26297
+$noninline,id$ID<32>
+Field_8_0_1_26297_000
+Field_8_0_1_26297_001<u8>
+Field_8_0_1_26297_002<u32>
+Field_8_0_1_26297_003<u32>
+Field_8_0_1_26297_004<u32>
+Field_8_0_1_26297_005<u32>
+Field_8_0_1_26297_006<u32>
+Field_8_0_1_26297_007<u32>
