@@ -1,28 +1,28 @@
 COLUMNS
 int ID
-float Field_8_1_0_27826_000
-float Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
+float paramA
+float paramB
+int curveID
+int srcValType
+int srcVal
+int dstValType
+int dstVal
+int entryType
+int style
+int srcType
+int dstType
 
 LAYOUT BA9A19C4
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000
-Field_8_1_0_27826_001
-Field_8_1_0_27826_002<u32>
-Field_8_1_0_27826_003<16>
-Field_8_1_0_27826_004<16>
-Field_8_1_0_27826_005<16>
-Field_8_1_0_27826_006<16>
-Field_8_1_0_27826_007<8>
-Field_8_1_0_27826_008<8>
-Field_8_1_0_27826_009<8>
-Field_8_1_0_27826_010<8>
+paramA
+paramB
+curveID<u32>
+srcValType<16>
+srcVal<16>
+dstValType<16>
+dstVal<16>
+entryType<8>
+style<8>
+srcType<8>
+dstType<8>

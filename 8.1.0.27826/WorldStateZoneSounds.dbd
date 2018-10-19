@@ -1,22 +1,22 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
+int worldStateID
+int worldStateValue
+int areaID
+int wmoAreaID
+int zoneIntroMusicID
+int zoneMusicID
+int soundAmbienceID
+int soundProviderPreferencesID
 
 LAYOUT 44CFA417
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u16>
-Field_8_1_0_27826_001<u16>
-Field_8_1_0_27826_002<u16>
-Field_8_1_0_27826_003<u32>
-Field_8_1_0_27826_004<u16>
-Field_8_1_0_27826_005<u16>
-Field_8_1_0_27826_006<u16>
-Field_8_1_0_27826_007<u8>
+worldStateID<u16>
+worldStateValue<u16>
+areaID<u16>
+wmoAreaID<u32>
+zoneIntroMusicID<u16>
+zoneMusicID<u16>
+soundAmbienceID<u16>
+soundProviderPreferencesID<u8>

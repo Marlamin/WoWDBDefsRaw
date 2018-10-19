@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int ����
-int ����
-int ����
-int ����
-int ����
+int itemUpgradePathID
+int itemLevelIncrement
+int prerequisiteID
+int currencyType
+int currencyAmount
 
 LAYOUT 706FA369
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<u8>
-����<u8>
-����<u16>
-����<u16>
-����<u32>
+itemUpgradePathID<u8>
+itemLevelIncrement<u8>
+prerequisiteID<u16>
+currencyType<u16>
+currencyAmount<u32>

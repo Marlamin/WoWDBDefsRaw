@@ -1,24 +1,24 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-string Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
+int raceMask
+string emoteSlashCommand
+int animID
+int emoteFlags
+int emoteSpecProc
+int emoteSpecProcParam
+int eventSoundID
+int spellVisualKitID
+int classMask
 
 LAYOUT A909E182
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<64>
-Field_8_1_0_27826_001
-Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<u32>
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<u32>
-Field_8_1_0_27826_006<u32>
-Field_8_1_0_27826_007<u32>
-Field_8_1_0_27826_008<32>
+raceMask<64>
+emoteSlashCommand
+animID<32>
+emoteFlags<u32>
+emoteSpecProc<u8>
+emoteSpecProcParam<u32>
+eventSoundID<u32>
+spellVisualKitID<u32>
+classMask<32>

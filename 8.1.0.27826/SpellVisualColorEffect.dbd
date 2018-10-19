@@ -1,28 +1,28 @@
 COLUMNS
 int ID
-float Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-float Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
+float duration
+int color
+int flags
+int type
+int redCurveID
+int greenCurveID
+int blueCurveID
+int alphaCurveID
+int opacityCurveID
+float colorMultiplier
+int positionerID
 
 LAYOUT 773CE0DE
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000
-Field_8_1_0_27826_001<32>
-Field_8_1_0_27826_002<u8>
-Field_8_1_0_27826_003<u8>
-Field_8_1_0_27826_004<u16>
-Field_8_1_0_27826_005<u16>
-Field_8_1_0_27826_006<u16>
-Field_8_1_0_27826_007<u16>
-Field_8_1_0_27826_008<u16>
-Field_8_1_0_27826_009
-Field_8_1_0_27826_010<u32>
+duration
+color<32>
+flags<u8>
+type<u8>
+redCurveID<u16>
+greenCurveID<u16>
+blueCurveID<u16>
+alphaCurveID<u16>
+opacityCurveID<u16>
+colorMultiplier
+positionerID<u32>

@@ -1,50 +1,50 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-float Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-float Field_8_1_0_27826_007
-float Field_8_1_0_27826_008
-float Field_8_1_0_27826_009
-float Field_8_1_0_27826_010
-float Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-float Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-float Field_8_1_0_27826_015
-float Field_8_1_0_27826_016
-float Field_8_1_0_27826_017
-int Field_8_1_0_27826_018
-int Field_8_1_0_27826_019
-float Field_8_1_0_27826_020
-float Field_8_1_0_27826_021
+int type
+float transitionSkyBox
+int ambienceID
+int soundAmbienceID
+int effectType
+int effectTextureFileDataID
+int windSettingsID
+float scale
+float volatility
+float twinkleIntensity
+float fallModifier
+float rotationalSpeed
+int particulateFileDataID
+float volumeEdgeFadeStart
+int overrideColor
+float overrideColorIntensity
+float overrideCount
+float overrideOpacity
+int volumeFlags
+int lightningID
+float intensity
+float effectColor
 
 LAYOUT 784E91E0
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u8>
-Field_8_1_0_27826_001
-Field_8_1_0_27826_002<u32>
-Field_8_1_0_27826_003<u16>
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<32>
-Field_8_1_0_27826_006<u8>
-Field_8_1_0_27826_007
-Field_8_1_0_27826_008
-Field_8_1_0_27826_009
-Field_8_1_0_27826_010
-Field_8_1_0_27826_011
-Field_8_1_0_27826_012<32>
-Field_8_1_0_27826_013
-Field_8_1_0_27826_014<32>
-Field_8_1_0_27826_015
-Field_8_1_0_27826_016
-Field_8_1_0_27826_017
-Field_8_1_0_27826_018<32>
-Field_8_1_0_27826_019<32>
-Field_8_1_0_27826_020[2]
-Field_8_1_0_27826_021[3]
+type<u8>
+transitionSkyBox
+ambienceID<u32>
+soundAmbienceID<u16>
+effectType<u8>
+effectTextureFileDataID<32>
+windSettingsID<u8>
+scale
+volatility
+twinkleIntensity
+fallModifier
+rotationalSpeed
+particulateFileDataID<32>
+volumeEdgeFadeStart
+overrideColor<32>
+overrideColorIntensity
+overrideCount
+overrideOpacity
+volumeFlags<32>
+lightningID<32>
+intensity[2]
+effectColor[3]

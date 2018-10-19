@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+locstring areaName_lang
+float loc
+int continent
+float facing
+
+LAYOUT 6BF0D7EC
+BUILD 8.1.0.27826
+$noninline,id$ID<32>
+areaName_lang
+loc[3]
+continent<u16>
+facing

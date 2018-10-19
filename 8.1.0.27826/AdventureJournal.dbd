@@ -1,50 +1,50 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-locstring Field_8_1_0_27826_001_lang
-locstring Field_8_1_0_27826_002_lang
-locstring Field_8_1_0_27826_003_lang
-locstring Field_8_1_0_27826_004_lang
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-int Field_8_1_0_27826_015
-int Field_8_1_0_27826_016
-int Field_8_1_0_27826_017
-int Field_8_1_0_27826_018
-int Field_8_1_0_27826_019
-int Field_8_1_0_27826_020
-int Field_8_1_0_27826_021
+locstring name_lang
+locstring description_lang
+locstring buttonText_lang
+locstring rewardDescription_lang
+locstring continueDescription_lang
+int type
+int playerConditionID
+int flags
+int buttonActionType
+int textureFileDataID
+int lfgDungeonID
+int questID
+int battleMasterListID
+int priorityMin
+int priorityMax
+int itemId
+int itemQuantity
+int currencyType
+int currencyQuantity
+int uiMapID
+int bonusPlayerConditionID
+int bonusValue
 
 LAYOUT 9D620FC8
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001_lang
-Field_8_1_0_27826_002_lang
-Field_8_1_0_27826_003_lang
-Field_8_1_0_27826_004_lang
-Field_8_1_0_27826_005<u8>
-Field_8_1_0_27826_006<u32>
-Field_8_1_0_27826_007<u8>
-Field_8_1_0_27826_008<u8>
-Field_8_1_0_27826_009<32>
-Field_8_1_0_27826_010<u16>
-Field_8_1_0_27826_011<u16>
-Field_8_1_0_27826_012<u16>
-Field_8_1_0_27826_013<u8>
-Field_8_1_0_27826_014<u8>
-Field_8_1_0_27826_015<32>
-Field_8_1_0_27826_016<u32>
-Field_8_1_0_27826_017<u16>
-Field_8_1_0_27826_018<u8>
-Field_8_1_0_27826_019<u16>
-Field_8_1_0_27826_020<u32>[2]
-Field_8_1_0_27826_021<u8>[2]
+name_lang
+description_lang
+buttonText_lang
+rewardDescription_lang
+continueDescription_lang
+type<u8>
+playerConditionID<u32>
+flags<u8>
+buttonActionType<u8>
+textureFileDataID<32>
+lfgDungeonID<u16>
+questID<u16>
+battleMasterListID<u16>
+priorityMin<u8>
+priorityMax<u8>
+itemId<32>
+itemQuantity<u32>
+currencyType<u16>
+currencyQuantity<u8>
+uiMapID<u16>
+bonusPlayerConditionID<u32>[2]
+bonusValue<u8>[2]

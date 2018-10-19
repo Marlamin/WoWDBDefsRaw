@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
+locstring name_lang
+int mapID
+int questPoiBlobID
+int areaPOIIconEnum
 
 LAYOUT 14F7693B
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001<16>
-Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<u32>
+name_lang
+mapID<16>
+questPoiBlobID<32>
+areaPOIIconEnum<u32>

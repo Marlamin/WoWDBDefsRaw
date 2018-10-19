@@ -1,22 +1,22 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-locstring Field_8_1_0_27826_001_lang
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
+locstring containerName_lang
+locstring containerDescription_lang
+int minAmount
+int maxAmount
+int containerIconID
+int containerQuality
+int onLootSpellVisualKitID
+int currencyTypeID
 
 LAYOUT AC6030BF
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001_lang
-Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<32>
-Field_8_1_0_27826_004<32>
-Field_8_1_0_27826_005<32>
-Field_8_1_0_27826_006<32>
-$noninline,relation$Field_8_1_0_27826_007<32>
+containerName_lang
+containerDescription_lang
+minAmount<32>
+maxAmount<32>
+containerIconID<32>
+containerQuality<32>
+onLootSpellVisualKitID<32>
+$noninline,relation$currencyTypeID<32>

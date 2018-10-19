@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-float Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
+float quality
+int itemLevel
 
 LAYOUT C88C8C8D
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000[7]
-Field_8_1_0_27826_001<u16>
+quality[7]
+itemLevel<u16>

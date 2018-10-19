@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
+int phaseID
+int phaseGroupID
 
 LAYOUT F00195AE
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u16>
-$noninline,relation$Field_8_1_0_27826_001<u16>
+phaseID<u16>
+$noninline,relation$phaseGroupID<u16>

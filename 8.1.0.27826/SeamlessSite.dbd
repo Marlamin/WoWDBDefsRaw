@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-int ����
+int mapID
 
 LAYOUT 9E36592F
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-$relation$����<32>
+$relation$mapID<32>

@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+int difficultyID
+int baseLevel
+int maxLevel
+int spellLevel
+int maxPassiveAuraLevel
+int spellID
 
 LAYOUT E3096221
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<u8>
-����<16>
-����<16>
-����<16>
-����<u8>
-$noninline,relation$����<32>
+difficultyID<u8>
+baseLevel<16>
+maxLevel<16>
+spellLevel<16>
+maxPassiveAuraLevel<u8>
+$noninline,relation$spellID<32>

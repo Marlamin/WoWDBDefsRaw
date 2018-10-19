@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
+int ZoneIntroMusicID
+int ZoneMusicID
+int SoundAmbienceID
+int SoundProviderPreferencesID
+int flags
 
 LAYOUT 4EC15243
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u16>
-Field_8_1_0_27826_001<u16>
-Field_8_1_0_27826_002<u16>
-Field_8_1_0_27826_003<u8>
-Field_8_1_0_27826_004<u8>
+ZoneIntroMusicID<u16>
+ZoneMusicID<u16>
+SoundAmbienceID<u16>
+SoundProviderPreferencesID<u8>
+flags<u8>

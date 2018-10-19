@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
+int boneDataID
+int animKitBoneSetID
 
 LAYOUT B307E8FC
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u8>
-Field_8_1_0_27826_001<u8>
+boneDataID<u8>
+animKitBoneSetID<u8>

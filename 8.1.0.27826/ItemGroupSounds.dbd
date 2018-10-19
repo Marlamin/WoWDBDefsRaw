@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
+int sound
 
 LAYOUT 909375D2
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u32>[4]
+sound<u32>[4]

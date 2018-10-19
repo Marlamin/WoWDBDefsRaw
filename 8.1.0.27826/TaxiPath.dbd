@@ -1,12 +1,12 @@
 COLUMNS
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
+int ID
+int fromTaxiNode
+int toTaxiNode
+int cost
 
 LAYOUT 3716BBCD
 BUILD 8.1.0.27826
-$id$Field_8_1_0_27826_000<32>
-$relation$Field_8_1_0_27826_001<u16>
-Field_8_1_0_27826_002<u16>
-Field_8_1_0_27826_003<u32>
+$id$ID<32>
+$relation$fromTaxiNode<u16>
+toTaxiNode<u16>
+cost<u32>

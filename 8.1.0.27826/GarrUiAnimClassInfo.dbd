@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-float Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
+int garrClassSpecID
+int movementType
+float impactDelaySecs
+int castKit
+int impactKit
+int targetImpactKit
 
 LAYOUT F6444415
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u8>
-Field_8_1_0_27826_001<u8>
-Field_8_1_0_27826_002
-Field_8_1_0_27826_003<u32>
-Field_8_1_0_27826_004<u32>
-Field_8_1_0_27826_005<u32>
+garrClassSpecID<u8>
+movementType<u8>
+impactDelaySecs
+castKit<u32>
+impactKit<u32>
+targetImpactKit<u32>

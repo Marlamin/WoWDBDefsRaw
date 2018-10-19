@@ -1,52 +1,52 @@
 COLUMNS
 int ID
-string Field_8_1_0_27826_000
-locstring Field_8_1_0_27826_001_lang
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-float Field_8_1_0_27826_015
-int Field_8_1_0_27826_016
-int Field_8_1_0_27826_017
-int Field_8_1_0_27826_018
-int Field_8_1_0_27826_019
-int Field_8_1_0_27826_020
-int Field_8_1_0_27826_021
-int Field_8_1_0_27826_022
+string zoneName
+locstring areaName_lang
+int continentID
+int parentAreaID
+int areaBit
+int soundProviderPref
+int soundProviderPrefUnderwater
+int ambienceID
+int uwAmbience
+int zoneMusic
+int uwZoneMusic
+int explorationLevel
+int introSound
+int uwIntroSound
+int factionGroupMask
+float ambient_multiplier
+int mountFlags
+int pvpCombatWorldStateID
+int wildBattlePetLevelMin
+int wildBattlePetLevelMax
+int windSettingsID
+int flags
+int liquidTypeID
 
 LAYOUT 22229BE7
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000
-Field_8_1_0_27826_001_lang
-Field_8_1_0_27826_002<u16>
-Field_8_1_0_27826_003<u16>
-Field_8_1_0_27826_004<16>
-Field_8_1_0_27826_005<u8>
-Field_8_1_0_27826_006<u8>
-Field_8_1_0_27826_007<u16>
-Field_8_1_0_27826_008<u16>
-Field_8_1_0_27826_009<u16>
-Field_8_1_0_27826_010<u16>
-Field_8_1_0_27826_011<8>
-Field_8_1_0_27826_012<u16>
-Field_8_1_0_27826_013<u32>
-Field_8_1_0_27826_014<u8>
-Field_8_1_0_27826_015
-Field_8_1_0_27826_016<u8>
-Field_8_1_0_27826_017<16>
-Field_8_1_0_27826_018<u8>
-Field_8_1_0_27826_019<u8>
-Field_8_1_0_27826_020<u8>
-Field_8_1_0_27826_021<32>[2]
-Field_8_1_0_27826_022<u16>[4]
+zoneName
+areaName_lang
+continentID<u16>
+parentAreaID<u16>
+areaBit<16>
+soundProviderPref<u8>
+soundProviderPrefUnderwater<u8>
+ambienceID<u16>
+uwAmbience<u16>
+zoneMusic<u16>
+uwZoneMusic<u16>
+explorationLevel<8>
+introSound<u16>
+uwIntroSound<u32>
+factionGroupMask<u8>
+ambient_multiplier
+mountFlags<u8>
+pvpCombatWorldStateID<16>
+wildBattlePetLevelMin<u8>
+wildBattlePetLevelMax<u8>
+windSettingsID<u8>
+flags<32>[2]
+liquidTypeID<u16>[4]

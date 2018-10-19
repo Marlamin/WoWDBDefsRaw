@@ -1,22 +1,22 @@
 COLUMNS
 int ID
-locstring ����_lang
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+locstring name_lang
+int descendRating
+int ascendRating
+int descendTier
+int ascendTier
+int pvpBracketEnum
+int pvpTierEnum
+int tierIconID
 
 LAYOUT 689983C8
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����_lang
-����<16>
-����<16>
-����<32>
-����<32>
-$relation$����<8>
-����<8>
-����<32>
+name_lang
+descendRating<16>
+ascendRating<16>
+descendTier<32>
+ascendTier<32>
+$relation$pvpBracketEnum<8>
+pvpTierEnum<8>
+tierIconID<32>

@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-float ����
+float data
 
 LAYOUT CFF4EEC9
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����
+data

@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
+int spellID
+int orderIndex
+int chrSpecializationID
 
 LAYOUT 09F57B9C
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<32>
-Field_8_1_0_27826_001<32>
-$noninline,relation$Field_8_1_0_27826_002<32>
+spellID<32>
+orderIndex<32>
+$noninline,relation$chrSpecializationID<32>

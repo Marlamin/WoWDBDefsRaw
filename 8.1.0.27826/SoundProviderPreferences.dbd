@@ -1,52 +1,52 @@
 COLUMNS
 int ID
-string Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-float Field_8_1_0_27826_002
-float Field_8_1_0_27826_003
-float Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-float Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-float Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-float Field_8_1_0_27826_011
-float Field_8_1_0_27826_012
-float Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-float Field_8_1_0_27826_015
-float Field_8_1_0_27826_016
-float Field_8_1_0_27826_017
-float Field_8_1_0_27826_018
-float Field_8_1_0_27826_019
-float Field_8_1_0_27826_020
-float Field_8_1_0_27826_021
-int Field_8_1_0_27826_022
+string Description
+int EAXEnvironmentSelection
+float EAXDecayTime
+float EAX2EnvironmentSize
+float EAX2EnvironmentDiffusion
+int EAX2Room
+int EAX2RoomHF
+float EAX2DecayHFRatio
+int EAX2Reflections
+float EAX2ReflectionsDelay
+int EAX2Reverb
+float EAX2ReverbDelay
+float EAX2RoomRolloff
+float EAX2AirAbsorption
+int EAX3RoomLF
+float EAX3DecayLFRatio
+float EAX3EchoTime
+float EAX3EchoDepth
+float EAX3ModulationTime
+float EAX3ModulationDepth
+float EAX3HFReference
+float EAX3LFReference
+int Flags
 
 LAYOUT F0F42A22
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000
-Field_8_1_0_27826_001<8>
-Field_8_1_0_27826_002
-Field_8_1_0_27826_003
-Field_8_1_0_27826_004
-Field_8_1_0_27826_005<16>
-Field_8_1_0_27826_006<16>
-Field_8_1_0_27826_007
-Field_8_1_0_27826_008<16>
-Field_8_1_0_27826_009
-Field_8_1_0_27826_010<16>
-Field_8_1_0_27826_011
-Field_8_1_0_27826_012
-Field_8_1_0_27826_013
-Field_8_1_0_27826_014<8>
-Field_8_1_0_27826_015
-Field_8_1_0_27826_016
-Field_8_1_0_27826_017
-Field_8_1_0_27826_018
-Field_8_1_0_27826_019
-Field_8_1_0_27826_020
-Field_8_1_0_27826_021
-Field_8_1_0_27826_022<u16>
+Description
+EAXEnvironmentSelection<8>
+EAXDecayTime
+EAX2EnvironmentSize
+EAX2EnvironmentDiffusion
+EAX2Room<16>
+EAX2RoomHF<16>
+EAX2DecayHFRatio
+EAX2Reflections<16>
+EAX2ReflectionsDelay
+EAX2Reverb<16>
+EAX2ReverbDelay
+EAX2RoomRolloff
+EAX2AirAbsorption
+EAX3RoomLF<8>
+EAX3DecayLFRatio
+EAX3EchoTime
+EAX3EchoDepth
+EAX3ModulationTime
+EAX3ModulationDepth
+EAX3HFReference
+EAX3LFReference
+Flags<u16>

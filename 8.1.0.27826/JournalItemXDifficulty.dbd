@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int ����
-int ����
+int difficultyID
+int journalEncounterItemID
 
 LAYOUT F938F4BD
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<u8>
-$noninline,relation$����<u16>
+difficultyID<u8>
+$noninline,relation$journalEncounterItemID<u16>

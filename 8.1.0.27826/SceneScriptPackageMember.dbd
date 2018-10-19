@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int ����
-int ����
-int ����
-int ����
+int sceneScriptPackageID
+int sceneScriptID
+int childSceneScriptPackageID
+int orderIndex
 
 LAYOUT 9E18D06F
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-$relation$����<u16>
-����<u16>
-����<u16>
-����<u8>
+$relation$sceneScriptPackageID<u16>
+sceneScriptID<u16>
+childSceneScriptPackageID<u16>
+orderIndex<u8>

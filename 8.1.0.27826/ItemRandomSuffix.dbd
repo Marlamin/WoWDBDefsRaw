@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
+locstring name_lang
+int enchantment
+int allocationPct
 
 LAYOUT ABCC4871
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001<u16>[5]
-Field_8_1_0_27826_002<u16>[5]
+name_lang
+enchantment<u16>[5]
+allocationPct<u16>[5]

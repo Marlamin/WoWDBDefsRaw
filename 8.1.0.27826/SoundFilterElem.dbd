@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-float ����
-int ����
-int ����
+float params
+int filterType
+int soundFilterID
 
 LAYOUT 84F8D205
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����[9]
-����<8>
-$noninline,relation$����<8>
+params[9]
+filterType<8>
+$noninline,relation$soundFilterID<8>

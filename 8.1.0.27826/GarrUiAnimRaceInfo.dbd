@@ -1,32 +1,32 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-float Field_8_1_0_27826_001
-float Field_8_1_0_27826_002
-float Field_8_1_0_27826_003
-float Field_8_1_0_27826_004
-float Field_8_1_0_27826_005
-float Field_8_1_0_27826_006
-float Field_8_1_0_27826_007
-float Field_8_1_0_27826_008
-float Field_8_1_0_27826_009
-float Field_8_1_0_27826_010
-float Field_8_1_0_27826_011
-float Field_8_1_0_27826_012
+int garrFollRaceID
+float maleScale
+float maleHeight
+float femaleScale
+float femaleHeight
+float maleSingleModelScale
+float maleSingleModelHeight
+float femaleSingleModelScale
+float femaleSingleModelHeight
+float maleFollowerPageScale
+float maleFollowerPageHeight
+float femaleFollowerPageScale
+float femaleFollowerPageHeight
 
 LAYOUT 62B1D302
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u8>
-Field_8_1_0_27826_001
-Field_8_1_0_27826_002
-Field_8_1_0_27826_003
-Field_8_1_0_27826_004
-Field_8_1_0_27826_005
-Field_8_1_0_27826_006
-Field_8_1_0_27826_007
-Field_8_1_0_27826_008
-Field_8_1_0_27826_009
-Field_8_1_0_27826_010
-Field_8_1_0_27826_011
-Field_8_1_0_27826_012
+garrFollRaceID<u8>
+maleScale
+maleHeight
+femaleScale
+femaleHeight
+maleSingleModelScale
+maleSingleModelHeight
+femaleSingleModelScale
+femaleSingleModelHeight
+maleFollowerPageScale
+maleFollowerPageHeight
+femaleFollowerPageScale
+femaleFollowerPageHeight

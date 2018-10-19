@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
+int key
 
 LAYOUT 67DDA82E
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u8>[32]
+key<u8>[32]

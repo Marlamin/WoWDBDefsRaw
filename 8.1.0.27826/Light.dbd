@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-float Field_8_1_0_27826_000
-float Field_8_1_0_27826_001
-float Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
+float gameCoords
+float gameFalloffStart
+float gameFalloffEnd
+int continentID
+int lightParamsID
 
 LAYOUT 04052B1F
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000[3]
-Field_8_1_0_27826_001
-Field_8_1_0_27826_002
-Field_8_1_0_27826_003<16>
-Field_8_1_0_27826_004<u16>[8]
+gameCoords[3]
+gameFalloffStart
+gameFalloffEnd
+continentID<16>
+lightParamsID<u16>[8]

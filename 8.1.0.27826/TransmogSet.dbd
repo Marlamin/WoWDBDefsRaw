@@ -1,24 +1,24 @@
 COLUMNS
-locstring Field_8_1_0_27826_000_lang
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
+locstring name_lang
+int ID
+int classMask
+int trackingQuestID
+int flags
+int transmogSetGroupID
+int itemNameDescriptionID
+int parentTransmogSetID
+int expansionID
+int uiOrder
 
 LAYOUT 3F0E4AEF
 BUILD 8.1.0.27826
-Field_8_1_0_27826_000_lang
-$id$Field_8_1_0_27826_001<u32>
-Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<u32>
-Field_8_1_0_27826_004<32>
-Field_8_1_0_27826_005<u32>
-Field_8_1_0_27826_006<32>
-$relation$Field_8_1_0_27826_007<u16>
-Field_8_1_0_27826_008<u8>
-Field_8_1_0_27826_009<16>
+name_lang
+$id$ID<u32>
+classMask<32>
+trackingQuestID<u32>
+flags<32>
+transmogSetGroupID<u32>
+itemNameDescriptionID<32>
+$relation$parentTransmogSetID<u16>
+expansionID<u8>
+uiOrder<16>

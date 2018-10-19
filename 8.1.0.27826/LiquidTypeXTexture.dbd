@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int ����
-int ����
-int ����
+int fileDataID
+int orderIndex
+int liquidTypeID
 
 LAYOUT 7DADCCB8
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<32>
-����<32>
-$noninline,relation$����<32>
+fileDataID<32>
+orderIndex<32>
+$noninline,relation$liquidTypeID<32>

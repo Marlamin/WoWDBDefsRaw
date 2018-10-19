@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
+int flags
+int variable
+int op
+int value
 
 LAYOUT 215CBCD2
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u8>
-Field_8_1_0_27826_001<u8>[8]
-Field_8_1_0_27826_002<8>[8]
-Field_8_1_0_27826_003<32>[8]
+flags<u8>
+variable<u8>[8]
+op<8>[8]
+value<32>[8]

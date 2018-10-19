@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
+int worldEffectID
+int criteriaTreeID
 
 LAYOUT 80C700F5
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<16>
-$noninline,relation$Field_8_1_0_27826_001<32>
+worldEffectID<16>
+$noninline,relation$criteriaTreeID<32>

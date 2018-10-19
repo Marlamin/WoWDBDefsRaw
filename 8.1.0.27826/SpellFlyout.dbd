@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-int ����
-locstring ����_lang
-locstring ����_lang
-int ����
-int ����
-int ����
+int raceMask
+locstring name_lang
+locstring description_lang
+int flags
+int classMask
+int spellIconFileID
 
 LAYOUT 1F516F53
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<64>
-����_lang
-����_lang
-����<u8>
-����<32>
-����<32>
+raceMask<64>
+name_lang
+description_lang
+flags<u8>
+classMask<32>
+spellIconFileID<32>

@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
+int classID
+int sexID
+int outfitID
+int petDisplayID
+int petFamilyID
+int itemID
+int raceID
 
 LAYOUT 0F59DD96
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u8>
-Field_8_1_0_27826_001<u8>
-Field_8_1_0_27826_002<u8>
-Field_8_1_0_27826_003<u32>
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<32>[24]
-$noninline,relation$Field_8_1_0_27826_006<u8>
+classID<u8>
+sexID<u8>
+outfitID<u8>
+petDisplayID<u32>
+petFamilyID<u8>
+itemID<32>[24]
+$noninline,relation$raceID<u8>

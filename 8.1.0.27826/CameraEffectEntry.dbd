@@ -1,38 +1,38 @@
 COLUMNS
 int ID
-int ����
-int ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+int OrderIndex
+int AmplitudeCurveID
+float Duration
+float Delay
+float Phase
+float Amplitude
+float AmplitudeB
+float Frequency
+float RadiusMin
+float RadiusMax
+int Flags
+int EffectType
+int DirectionType
+int MovementType
+int AttenuationType
+int CameraEffectID
 
 LAYOUT ED27DC2F
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<u8>
-����<u16>
-����
-����
-����
-����
-����
-����
-����
-����
-����<u8>
-����<8>
-����<u8>
-����<u8>
-����<8>
-$noninline,relation$����<u16>
+OrderIndex<u8>
+AmplitudeCurveID<u16>
+Duration
+Delay
+Phase
+Amplitude
+AmplitudeB
+Frequency
+RadiusMin
+RadiusMax
+Flags<u8>
+EffectType<8>
+DirectionType<u8>
+MovementType<u8>
+AttenuationType<8>
+$noninline,relation$CameraEffectID<u16>

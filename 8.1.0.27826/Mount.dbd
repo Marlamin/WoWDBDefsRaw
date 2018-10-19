@@ -1,26 +1,26 @@
 COLUMNS
-locstring Field_8_1_0_27826_000_lang
-locstring Field_8_1_0_27826_001_lang
-locstring Field_8_1_0_27826_002_lang
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-float Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
+locstring name_lang
+locstring sourceText_lang
+locstring description_lang
+int ID
+int mountTypeID
+int flags
+int sourceTypeEnum
+int sourceSpellID
+int playerConditionID
+float mountFlyRideHeight
+int uiModelSceneID
 
 LAYOUT 629E87E2
 BUILD 8.1.0.27826
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001_lang
-Field_8_1_0_27826_002_lang
-$id$Field_8_1_0_27826_003<32>
-Field_8_1_0_27826_004<u16>
-Field_8_1_0_27826_005<u16>
-Field_8_1_0_27826_006<8>
-Field_8_1_0_27826_007<32>
-Field_8_1_0_27826_008<u32>
-Field_8_1_0_27826_009
-Field_8_1_0_27826_010<32>
+name_lang
+sourceText_lang
+description_lang
+$id$ID<32>
+mountTypeID<u16>
+flags<u16>
+sourceTypeEnum<8>
+sourceSpellID<32>
+playerConditionID<u32>
+mountFlyRideHeight
+uiModelSceneID<32>

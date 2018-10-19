@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-float Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
+int raceID
+float amount
+int helmetGeosetVisDataID
 
 LAYOUT C43CA2FC
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<32>
-Field_8_1_0_27826_001
-$noninline,relation$Field_8_1_0_27826_002<32>
+raceID<32>
+amount
+$noninline,relation$helmetGeosetVisDataID<32>

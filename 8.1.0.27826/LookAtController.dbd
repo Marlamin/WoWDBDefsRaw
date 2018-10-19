@@ -1,42 +1,42 @@
 COLUMNS
 int ID
-float Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-float Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-float Field_8_1_0_27826_015
-float Field_8_1_0_27826_016
-int Field_8_1_0_27826_017
+float reactionEnableDistance
+int reactionWarmUpTimeMSMin
+int reactionWarmUpTimeMSMax
+int reactionEnableFOVDeg
+float reactionGiveupDistance
+int reactionGiveupFOVDeg
+int reactionGiveupTimeMS
+int reactionIgnoreTimeMinMS
+int reactionIgnoreTimeMaxMS
+int maxTorsoYaw
+int maxTorsoYawWhileMoving
+int maxTorsoPitchUp
+int maxTorsoPitchDown
+int maxHeadYaw
+int maxHeadPitch
+float torsoSpeedFactor
+float headSpeedFactor
+int flags
 
 LAYOUT 2E077E56
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000
-Field_8_1_0_27826_001<u32>
-Field_8_1_0_27826_002<u32>
-Field_8_1_0_27826_003<u16>
-Field_8_1_0_27826_004
-Field_8_1_0_27826_005<u32>
-Field_8_1_0_27826_006<u16>
-Field_8_1_0_27826_007<u16>
-Field_8_1_0_27826_008<u16>
-Field_8_1_0_27826_009<u8>
-Field_8_1_0_27826_010<u8>
-Field_8_1_0_27826_011<u32>
-Field_8_1_0_27826_012<u32>
-Field_8_1_0_27826_013<u8>
-Field_8_1_0_27826_014<u8>
-Field_8_1_0_27826_015
-Field_8_1_0_27826_016
-Field_8_1_0_27826_017<u8>
+reactionEnableDistance
+reactionWarmUpTimeMSMin<u32>
+reactionWarmUpTimeMSMax<u32>
+reactionEnableFOVDeg<u16>
+reactionGiveupDistance
+reactionGiveupFOVDeg<u32>
+reactionGiveupTimeMS<u16>
+reactionIgnoreTimeMinMS<u16>
+reactionIgnoreTimeMaxMS<u16>
+maxTorsoYaw<u8>
+maxTorsoYawWhileMoving<u8>
+maxTorsoPitchUp<u32>
+maxTorsoPitchDown<u32>
+maxHeadYaw<u8>
+maxHeadPitch<u8>
+torsoSpeedFactor
+headSpeedFactor
+flags<u8>

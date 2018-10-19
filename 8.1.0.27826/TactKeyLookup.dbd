@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-int ����
+int TACTID
 
 LAYOUT 1A696886
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<u8>[8]
+TACTID<u8>[8]

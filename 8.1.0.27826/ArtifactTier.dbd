@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
+int artifactTier
+int maxNumTraits
+int maxArtifactKnowledge
+int knowledgePlayerCondition
+int minimumEmpowerKnowledge
 
 LAYOUT A47F6D9D
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u32>
-Field_8_1_0_27826_001<u32>
-Field_8_1_0_27826_002<u32>
-Field_8_1_0_27826_003<u32>
-Field_8_1_0_27826_004<u32>
+artifactTier<u32>
+maxNumTraits<u32>
+maxArtifactKnowledge<u32>
+knowledgePlayerCondition<u32>
+minimumEmpowerKnowledge<u32>

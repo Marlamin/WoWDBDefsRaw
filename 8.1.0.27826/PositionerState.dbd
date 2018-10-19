@@ -1,22 +1,22 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-float Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
+int nextStateID
+int transformMatrixID
+int posEntryID
+int rotEntryID
+int scaleEntryID
+int flags
+float endLife
+int endLifePercent
 
 LAYOUT 9E87B63A
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u32>
-Field_8_1_0_27826_001<u32>
-Field_8_1_0_27826_002<u32>
-Field_8_1_0_27826_003<u32>
-Field_8_1_0_27826_004<u32>
-Field_8_1_0_27826_005<u32>
-Field_8_1_0_27826_006
-Field_8_1_0_27826_007<u8>
+nextStateID<u32>
+transformMatrixID<u32>
+posEntryID<u32>
+rotEntryID<u32>
+scaleEntryID<u32>
+flags<u32>
+endLife
+endLifePercent<u8>

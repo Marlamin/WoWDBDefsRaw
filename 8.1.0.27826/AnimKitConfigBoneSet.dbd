@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int ����
-int ����
-int ����
+int animKitBoneSetID
+int animKitPriorityID
+int parentAnimKitConfigID
 
 LAYOUT 48518303
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<u8>
-����<u16>
-$noninline,relation$����<u16>
+animKitBoneSetID<u8>
+animKitPriorityID<u16>
+$noninline,relation$parentAnimKitConfigID<u16>

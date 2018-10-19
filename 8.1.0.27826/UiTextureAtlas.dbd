@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int ����
-int ����
-int ����
-int ����
+int fileDataID
+int atlasWidth
+int atlasHeight
+int uiCanvasID
 
 LAYOUT 6951B2FD
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<32>
-����<u16>
-����<u16>
-����<u8>
+fileDataID<32>
+atlasWidth<u16>
+atlasHeight<u16>
+uiCanvasID<u8>

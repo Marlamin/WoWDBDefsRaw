@@ -1,54 +1,54 @@
 COLUMNS
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-float Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-int Field_8_1_0_27826_015
-float Field_8_1_0_27826_016
-float Field_8_1_0_27826_017
-int Field_8_1_0_27826_018
-int Field_8_1_0_27826_019
-int Field_8_1_0_27826_020
-int Field_8_1_0_27826_021
-int Field_8_1_0_27826_022
-int Field_8_1_0_27826_023
-int Field_8_1_0_27826_024
+int ID
+int modelID
+int soundID
+int sizeClass
+float creatureModelScale
+int creatureModelAlpha
+int bloodID
+int extendedDisplayInfoID
+int NPCSoundID
+int particleColorID
+int portraitCreatureDisplayInfoID
+int portraitTextureFileDataID
+int objectEffectPackageID
+int animReplacementSetID
+int flags
+int stateSpellVisualKitID
+float playerOverrideScale
+float petInstanceScale
+int unarmedWeaponType
+int mountPoofSpellVisualKitID
+int dissolveEffectID
+int gender
+int dissolveOutEffectID
+int creatureModelMinLod
+int textureVariationFileDataID
 
 LAYOUT 613413D1
 BUILD 8.1.0.27826
-$id$Field_8_1_0_27826_000<32>
-Field_8_1_0_27826_001<u16>
-Field_8_1_0_27826_002<u16>
-Field_8_1_0_27826_003<8>
-Field_8_1_0_27826_004
-Field_8_1_0_27826_005<u8>
-Field_8_1_0_27826_006<u8>
-Field_8_1_0_27826_007<32>
-Field_8_1_0_27826_008<u16>
-Field_8_1_0_27826_009<u16>
-Field_8_1_0_27826_010<32>
-Field_8_1_0_27826_011<32>
-Field_8_1_0_27826_012<u16>
-Field_8_1_0_27826_013<u16>
-Field_8_1_0_27826_014<u8>
-Field_8_1_0_27826_015<32>
-Field_8_1_0_27826_016
-Field_8_1_0_27826_017
-Field_8_1_0_27826_018<8>
-Field_8_1_0_27826_019<32>
-Field_8_1_0_27826_020<32>
-Field_8_1_0_27826_021<8>
-Field_8_1_0_27826_022<32>
-Field_8_1_0_27826_023<8>
-Field_8_1_0_27826_024<32>[3]
+$id$ID<32>
+modelID<u16>
+soundID<u16>
+sizeClass<8>
+creatureModelScale
+creatureModelAlpha<u8>
+bloodID<u8>
+extendedDisplayInfoID<32>
+NPCSoundID<u16>
+particleColorID<u16>
+portraitCreatureDisplayInfoID<32>
+portraitTextureFileDataID<32>
+objectEffectPackageID<u16>
+animReplacementSetID<u16>
+flags<u8>
+stateSpellVisualKitID<32>
+playerOverrideScale
+petInstanceScale
+unarmedWeaponType<8>
+mountPoofSpellVisualKitID<32>
+dissolveEffectID<32>
+gender<8>
+dissolveOutEffectID<32>
+creatureModelMinLod<8>
+textureVariationFileDataID<32>[3]

@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
+int difficultyLevel
+int weeklyRewardLevel
+int endOfRunRewardLevel
+int season
 
 LAYOUT AD6A6D9F
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<32>
-Field_8_1_0_27826_001<32>
-Field_8_1_0_27826_002<32>
-$noninline,relation$Field_8_1_0_27826_003<32>
+difficultyLevel<32>
+weeklyRewardLevel<32>
+endOfRunRewardLevel<32>
+$noninline,relation$season<32>

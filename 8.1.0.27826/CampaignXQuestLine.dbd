@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
+int campaignID
+int questLineID
+int orderIndex
 
 LAYOUT 7303E0F9
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-$relation$Field_8_1_0_27826_000<u32>
-Field_8_1_0_27826_001<u32>
-Field_8_1_0_27826_002<u32>
+$relation$campaignID<u32>
+questLineID<u32>
+orderIndex<u32>

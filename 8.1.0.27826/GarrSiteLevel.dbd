@@ -1,24 +1,24 @@
 COLUMNS
 int ID
-float Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
+float townHallUiPos
+int garrSiteID
+int garrLevel
+int mapID
+int upgradeMovieID
+int uiTextureKitID
+int maxBuildingLevel
+int upgradeCost
+int upgradeGoldCost
 
 LAYOUT 4D823E68
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000[2]
-Field_8_1_0_27826_001<u32>
-Field_8_1_0_27826_002<u8>
-Field_8_1_0_27826_003<u16>
-Field_8_1_0_27826_004<u16>
-Field_8_1_0_27826_005<u16>
-Field_8_1_0_27826_006<u8>
-Field_8_1_0_27826_007<u16>
-Field_8_1_0_27826_008<u16>
+townHallUiPos[2]
+garrSiteID<u32>
+garrLevel<u8>
+mapID<u16>
+upgradeMovieID<u16>
+uiTextureKitID<u16>
+maxBuildingLevel<u8>
+upgradeCost<u16>
+upgradeGoldCost<u16>

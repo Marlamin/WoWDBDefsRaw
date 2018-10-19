@@ -1,36 +1,36 @@
 COLUMNS
 int ID
-locstring ����_lang
-locstring ����_lang
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+locstring title_lang
+locstring bodyText_lang
+int journalEncounterID
+int orderIndex
+int parentSectionID
+int firstChildSectionID
+int nextSiblingSectionID
+int type
+int iconCreatureDisplayInfoID
+int uiModelSceneID
+int spellID
+int iconFileDataID
+int flags
+int iconFlags
+int difficultyMask
 
 LAYOUT 582FB4F6
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����_lang
-����_lang
-����<u16>
-����<u8>
-����<u16>
-����<u16>
-����<u16>
-����<u8>
-����<u32>
-����<32>
-����<32>
-����<32>
-����<u16>
-����<u16>
-����<8>
+title_lang
+bodyText_lang
+journalEncounterID<u16>
+orderIndex<u8>
+parentSectionID<u16>
+firstChildSectionID<u16>
+nextSiblingSectionID<u16>
+type<u8>
+iconCreatureDisplayInfoID<u32>
+uiModelSceneID<32>
+spellID<32>
+iconFileDataID<32>
+flags<u16>
+iconFlags<u16>
+difficultyMask<8>

@@ -1,28 +1,28 @@
 COLUMNS
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
+int ID
+int region
+int looping
+int holidayNameID
+int holidayDescriptionID
+int priority
+int calendarFilterType
+int flags
+int duration
+int date
+int calendarFlags
+int textureFileDataID
 
 LAYOUT F6DA3904
 BUILD 8.1.0.27826
-$id$Field_8_1_0_27826_000<32>
-Field_8_1_0_27826_001<u16>
-Field_8_1_0_27826_002<u8>
-Field_8_1_0_27826_003<u32>
-Field_8_1_0_27826_004<u32>
-Field_8_1_0_27826_005<u8>
-Field_8_1_0_27826_006<8>
-Field_8_1_0_27826_007<u8>
-Field_8_1_0_27826_008<u16>[10]
-Field_8_1_0_27826_009<u32>[26]
-Field_8_1_0_27826_010<u8>[10]
-Field_8_1_0_27826_011<32>[3]
+$id$ID<32>
+region<u16>
+looping<u8>
+holidayNameID<u32>
+holidayDescriptionID<u32>
+priority<u8>
+calendarFilterType<8>
+flags<u8>
+duration<u16>[10]
+date<u32>[26]
+calendarFlags<u8>[10]
+textureFileDataID<32>[3]

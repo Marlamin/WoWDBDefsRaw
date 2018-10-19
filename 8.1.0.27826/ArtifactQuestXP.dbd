@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
+int difficulty
 
 LAYOUT 7E00C5B6
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u32>[10]
+difficulty<u32>[10]

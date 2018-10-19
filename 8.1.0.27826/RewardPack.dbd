@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-float Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
+int charTitleID
+int money
+int artifactXPDifficulty
+float artifactXPMultiplier
+int artifactXPCategoryID
+int treasurePickerID
 
 LAYOUT B0527FA7
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<32>
-Field_8_1_0_27826_001<u32>
-Field_8_1_0_27826_002<8>
-Field_8_1_0_27826_003
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<u32>
+charTitleID<32>
+money<u32>
+artifactXPDifficulty<8>
+artifactXPMultiplier
+artifactXPCategoryID<u8>
+treasurePickerID<u32>

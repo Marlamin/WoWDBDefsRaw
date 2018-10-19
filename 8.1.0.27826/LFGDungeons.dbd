@@ -1,72 +1,72 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-locstring Field_8_1_0_27826_001_lang
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-float Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-int Field_8_1_0_27826_015
-int Field_8_1_0_27826_016
-int Field_8_1_0_27826_017
-int Field_8_1_0_27826_018
-int Field_8_1_0_27826_019
-int Field_8_1_0_27826_020
-int Field_8_1_0_27826_021
-int Field_8_1_0_27826_022
-int Field_8_1_0_27826_023
-int Field_8_1_0_27826_024
-int Field_8_1_0_27826_025
-int Field_8_1_0_27826_026
-int Field_8_1_0_27826_027
-int Field_8_1_0_27826_028
-int Field_8_1_0_27826_029
-int Field_8_1_0_27826_030
-int Field_8_1_0_27826_031
-int Field_8_1_0_27826_032
+locstring name_lang
+locstring description_lang
+int minLevel
+int maxLevel
+int typeID
+int subtype
+int faction
+int iconTextureFileID
+int rewardsBgTextureFileID
+int popupBgTextureFileID
+int expansionLevel
+int mapID
+int difficultyID
+float minGear
+int group_ID
+int order_index
+int required_player_condition_id
+int target_level
+int target_level_min
+int target_level_max
+int random_ID
+int scenarioID
+int finalEncounterID
+int count_tank
+int count_healer
+int count_damage
+int min_count_tank
+int min_count_healer
+int min_count_damage
+int bonus_reputation_amount
+int mentorItemLevel
+int mentorCharLevel
+int flags
 
 LAYOUT D9B678AD
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001_lang
-Field_8_1_0_27826_002<u8>
-Field_8_1_0_27826_003<u16>
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<u8>
-Field_8_1_0_27826_006<8>
-Field_8_1_0_27826_007<32>
-Field_8_1_0_27826_008<32>
-Field_8_1_0_27826_009<32>
-Field_8_1_0_27826_010<u8>
-Field_8_1_0_27826_011<16>
-Field_8_1_0_27826_012<u8>
-Field_8_1_0_27826_013
-Field_8_1_0_27826_014<u8>
-Field_8_1_0_27826_015<u8>
-Field_8_1_0_27826_016<u32>
-Field_8_1_0_27826_017<u8>
-Field_8_1_0_27826_018<u8>
-Field_8_1_0_27826_019<u16>
-Field_8_1_0_27826_020<u16>
-Field_8_1_0_27826_021<u16>
-Field_8_1_0_27826_022<u16>
-Field_8_1_0_27826_023<u8>
-Field_8_1_0_27826_024<u8>
-Field_8_1_0_27826_025<u8>
-Field_8_1_0_27826_026<u8>
-Field_8_1_0_27826_027<u8>
-Field_8_1_0_27826_028<u8>
-Field_8_1_0_27826_029<u16>
-Field_8_1_0_27826_030<u16>
-Field_8_1_0_27826_031<u8>
-Field_8_1_0_27826_032<32>[2]
+name_lang
+description_lang
+minLevel<u8>
+maxLevel<u16>
+typeID<u8>
+subtype<u8>
+faction<8>
+iconTextureFileID<32>
+rewardsBgTextureFileID<32>
+popupBgTextureFileID<32>
+expansionLevel<u8>
+mapID<16>
+difficultyID<u8>
+minGear
+group_ID<u8>
+order_index<u8>
+required_player_condition_id<u32>
+target_level<u8>
+target_level_min<u8>
+target_level_max<u16>
+random_ID<u16>
+scenarioID<u16>
+finalEncounterID<u16>
+count_tank<u8>
+count_healer<u8>
+count_damage<u8>
+min_count_tank<u8>
+min_count_healer<u8>
+min_count_damage<u8>
+bonus_reputation_amount<u16>
+mentorItemLevel<u16>
+mentorCharLevel<u8>
+flags<32>[2]

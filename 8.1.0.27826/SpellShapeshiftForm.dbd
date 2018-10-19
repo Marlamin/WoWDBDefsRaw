@@ -1,26 +1,26 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-float Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
+locstring name_lang
+int creatureType
+int flags
+int attackIconFileID
+int bonusActionBar
+int combatRoundTime
+float damageVariance
+int mountTypeID
+int creatureDisplayID
+int presetSpellID
 
 LAYOUT 7082136E
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001<8>
-Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<32>
-Field_8_1_0_27826_004<8>
-Field_8_1_0_27826_005<16>
-Field_8_1_0_27826_006
-Field_8_1_0_27826_007<u16>
-Field_8_1_0_27826_008<u32>[4]
-Field_8_1_0_27826_009<u32>[8]
+name_lang
+creatureType<8>
+flags<32>
+attackIconFileID<32>
+bonusActionBar<8>
+combatRoundTime<16>
+damageVariance
+mountTypeID<u16>
+creatureDisplayID<u32>[4]
+presetSpellID<u32>[8]

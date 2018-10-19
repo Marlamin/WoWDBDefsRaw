@@ -1,30 +1,30 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-locstring Field_8_1_0_27826_001_lang
-float Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
+locstring title_lang
+locstring description_lang
+float worldPosition
+int type
+int playerConditionID
+int questID
+int lfgDungeonID
+int rewardItemID
+int uiTextureAtlasMemberID
+int uiTextureKitID
+int mapID
+int areaTableID
 
 LAYOUT 4AABC870
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001_lang
-Field_8_1_0_27826_002[2]
-Field_8_1_0_27826_003<8>
-Field_8_1_0_27826_004<u32>
-Field_8_1_0_27826_005<u32>
-Field_8_1_0_27826_006<u32>
-Field_8_1_0_27826_007<32>
-Field_8_1_0_27826_008<u32>
-Field_8_1_0_27826_009<u32>
-Field_8_1_0_27826_010<32>
-Field_8_1_0_27826_011<u32>
+title_lang
+description_lang
+worldPosition[2]
+type<8>
+playerConditionID<u32>
+questID<u32>
+lfgDungeonID<u32>
+rewardItemID<32>
+uiTextureAtlasMemberID<u32>
+uiTextureKitID<u32>
+mapID<32>
+areaTableID<u32>

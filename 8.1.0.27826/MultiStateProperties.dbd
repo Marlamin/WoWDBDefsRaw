@@ -1,28 +1,28 @@
 COLUMNS
 int ID
-float Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-float Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
+float offset
+int gameObjectID
+int stateIndex
+int gameEventID
+float facing
+int transitionInID
+int transitionOutID
+int collisionHull
+int flags
+int spellVisualKitID
+int multiPropertiesID
 
 LAYOUT 50BB5EDC
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000[3]
-Field_8_1_0_27826_001<32>
-Field_8_1_0_27826_002<u8>
-Field_8_1_0_27826_003<32>
-Field_8_1_0_27826_004
-Field_8_1_0_27826_005<32>
-Field_8_1_0_27826_006<32>
-Field_8_1_0_27826_007<32>
-Field_8_1_0_27826_008<u32>
-Field_8_1_0_27826_009<32>
-$noninline,relation$Field_8_1_0_27826_010<32>
+offset[3]
+gameObjectID<32>
+stateIndex<u8>
+gameEventID<32>
+facing
+transitionInID<32>
+transitionOutID<32>
+collisionHull<32>
+flags<u32>
+spellVisualKitID<32>
+$noninline,relation$multiPropertiesID<32>

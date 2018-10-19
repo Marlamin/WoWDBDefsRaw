@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
+int displayType
+int itemDisplayInfoID
+int defaultIconFileDataID
+int uiOrder
 
 LAYOUT 422F764D
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u8>
-Field_8_1_0_27826_001<32>
-Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<32>
+displayType<u8>
+itemDisplayInfoID<32>
+defaultIconFileDataID<32>
+uiOrder<32>

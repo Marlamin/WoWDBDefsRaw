@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
+int difficultyID
+int interruptFlags
+int auraInterruptFlags
+int channelInterruptFlags
+int spellID
 
 LAYOUT F551B940
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u8>
-Field_8_1_0_27826_001<16>
-Field_8_1_0_27826_002<32>[2]
-Field_8_1_0_27826_003<32>[2]
-$noninline,relation$Field_8_1_0_27826_004<32>
+difficultyID<u8>
+interruptFlags<16>
+auraInterruptFlags<32>[2]
+channelInterruptFlags<32>[2]
+$noninline,relation$spellID<32>

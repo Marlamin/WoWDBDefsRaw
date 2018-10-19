@@ -1,36 +1,36 @@
 COLUMNS
 int ID
-int ����
-int ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
+int spellID
+int flags
+float defaultPitchMin
+float defaultPitchMax
+float defaultSpeedMin
+float defaultSpeedMax
+float randomizeFacingMin
+float randomizeFacingMax
+float randomizePitchMin
+float randomizePitchMax
+float randomizeSpeedMin
+float randomizeSpeedMax
+float gravity
+float maxDuration
+float collisionRadius
 
 LAYOUT AF286A50
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<32>
-����<u8>
-����
-����
-����
-����
-����
-����
-����
-����
-����
-����
-����
-����
-����
+spellID<32>
+flags<u8>
+defaultPitchMin
+defaultPitchMax
+defaultSpeedMin
+defaultSpeedMax
+randomizeFacingMin
+randomizeFacingMax
+randomizePitchMin
+randomizePitchMax
+randomizeSpeedMin
+randomizeSpeedMax
+gravity
+maxDuration
+collisionRadius

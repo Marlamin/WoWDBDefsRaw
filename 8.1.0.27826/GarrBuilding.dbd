@@ -1,54 +1,54 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-locstring Field_8_1_0_27826_001_lang
-locstring Field_8_1_0_27826_002_lang
-locstring Field_8_1_0_27826_003_lang
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-int Field_8_1_0_27826_015
-int Field_8_1_0_27826_016
-int Field_8_1_0_27826_017
-int Field_8_1_0_27826_018
-int Field_8_1_0_27826_019
-int Field_8_1_0_27826_020
-int Field_8_1_0_27826_021
-int Field_8_1_0_27826_022
-int Field_8_1_0_27826_023
+locstring hordeName_lang
+locstring allianceName_lang
+locstring description_lang
+locstring tooltip_lang
+int garrTypeID
+int buildingType
+int hordeGameObjectID
+int allianceGameObjectID
+int garrSiteID
+int upgradeLevel
+int buildSeconds
+int currencyTypeID
+int currencyQty
+int hordeUiTextureKitID
+int allianceUiTextureKitID
+int iconFileDataID
+int allianceSceneScriptPackageID
+int hordeSceneScriptPackageID
+int maxAssignments
+int shipmentCapacity
+int garrAbilityID
+int bonusGarrAbilityID
+int goldCost
+int flags
 
 LAYOUT 158D48D4
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001_lang
-Field_8_1_0_27826_002_lang
-Field_8_1_0_27826_003_lang
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<u8>
-Field_8_1_0_27826_006<32>
-Field_8_1_0_27826_007<32>
-Field_8_1_0_27826_008<u8>
-Field_8_1_0_27826_009<u8>
-Field_8_1_0_27826_010<32>
-Field_8_1_0_27826_011<u16>
-Field_8_1_0_27826_012<32>
-Field_8_1_0_27826_013<u16>
-Field_8_1_0_27826_014<u16>
-Field_8_1_0_27826_015<32>
-Field_8_1_0_27826_016<u16>
-Field_8_1_0_27826_017<u16>
-Field_8_1_0_27826_018<32>
-Field_8_1_0_27826_019<u8>
-Field_8_1_0_27826_020<u16>
-Field_8_1_0_27826_021<u16>
-Field_8_1_0_27826_022<u16>
-Field_8_1_0_27826_023<u8>
+hordeName_lang
+allianceName_lang
+description_lang
+tooltip_lang
+garrTypeID<u8>
+buildingType<u8>
+hordeGameObjectID<32>
+allianceGameObjectID<32>
+garrSiteID<u8>
+upgradeLevel<u8>
+buildSeconds<32>
+currencyTypeID<u16>
+currencyQty<32>
+hordeUiTextureKitID<u16>
+allianceUiTextureKitID<u16>
+iconFileDataID<32>
+allianceSceneScriptPackageID<u16>
+hordeSceneScriptPackageID<u16>
+maxAssignments<32>
+shipmentCapacity<u8>
+garrAbilityID<u16>
+bonusGarrAbilityID<u16>
+goldCost<u16>
+flags<u8>

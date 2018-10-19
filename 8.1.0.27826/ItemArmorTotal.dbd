@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int ����
-float ����
-float ����
-float ����
-float ����
+int itemLevel
+float cloth
+float leather
+float mail
+float plate
 
 LAYOUT C4CD0FD9
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<16>
-����
-����
-����
-����
+itemLevel<16>
+cloth
+leather
+mail
+plate

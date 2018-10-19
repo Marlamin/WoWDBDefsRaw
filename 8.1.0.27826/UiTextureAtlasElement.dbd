@@ -1,8 +1,8 @@
 COLUMNS
-string Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
+string name
+int ID
 
 LAYOUT BBDA0A61
 BUILD 8.1.0.27826
-Field_8_1_0_27826_000
-$id$Field_8_1_0_27826_001<32>
+name
+$id$ID<32>

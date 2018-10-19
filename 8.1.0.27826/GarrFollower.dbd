@@ -1,68 +1,68 @@
 COLUMNS
-locstring Field_8_1_0_27826_000_lang
-locstring Field_8_1_0_27826_001_lang
-locstring Field_8_1_0_27826_002_lang
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-int Field_8_1_0_27826_015
-int Field_8_1_0_27826_016
-int Field_8_1_0_27826_017
-int Field_8_1_0_27826_018
-int Field_8_1_0_27826_019
-int Field_8_1_0_27826_020
-int Field_8_1_0_27826_021
-int Field_8_1_0_27826_022
-int Field_8_1_0_27826_023
-int Field_8_1_0_27826_024
-int Field_8_1_0_27826_025
-int Field_8_1_0_27826_026
-int Field_8_1_0_27826_027
-int Field_8_1_0_27826_028
-int Field_8_1_0_27826_029
-int Field_8_1_0_27826_030
-int Field_8_1_0_27826_031
+locstring hordeSourceText_lang
+locstring allianceSourceText_lang
+locstring titleName_lang
+int ID
+int garrTypeID
+int garrFollowerTypeID
+int hordeCreatureID
+int allianceCreatureID
+int hordeGarrFollRaceID
+int allianceGarrFollRaceID
+int hordeGarrClassSpecID
+int allianceGarrClassSpecID
+int quality
+int followerLevel
+int itemLevelWeapon
+int itemLevelArmor
+int hordeSourceTypeEnum
+int allianceSourceTypeEnum
+int hordeIconFileDataID
+int allianceIconFileDataID
+int hordeGarrFollItemSetID
+int allianceGarrFollItemSetID
+int hordeUITextureKitID
+int allianceUITextureKitID
+int vitality
+int hordeFlavorGarrStringID
+int allianceFlavorGarrStringID
+int hordeSlottingBroadcastTextID
+int allySlottingBroadcastTextID
+int chrClassID
+int flags
+int gender
 
 LAYOUT 7C5C19F1
 BUILD 8.1.0.27826
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001_lang
-Field_8_1_0_27826_002_lang
-$id$Field_8_1_0_27826_003<32>
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<u8>
-Field_8_1_0_27826_006<32>
-Field_8_1_0_27826_007<32>
-Field_8_1_0_27826_008<u8>
-Field_8_1_0_27826_009<u8>
-Field_8_1_0_27826_010<u8>
-Field_8_1_0_27826_011<u8>
-Field_8_1_0_27826_012<u8>
-Field_8_1_0_27826_013<u8>
-Field_8_1_0_27826_014<u16>
-Field_8_1_0_27826_015<u16>
-Field_8_1_0_27826_016<8>
-Field_8_1_0_27826_017<8>
-Field_8_1_0_27826_018<32>
-Field_8_1_0_27826_019<32>
-Field_8_1_0_27826_020<u16>
-Field_8_1_0_27826_021<u16>
-Field_8_1_0_27826_022<u16>
-Field_8_1_0_27826_023<u16>
-Field_8_1_0_27826_024<u8>
-Field_8_1_0_27826_025<u8>
-Field_8_1_0_27826_026<u8>
-Field_8_1_0_27826_027<u32>
-Field_8_1_0_27826_028<u32>
-Field_8_1_0_27826_029<u8>
-Field_8_1_0_27826_030<u8>
-Field_8_1_0_27826_031<u8>
+hordeSourceText_lang
+allianceSourceText_lang
+titleName_lang
+$id$ID<32>
+garrTypeID<u8>
+garrFollowerTypeID<u8>
+hordeCreatureID<32>
+allianceCreatureID<32>
+hordeGarrFollRaceID<u8>
+allianceGarrFollRaceID<u8>
+hordeGarrClassSpecID<u8>
+allianceGarrClassSpecID<u8>
+quality<u8>
+followerLevel<u8>
+itemLevelWeapon<u16>
+itemLevelArmor<u16>
+hordeSourceTypeEnum<8>
+allianceSourceTypeEnum<8>
+hordeIconFileDataID<32>
+allianceIconFileDataID<32>
+hordeGarrFollItemSetID<u16>
+allianceGarrFollItemSetID<u16>
+hordeUITextureKitID<u16>
+allianceUITextureKitID<u16>
+vitality<u8>
+hordeFlavorGarrStringID<u8>
+allianceFlavorGarrStringID<u8>
+hordeSlottingBroadcastTextID<u32>
+allySlottingBroadcastTextID<u32>
+chrClassID<u8>
+flags<u8>
+gender<u8>

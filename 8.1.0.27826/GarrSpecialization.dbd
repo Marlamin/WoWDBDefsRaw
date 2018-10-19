@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-locstring ����_lang
-locstring ����_lang
-int ����
-int ����
-int ����
-int ����
-float ����
+locstring name_lang
+locstring tooltip_lang
+int buildingType
+int specType
+int requiredUpgradeLevel
+int iconFileDataID
+float param
 
 LAYOUT 8400A7E7
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����_lang
-����_lang
-����<u8>
-����<u8>
-����<u8>
-����<32>
-����[2]
+name_lang
+tooltip_lang
+buildingType<u8>
+specType<u8>
+requiredUpgradeLevel<u8>
+iconFileDataID<32>
+param[2]

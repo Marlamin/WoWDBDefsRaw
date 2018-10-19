@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
+int area_ID
+int next_time_worldstate
+int game_time_worldstate
+int battle_populate_time
+int min_level
+int max_level
+int map_ID
 
 LAYOUT 3F8DDC83
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u16>
-Field_8_1_0_27826_001<u16>
-Field_8_1_0_27826_002<u16>
-Field_8_1_0_27826_003<u16>
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<u8>
-Field_8_1_0_27826_006<16>
+area_ID<u16>
+next_time_worldstate<u16>
+game_time_worldstate<u16>
+battle_populate_time<u16>
+min_level<u8>
+max_level<u8>
+map_ID<16>

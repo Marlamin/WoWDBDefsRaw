@@ -1,18 +1,18 @@
 COLUMNS
-locstring ����_lang
-locstring ����_lang
-int ����
-int ����
-int ����
-int ����
-int ����
+locstring description_lang
+locstring name_lang
+int ID
+int managedWorldStateInputID
+int orderIndex
+int contributionStyleContainer
+int uiTextureAtlasMemberID
 
 LAYOUT 37C49135
 BUILD 8.1.0.27826
-����_lang
-����_lang
-$id$����<32>
-$relation$����<32>
-����<32>
-����<32>
-����<32>[4]
+description_lang
+name_lang
+$id$ID<32>
+$relation$managedWorldStateInputID<32>
+orderIndex<32>
+contributionStyleContainer<32>
+uiTextureAtlasMemberID<32>[4]

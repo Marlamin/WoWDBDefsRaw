@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
+int reqID
+int value
+int parentWidgetID
 
 LAYOUT 5BB89A7E
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u16>
-Field_8_1_0_27826_001<32>
-$noninline,relation$Field_8_1_0_27826_002<32>
+reqID<u16>
+value<32>
+$noninline,relation$parentWidgetID<32>

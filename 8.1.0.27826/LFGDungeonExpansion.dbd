@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
+int expansion_level
+int random_ID
+int hard_level_min
+int hard_level_max
+int target_level_min
+int target_level_max
+int lfg_id
 
 LAYOUT 6754EDAB
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u8>
-Field_8_1_0_27826_001<u16>
-Field_8_1_0_27826_002<u8>
-Field_8_1_0_27826_003<u8>
-Field_8_1_0_27826_004<32>
-Field_8_1_0_27826_005<32>
-$noninline,relation$Field_8_1_0_27826_006<u16>
+expansion_level<u8>
+random_ID<u16>
+hard_level_min<u8>
+hard_level_max<u8>
+target_level_min<32>
+target_level_max<32>
+$noninline,relation$lfg_id<u16>

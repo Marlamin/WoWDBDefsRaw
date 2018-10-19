@@ -1,26 +1,26 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
+int raceID
+int sexID
+int variationID
+int geosetID
+int showscalp
+int variationType
+int geosetType
+int colorIndex
+int customGeoFileDataID
+int hdCustomGeoFileDataID
 
 LAYOUT E3732EA9
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-$relation$Field_8_1_0_27826_000<u8>
-Field_8_1_0_27826_001<u8>
-Field_8_1_0_27826_002<8>
-Field_8_1_0_27826_003<u8>
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<8>
-Field_8_1_0_27826_006<8>
-Field_8_1_0_27826_007<8>
-Field_8_1_0_27826_008<32>
-Field_8_1_0_27826_009<32>
+$relation$raceID<u8>
+sexID<u8>
+variationID<8>
+geosetID<u8>
+showscalp<u8>
+variationType<8>
+geosetType<8>
+colorIndex<8>
+customGeoFileDataID<32>
+hdCustomGeoFileDataID<32>

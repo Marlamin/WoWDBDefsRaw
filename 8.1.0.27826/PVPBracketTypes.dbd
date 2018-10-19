@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
+int bracketID
+int weeklyQuestID
 
 LAYOUT 54CF87FB
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<8>
-Field_8_1_0_27826_001<u32>[4]
+bracketID<8>
+weeklyQuestID<u32>[4]

@@ -1,0 +1,8 @@
+COLUMNS
+int ID
+int broadcastTextSoundStateID
+
+LAYOUT 0E5592C9
+BUILD 8.1.0.27826
+$noninline,id$ID<32>
+broadcastTextSoundStateID<8>[2]

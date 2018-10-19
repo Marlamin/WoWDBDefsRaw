@@ -1,30 +1,30 @@
 COLUMNS
-locstring Field_8_1_0_27826_000_lang
-locstring Field_8_1_0_27826_001_lang
-locstring Field_8_1_0_27826_002_lang
-locstring Field_8_1_0_27826_003_lang
-string Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
+locstring displayName_lang
+locstring alternateVerb_lang
+locstring description_lang
+locstring hordeDisplayName_lang
+string overrideSourceInfoDisplayName
+int ID
+int categoryID
+int spellIconFileID
+int canLink
+int parentSkillLineID
+int parentTierIndex
+int flags
+int spellBookSpellID
 
 LAYOUT EC83FE8A
 BUILD 8.1.0.27826
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001_lang
-Field_8_1_0_27826_002_lang
-Field_8_1_0_27826_003_lang
-Field_8_1_0_27826_004
-$id$Field_8_1_0_27826_005<32>
-Field_8_1_0_27826_006<8>
-Field_8_1_0_27826_007<32>
-Field_8_1_0_27826_008<8>
-Field_8_1_0_27826_009<u32>
-Field_8_1_0_27826_010<32>
-Field_8_1_0_27826_011<u16>
-Field_8_1_0_27826_012<32>
+displayName_lang
+alternateVerb_lang
+description_lang
+hordeDisplayName_lang
+overrideSourceInfoDisplayName
+$id$ID<32>
+categoryID<8>
+spellIconFileID<32>
+canLink<8>
+parentSkillLineID<u32>
+parentTierIndex<32>
+flags<u16>
+spellBookSpellID<32>

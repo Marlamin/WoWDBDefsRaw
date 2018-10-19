@@ -1,166 +1,166 @@
 COLUMNS
-int Field_8_1_0_27826_000
-locstring Field_8_1_0_27826_001_lang
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-int Field_8_1_0_27826_015
-int Field_8_1_0_27826_016
-int Field_8_1_0_27826_017
-int Field_8_1_0_27826_018
-int Field_8_1_0_27826_019
-int Field_8_1_0_27826_020
-int Field_8_1_0_27826_021
-int Field_8_1_0_27826_022
-int Field_8_1_0_27826_023
-int Field_8_1_0_27826_024
-int Field_8_1_0_27826_025
-int Field_8_1_0_27826_026
-int Field_8_1_0_27826_027
-int Field_8_1_0_27826_028
-int Field_8_1_0_27826_029
-int Field_8_1_0_27826_030
-int Field_8_1_0_27826_031
-int Field_8_1_0_27826_032
-int Field_8_1_0_27826_033
-int Field_8_1_0_27826_034
-int Field_8_1_0_27826_035
-int Field_8_1_0_27826_036
-int Field_8_1_0_27826_037
-int Field_8_1_0_27826_038
-int Field_8_1_0_27826_039
-int Field_8_1_0_27826_040
-int Field_8_1_0_27826_041
-int Field_8_1_0_27826_042
-int Field_8_1_0_27826_043
-int Field_8_1_0_27826_044
-int Field_8_1_0_27826_045
-int Field_8_1_0_27826_046
-int Field_8_1_0_27826_047
-int Field_8_1_0_27826_048
-int Field_8_1_0_27826_049
-int Field_8_1_0_27826_050
-int Field_8_1_0_27826_051
-int Field_8_1_0_27826_052
-int Field_8_1_0_27826_053
-int Field_8_1_0_27826_054
-int Field_8_1_0_27826_055
-int Field_8_1_0_27826_056
-int Field_8_1_0_27826_057
-int Field_8_1_0_27826_058
-int Field_8_1_0_27826_059
-int Field_8_1_0_27826_060
-int Field_8_1_0_27826_061
-int Field_8_1_0_27826_062
-int Field_8_1_0_27826_063
-int Field_8_1_0_27826_064
-int Field_8_1_0_27826_065
-int Field_8_1_0_27826_066
-int Field_8_1_0_27826_067
-int Field_8_1_0_27826_068
-int Field_8_1_0_27826_069
-int Field_8_1_0_27826_070
-int Field_8_1_0_27826_071
-int Field_8_1_0_27826_072
-int Field_8_1_0_27826_073
-int Field_8_1_0_27826_074
-int Field_8_1_0_27826_075
-int Field_8_1_0_27826_076
-int Field_8_1_0_27826_077
-int Field_8_1_0_27826_078
-int Field_8_1_0_27826_079
-int Field_8_1_0_27826_080
+int raceMask
+locstring failure_description_lang
+int ID
+int minLevel
+int maxLevel
+int classMask
+int skillLogic
+int languageID
+int minLanguage
+int maxLanguage
+int maxFactionID
+int maxReputation
+int reputationLogic
+int currentPvpFaction
+int pvpMedal
+int prevQuestLogic
+int currQuestLogic
+int currentCompletedQuestLogic
+int spellLogic
+int itemLogic
+int itemFlags
+int auraSpellLogic
+int worldStateExpressionID
+int weatherID
+int partyStatus
+int lifetimeMaxPVPRank
+int achievementLogic
+int gender
+int nativeGender
+int areaLogic
+int lfgLogic
+int currencyLogic
+int questKillID
+int questKillLogic
+int minExpansionLevel
+int maxExpansionLevel
+int minAvgItemLevel
+int maxAvgItemLevel
+int minAvgEquippedItemLevel
+int maxAvgEquippedItemLevel
+int phaseUseFlags
+int phaseID
+int phaseGroupID
+int flags
+int chrSpecializationIndex
+int chrSpecializationRole
+int modifierTreeID
+int powerType
+int powerTypeComp
+int powerTypeValue
+int weaponSubclassMask
+int maxGuildLevel
+int minGuildLevel
+int maxExpansionTier
+int minExpansionTier
+int minPVPRank
+int maxPVPRank
+int skillID
+int minSkill
+int maxSkill
+int minFactionID
+int minReputation
+int prevQuestID
+int currQuestID
+int currentCompletedQuestID
+int spellID
+int itemID
+int itemCount
+int explored
+int time
+int auraSpellID
+int auraStacks
+int achievement
+int areaID
+int lfgStatus
+int lfgCompare
+int lfgValue
+int currencyID
+int currencyCount
+int questKillMonster
+int movementFlags
 
 LAYOUT F28CBD18
 BUILD 8.1.0.27826
-Field_8_1_0_27826_000<64>
-Field_8_1_0_27826_001_lang
-$id$Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<u16>
-Field_8_1_0_27826_004<u16>
-Field_8_1_0_27826_005<32>
-Field_8_1_0_27826_006<u32>
-Field_8_1_0_27826_007<u8>
-Field_8_1_0_27826_008<u8>
-Field_8_1_0_27826_009<32>
-Field_8_1_0_27826_010<u16>
-Field_8_1_0_27826_011<u8>
-Field_8_1_0_27826_012<u32>
-Field_8_1_0_27826_013<8>
-Field_8_1_0_27826_014<u8>
-Field_8_1_0_27826_015<u32>
-Field_8_1_0_27826_016<u32>
-Field_8_1_0_27826_017<u32>
-Field_8_1_0_27826_018<u32>
-Field_8_1_0_27826_019<u32>
-Field_8_1_0_27826_020<u8>
-Field_8_1_0_27826_021<u32>
-Field_8_1_0_27826_022<u16>
-Field_8_1_0_27826_023<u8>
-Field_8_1_0_27826_024<u8>
-Field_8_1_0_27826_025<u8>
-Field_8_1_0_27826_026<u32>
-Field_8_1_0_27826_027<8>
-Field_8_1_0_27826_028<8>
-Field_8_1_0_27826_029<u32>
-Field_8_1_0_27826_030<u32>
-Field_8_1_0_27826_031<u32>
-Field_8_1_0_27826_032<u16>
-Field_8_1_0_27826_033<u32>
-Field_8_1_0_27826_034<8>
-Field_8_1_0_27826_035<8>
-Field_8_1_0_27826_036<32>
-Field_8_1_0_27826_037<32>
-Field_8_1_0_27826_038<u16>
-Field_8_1_0_27826_039<u16>
-Field_8_1_0_27826_040<u8>
-Field_8_1_0_27826_041<u16>
-Field_8_1_0_27826_042<u32>
-Field_8_1_0_27826_043<u8>
-Field_8_1_0_27826_044<8>
-Field_8_1_0_27826_045<8>
-Field_8_1_0_27826_046<u32>
-Field_8_1_0_27826_047<8>
-Field_8_1_0_27826_048<u8>
-Field_8_1_0_27826_049<u8>
-Field_8_1_0_27826_050<32>
-Field_8_1_0_27826_051<u8>
-Field_8_1_0_27826_052<u8>
-Field_8_1_0_27826_053<8>
-Field_8_1_0_27826_054<8>
-Field_8_1_0_27826_055<u8>
-Field_8_1_0_27826_056<u8>
-Field_8_1_0_27826_057<u16>[4]
-Field_8_1_0_27826_058<u16>[4]
-Field_8_1_0_27826_059<u16>[4]
-Field_8_1_0_27826_060<u32>[3]
-Field_8_1_0_27826_061<u8>[3]
-Field_8_1_0_27826_062<u16>[4]
-Field_8_1_0_27826_063<u16>[4]
-Field_8_1_0_27826_064<u16>[4]
-Field_8_1_0_27826_065<32>[4]
-Field_8_1_0_27826_066<32>[4]
-Field_8_1_0_27826_067<u32>[4]
-Field_8_1_0_27826_068<u16>[2]
-Field_8_1_0_27826_069<u32>[2]
-Field_8_1_0_27826_070<32>[4]
-Field_8_1_0_27826_071<u8>[4]
-Field_8_1_0_27826_072<u16>[4]
-Field_8_1_0_27826_073<u16>[4]
-Field_8_1_0_27826_074<u8>[4]
-Field_8_1_0_27826_075<u8>[4]
-Field_8_1_0_27826_076<u32>[4]
-Field_8_1_0_27826_077<u32>[4]
-Field_8_1_0_27826_078<u32>[4]
-Field_8_1_0_27826_079<u32>[6]
-Field_8_1_0_27826_080<32>[2]
+raceMask<64>
+failure_description_lang
+$id$ID<32>
+minLevel<u16>
+maxLevel<u16>
+classMask<32>
+skillLogic<u32>
+languageID<u8>
+minLanguage<u8>
+maxLanguage<32>
+maxFactionID<u16>
+maxReputation<u8>
+reputationLogic<u32>
+currentPvpFaction<8>
+pvpMedal<u8>
+prevQuestLogic<u32>
+currQuestLogic<u32>
+currentCompletedQuestLogic<u32>
+spellLogic<u32>
+itemLogic<u32>
+itemFlags<u8>
+auraSpellLogic<u32>
+worldStateExpressionID<u16>
+weatherID<u8>
+partyStatus<u8>
+lifetimeMaxPVPRank<u8>
+achievementLogic<u32>
+gender<8>
+nativeGender<8>
+areaLogic<u32>
+lfgLogic<u32>
+currencyLogic<u32>
+questKillID<u16>
+questKillLogic<u32>
+minExpansionLevel<8>
+maxExpansionLevel<8>
+minAvgItemLevel<32>
+maxAvgItemLevel<32>
+minAvgEquippedItemLevel<u16>
+maxAvgEquippedItemLevel<u16>
+phaseUseFlags<u8>
+phaseID<u16>
+phaseGroupID<u32>
+flags<u8>
+chrSpecializationIndex<8>
+chrSpecializationRole<8>
+modifierTreeID<u32>
+powerType<8>
+powerTypeComp<u8>
+powerTypeValue<u8>
+weaponSubclassMask<32>
+maxGuildLevel<u8>
+minGuildLevel<u8>
+maxExpansionTier<8>
+minExpansionTier<8>
+minPVPRank<u8>
+maxPVPRank<u8>
+skillID<u16>[4]
+minSkill<u16>[4]
+maxSkill<u16>[4]
+minFactionID<u32>[3]
+minReputation<u8>[3]
+prevQuestID<u16>[4]
+currQuestID<u16>[4]
+currentCompletedQuestID<u16>[4]
+spellID<32>[4]
+itemID<32>[4]
+itemCount<u32>[4]
+explored<u16>[2]
+time<u32>[2]
+auraSpellID<32>[4]
+auraStacks<u8>[4]
+achievement<u16>[4]
+areaID<u16>[4]
+lfgStatus<u8>[4]
+lfgCompare<u8>[4]
+lfgValue<u32>[4]
+currencyID<u32>[4]
+currencyCount<u32>[4]
+questKillMonster<u32>[6]
+movementFlags<32>[2]

@@ -1,32 +1,32 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
+locstring name_lang
+int instanceType
+int orderIndex
+int oldEnumValue
+int fallbackDifficultyID
+int minPlayers
+int maxPlayers
+int flags
+int itemContext
+int toggleDifficultyID
+int groupSizeHealthCurveID
+int groupSizeDmgCurveID
+int groupSizeSpellPointsCurveID
 
 LAYOUT 29FC158C
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001<u8>
-Field_8_1_0_27826_002<u8>
-Field_8_1_0_27826_003<8>
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<u8>
-Field_8_1_0_27826_006<u8>
-Field_8_1_0_27826_007<u8>
-Field_8_1_0_27826_008<u8>
-Field_8_1_0_27826_009<u8>
-Field_8_1_0_27826_010<u16>
-Field_8_1_0_27826_011<u16>
-Field_8_1_0_27826_012<u16>
+name_lang
+instanceType<u8>
+orderIndex<u8>
+oldEnumValue<8>
+fallbackDifficultyID<u8>
+minPlayers<u8>
+maxPlayers<u8>
+flags<u8>
+itemContext<u8>
+toggleDifficultyID<u8>
+groupSizeHealthCurveID<u16>
+groupSizeDmgCurveID<u16>
+groupSizeSpellPointsCurveID<u16>

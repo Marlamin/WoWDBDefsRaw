@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-locstring Field_8_1_0_27826_001_lang
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
+locstring name_lang
+locstring description_lang
+int iconFileDataID
+int petTypeEnum
+int cooldown
+int battlePetVisualID
+int flags
 
 LAYOUT 4C3AF583
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001_lang
-Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<8>
-Field_8_1_0_27826_004<u32>
-Field_8_1_0_27826_005<u16>
-Field_8_1_0_27826_006<u8>
+name_lang
+description_lang
+iconFileDataID<32>
+petTypeEnum<8>
+cooldown<u32>
+battlePetVisualID<u16>
+flags<u8>

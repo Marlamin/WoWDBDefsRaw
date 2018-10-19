@@ -1,52 +1,52 @@
 COLUMNS
-int ����
-locstring ����_lang
-locstring ����_lang
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+int FiltRaces
+locstring QuestTitle_lang
+locstring BulletText_lang
+int ID
+int UniqueBitFlag
+int ConditionID
+int FiltActiveQuest
+int FiltClasses
+int FiltCompletedQuestLogic
+int FiltMaxFactionID
+int FiltMaxFactionValue
+int FiltMaxLevel
+int FiltMinFactionID
+int FiltMinFactionValue
+int FiltMinLevel
+int FiltMinSkillID
+int FiltMinSkillValue
+int FiltNonActiveQuest
+int BreadCrumbID
+int StartItem
+int WorldStateExpressionID
+int QuestInfoID
+int ContentTuningID
+int FiltCompletedQuest
 
 LAYOUT C0387D4E
 BUILD 8.1.0.27826
-����<64>
-����_lang
-����_lang
-$id$����<u32>
-����<u16>
-����<u32>
-����<u32>
-����<16>
-����<u32>
-����<u32>
-����<u32>
-����<u32>
-����<u32>
-����<u32>
-����<u32>
-����<u32>
-����<u32>
-����<u32>
-����<u32>
-����<32>
-����<16>
-����<u32>
-����<32>
-����<u32>[3]
+FiltRaces<64>
+QuestTitle_lang
+BulletText_lang
+$id$ID<u32>
+UniqueBitFlag<u16>
+ConditionID<u32>
+FiltActiveQuest<u32>
+FiltClasses<16>
+FiltCompletedQuestLogic<u32>
+FiltMaxFactionID<u32>
+FiltMaxFactionValue<u32>
+FiltMaxLevel<u32>
+FiltMinFactionID<u32>
+FiltMinFactionValue<u32>
+FiltMinLevel<u32>
+FiltMinSkillID<u32>
+FiltMinSkillValue<u32>
+FiltNonActiveQuest<u32>
+BreadCrumbID<u32>
+StartItem<32>
+WorldStateExpressionID<16>
+QuestInfoID<u32>
+ContentTuningID<32>
+FiltCompletedQuest<u32>[3]

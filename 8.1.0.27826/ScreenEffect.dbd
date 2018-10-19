@@ -1,30 +1,30 @@
 COLUMNS
 int ID
-string ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+string name
+int param
+int effect
+int fullScreenEffectID
+int lightParamsID
+int lightParamsFadeIn
+int lightParamsFadeOut
+int soundAmbienceID
+int zoneMusicID
+int timeOfDayOverride
+int effectMask
+int lightFlags
 
 LAYOUT 7A371491
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����
-����<32>[4]
-����<8>
-����<u32>
-����<u16>
-����<u16>
-����<u16>
-����<u32>
-����<u32>
-����<16>
-����<8>
-����<u8>
+name
+param<32>[4]
+effect<8>
+fullScreenEffectID<u32>
+lightParamsID<u16>
+lightParamsFadeIn<u16>
+lightParamsFadeOut<u16>
+soundAmbienceID<u32>
+zoneMusicID<u32>
+timeOfDayOverride<16>
+effectMask<8>
+lightFlags<u8>

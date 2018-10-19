@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-string Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
+string name
+int plotType
+int hordeConstructObjID
+int allianceConstructObjID
+int flags
+int uiCategoryID
+int upgradeRequirement
 
 LAYOUT 3897880E
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000
-Field_8_1_0_27826_001<u8>
-Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<32>
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<u8>
-Field_8_1_0_27826_006<u32>[2]
+name
+plotType<u8>
+hordeConstructObjID<32>
+allianceConstructObjID<32>
+flags<u8>
+uiCategoryID<u8>
+upgradeRequirement<u32>[2]

@@ -1,80 +1,80 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-int Field_8_1_0_27826_015
-int Field_8_1_0_27826_016
-int Field_8_1_0_27826_017
-int Field_8_1_0_27826_018
-int Field_8_1_0_27826_019
-float Field_8_1_0_27826_020
-float Field_8_1_0_27826_021
-float Field_8_1_0_27826_022
-float Field_8_1_0_27826_023
-float Field_8_1_0_27826_024
-float Field_8_1_0_27826_025
-float Field_8_1_0_27826_026
-float Field_8_1_0_27826_027
-int Field_8_1_0_27826_028
-int Field_8_1_0_27826_029
-int Field_8_1_0_27826_030
-int Field_8_1_0_27826_031
-float Field_8_1_0_27826_032
-int Field_8_1_0_27826_033
-float Field_8_1_0_27826_034
-int Field_8_1_0_27826_035
-float Field_8_1_0_27826_036
+int lightParamID
+int time
+int directColor
+int ambientColor
+int skyTopColor
+int skyMiddleColor
+int skyBand1Color
+int skyBand2Color
+int skySmogColor
+int skyFogColor
+int sunColor
+int cloudSunColor
+int cloudEmissiveColor
+int cloudLayer1AmbientColor
+int cloudLayer2AmbientColor
+int oceanCloseColor
+int oceanFarColor
+int riverCloseColor
+int riverFarColor
+int shadowOpacity
+float fogEnd
+float fogScaler
+float fogDensity
+float fogHeight
+float fogHeightScaler
+float fogHeightDensity
+float sunFogAngle
+float cloudDensity
+int colorGradingFileDataID
+int horizonAmbientColor
+int groundAmbientColor
+int endFogColor
+float endFogColorDistance
+int sunFogColor
+float sunFogStrength
+int fogHeightColor
+float fogHeightCoefficients
 
 LAYOUT FCED593A
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-$relation$Field_8_1_0_27826_000<u16>
-Field_8_1_0_27826_001<u16>
-Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<32>
-Field_8_1_0_27826_004<32>
-Field_8_1_0_27826_005<32>
-Field_8_1_0_27826_006<32>
-Field_8_1_0_27826_007<32>
-Field_8_1_0_27826_008<32>
-Field_8_1_0_27826_009<32>
-Field_8_1_0_27826_010<32>
-Field_8_1_0_27826_011<32>
-Field_8_1_0_27826_012<32>
-Field_8_1_0_27826_013<32>
-Field_8_1_0_27826_014<32>
-Field_8_1_0_27826_015<32>
-Field_8_1_0_27826_016<32>
-Field_8_1_0_27826_017<32>
-Field_8_1_0_27826_018<32>
-Field_8_1_0_27826_019<32>
-Field_8_1_0_27826_020
-Field_8_1_0_27826_021
-Field_8_1_0_27826_022
-Field_8_1_0_27826_023
-Field_8_1_0_27826_024
-Field_8_1_0_27826_025
-Field_8_1_0_27826_026
-Field_8_1_0_27826_027
-Field_8_1_0_27826_028<u32>
-Field_8_1_0_27826_029<32>
-Field_8_1_0_27826_030<32>
-Field_8_1_0_27826_031<u32>
-Field_8_1_0_27826_032
-Field_8_1_0_27826_033<u32>
-Field_8_1_0_27826_034
-Field_8_1_0_27826_035<u32>
-Field_8_1_0_27826_036[4]
+$relation$lightParamID<u16>
+time<u16>
+directColor<32>
+ambientColor<32>
+skyTopColor<32>
+skyMiddleColor<32>
+skyBand1Color<32>
+skyBand2Color<32>
+skySmogColor<32>
+skyFogColor<32>
+sunColor<32>
+cloudSunColor<32>
+cloudEmissiveColor<32>
+cloudLayer1AmbientColor<32>
+cloudLayer2AmbientColor<32>
+oceanCloseColor<32>
+oceanFarColor<32>
+riverCloseColor<32>
+riverFarColor<32>
+shadowOpacity<32>
+fogEnd
+fogScaler
+fogDensity
+fogHeight
+fogHeightScaler
+fogHeightDensity
+sunFogAngle
+cloudDensity
+colorGradingFileDataID<u32>
+horizonAmbientColor<32>
+groundAmbientColor<32>
+endFogColor<u32>
+endFogColorDistance
+sunFogColor<u32>
+sunFogStrength
+fogHeightColor<u32>
+fogHeightCoefficients[4]

@@ -1,12 +1,12 @@
 COLUMNS
-int ����
-int ����
-int ����
-int ����
+int fileDataID
+int flags
+int lodCount
+int modelResourcesID
 
 LAYOUT 9C9B4543
 BUILD 8.1.0.27826
-$id$����<32>
-����<u8>
-����<u8>
-$relation$����<u32>
+$id$fileDataID<32>
+flags<u8>
+lodCount<u8>
+$relation$modelResourcesID<u32>

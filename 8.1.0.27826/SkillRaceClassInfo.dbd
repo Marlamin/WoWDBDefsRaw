@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
+int raceMask
+int skillID
+int classMask
+int flags
+int availability
+int minLevel
+int skillTierID
 
 LAYOUT 4CFD464E
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<64>
-$relation$Field_8_1_0_27826_001<16>
-Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<u16>
-Field_8_1_0_27826_004<8>
-Field_8_1_0_27826_005<8>
-Field_8_1_0_27826_006<16>
+raceMask<64>
+$relation$skillID<16>
+classMask<32>
+flags<u16>
+availability<8>
+minLevel<8>
+skillTierID<16>

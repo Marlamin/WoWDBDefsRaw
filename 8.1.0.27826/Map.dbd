@@ -1,50 +1,50 @@
 COLUMNS
 int ID
-string Field_8_1_0_27826_000
-locstring Field_8_1_0_27826_001_lang
-locstring Field_8_1_0_27826_002_lang
-locstring Field_8_1_0_27826_003_lang
-locstring Field_8_1_0_27826_004_lang
-locstring Field_8_1_0_27826_005_lang
-float Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-int Field_8_1_0_27826_015
-float Field_8_1_0_27826_016
-int Field_8_1_0_27826_017
-int Field_8_1_0_27826_018
-int Field_8_1_0_27826_019
-int Field_8_1_0_27826_020
-int Field_8_1_0_27826_021
+string Directory
+locstring MapName_lang
+locstring MapDescription0_lang
+locstring MapDescription1_lang
+locstring pvpShortDescription_lang
+locstring pvpLongDescription_lang
+float corpse
+int mapType
+int InstanceType
+int expansionID
+int areaTableID
+int loadingScreenID
+int timeOfDayOverride
+int parentMapID
+int cosmeticParentMapID
+int timeOffset
+float minimapIconScale
+int corpseMapID
+int maxPlayers
+int windSettingsID
+int zmpFileDataID
+int flags
 
 LAYOUT 503A3E58
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000
-Field_8_1_0_27826_001_lang
-Field_8_1_0_27826_002_lang
-Field_8_1_0_27826_003_lang
-Field_8_1_0_27826_004_lang
-Field_8_1_0_27826_005_lang
-Field_8_1_0_27826_006[2]
-Field_8_1_0_27826_007<u8>
-Field_8_1_0_27826_008<8>
-Field_8_1_0_27826_009<u8>
-Field_8_1_0_27826_010<u16>
-Field_8_1_0_27826_011<16>
-Field_8_1_0_27826_012<16>
-Field_8_1_0_27826_013<16>
-Field_8_1_0_27826_014<16>
-Field_8_1_0_27826_015<u8>
-Field_8_1_0_27826_016
-Field_8_1_0_27826_017<16>
-Field_8_1_0_27826_018<u8>
-Field_8_1_0_27826_019<16>
-Field_8_1_0_27826_020<32>
-Field_8_1_0_27826_021<32>[2]
+Directory
+MapName_lang
+MapDescription0_lang
+MapDescription1_lang
+pvpShortDescription_lang
+pvpLongDescription_lang
+corpse[2]
+mapType<u8>
+InstanceType<8>
+expansionID<u8>
+areaTableID<u16>
+loadingScreenID<16>
+timeOfDayOverride<16>
+parentMapID<16>
+cosmeticParentMapID<16>
+timeOffset<u8>
+minimapIconScale
+corpseMapID<16>
+maxPlayers<u8>
+windSettingsID<16>
+zmpFileDataID<32>
+flags<32>[2]

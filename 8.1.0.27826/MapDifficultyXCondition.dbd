@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
+locstring failureDescription_lang
+int playerConditionID
+int orderIndex
+int mapDifficultyID
 
 LAYOUT 8DBA5D16
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001<u32>
-Field_8_1_0_27826_002<32>
-$noninline,relation$Field_8_1_0_27826_003<u32>
+failureDescription_lang
+playerConditionID<u32>
+orderIndex<32>
+$noninline,relation$mapDifficultyID<u32>

@@ -1,94 +1,94 @@
 COLUMNS
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-float Field_8_1_0_27826_002
-float Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-float Field_8_1_0_27826_015
-float Field_8_1_0_27826_016
-float Field_8_1_0_27826_017
-float Field_8_1_0_27826_018
-float Field_8_1_0_27826_019
-float Field_8_1_0_27826_020
-float Field_8_1_0_27826_021
-float Field_8_1_0_27826_022
-float Field_8_1_0_27826_023
-int Field_8_1_0_27826_024
-int Field_8_1_0_27826_025
-float Field_8_1_0_27826_026
-float Field_8_1_0_27826_027
-float Field_8_1_0_27826_028
-int Field_8_1_0_27826_029
-int Field_8_1_0_27826_030
-int Field_8_1_0_27826_031
-int Field_8_1_0_27826_032
-int Field_8_1_0_27826_033
-int Field_8_1_0_27826_034
-int Field_8_1_0_27826_035
-int Field_8_1_0_27826_036
-int Field_8_1_0_27826_037
-int Field_8_1_0_27826_038
-int Field_8_1_0_27826_039
-int Field_8_1_0_27826_040
-int Field_8_1_0_27826_041
-float Field_8_1_0_27826_042
-int Field_8_1_0_27826_043
-float Field_8_1_0_27826_044
+int ID
+int soundKitID
+float innerRadius2D
+float outerRadius2D
+int timeA
+int timeB
+int timeC
+int timeD
+int randomOffsetRange
+int usage
+int timeIntervalMin
+int timeIntervalMax
+int delayMin
+int delayMax
+int volumeSliderCategory
+float duckToSFX
+float duckToMusic
+float duckToAmbience
+float duckToDialog
+float duckToSuppressors
+float duckToCinematicSFX
+float duckToCinematicMusic
+float innerRadiusOfInfluence
+float outerRadiusOfInfluence
+int timeToDuck
+int timeToUnduck
+float insideAngle
+float outsideAngle
+float outsideVolume
+int minRandomPosOffset
+int maxRandomPosOffset
+int msOffset
+int timeCooldownMin
+int timeCooldownMax
+int maxInstancesBehavior
+int volumeControlType
+int volumeFadeInTimeMin
+int volumeFadeInTimeMax
+int volumeFadeInCurveID
+int volumeFadeOutTimeMin
+int volumeFadeOutTimeMax
+int volumeFadeOutCurveID
+float chanceToPlay
+int rolloffType
+float rolloffParam0
 
 LAYOUT BB12AB0C
 BUILD 8.1.0.27826
-$id$Field_8_1_0_27826_000<32>
-Field_8_1_0_27826_001<u32>
-Field_8_1_0_27826_002
-Field_8_1_0_27826_003
-Field_8_1_0_27826_004<u32>
-Field_8_1_0_27826_005<u32>
-Field_8_1_0_27826_006<u32>
-Field_8_1_0_27826_007<u32>
-Field_8_1_0_27826_008<32>
-Field_8_1_0_27826_009<8>
-Field_8_1_0_27826_010<u32>
-Field_8_1_0_27826_011<u32>
-Field_8_1_0_27826_012<u32>
-Field_8_1_0_27826_013<u32>
-Field_8_1_0_27826_014<u8>
-Field_8_1_0_27826_015
-Field_8_1_0_27826_016
-Field_8_1_0_27826_017
-Field_8_1_0_27826_018
-Field_8_1_0_27826_019
-Field_8_1_0_27826_020
-Field_8_1_0_27826_021
-Field_8_1_0_27826_022
-Field_8_1_0_27826_023
-Field_8_1_0_27826_024<u32>
-Field_8_1_0_27826_025<u32>
-Field_8_1_0_27826_026
-Field_8_1_0_27826_027
-Field_8_1_0_27826_028
-Field_8_1_0_27826_029<u8>
-Field_8_1_0_27826_030<u16>
-Field_8_1_0_27826_031<32>
-Field_8_1_0_27826_032<u32>
-Field_8_1_0_27826_033<u32>
-Field_8_1_0_27826_034<u8>
-Field_8_1_0_27826_035<u8>
-Field_8_1_0_27826_036<32>
-Field_8_1_0_27826_037<32>
-Field_8_1_0_27826_038<u32>
-Field_8_1_0_27826_039<32>
-Field_8_1_0_27826_040<32>
-Field_8_1_0_27826_041<u32>
-Field_8_1_0_27826_042
-Field_8_1_0_27826_043<32>
-Field_8_1_0_27826_044
+$id$ID<32>
+soundKitID<u32>
+innerRadius2D
+outerRadius2D
+timeA<u32>
+timeB<u32>
+timeC<u32>
+timeD<u32>
+randomOffsetRange<32>
+usage<8>
+timeIntervalMin<u32>
+timeIntervalMax<u32>
+delayMin<u32>
+delayMax<u32>
+volumeSliderCategory<u8>
+duckToSFX
+duckToMusic
+duckToAmbience
+duckToDialog
+duckToSuppressors
+duckToCinematicSFX
+duckToCinematicMusic
+innerRadiusOfInfluence
+outerRadiusOfInfluence
+timeToDuck<u32>
+timeToUnduck<u32>
+insideAngle
+outsideAngle
+outsideVolume
+minRandomPosOffset<u8>
+maxRandomPosOffset<u16>
+msOffset<32>
+timeCooldownMin<u32>
+timeCooldownMax<u32>
+maxInstancesBehavior<u8>
+volumeControlType<u8>
+volumeFadeInTimeMin<32>
+volumeFadeInTimeMax<32>
+volumeFadeInCurveID<u32>
+volumeFadeOutTimeMin<32>
+volumeFadeOutTimeMax<32>
+volumeFadeOutCurveID<u32>
+chanceToPlay
+rolloffType<32>
+rolloffParam0

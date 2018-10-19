@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int ����
-int ����
-int ����
+int red
+int blue
+int green
 
 LAYOUT CC5FFB4D
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<u8>
-����<u8>
-����<u8>
+red<u8>
+blue<u8>
+green<u8>

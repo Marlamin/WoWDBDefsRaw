@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-string ����
-int ����
-int ����
+string paramLabel
+int battlePetVisualID
+int paramTypeEnum
 
 LAYOUT A2D4ADF5
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����[6]
-����<u16>
-����<u8>[6]
+paramLabel[6]
+battlePetVisualID<u16>
+paramTypeEnum<u8>[6]

@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
+int fileDataID
+int minimapAtlasMemberID
+int attachPoint
+int passiveHighlightColorType
+int priority
+int flags
 
 LAYOUT 58E79FBF
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u32>
-Field_8_1_0_27826_001<u16>
-Field_8_1_0_27826_002<u8>
-Field_8_1_0_27826_003<u8>
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<u8>
+fileDataID<u32>
+minimapAtlasMemberID<u16>
+attachPoint<u8>
+passiveHighlightColorType<u8>
+priority<u8>
+flags<u8>

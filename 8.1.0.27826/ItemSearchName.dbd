@@ -1,32 +1,32 @@
 COLUMNS
-int Field_8_1_0_27826_000
-locstring Field_8_1_0_27826_001_lang
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
+int allowableRace
+locstring display_lang
+int ID
+int overallQualityID
+int expansionID
+int minFactionID
+int minReputation
+int allowableClass
+int requiredLevel
+int requiredSkill
+int requiredSkillRank
+int requiredAbility
+int itemLevel
+int flags
 
 LAYOUT F0940AFC
 BUILD 8.1.0.27826
-Field_8_1_0_27826_000<64>
-Field_8_1_0_27826_001_lang
-$id$Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<u8>
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<u16>
-Field_8_1_0_27826_006<u8>
-Field_8_1_0_27826_007<32>
-Field_8_1_0_27826_008<8>
-Field_8_1_0_27826_009<u16>
-Field_8_1_0_27826_010<u16>
-Field_8_1_0_27826_011<u32>
-Field_8_1_0_27826_012<u16>
-Field_8_1_0_27826_013<32>[4]
+allowableRace<64>
+display_lang
+$id$ID<32>
+overallQualityID<u8>
+expansionID<u8>
+minFactionID<u16>
+minReputation<u8>
+allowableClass<32>
+requiredLevel<8>
+requiredSkill<u16>
+requiredSkillRank<u16>
+requiredAbility<u32>
+itemLevel<u16>
+flags<32>[4]

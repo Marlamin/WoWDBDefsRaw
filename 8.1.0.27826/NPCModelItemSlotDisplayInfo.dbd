@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int ����
-int ����
-int ����
+int itemDisplayInfoID
+int itemSlot
+int npcModelID
 
 LAYOUT B8EC2628
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<32>
-����<8>
-$noninline,relation$����<32>
+itemDisplayInfoID<32>
+itemSlot<8>
+$noninline,relation$npcModelID<32>

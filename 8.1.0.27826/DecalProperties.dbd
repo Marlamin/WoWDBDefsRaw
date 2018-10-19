@@ -1,40 +1,40 @@
 COLUMNS
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-float Field_8_1_0_27826_004
-float Field_8_1_0_27826_005
-float Field_8_1_0_27826_006
-float Field_8_1_0_27826_007
-float Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-float Field_8_1_0_27826_010
-float Field_8_1_0_27826_011
-float Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-int Field_8_1_0_27826_015
-int Field_8_1_0_27826_016
-float Field_8_1_0_27826_017
+int ID
+int fileDataID
+int topTextureBlendSetID
+int botTextureBlendSetID
+float modX
+float innerRadius
+float outerRadius
+float rim
+float gain
+int flags
+float scale
+float fadeIn
+float fadeOut
+int priority
+int blendMode
+int gameFlags
+int casterDecalPropertiesID
+float arbitraryBoxHeight
 
 LAYOUT B11F3B40
 BUILD 8.1.0.27826
-$id$Field_8_1_0_27826_000<32>
-Field_8_1_0_27826_001<32>
-Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<32>
-Field_8_1_0_27826_004
-Field_8_1_0_27826_005
-Field_8_1_0_27826_006
-Field_8_1_0_27826_007
-Field_8_1_0_27826_008
-Field_8_1_0_27826_009<32>
-Field_8_1_0_27826_010
-Field_8_1_0_27826_011
-Field_8_1_0_27826_012
-Field_8_1_0_27826_013<u8>
-Field_8_1_0_27826_014<u8>
-Field_8_1_0_27826_015<32>
-Field_8_1_0_27826_016<32>
-Field_8_1_0_27826_017
+$id$ID<32>
+fileDataID<32>
+topTextureBlendSetID<32>
+botTextureBlendSetID<32>
+modX
+innerRadius
+outerRadius
+rim
+gain
+flags<32>
+scale
+fadeIn
+fadeOut
+priority<u8>
+blendMode<u8>
+gameFlags<32>
+casterDecalPropertiesID<32>
+arbitraryBoxHeight

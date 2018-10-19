@@ -1,14 +1,14 @@
 COLUMNS
-float Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
+float mapOffset
+int ID
+int garrBuildingID
+int garrSiteLevelPlotInstID
+int uiTextureAtlasMemberID
 
 LAYOUT FB61E627
 BUILD 8.1.0.27826
-Field_8_1_0_27826_000[2]
-$id$Field_8_1_0_27826_001<32>
-$relation$Field_8_1_0_27826_002<u8>
-Field_8_1_0_27826_003<u16>
-Field_8_1_0_27826_004<u16>
+mapOffset[2]
+$id$ID<32>
+$relation$garrBuildingID<u8>
+garrSiteLevelPlotInstID<u16>
+uiTextureAtlasMemberID<u16>

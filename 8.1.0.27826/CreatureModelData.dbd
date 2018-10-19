@@ -1,62 +1,62 @@
 COLUMNS
 int ID
-float ����
-int ����
-int ����
-int ����
-int ����
-float ����
-float ����
-float ����
-int ����
-int ����
-int ����
-int ����
-int ����
-float ����
-float ����
-float ����
-int ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
-float ����
+float geoBox
+int flags
+int fileDataID
+int bloodID
+int footprintTextureID
+float footprintTextureLength
+float footprintTextureWidth
+float footprintParticleScale
+int foleyMaterialID
+int footstepCameraEffectID
+int deathThudCameraEffectID
+int soundID
+int sizeClass
+float collisionWidth
+float collisionHeight
+float worldEffectScale
+int creatureGeosetDataID
+float hoverHeight
+float attachedEffectScale
+float modelScale
+float missileCollisionRadius
+float missileCollisionPush
+float missileCollisionRaise
+float mountHeight
+float overrideLootEffectScale
+float overrideNameScale
+float overrideSelectionRadius
+float tamedPetBaseScale
 
 LAYOUT F61D550A
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����[6]
-����<u32>
-����<u32>
-����<u32>
-����<u32>
-����
-����
-����
-����<u32>
-����<u32>
-����<u32>
-����<u32>
-����<u32>
-����
-����
-����
-����<u32>
-����
-����
-����
-����
-����
-����
-����
-����
-����
-����
-����
+geoBox[6]
+flags<u32>
+fileDataID<u32>
+bloodID<u32>
+footprintTextureID<u32>
+footprintTextureLength
+footprintTextureWidth
+footprintParticleScale
+foleyMaterialID<u32>
+footstepCameraEffectID<u32>
+deathThudCameraEffectID<u32>
+soundID<u32>
+sizeClass<u32>
+collisionWidth
+collisionHeight
+worldEffectScale
+creatureGeosetDataID<u32>
+hoverHeight
+attachedEffectScale
+modelScale
+missileCollisionRadius
+missileCollisionPush
+missileCollisionRaise
+mountHeight
+overrideLootEffectScale
+overrideNameScale
+overrideSelectionRadius
+tamedPetBaseScale

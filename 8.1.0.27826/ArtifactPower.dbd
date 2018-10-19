@@ -1,18 +1,18 @@
 COLUMNS
-float ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+float displayPos
+int ID
+int artifactID
+int maxPurchasableRank
+int label
+int flags
+int tier
 
 LAYOUT 1F7637C8
 BUILD 8.1.0.27826
-����[2]
-$id$����<32>
-$relation$����<u8>
-����<u8>
-����<32>
-����<u8>
-����<u8>
+displayPos[2]
+$id$ID<32>
+$relation$artifactID<u8>
+maxPurchasableRank<u8>
+label<32>
+flags<u8>
+tier<u8>

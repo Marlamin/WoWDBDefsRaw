@@ -1,24 +1,24 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
+locstring description_lang
+int tierID
+int flags
+int columnIndex
+int classID
+int specID
+int spellID
+int overridesSpellID
+int categoryMask
 
 LAYOUT 2661E6C2
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001<u8>
-Field_8_1_0_27826_002<u8>
-Field_8_1_0_27826_003<u8>
-Field_8_1_0_27826_004<u8>
-Field_8_1_0_27826_005<u16>
-Field_8_1_0_27826_006<u32>
-Field_8_1_0_27826_007<u32>
-Field_8_1_0_27826_008<u8>[2]
+description_lang
+tierID<u8>
+flags<u8>
+columnIndex<u8>
+classID<u8>
+specID<u16>
+spellID<u32>
+overridesSpellID<u32>
+categoryMask<u8>[2]

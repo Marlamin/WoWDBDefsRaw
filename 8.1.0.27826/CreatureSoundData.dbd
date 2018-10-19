@@ -1,80 +1,80 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-int Field_8_1_0_27826_015
-int Field_8_1_0_27826_016
-int Field_8_1_0_27826_017
-int Field_8_1_0_27826_018
-int Field_8_1_0_27826_019
-int Field_8_1_0_27826_020
-int Field_8_1_0_27826_021
-int Field_8_1_0_27826_022
-int Field_8_1_0_27826_023
-int Field_8_1_0_27826_024
-int Field_8_1_0_27826_025
-int Field_8_1_0_27826_026
-int Field_8_1_0_27826_027
-int Field_8_1_0_27826_028
-int Field_8_1_0_27826_029
-int Field_8_1_0_27826_030
-float Field_8_1_0_27826_031
-float Field_8_1_0_27826_032
-int Field_8_1_0_27826_033
-int Field_8_1_0_27826_034
-int Field_8_1_0_27826_035
-int Field_8_1_0_27826_036
+int soundExertionID
+int soundExertionCriticalID
+int soundInjuryID
+int soundInjuryCriticalID
+int soundInjuryCrushingBlowID
+int soundDeathID
+int soundStunID
+int soundStandID
+int soundFootstepID
+int soundAggroID
+int soundWingFlapID
+int soundWingGlideID
+int soundAlertID
+int soundJumpStartID
+int soundJumpEndID
+int soundPetAttackID
+int soundPetOrderID
+int soundPetDismissID
+int loopSoundID
+int birthSoundID
+int spellCastDirectedSoundID
+int submergeSoundID
+int submergedSoundID
+int windupSoundID
+int windupCriticalSoundID
+int chargeSoundID
+int chargeCriticalSoundID
+int battleShoutSoundID
+int battleShoutCriticalSoundID
+int tauntSoundID
+int creatureSoundDataIDPet
+float fidgetDelaySecondsMin
+float fidgetDelaySecondsMax
+int creatureImpactType
+int NPCSoundID
+int soundFidget
+int customAttack
 
 LAYOUT A58BDB91
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u32>
-Field_8_1_0_27826_001<u32>
-Field_8_1_0_27826_002<u32>
-Field_8_1_0_27826_003<u32>
-Field_8_1_0_27826_004<u32>
-Field_8_1_0_27826_005<u32>
-Field_8_1_0_27826_006<u32>
-Field_8_1_0_27826_007<u32>
-Field_8_1_0_27826_008<u32>
-Field_8_1_0_27826_009<u32>
-Field_8_1_0_27826_010<u32>
-Field_8_1_0_27826_011<u32>
-Field_8_1_0_27826_012<u32>
-Field_8_1_0_27826_013<u32>
-Field_8_1_0_27826_014<u32>
-Field_8_1_0_27826_015<u32>
-Field_8_1_0_27826_016<u32>
-Field_8_1_0_27826_017<u32>
-Field_8_1_0_27826_018<u32>
-Field_8_1_0_27826_019<u32>
-Field_8_1_0_27826_020<u32>
-Field_8_1_0_27826_021<u32>
-Field_8_1_0_27826_022<u32>
-Field_8_1_0_27826_023<u32>
-Field_8_1_0_27826_024<u32>
-Field_8_1_0_27826_025<u32>
-Field_8_1_0_27826_026<u32>
-Field_8_1_0_27826_027<u32>
-Field_8_1_0_27826_028<u32>
-Field_8_1_0_27826_029<u32>
-Field_8_1_0_27826_030<u32>
-Field_8_1_0_27826_031
-Field_8_1_0_27826_032
-Field_8_1_0_27826_033<u8>
-Field_8_1_0_27826_034<u32>
-Field_8_1_0_27826_035<u32>[5]
-Field_8_1_0_27826_036<u32>[4]
+soundExertionID<u32>
+soundExertionCriticalID<u32>
+soundInjuryID<u32>
+soundInjuryCriticalID<u32>
+soundInjuryCrushingBlowID<u32>
+soundDeathID<u32>
+soundStunID<u32>
+soundStandID<u32>
+soundFootstepID<u32>
+soundAggroID<u32>
+soundWingFlapID<u32>
+soundWingGlideID<u32>
+soundAlertID<u32>
+soundJumpStartID<u32>
+soundJumpEndID<u32>
+soundPetAttackID<u32>
+soundPetOrderID<u32>
+soundPetDismissID<u32>
+loopSoundID<u32>
+birthSoundID<u32>
+spellCastDirectedSoundID<u32>
+submergeSoundID<u32>
+submergedSoundID<u32>
+windupSoundID<u32>
+windupCriticalSoundID<u32>
+chargeSoundID<u32>
+chargeCriticalSoundID<u32>
+battleShoutSoundID<u32>
+battleShoutCriticalSoundID<u32>
+tauntSoundID<u32>
+creatureSoundDataIDPet<u32>
+fidgetDelaySecondsMin
+fidgetDelaySecondsMax
+creatureImpactType<u8>
+NPCSoundID<u32>
+soundFidget<u32>[5]
+customAttack<u32>[4]

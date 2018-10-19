@@ -1,34 +1,34 @@
 COLUMNS
-locstring Field_8_1_0_27826_000_lang
-locstring Field_8_1_0_27826_001_lang
-locstring Field_8_1_0_27826_002_lang
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
+locstring description_lang
+locstring title_lang
+locstring reward_lang
+int ID
+int instance_ID
+int faction
+int supercedes
+int category
+int minimum_criteria
+int points
+int flags
+int ui_order
+int iconFileID
+int criteria_tree
+int shares_criteria
 
 LAYOUT 13CB7BEE
 BUILD 8.1.0.27826
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001_lang
-Field_8_1_0_27826_002_lang
-$id$Field_8_1_0_27826_003<32>
-Field_8_1_0_27826_004<16>
-Field_8_1_0_27826_005<8>
-Field_8_1_0_27826_006<16>
-Field_8_1_0_27826_007<16>
-Field_8_1_0_27826_008<8>
-Field_8_1_0_27826_009<8>
-Field_8_1_0_27826_010<32>
-$relation$Field_8_1_0_27826_011<16>
-Field_8_1_0_27826_012<32>
-Field_8_1_0_27826_013<u32>
-Field_8_1_0_27826_014<16>
+description_lang
+title_lang
+reward_lang
+$id$ID<32>
+instance_ID<16>
+faction<8>
+supercedes<16>
+category<16>
+minimum_criteria<8>
+points<8>
+flags<32>
+$relation$ui_order<16>
+iconFileID<32>
+criteria_tree<u32>
+shares_criteria<16>

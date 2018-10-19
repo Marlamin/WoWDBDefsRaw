@@ -1,28 +1,28 @@
 COLUMNS
-locstring Field_8_1_0_27826_000_lang
-float Field_8_1_0_27826_001
-float Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-float Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
+locstring name_lang
+float pos
+float rot
+int ID
+int ownerID
+int displayID
+float scale
+int typeID
+int phaseUseFlags
+int phaseID
+int phaseGroupID
+int propValue
 
 LAYOUT 0995B956
 BUILD 8.1.0.27826
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001[3]
-Field_8_1_0_27826_002[4]
-$id$Field_8_1_0_27826_003<32>
-$relation$Field_8_1_0_27826_004<u16>
-Field_8_1_0_27826_005<u16>
-Field_8_1_0_27826_006
-Field_8_1_0_27826_007<u8>
-Field_8_1_0_27826_008<u8>
-Field_8_1_0_27826_009<u16>
-Field_8_1_0_27826_010<u16>
-Field_8_1_0_27826_011<32>[8]
+name_lang
+pos[3]
+rot[4]
+$id$ID<32>
+$relation$ownerID<u16>
+displayID<u16>
+scale
+typeID<u8>
+phaseUseFlags<u8>
+phaseID<u16>
+phaseGroupID<u16>
+propValue<32>[8]

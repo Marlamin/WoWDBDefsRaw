@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
+int azeritePowerID
+int Class
+int tier
+int orderIndex
+int azeritePowerSetID
 
 LAYOUT DB24A281
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u16>
-Field_8_1_0_27826_001<u8>
-Field_8_1_0_27826_002<u8>
-Field_8_1_0_27826_003<u8>
-$noninline,relation$Field_8_1_0_27826_004<u16>
+azeritePowerID<u16>
+Class<u8>
+tier<u8>
+orderIndex<u8>
+$noninline,relation$azeritePowerSetID<u16>

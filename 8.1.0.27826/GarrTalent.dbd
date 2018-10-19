@@ -1,44 +1,44 @@
 COLUMNS
-locstring Field_8_1_0_27826_000_lang
-locstring Field_8_1_0_27826_001_lang
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
-int Field_8_1_0_27826_011
-int Field_8_1_0_27826_012
-int Field_8_1_0_27826_013
-int Field_8_1_0_27826_014
-int Field_8_1_0_27826_015
-int Field_8_1_0_27826_016
-int Field_8_1_0_27826_017
-int Field_8_1_0_27826_018
-int Field_8_1_0_27826_019
+locstring name_lang
+locstring description_lang
+int ID
+int garrTalentTreeID
+int tier
+int uiOrder
+int iconFileDataID
+int playerConditionID
+int garrAbilityID
+int perkSpellID
+int perkPlayerConditionID
+int researchDurationSecs
+int researchGoldCost
+int researchCost
+int researchCostCurrencyTypesID
+int respecDurationSecs
+int respecGoldCost
+int respecCost
+int respecCostCurrencyTypesID
+int flags
 
 LAYOUT 96BE787E
 BUILD 8.1.0.27826
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001_lang
-$id$Field_8_1_0_27826_002<32>
-$relation$Field_8_1_0_27826_003<u32>
-Field_8_1_0_27826_004<8>
-Field_8_1_0_27826_005<8>
-Field_8_1_0_27826_006<32>
-Field_8_1_0_27826_007<u32>
-Field_8_1_0_27826_008<u32>
-Field_8_1_0_27826_009<u32>
-Field_8_1_0_27826_010<u32>
-Field_8_1_0_27826_011<32>
-Field_8_1_0_27826_012<32>
-Field_8_1_0_27826_013<32>
-Field_8_1_0_27826_014<u32>
-Field_8_1_0_27826_015<32>
-Field_8_1_0_27826_016<32>
-Field_8_1_0_27826_017<32>
-Field_8_1_0_27826_018<u32>
-Field_8_1_0_27826_019<8>
+name_lang
+description_lang
+$id$ID<32>
+$relation$garrTalentTreeID<u32>
+tier<8>
+uiOrder<8>
+iconFileDataID<32>
+playerConditionID<u32>
+garrAbilityID<u32>
+perkSpellID<u32>
+perkPlayerConditionID<u32>
+researchDurationSecs<32>
+researchGoldCost<32>
+researchCost<32>
+researchCostCurrencyTypesID<u32>
+respecDurationSecs<32>
+respecGoldCost<32>
+respecCost<32>
+respecCostCurrencyTypesID<u32>
+flags<8>

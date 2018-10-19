@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
+int battlePetSpeciesID
+int playerConditionID
+int creatureDisplayInfoID
+int priorityCategory
 
 LAYOUT 6F9CB092
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<u32>
-Field_8_1_0_27826_001<u32>
-Field_8_1_0_27826_002<u32>
-Field_8_1_0_27826_003<u8>
+battlePetSpeciesID<u32>
+playerConditionID<u32>
+creatureDisplayInfoID<u32>
+priorityCategory<u8>

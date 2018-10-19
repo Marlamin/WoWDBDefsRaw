@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-int ����
+int flags
 
 LAYOUT BE34F649
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<16>
+flags<16>

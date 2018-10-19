@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-string Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
+string tablename
+int object_id
+int flags
 
 LAYOUT B67D3F47
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000
-Field_8_1_0_27826_001<32>
-Field_8_1_0_27826_002<32>
+tablename
+object_id<32>
+flags<32>

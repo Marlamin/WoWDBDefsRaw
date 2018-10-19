@@ -1,28 +1,28 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-locstring Field_8_1_0_27826_001_lang
-locstring Field_8_1_0_27826_002_lang
-locstring Field_8_1_0_27826_003_lang
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-float Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
+locstring name_lang
+locstring nameAlt_lang
+locstring title_lang
+locstring titleAlt_lang
+int classification
+int creatureType
+int creatureFamily
+int startAnimState
+int displayID
+float displayProbability
+int AlwaysItem
 
 LAYOUT 0D492BF3
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001_lang
-Field_8_1_0_27826_002_lang
-Field_8_1_0_27826_003_lang
-Field_8_1_0_27826_004<8>
-Field_8_1_0_27826_005<u8>
-Field_8_1_0_27826_006<u16>
-Field_8_1_0_27826_007<u8>
-Field_8_1_0_27826_008<32>[4]
-Field_8_1_0_27826_009[4]
-Field_8_1_0_27826_010<32>[3]
+name_lang
+nameAlt_lang
+title_lang
+titleAlt_lang
+classification<8>
+creatureType<u8>
+creatureFamily<u16>
+startAnimState<u8>
+displayID<32>[4]
+displayProbability[4]
+AlwaysItem<32>[3]

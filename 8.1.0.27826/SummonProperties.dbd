@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
+int control
+int faction
+int title
+int slot
+int flags
 
 LAYOUT 4134937A
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000<32>
-Field_8_1_0_27826_001<32>
-Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<32>
-Field_8_1_0_27826_004<32>
+control<32>
+faction<32>
+title<32>
+slot<32>
+flags<32>

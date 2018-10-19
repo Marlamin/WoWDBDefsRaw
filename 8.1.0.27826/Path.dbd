@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+int type
+int splineType
+int red
+int green
+int blue
+int alpha
+int flags
 
 LAYOUT 3551690B
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<u8>
-����<u8>
-����<u8>
-����<u8>
-����<u8>
-����<u8>
-����<u8>
+type<u8>
+splineType<u8>
+red<u8>
+green<u8>
+blue<u8>
+alpha<u8>
+flags<u8>

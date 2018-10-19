@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
+locstring InfoName_lang
+int Type
+int Modifiers
+int Profession
 
 LAYOUT DDB38B83
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001<8>
-Field_8_1_0_27826_002<u8>
-Field_8_1_0_27826_003<u16>
+InfoName_lang
+Type<8>
+Modifiers<u8>
+Profession<u16>

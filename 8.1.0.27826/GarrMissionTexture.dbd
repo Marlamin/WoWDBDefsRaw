@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-float Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
+float pos_
+int uiTextureKitID
 
 LAYOUT 0D378464
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000[2]
-Field_8_1_0_27826_001<u16>
+pos_[2]
+uiTextureKitID<u16>

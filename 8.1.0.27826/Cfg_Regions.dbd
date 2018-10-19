@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-string Field_8_1_0_27826_000
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
+string tag
+int region_ID
+int raidorigin
+int region_group_mask
+int challenge_origin
 
 LAYOUT 0125202F
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000
-Field_8_1_0_27826_001<u16>
-Field_8_1_0_27826_002<u32>
-Field_8_1_0_27826_003<u8>
-Field_8_1_0_27826_004<u32>
+tag
+region_ID<u16>
+raidorigin<u32>
+region_group_mask<u8>
+challenge_origin<u32>

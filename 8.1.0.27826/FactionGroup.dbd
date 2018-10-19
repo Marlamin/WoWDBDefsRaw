@@ -1,16 +1,16 @@
 COLUMNS
-string Field_8_1_0_27826_000
-locstring Field_8_1_0_27826_001_lang
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
+string internalName
+locstring name_lang
+int ID
+int maskID
+int honorCurrencyTextureFileID
+int conquestCurrencyTextureFileID
 
 LAYOUT B9B4369B
 BUILD 8.1.0.27826
-Field_8_1_0_27826_000
-Field_8_1_0_27826_001_lang
-$id$Field_8_1_0_27826_002<32>
-Field_8_1_0_27826_003<u8>
-Field_8_1_0_27826_004<32>
-Field_8_1_0_27826_005<32>
+internalName
+name_lang
+$id$ID<32>
+maskID<u8>
+honorCurrencyTextureFileID<32>
+conquestCurrencyTextureFileID<32>

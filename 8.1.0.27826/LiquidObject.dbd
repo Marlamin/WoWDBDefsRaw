@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-float Field_8_1_0_27826_000
-float Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
+float flowDirection
+float flowSpeed
+int liquidTypeID
+int fishable
+int reflection
 
 LAYOUT 7AF380AA
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000
-Field_8_1_0_27826_001
-Field_8_1_0_27826_002<16>
-Field_8_1_0_27826_003<u8>
-Field_8_1_0_27826_004<u8>
+flowDirection
+flowSpeed
+liquidTypeID<16>
+fishable<u8>
+reflection<u8>

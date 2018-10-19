@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int ����
-float ����
-float ����
-int ����
+int virtualSeatIndex
+float xPos
+float yPos
+int vehicleUIIndicatorID
 
 LAYOUT 590E3162
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<u8>
-����
-����
-$noninline,relation$����<u16>
+virtualSeatIndex<u8>
+xPos
+yPos
+$noninline,relation$vehicleUIIndicatorID<u16>

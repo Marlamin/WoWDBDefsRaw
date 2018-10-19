@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-int Field_8_1_0_27826_001
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
+locstring name_lang
+int setFlags
+int requiredSkill
+int requiredSkillRank
+int itemID
 
 LAYOUT B02A9041
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001<u32>
-Field_8_1_0_27826_002<u32>
-Field_8_1_0_27826_003<u16>
-Field_8_1_0_27826_004<u32>[17]
+name_lang
+setFlags<u32>
+requiredSkill<u32>
+requiredSkillRank<u16>
+itemID<u32>[17]

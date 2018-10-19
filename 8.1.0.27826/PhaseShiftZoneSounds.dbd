@@ -1,32 +1,32 @@
 COLUMNS
 int ID
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+int areaID
+int wmoAreaID
+int phaseID
+int phaseGroupID
+int phaseUseFlags
+int zoneIntroMusicID
+int zoneMusicID
+int soundAmbienceID
+int soundProviderPreferencesID
+int uwZoneIntroMusicID
+int uwZoneMusicID
+int uwSoundAmbienceID
+int uwSoundProviderPreferencesID
 
 LAYOUT 7CA0A010
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-����<u16>
-����<u8>
-����<u16>
-����<u16>
-����<u8>
-����<u32>
-����<u32>
-����<u16>
-����<u8>
-����<u32>
-����<u32>
-����<u16>
-����<u8>
+areaID<u16>
+wmoAreaID<u8>
+phaseID<u16>
+phaseGroupID<u16>
+phaseUseFlags<u8>
+zoneIntroMusicID<u32>
+zoneMusicID<u32>
+soundAmbienceID<u16>
+soundProviderPreferencesID<u8>
+uwZoneIntroMusicID<u32>
+uwZoneMusicID<u32>
+uwSoundAmbienceID<u16>
+uwSoundProviderPreferencesID<u8>

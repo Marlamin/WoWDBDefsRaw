@@ -1,28 +1,28 @@
 COLUMNS
 int ID
-locstring Field_8_1_0_27826_000_lang
-locstring Field_8_1_0_27826_001_lang
-int Field_8_1_0_27826_002
-int Field_8_1_0_27826_003
-int Field_8_1_0_27826_004
-int Field_8_1_0_27826_005
-int Field_8_1_0_27826_006
-int Field_8_1_0_27826_007
-int Field_8_1_0_27826_008
-int Field_8_1_0_27826_009
-int Field_8_1_0_27826_010
+locstring description_lang
+locstring title_lang
+int scenarioID
+int criteriatreeid
+int rewardQuestID
+int relatedStep
+int supersedes
+int orderIndex
+int flags
+int visibilityPlayerConditionID
+int widgetSetID
 
 LAYOUT 8FF5E1E6
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Field_8_1_0_27826_000_lang
-Field_8_1_0_27826_001_lang
-$relation$Field_8_1_0_27826_002<u16>
-Field_8_1_0_27826_003<u32>
-Field_8_1_0_27826_004<u16>
-Field_8_1_0_27826_005<32>
-Field_8_1_0_27826_006<u16>
-Field_8_1_0_27826_007<u8>
-Field_8_1_0_27826_008<u8>
-Field_8_1_0_27826_009<u32>
-Field_8_1_0_27826_010<u16>
+description_lang
+title_lang
+$relation$scenarioID<u16>
+criteriatreeid<u32>
+rewardQuestID<u16>
+relatedStep<32>
+supersedes<u16>
+orderIndex<u8>
+flags<u8>
+visibilityPlayerConditionID<u32>
+widgetSetID<u16>
