@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-string ����
-int ����
+string Field_8_1_0_28151_000
+int Field_8_1_0_28151_001
 
 LAYOUT AF5F92A6
 BUILD 8.1.0.28151
 $noninline,id$ID<32>
-����
-����<8>
+Field_8_1_0_28151_000
+Field_8_1_0_28151_001<8>

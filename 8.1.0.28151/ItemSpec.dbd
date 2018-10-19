@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+int Field_8_1_0_28151_000
+int Field_8_1_0_28151_001
+int Field_8_1_0_28151_002
+int Field_8_1_0_28151_003
+int Field_8_1_0_28151_004
+int Field_8_1_0_28151_005
 
 LAYOUT EB138F8E
 BUILD 8.1.0.28151
 $noninline,id$ID<32>
-����<u8>
-����<u8>
-$relation$����<u8>
-����<u8>
-����<u8>
-����<u16>
+Field_8_1_0_28151_000<u8>
+Field_8_1_0_28151_001<u8>
+$relation$Field_8_1_0_28151_002<u8>
+Field_8_1_0_28151_003<u8>
+Field_8_1_0_28151_004<u8>
+Field_8_1_0_28151_005<u16>

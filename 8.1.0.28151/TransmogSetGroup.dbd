@@ -1,8 +1,8 @@
 COLUMNS
-locstring ����_lang
-int ����
+locstring Field_8_1_0_28151_000_lang
+int Field_8_1_0_28151_001
 
 LAYOUT 0F60CFC9
 BUILD 8.1.0.28151
-����_lang
-$id$����<32>
+Field_8_1_0_28151_000_lang
+$id$Field_8_1_0_28151_001<32>

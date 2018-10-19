@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int ����
-int ����
+int Field_8_1_0_28151_000
+int Field_8_1_0_28151_001
 
 LAYOUT 89657A48
 BUILD 8.1.0.28151
 $noninline,id$ID<32>
-����<16>
-����<16>
+Field_8_1_0_28151_000<16>
+Field_8_1_0_28151_001<16>

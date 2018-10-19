@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int ����
-int ����
-int ����
+int Field_8_1_0_28151_000
+int Field_8_1_0_28151_001
+int Field_8_1_0_28151_002
 
 LAYOUT 35B34A59
 BUILD 8.1.0.28151
 $noninline,id$ID<32>
-����<8>
-����<u32>
-$noninline,relation$����<u16>
+Field_8_1_0_28151_000<8>
+Field_8_1_0_28151_001<u32>
+$noninline,relation$Field_8_1_0_28151_002<u16>

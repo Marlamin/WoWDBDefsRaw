@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-string ����
-locstring ����_lang
-int ����
+string Field_8_1_0_28151_000
+locstring Field_8_1_0_28151_001_lang
+int Field_8_1_0_28151_002
 
 LAYOUT 843675FD
 BUILD 8.1.0.28151
 $noninline,id$ID<32>
-����
-����_lang
-����<u8>
+Field_8_1_0_28151_000
+Field_8_1_0_28151_001_lang
+Field_8_1_0_28151_002<u8>

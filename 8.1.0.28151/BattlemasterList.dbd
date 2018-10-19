@@ -1,40 +1,40 @@
 COLUMNS
 int ID
-locstring ����_lang
-locstring ����_lang
-locstring ����_lang
-locstring ����_lang
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+locstring Field_8_1_0_28151_000_lang
+locstring Field_8_1_0_28151_001_lang
+locstring Field_8_1_0_28151_002_lang
+locstring Field_8_1_0_28151_003_lang
+int Field_8_1_0_28151_004
+int Field_8_1_0_28151_005
+int Field_8_1_0_28151_006
+int Field_8_1_0_28151_007
+int Field_8_1_0_28151_008
+int Field_8_1_0_28151_009
+int Field_8_1_0_28151_010
+int Field_8_1_0_28151_011
+int Field_8_1_0_28151_012
+int Field_8_1_0_28151_013
+int Field_8_1_0_28151_014
+int Field_8_1_0_28151_015
+int Field_8_1_0_28151_016
 
 LAYOUT 167284E8
 BUILD 8.1.0.28151
 $noninline,id$ID<32>
-����_lang
-����_lang
-����_lang
-����_lang
-����<8>
-����<8>
-����<8>
-����<8>
-����<8>
-����<8>
-����<8>
-����<8>
-����<16>
-����<8>
-����<32>
-����<16>
-����<16>[16]
+Field_8_1_0_28151_000_lang
+Field_8_1_0_28151_001_lang
+Field_8_1_0_28151_002_lang
+Field_8_1_0_28151_003_lang
+Field_8_1_0_28151_004<8>
+Field_8_1_0_28151_005<8>
+Field_8_1_0_28151_006<8>
+Field_8_1_0_28151_007<8>
+Field_8_1_0_28151_008<8>
+Field_8_1_0_28151_009<8>
+Field_8_1_0_28151_010<8>
+Field_8_1_0_28151_011<8>
+Field_8_1_0_28151_012<16>
+Field_8_1_0_28151_013<8>
+Field_8_1_0_28151_014<32>
+Field_8_1_0_28151_015<16>
+Field_8_1_0_28151_016<16>[16]

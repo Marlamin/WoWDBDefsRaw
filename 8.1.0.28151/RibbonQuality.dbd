@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int ����
-float ����
-float ����
-float ����
-int ����
+int Field_8_1_0_28151_000
+float Field_8_1_0_28151_001
+float Field_8_1_0_28151_002
+float Field_8_1_0_28151_003
+int Field_8_1_0_28151_004
 
 LAYOUT BB0CC4F4
 BUILD 8.1.0.28151
 $noninline,id$ID<32>
-����<u8>
-����
-����
-����
-����<u32>
+Field_8_1_0_28151_000<u8>
+Field_8_1_0_28151_001
+Field_8_1_0_28151_002
+Field_8_1_0_28151_003
+Field_8_1_0_28151_004<u32>

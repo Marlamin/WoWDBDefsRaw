@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-string ����
-string ����
-int ����
+string Field_8_1_0_28151_000
+string Field_8_1_0_28151_001
+int Field_8_1_0_28151_002
 
 LAYOUT F4525F59
 BUILD 8.1.0.28151
 $noninline,id$ID<32>
-����
-����
-����<u8>
+Field_8_1_0_28151_000
+Field_8_1_0_28151_001
+Field_8_1_0_28151_002<u8>

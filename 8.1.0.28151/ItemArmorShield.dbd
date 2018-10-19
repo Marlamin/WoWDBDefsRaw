@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-float ����
-int ����
+float Field_8_1_0_28151_000
+int Field_8_1_0_28151_001
 
 LAYOUT C88C8C8D
 BUILD 8.1.0.28151
 $noninline,id$ID<32>
-����[7]
-����<u16>
+Field_8_1_0_28151_000[7]
+Field_8_1_0_28151_001<u16>

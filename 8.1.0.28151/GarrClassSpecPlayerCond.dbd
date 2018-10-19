@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-locstring ����_lang
-int ����
-int ����
-int ����
-int ����
-int ����
+locstring Field_8_1_0_28151_000_lang
+int Field_8_1_0_28151_001
+int Field_8_1_0_28151_002
+int Field_8_1_0_28151_003
+int Field_8_1_0_28151_004
+int Field_8_1_0_28151_005
 
 LAYOUT 561DEBFE
 BUILD 8.1.0.28151
 $noninline,id$ID<32>
-����_lang
-����<u32>
-����<u32>
-����<32>
-����<32>
-����<u8>
+Field_8_1_0_28151_000_lang
+Field_8_1_0_28151_001<u32>
+Field_8_1_0_28151_002<u32>
+Field_8_1_0_28151_003<32>
+Field_8_1_0_28151_004<32>
+Field_8_1_0_28151_005<u8>

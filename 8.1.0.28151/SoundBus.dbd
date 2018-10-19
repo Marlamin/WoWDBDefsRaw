@@ -1,20 +1,20 @@
 COLUMNS
-int ����
-int ����
-int ����
-int ����
-float ����
-int ����
-int ����
-int ����
+int Field_8_1_0_28151_000
+int Field_8_1_0_28151_001
+int Field_8_1_0_28151_002
+int Field_8_1_0_28151_003
+float Field_8_1_0_28151_004
+int Field_8_1_0_28151_005
+int Field_8_1_0_28151_006
+int Field_8_1_0_28151_007
 
 LAYOUT 7CC84C2D
 BUILD 8.1.0.28151
-$id$����<32>
-����<u8>
-����<u8>
-����<u8>
-����
-����<u8>
-����<8>
-$noninline,relation$����<u16>
+$id$Field_8_1_0_28151_000<32>
+Field_8_1_0_28151_001<u8>
+Field_8_1_0_28151_002<u8>
+Field_8_1_0_28151_003<u8>
+Field_8_1_0_28151_004
+Field_8_1_0_28151_005<u8>
+Field_8_1_0_28151_006<8>
+$noninline,relation$Field_8_1_0_28151_007<u16>

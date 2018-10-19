@@ -1,44 +1,44 @@
 COLUMNS
-locstring ����_lang
-string ����
-locstring ����_lang
-locstring ����_lang
-string ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+locstring Field_8_1_0_28048_000_lang
+string Field_8_1_0_28048_001
+locstring Field_8_1_0_28048_002_lang
+locstring Field_8_1_0_28048_003_lang
+string Field_8_1_0_28048_004
+int Field_8_1_0_28048_005
+int Field_8_1_0_28048_006
+int Field_8_1_0_28048_007
+int Field_8_1_0_28048_008
+int Field_8_1_0_28048_009
+int Field_8_1_0_28048_010
+int Field_8_1_0_28048_011
+int Field_8_1_0_28048_012
+int Field_8_1_0_28048_013
+int Field_8_1_0_28048_014
+int Field_8_1_0_28048_015
+int Field_8_1_0_28048_016
+int Field_8_1_0_28048_017
+int Field_8_1_0_28048_018
+int Field_8_1_0_28048_019
 
 LAYOUT 2CD115AC
 BUILD 8.1.0.28048
-����_lang
-����
-����_lang
-����_lang
-����
-$id$����<32>
-����<u32>
-����<u32>
-����<u32>
-����<u32>
-����<32>
-����<u16>
-����<u16>
-����<u16>
-����<u8>
-����<u8>
-����<u8>
-����<u8>
-����<u8>
-����<u8>
+Field_8_1_0_28048_000_lang
+Field_8_1_0_28048_001
+Field_8_1_0_28048_002_lang
+Field_8_1_0_28048_003_lang
+Field_8_1_0_28048_004
+$id$Field_8_1_0_28048_005<32>
+Field_8_1_0_28048_006<u32>
+Field_8_1_0_28048_007<u32>
+Field_8_1_0_28048_008<u32>
+Field_8_1_0_28048_009<u32>
+Field_8_1_0_28048_010<32>
+Field_8_1_0_28048_011<u16>
+Field_8_1_0_28048_012<u16>
+Field_8_1_0_28048_013<u16>
+Field_8_1_0_28048_014<u8>
+Field_8_1_0_28048_015<u8>
+Field_8_1_0_28048_016<u8>
+Field_8_1_0_28048_017<u8>
+Field_8_1_0_28048_018<u8>
+Field_8_1_0_28048_019<u8>

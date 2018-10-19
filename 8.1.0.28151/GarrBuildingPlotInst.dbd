@@ -1,14 +1,14 @@
 COLUMNS
-float ����
-int ����
-int ����
-int ����
-int ����
+float Field_8_1_0_28151_000
+int Field_8_1_0_28151_001
+int Field_8_1_0_28151_002
+int Field_8_1_0_28151_003
+int Field_8_1_0_28151_004
 
 LAYOUT FB61E627
 BUILD 8.1.0.28151
-����[2]
-$id$����<32>
-$relation$����<u8>
-����<u16>
-����<u16>
+Field_8_1_0_28151_000[2]
+$id$Field_8_1_0_28151_001<32>
+$relation$Field_8_1_0_28151_002<u8>
+Field_8_1_0_28151_003<u16>
+Field_8_1_0_28151_004<u16>

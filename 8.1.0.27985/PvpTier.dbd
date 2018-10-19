@@ -1,22 +1,22 @@
 COLUMNS
 int ID
-locstring ����_lang
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+locstring Field_8_1_0_27985_000_lang
+int Field_8_1_0_27985_001
+int Field_8_1_0_27985_002
+int Field_8_1_0_27985_003
+int Field_8_1_0_27985_004
+int Field_8_1_0_27985_005
+int Field_8_1_0_27985_006
+int Field_8_1_0_27985_007
 
 LAYOUT 689983C8
 BUILD 8.1.0.27985
 $noninline,id$ID<32>
-����_lang
-����<16>
-����<16>
-����<32>
-����<32>
-$relation$����<8>
-����<8>
-����<32>
+Field_8_1_0_27985_000_lang
+Field_8_1_0_27985_001<16>
+Field_8_1_0_27985_002<16>
+Field_8_1_0_27985_003<32>
+Field_8_1_0_27985_004<32>
+$relation$Field_8_1_0_27985_005<8>
+Field_8_1_0_27985_006<8>
+Field_8_1_0_27985_007<32>

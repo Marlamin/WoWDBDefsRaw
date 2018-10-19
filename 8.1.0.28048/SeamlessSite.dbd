@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-int ����
+int Field_8_1_0_28048_000
 
 LAYOUT 9E36592F
 BUILD 8.1.0.28048
 $noninline,id$ID<32>
-$relation$����<32>
+$relation$Field_8_1_0_28048_000<32>

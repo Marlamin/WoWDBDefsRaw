@@ -1,26 +1,26 @@
 COLUMNS
-locstring ����_lang
-locstring ����_lang
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+locstring Field_8_1_0_28085_000_lang
+locstring Field_8_1_0_28085_001_lang
+int Field_8_1_0_28085_002
+int Field_8_1_0_28085_003
+int Field_8_1_0_28085_004
+int Field_8_1_0_28085_005
+int Field_8_1_0_28085_006
+int Field_8_1_0_28085_007
+int Field_8_1_0_28085_008
+int Field_8_1_0_28085_009
+int Field_8_1_0_28085_010
 
 LAYOUT BB10478F
 BUILD 8.1.0.28085
-����_lang
-����_lang
-$id$����<32>
-����<u16>
-����<32>
-����<32>
-����<32>
-����<32>
-����<u8>
-����<u8>
-����<u16>
+Field_8_1_0_28085_000_lang
+Field_8_1_0_28085_001_lang
+$id$Field_8_1_0_28085_002<32>
+Field_8_1_0_28085_003<u16>
+Field_8_1_0_28085_004<32>
+Field_8_1_0_28085_005<32>
+Field_8_1_0_28085_006<32>
+Field_8_1_0_28085_007<32>
+Field_8_1_0_28085_008<u8>
+Field_8_1_0_28085_009<u8>
+Field_8_1_0_28085_010<u16>

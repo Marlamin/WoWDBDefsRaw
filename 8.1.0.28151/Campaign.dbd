@@ -1,18 +1,18 @@
 COLUMNS
-locstring ����_lang
-string ����
-locstring ����_lang
-int ����
-int ����
-int ����
-int ����
+locstring Field_8_1_0_28151_000_lang
+string Field_8_1_0_28151_001
+locstring Field_8_1_0_28151_002_lang
+int Field_8_1_0_28151_003
+int Field_8_1_0_28151_004
+int Field_8_1_0_28151_005
+int Field_8_1_0_28151_006
 
 LAYOUT 2D49AABD
 BUILD 8.1.0.28151
-����_lang
-����
-����_lang
-$id$����<u32>
-����<u32>
-����<u32>
-����<u32>
+Field_8_1_0_28151_000_lang
+Field_8_1_0_28151_001
+Field_8_1_0_28151_002_lang
+$id$Field_8_1_0_28151_003<u32>
+Field_8_1_0_28151_004<u32>
+Field_8_1_0_28151_005<u32>
+Field_8_1_0_28151_006<u32>

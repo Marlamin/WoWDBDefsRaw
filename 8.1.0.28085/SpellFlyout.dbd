@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-int ����
-locstring ����_lang
-locstring ����_lang
-int ����
-int ����
-int ����
+int Field_8_1_0_28085_000
+locstring Field_8_1_0_28085_001_lang
+locstring Field_8_1_0_28085_002_lang
+int Field_8_1_0_28085_003
+int Field_8_1_0_28085_004
+int Field_8_1_0_28085_005
 
 LAYOUT 1F516F53
 BUILD 8.1.0.28085
 $noninline,id$ID<32>
-����<64>
-����_lang
-����_lang
-����<u8>
-����<32>
-����<32>
+Field_8_1_0_28085_000<64>
+Field_8_1_0_28085_001_lang
+Field_8_1_0_28085_002_lang
+Field_8_1_0_28085_003<u8>
+Field_8_1_0_28085_004<32>
+Field_8_1_0_28085_005<32>

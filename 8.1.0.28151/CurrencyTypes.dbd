@@ -1,28 +1,28 @@
 COLUMNS
 int ID
-locstring ����_lang
-locstring ����_lang
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+locstring Field_8_1_0_28151_000_lang
+locstring Field_8_1_0_28151_001_lang
+int Field_8_1_0_28151_002
+int Field_8_1_0_28151_003
+int Field_8_1_0_28151_004
+int Field_8_1_0_28151_005
+int Field_8_1_0_28151_006
+int Field_8_1_0_28151_007
+int Field_8_1_0_28151_008
+int Field_8_1_0_28151_009
+int Field_8_1_0_28151_010
 
 LAYOUT 998F0AAA
 BUILD 8.1.0.28151
 $noninline,id$ID<32>
-����_lang
-����_lang
-����<u8>
-����<32>
-����<u32>
-����<u8>
-����<u32>
-����<u32>
-����<u32>
-����<8>
-����<32>
+Field_8_1_0_28151_000_lang
+Field_8_1_0_28151_001_lang
+Field_8_1_0_28151_002<u8>
+Field_8_1_0_28151_003<32>
+Field_8_1_0_28151_004<u32>
+Field_8_1_0_28151_005<u8>
+Field_8_1_0_28151_006<u32>
+Field_8_1_0_28151_007<u32>
+Field_8_1_0_28151_008<u32>
+Field_8_1_0_28151_009<8>
+Field_8_1_0_28151_010<32>

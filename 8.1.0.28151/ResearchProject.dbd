@@ -1,22 +1,22 @@
 COLUMNS
-locstring ����_lang
-locstring ����_lang
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+locstring Field_8_1_0_28151_000_lang
+locstring Field_8_1_0_28151_001_lang
+int Field_8_1_0_28151_002
+int Field_8_1_0_28151_003
+int Field_8_1_0_28151_004
+int Field_8_1_0_28151_005
+int Field_8_1_0_28151_006
+int Field_8_1_0_28151_007
+int Field_8_1_0_28151_008
 
 LAYOUT 4A748755
 BUILD 8.1.0.28151
-����_lang
-����_lang
-$id$����<32>
-����<u8>
-����<32>
-����<u16>
-����<u8>
-����<32>
-����<u32>
+Field_8_1_0_28151_000_lang
+Field_8_1_0_28151_001_lang
+$id$Field_8_1_0_28151_002<32>
+Field_8_1_0_28151_003<u8>
+Field_8_1_0_28151_004<32>
+Field_8_1_0_28151_005<u16>
+Field_8_1_0_28151_006<u8>
+Field_8_1_0_28151_007<32>
+Field_8_1_0_28151_008<u32>

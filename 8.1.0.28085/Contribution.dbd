@@ -1,18 +1,18 @@
 COLUMNS
-locstring ����_lang
-locstring ����_lang
-int ����
-int ����
-int ����
-int ����
-int ����
+locstring Field_8_1_0_28085_000_lang
+locstring Field_8_1_0_28085_001_lang
+int Field_8_1_0_28085_002
+int Field_8_1_0_28085_003
+int Field_8_1_0_28085_004
+int Field_8_1_0_28085_005
+int Field_8_1_0_28085_006
 
 LAYOUT 37C49135
 BUILD 8.1.0.28085
-����_lang
-����_lang
-$id$����<32>
-$relation$����<32>
-����<32>
-����<32>
-����<32>[4]
+Field_8_1_0_28085_000_lang
+Field_8_1_0_28085_001_lang
+$id$Field_8_1_0_28085_002<32>
+$relation$Field_8_1_0_28085_003<32>
+Field_8_1_0_28085_004<32>
+Field_8_1_0_28085_005<32>
+Field_8_1_0_28085_006<32>[4]

@@ -1,30 +1,30 @@
 COLUMNS
-locstring ����_lang
-locstring ����_lang
-locstring ����_lang
-locstring ����_lang
-string ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
-int ����
+locstring Field_8_1_0_28151_000_lang
+locstring Field_8_1_0_28151_001_lang
+locstring Field_8_1_0_28151_002_lang
+locstring Field_8_1_0_28151_003_lang
+string Field_8_1_0_28151_004
+int Field_8_1_0_28151_005
+int Field_8_1_0_28151_006
+int Field_8_1_0_28151_007
+int Field_8_1_0_28151_008
+int Field_8_1_0_28151_009
+int Field_8_1_0_28151_010
+int Field_8_1_0_28151_011
+int Field_8_1_0_28151_012
 
 LAYOUT EC83FE8A
 BUILD 8.1.0.28151
-����_lang
-����_lang
-����_lang
-����_lang
-����
-$id$����<32>
-����<8>
-����<32>
-����<8>
-����<u32>
-����<32>
-����<u16>
-����<32>
+Field_8_1_0_28151_000_lang
+Field_8_1_0_28151_001_lang
+Field_8_1_0_28151_002_lang
+Field_8_1_0_28151_003_lang
+Field_8_1_0_28151_004
+$id$Field_8_1_0_28151_005<32>
+Field_8_1_0_28151_006<8>
+Field_8_1_0_28151_007<32>
+Field_8_1_0_28151_008<8>
+Field_8_1_0_28151_009<u32>
+Field_8_1_0_28151_010<32>
+Field_8_1_0_28151_011<u16>
+Field_8_1_0_28151_012<32>
