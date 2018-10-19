@@ -1,0 +1,30 @@
+COLUMNS
+locstring Field_8_0_1_28153_000_lang
+locstring Field_8_0_1_28153_001_lang
+locstring Field_8_0_1_28153_002_lang
+locstring Field_8_0_1_28153_003_lang
+string Field_8_0_1_28153_004
+int Field_8_0_1_28153_005
+int Field_8_0_1_28153_006
+int Field_8_0_1_28153_007
+int Field_8_0_1_28153_008
+int Field_8_0_1_28153_009
+int Field_8_0_1_28153_010
+int Field_8_0_1_28153_011
+int Field_8_0_1_28153_012
+
+LAYOUT EC83FE8A
+BUILD 8.0.1.28153
+Field_8_0_1_28153_000_lang
+Field_8_0_1_28153_001_lang
+Field_8_0_1_28153_002_lang
+Field_8_0_1_28153_003_lang
+Field_8_0_1_28153_004
+$id$Field_8_0_1_28153_005<32>
+Field_8_0_1_28153_006<8>
+Field_8_0_1_28153_007<32>
+Field_8_0_1_28153_008<8>
+Field_8_0_1_28153_009<u32>
+Field_8_0_1_28153_010<32>
+Field_8_0_1_28153_011<u16>
+Field_8_0_1_28153_012<32>
