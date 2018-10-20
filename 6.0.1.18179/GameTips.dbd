@@ -1,0 +1,11 @@
+COLUMNS
+int ID
+string text_lang
+int min_level
+int max_level
+
+BUILD 6.0.1.18179
+$id$ID<32>
+text_lang
+min_level<32>
+max_level<32>

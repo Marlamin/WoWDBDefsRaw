@@ -1,0 +1,27 @@
+COLUMNS
+int ID
+int worldStateExpressionID
+int selfConditionID
+int targetConditionID
+int friendConditionID
+int friendConditionOp
+int friendConditionCount
+int friendConditionLogic
+int enemyConditionID
+int enemyConditionOp
+int enemyConditionCount
+int enemyConditionLogic
+
+BUILD 6.0.1.18179
+$id$ID<32>
+worldStateExpressionID<32>
+selfConditionID<32>
+targetConditionID<32>
+friendConditionID<32>[2]
+friendConditionOp<32>[2]
+friendConditionCount<32>[2]
+friendConditionLogic<32>
+enemyConditionID<32>[2]
+enemyConditionOp<32>[2]
+enemyConditionCount<32>[2]
+enemyConditionLogic<32>

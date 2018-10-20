@@ -1,0 +1,53 @@
+COLUMNS
+int ID
+int difficultyID
+int effect
+float effectAmplitude
+int effectAura
+int effectAuraPeriod
+int effectBasePoints
+float effectBonusCoefficient
+float effectChainAmplitude
+int effectChainTargets
+int effectDieSides
+int effectItemType
+int effectMechanic
+int effectMiscValue
+float effectPointsPerResource
+int effectRadiusIndex
+float effectRealPointsPerLevel
+int effectSpellClassMask
+int effectTriggerSpell
+float effectPos_facing
+int implicitTarget
+int spellID
+int effectIndex
+int effectAttributes
+float bonusCoefficientFromAP
+
+BUILD 6.0.1.18179
+$id$ID<32>
+difficultyID<32>
+effect<32>
+effectAmplitude
+effectAura<32>
+effectAuraPeriod<32>
+effectBasePoints<32>
+effectBonusCoefficient
+effectChainAmplitude
+effectChainTargets<32>
+effectDieSides<32>
+effectItemType<32>
+effectMechanic<32>
+effectMiscValue<32>[2]
+effectPointsPerResource
+effectRadiusIndex<32>[2]
+effectRealPointsPerLevel
+effectSpellClassMask<32>[4]
+effectTriggerSpell<32>
+effectPos_facing
+implicitTarget<32>[2]
+spellID<32>
+effectIndex<32>
+effectAttributes<32>
+bonusCoefficientFromAP

@@ -1,0 +1,19 @@
+COLUMNS
+int WorldStateID
+int WorldStateValue
+int AreaID
+int WMOAreaID
+int ZoneIntroMusicID
+int ZoneMusicID
+int SoundAmbienceID
+int SoundProviderPreferencesID
+
+BUILD 6.0.1.18179
+$id$WorldStateID<32>
+WorldStateValue<32>
+AreaID<32>
+WMOAreaID<32>
+ZoneIntroMusicID<32>
+ZoneMusicID<32>
+SoundAmbienceID<32>
+SoundProviderPreferencesID<32>

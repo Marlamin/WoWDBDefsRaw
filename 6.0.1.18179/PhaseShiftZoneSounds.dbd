@@ -1,0 +1,31 @@
+COLUMNS
+int ID
+int AreaID
+int WMOAreaID
+int PhaseID
+int PhaseGroupID
+int PhaseUseFlags
+int ZoneIntroMusicID
+int ZoneMusicID
+int SoundAmbienceID
+int SoundProviderPreferencesID
+int UWZoneIntroMusicID
+int UWZoneMusicID
+int UWSoundAmbienceID
+int UWSoundProviderPreferencesID
+
+BUILD 6.0.1.18179
+$id$ID<32>
+AreaID<32>
+WMOAreaID<32>
+PhaseID<32>
+PhaseGroupID<32>
+PhaseUseFlags<32>
+ZoneIntroMusicID<32>
+ZoneMusicID<32>
+SoundAmbienceID<32>
+SoundProviderPreferencesID<32>
+UWZoneIntroMusicID<32>
+UWZoneMusicID<32>
+UWSoundAmbienceID<32>
+UWSoundProviderPreferencesID<32>

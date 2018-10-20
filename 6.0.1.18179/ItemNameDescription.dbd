@@ -1,0 +1,9 @@
+COLUMNS
+int ID
+string description_lang
+int color
+
+BUILD 6.0.1.18179
+$id$ID<32>
+description_lang
+color<32>

@@ -1,0 +1,43 @@
+COLUMNS
+int ID
+string Directory
+int InstanceType
+int Flags
+int MapType
+string MapName_lang
+int areaTableID
+string MapDescription0_lang
+string MapDescription1_lang
+int LoadingScreenID
+float minimapIconScale
+int corpseMapID
+float corpse
+int timeOfDayOverride
+int expansionID
+int raidOffset
+int maxPlayers
+int parentMapID
+int cosmeticParentMapID
+int timeOffset
+
+BUILD 6.0.1.18179
+$id$ID<32>
+Directory
+InstanceType<32>
+Flags<32>
+MapType<32>
+MapName_lang
+areaTableID<32>
+MapDescription0_lang
+MapDescription1_lang
+LoadingScreenID<32>
+minimapIconScale
+corpseMapID<32>
+corpse[2]
+timeOfDayOverride<32>
+expansionID<32>
+raidOffset<32>
+maxPlayers<32>
+parentMapID<32>
+cosmeticParentMapID<32>
+timeOffset<32>

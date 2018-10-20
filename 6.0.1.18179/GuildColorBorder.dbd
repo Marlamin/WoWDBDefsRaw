@@ -1,0 +1,11 @@
+COLUMNS
+int colorID
+int red
+int green
+int blue
+
+BUILD 6.0.1.18179
+$id$colorID<32>
+red<32>
+green<32>
+blue<32>

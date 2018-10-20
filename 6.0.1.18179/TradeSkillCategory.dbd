@@ -1,0 +1,15 @@
+COLUMNS
+int id
+int skilllineid
+int parenttradeskillcategoryid
+int orderindex
+string name_lang
+int flags
+
+BUILD 6.0.1.18179
+$id$id<32>
+skilllineid<32>
+parenttradeskillcategoryid<32>
+orderindex<32>
+name_lang
+flags<32>

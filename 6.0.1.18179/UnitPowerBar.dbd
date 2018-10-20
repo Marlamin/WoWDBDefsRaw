@@ -1,0 +1,37 @@
+COLUMNS
+int ID
+int minPower
+int maxPower
+int startPower
+int centerPower
+float regenerationPeace
+float regenerationCombat
+int barType
+int fileDataID
+int color
+int flags
+string name_lang
+string cost_lang
+string outOfError_lang
+string toolTip_lang
+float startInset
+float endInset
+
+BUILD 6.0.1.18179
+$id$ID<32>
+minPower<32>
+maxPower<32>
+startPower<32>
+centerPower<32>
+regenerationPeace
+regenerationCombat
+barType<32>
+fileDataID<32>[6]
+color<32>[6]
+flags<32>
+name_lang
+cost_lang
+outOfError_lang
+toolTip_lang
+startInset
+endInset

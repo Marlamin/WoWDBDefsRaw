@@ -1,0 +1,9 @@
+COLUMNS
+int ID
+int EnumID
+int VisualkitID
+
+BUILD 6.0.1.18179
+$id$ID<32>
+EnumID<32>
+VisualkitID<32>

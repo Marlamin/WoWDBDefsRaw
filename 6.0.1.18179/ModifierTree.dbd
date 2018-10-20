@@ -1,0 +1,17 @@
+COLUMNS
+int ID
+int type
+int asset
+int secondaryAsset
+int operator
+int amount
+int parent
+
+BUILD 6.0.1.18179
+$id$ID<32>
+type<32>
+asset<32>
+secondaryAsset<32>
+operator<32>
+amount<32>
+parent<32>

@@ -1,0 +1,15 @@
+COLUMNS
+int ID
+int spellID
+int difficultyID
+int equippedItemClass
+int equippedItemInvTypes
+int equippedItemSubclass
+
+BUILD 6.0.1.18179
+$id$ID<32>
+spellID<32>
+difficultyID<32>
+equippedItemClass<32>
+equippedItemInvTypes<32>
+equippedItemSubclass<32>

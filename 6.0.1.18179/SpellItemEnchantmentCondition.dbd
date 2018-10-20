@@ -1,0 +1,17 @@
+COLUMNS
+int ID
+int lt_operandType
+int lt_operand
+int operator
+int rt_operandType
+int rt_operand
+int logic
+
+BUILD 6.0.1.18179
+$id$ID<32>
+lt_operandType<32>
+lt_operand<32>[5]
+operator<32>
+rt_operandType<32>
+rt_operand<32>[5]
+logic<32>

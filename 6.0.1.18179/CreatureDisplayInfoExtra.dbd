@@ -1,0 +1,27 @@
+COLUMNS
+int ID
+int DisplayRaceID
+int DisplaySexID
+int SkinID
+int FaceID
+int HairStyleID
+int HairColorID
+int FacialHairID
+int NPCItemDisplay
+int flags
+int fileDataID
+int hdFileDataID
+
+BUILD 6.0.1.18179
+$id$ID<32>
+DisplayRaceID<32>
+DisplaySexID<32>
+SkinID<32>
+FaceID<32>
+HairStyleID<32>
+HairColorID<32>
+FacialHairID<32>
+NPCItemDisplay<32>[11]
+flags<32>
+fileDataID<32>
+hdFileDataID<32>

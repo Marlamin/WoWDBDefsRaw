@@ -1,0 +1,15 @@
+COLUMNS
+int MapID
+int ChunkX
+int ChunkY
+int SubchunkX
+int SubchunkY
+int SoundOverrideID
+
+BUILD 6.0.1.18179
+$id$MapID<32>
+ChunkX<32>
+ChunkY<32>
+SubchunkX<32>
+SubchunkY<32>
+SoundOverrideID<32>

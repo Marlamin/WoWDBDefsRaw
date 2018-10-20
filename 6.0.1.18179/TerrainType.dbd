@@ -1,0 +1,15 @@
+COLUMNS
+int TerrainID
+string TerrainDesc
+int FootstepSprayRun
+int FootstepSprayWalk
+int SoundID
+int Flags
+
+BUILD 6.0.1.18179
+$id$TerrainID<32>
+TerrainDesc
+FootstepSprayRun<32>
+FootstepSprayWalk<32>
+SoundID<32>
+Flags<32>

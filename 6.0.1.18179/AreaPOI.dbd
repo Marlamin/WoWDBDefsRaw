@@ -1,0 +1,31 @@
+COLUMNS
+int ID
+int importance
+int icon
+int factionID
+float pos
+int continentID
+int flags
+int areaID
+string name_lang
+string description_lang
+int worldStateID
+int playerConditionID
+int worldMapLink
+int portLocID
+
+BUILD 6.0.1.18179
+$id$ID<32>
+importance<32>
+icon<32>[9]
+factionID<32>
+pos[2]
+continentID<32>
+flags<32>
+areaID<32>
+name_lang
+description_lang
+worldStateID<32>
+playerConditionID<32>
+worldMapLink<32>
+portLocID<32>

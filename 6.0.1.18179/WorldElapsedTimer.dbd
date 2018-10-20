@@ -1,0 +1,11 @@
+COLUMNS
+int ID
+string name_lang
+int flags
+int type
+
+BUILD 6.0.1.18179
+$id$ID<32>
+name_lang
+flags<32>
+type<32>

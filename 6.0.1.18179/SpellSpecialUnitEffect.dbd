@@ -1,0 +1,7 @@
+COLUMNS
+int enumID
+int spellVisualEffectNameID
+
+BUILD 6.0.1.18179
+$id$enumID<32>
+spellVisualEffectNameID<32>

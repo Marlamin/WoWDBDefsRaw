@@ -1,0 +1,11 @@
+COLUMNS
+int ID
+int friendshipRepID
+int reactionThreshold
+string reaction_lang
+
+BUILD 6.0.1.18179
+$id$ID<32>
+friendshipRepID<32>
+reactionThreshold<32>
+reaction_lang

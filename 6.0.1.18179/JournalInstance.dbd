@@ -1,0 +1,21 @@
+COLUMNS
+int ID
+int mapID
+int areaID
+int buttonFiledataID
+int buttonSmallFileDataID
+int backgroundFiledataID
+int loreFileDataID
+string name_lang
+string description_lang
+
+BUILD 6.0.1.18179
+$id$ID<32>
+mapID<32>
+areaID<32>
+buttonFiledataID<32>
+buttonSmallFileDataID<32>
+backgroundFiledataID<32>
+loreFileDataID<32>
+name_lang
+description_lang

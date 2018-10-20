@@ -1,0 +1,13 @@
+COLUMNS
+int ID
+int garrClassSpecID
+int spellVisualID
+int movementType
+float impactDelaySecs
+
+BUILD 6.0.1.18179
+$id$ID<32>
+garrClassSpecID<32>
+spellVisualID<32>
+movementType<32>
+impactDelaySecs

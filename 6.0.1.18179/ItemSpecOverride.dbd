@@ -1,0 +1,9 @@
+COLUMNS
+int ID
+int itemID
+int specID
+
+BUILD 6.0.1.18179
+$id$ID<32>
+itemID<32>
+specID<32>

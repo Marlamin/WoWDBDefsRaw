@@ -1,0 +1,33 @@
+COLUMNS
+int ID
+int mapID
+int areaID
+int phaseUseFlags
+int phaseID
+int phaseGroupID
+string icon
+string string_lang
+string tooltip_lang
+int stateVariable
+int type
+string dynamicIcon
+string dynamicTooltip_lang
+string extendedUI
+int extendedUIStateVariable
+
+BUILD 6.0.1.18179
+$id$ID<32>
+mapID<32>
+areaID<32>
+phaseUseFlags<32>
+phaseID<32>
+phaseGroupID<32>
+icon
+string_lang
+tooltip_lang
+stateVariable<32>
+type<32>
+dynamicIcon
+dynamicTooltip_lang
+extendedUI
+extendedUIStateVariable<32>[3]

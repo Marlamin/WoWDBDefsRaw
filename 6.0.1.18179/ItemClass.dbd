@@ -1,0 +1,11 @@
+COLUMNS
+int classID
+int flags
+float priceModifier
+string className_lang
+
+BUILD 6.0.1.18179
+$id$classID<32>
+flags<32>
+priceModifier
+className_lang

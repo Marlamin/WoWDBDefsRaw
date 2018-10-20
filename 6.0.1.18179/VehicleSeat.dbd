@@ -1,0 +1,127 @@
+COLUMNS
+int ID
+int flags
+int attachmentID
+float attachmentOffset
+float enterPreDelay
+float enterSpeed
+float enterGravity
+float enterMinDuration
+float enterMaxDuration
+float enterMinArcHeight
+float enterMaxArcHeight
+int enterAnimStart
+int enterAnimLoop
+int rideAnimStart
+int rideAnimLoop
+int rideUpperAnimStart
+int rideUpperAnimLoop
+float exitPreDelay
+float exitSpeed
+float exitGravity
+float exitMinDuration
+float exitMaxDuration
+float exitMinArcHeight
+float exitMaxArcHeight
+int exitAnimStart
+int exitAnimLoop
+int exitAnimEnd
+float passengerYaw
+float passengerPitch
+float passengerRoll
+int passengerAttachmentID
+int vehicleEnterAnim
+int vehicleExitAnim
+int vehicleRideAnimLoop
+int vehicleEnterAnimBone
+int vehicleExitAnimBone
+int vehicleRideAnimLoopBone
+float vehicleEnterAnimDelay
+float vehicleExitAnimDelay
+int vehicleAbilityDisplay
+int enterUISoundID
+int exitUISoundID
+int flagsB
+float cameraEnteringDelay
+float cameraEnteringDuration
+float cameraExitingDelay
+float cameraExitingDuration
+float cameraOffset
+float cameraPosChaseRate
+float cameraFacingChaseRate
+float cameraEnteringZoom
+float cameraSeatZoomMin
+float cameraSeatZoomMax
+int enterAnimKitID
+int rideAnimKitID
+int exitAnimKitID
+int vehicleEnterAnimKitID
+int vehicleRideAnimKitID
+int vehicleExitAnimKitID
+int cameraModeID
+int flagsC
+int uiSkinFileDataID
+
+BUILD 6.0.1.18179
+$id$ID<32>
+flags<32>
+attachmentID<32>
+attachmentOffset[3]
+enterPreDelay
+enterSpeed
+enterGravity
+enterMinDuration
+enterMaxDuration
+enterMinArcHeight
+enterMaxArcHeight
+enterAnimStart<32>
+enterAnimLoop<32>
+rideAnimStart<32>
+rideAnimLoop<32>
+rideUpperAnimStart<32>
+rideUpperAnimLoop<32>
+exitPreDelay
+exitSpeed
+exitGravity
+exitMinDuration
+exitMaxDuration
+exitMinArcHeight
+exitMaxArcHeight
+exitAnimStart<32>
+exitAnimLoop<32>
+exitAnimEnd<32>
+passengerYaw
+passengerPitch
+passengerRoll
+passengerAttachmentID<32>
+vehicleEnterAnim<32>
+vehicleExitAnim<32>
+vehicleRideAnimLoop<32>
+vehicleEnterAnimBone<32>
+vehicleExitAnimBone<32>
+vehicleRideAnimLoopBone<32>
+vehicleEnterAnimDelay
+vehicleExitAnimDelay
+vehicleAbilityDisplay<32>
+enterUISoundID<32>
+exitUISoundID<32>
+flagsB<32>
+cameraEnteringDelay
+cameraEnteringDuration
+cameraExitingDelay
+cameraExitingDuration
+cameraOffset[3]
+cameraPosChaseRate
+cameraFacingChaseRate
+cameraEnteringZoom
+cameraSeatZoomMin
+cameraSeatZoomMax
+enterAnimKitID<32>
+rideAnimKitID<32>
+exitAnimKitID<32>
+vehicleEnterAnimKitID<32>
+vehicleRideAnimKitID<32>
+vehicleExitAnimKitID<32>
+cameraModeID<32>
+flagsC<32>
+uiSkinFileDataID<32>

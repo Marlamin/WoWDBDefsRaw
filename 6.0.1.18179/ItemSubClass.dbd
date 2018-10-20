@@ -1,0 +1,27 @@
+COLUMNS
+int classID
+int subClassID
+int prerequisiteProficiency
+int postrequisiteProficiency
+int flags
+int displayFlags
+int weaponParrySeq
+int weaponReadySeq
+int weaponAttackSeq
+int WeaponSwingSize
+string displayName_lang
+string verboseName_lang
+
+BUILD 6.0.1.18179
+$id$classID<32>
+subClassID<32>
+prerequisiteProficiency<32>
+postrequisiteProficiency<32>
+flags<32>
+displayFlags<32>
+weaponParrySeq<32>
+weaponReadySeq<32>
+weaponAttackSeq<32>
+WeaponSwingSize<32>
+displayName_lang
+verboseName_lang

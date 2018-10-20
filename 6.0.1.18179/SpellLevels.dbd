@@ -1,0 +1,15 @@
+COLUMNS
+int ID
+int spellID
+int difficultyID
+int baseLevel
+int maxLevel
+int spellLevel
+
+BUILD 6.0.1.18179
+$id$ID<32>
+spellID<32>
+difficultyID<32>
+baseLevel<32>
+maxLevel<32>
+spellLevel<32>

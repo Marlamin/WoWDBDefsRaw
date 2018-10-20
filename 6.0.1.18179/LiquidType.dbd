@@ -1,0 +1,41 @@
+COLUMNS
+int ID
+string name
+int flags
+int soundBank
+int soundID
+int spellID
+float maxDarkenDepth
+float fogDarkenIntensity
+float ambDarkenIntensity
+float dirDarkenIntensity
+int lightID
+float particleScale
+int particleMovement
+int particleTexSlots
+int materialID
+string texture
+int color
+float float
+int int
+
+BUILD 6.0.1.18179
+$id$ID<32>
+name
+flags<32>
+soundBank<32>
+soundID<32>
+spellID<32>
+maxDarkenDepth
+fogDarkenIntensity
+ambDarkenIntensity
+dirDarkenIntensity
+lightID<32>
+particleScale
+particleMovement<32>
+particleTexSlots<32>
+materialID<32>
+texture[6]
+color<32>[2]
+float[18]
+int<32>[4]

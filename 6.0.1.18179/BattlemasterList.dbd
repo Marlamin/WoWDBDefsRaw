@@ -1,0 +1,33 @@
+COLUMNS
+int ID
+int mapID
+int instanceType
+int groupsAllowed
+string name_lang
+int maxGroupSize
+int holidayWorldState
+int minlevel
+int maxlevel
+int ratedPlayers
+int minPlayers
+int maxPlayers
+int flags
+int iconFileDataID
+string gametype_lang
+
+BUILD 6.0.1.18179
+$id$ID<32>
+mapID<32>[16]
+instanceType<32>
+groupsAllowed<32>
+name_lang
+maxGroupSize<32>
+holidayWorldState<32>
+minlevel<32>
+maxlevel<32>
+ratedPlayers<32>
+minPlayers<32>
+maxPlayers<32>
+flags<32>
+iconFileDataID<32>
+gametype_lang

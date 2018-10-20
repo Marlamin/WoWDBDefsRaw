@@ -1,0 +1,11 @@
+COLUMNS
+int ID
+int parentAnimKitConfigID
+int animKitBoneSetID
+int animKitPriorityID
+
+BUILD 6.0.1.18179
+$id$ID<32>
+parentAnimKitConfigID<32>
+animKitBoneSetID<32>
+animKitPriorityID<32>

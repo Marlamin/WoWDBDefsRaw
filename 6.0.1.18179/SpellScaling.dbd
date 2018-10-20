@@ -1,0 +1,21 @@
+COLUMNS
+int ID
+int castTimeMin
+int castTimeMax
+int castTimeMaxLevel
+int class
+float nerfFactor
+int nerfMaxLevel
+int maxScalingLevel
+int scalesFromItemLevel
+
+BUILD 6.0.1.18179
+$id$ID<32>
+castTimeMin<32>
+castTimeMax<32>
+castTimeMaxLevel<32>
+class<32>
+nerfFactor
+nerfMaxLevel<32>
+maxScalingLevel<32>
+scalesFromItemLevel<32>
