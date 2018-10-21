@@ -1,0 +1,20 @@
+COLUMNS
+int Field_7_2_0_23578_000
+float Field_7_2_0_23578_001
+float Field_7_2_0_23578_002
+float Field_7_2_0_23578_003
+locstring Field_7_2_0_23578_004_lang
+float Field_7_2_0_23578_005
+string Field_7_2_0_23578_006
+int Field_7_2_0_23578_007
+
+LAYOUT 8AD076B3
+BUILD 7.2.0.23578
+Field_7_2_0_23578_000<32>
+Field_7_2_0_23578_001
+Field_7_2_0_23578_002
+Field_7_2_0_23578_003
+Field_7_2_0_23578_004_lang
+Field_7_2_0_23578_005
+Field_7_2_0_23578_006
+$id$Field_7_2_0_23578_007<32>

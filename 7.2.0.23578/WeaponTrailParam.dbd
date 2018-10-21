@@ -1,0 +1,26 @@
+COLUMNS
+int ID
+float Field_7_2_0_23578_000
+float Field_7_2_0_23578_001
+float Field_7_2_0_23578_002
+float Field_7_2_0_23578_003
+float Field_7_2_0_23578_004
+int Field_7_2_0_23578_005
+int Field_7_2_0_23578_006
+int Field_7_2_0_23578_007
+int Field_7_2_0_23578_008
+int Field_7_2_0_23578_009
+
+LAYOUT 7B0FCD36
+BUILD 7.2.0.23578
+$noninline,id$ID<32>
+Field_7_2_0_23578_000
+Field_7_2_0_23578_001
+Field_7_2_0_23578_002
+Field_7_2_0_23578_003
+Field_7_2_0_23578_004
+Field_7_2_0_23578_005<u16>
+Field_7_2_0_23578_006<u8>
+Field_7_2_0_23578_007<u8>
+Field_7_2_0_23578_008<u8>
+Field_7_2_0_23578_009<u8>

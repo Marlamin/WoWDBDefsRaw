@@ -1,0 +1,18 @@
+COLUMNS
+locstring Field_7_2_0_23746_000_lang
+locstring Field_7_2_0_23746_001_lang
+locstring Field_7_2_0_23746_002_lang
+locstring Field_7_2_0_23746_003_lang
+int Field_7_2_0_23746_004
+int Field_7_2_0_23746_005
+int Field_7_2_0_23746_006
+
+LAYOUT EBFC7B2F
+BUILD 7.2.0.23746
+Field_7_2_0_23746_000_lang
+Field_7_2_0_23746_001_lang
+Field_7_2_0_23746_002_lang
+Field_7_2_0_23746_003_lang
+Field_7_2_0_23746_004<32>
+$id$Field_7_2_0_23746_005<32>
+Field_7_2_0_23746_006<32>

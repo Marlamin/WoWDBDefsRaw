@@ -1,0 +1,14 @@
+COLUMNS
+string Field_7_2_0_23826_000
+string Field_7_2_0_23826_001
+int Field_7_2_0_23826_002
+int Field_7_2_0_23826_003
+int Field_7_2_0_23826_004
+
+LAYOUT 5FFDAE98
+BUILD 7.2.0.23826
+Field_7_2_0_23826_000
+Field_7_2_0_23826_001
+$id$Field_7_2_0_23826_002<32>
+Field_7_2_0_23826_003<32>
+Field_7_2_0_23826_004<32>

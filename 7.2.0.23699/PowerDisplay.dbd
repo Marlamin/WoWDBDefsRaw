@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+string Field_7_2_0_23699_000
+int Field_7_2_0_23699_001
+int Field_7_2_0_23699_002
+int Field_7_2_0_23699_003
+int Field_7_2_0_23699_004
+
+LAYOUT 34D32464
+BUILD 7.2.0.23699
+$noninline,id$ID<32>
+Field_7_2_0_23699_000
+Field_7_2_0_23699_001<u8>
+Field_7_2_0_23699_002<u8>
+Field_7_2_0_23699_003<u8>
+Field_7_2_0_23699_004<u8>

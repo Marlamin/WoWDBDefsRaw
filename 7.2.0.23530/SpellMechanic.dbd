@@ -1,0 +1,8 @@
+COLUMNS
+int ID
+locstring Field_7_2_0_23530_000_lang
+
+LAYOUT 4F68BCAD
+BUILD 7.2.0.23530
+$noninline,id$ID<32>
+Field_7_2_0_23530_000_lang

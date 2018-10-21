@@ -1,0 +1,26 @@
+COLUMNS
+int ID
+locstring Field_7_2_0_23514_000_lang
+int Field_7_2_0_23514_001
+int Field_7_2_0_23514_002
+int Field_7_2_0_23514_003
+int Field_7_2_0_23514_004
+int Field_7_2_0_23514_005
+int Field_7_2_0_23514_006
+int Field_7_2_0_23514_007
+int Field_7_2_0_23514_008
+int Field_7_2_0_23514_009
+
+LAYOUT E59CACA4
+BUILD 7.2.0.23514
+$noninline,id$ID<32>
+Field_7_2_0_23514_000_lang
+Field_7_2_0_23514_001<32>
+Field_7_2_0_23514_002<32>
+Field_7_2_0_23514_003<32>
+Field_7_2_0_23514_004<u16>
+Field_7_2_0_23514_005<u16>
+Field_7_2_0_23514_006<u8>
+Field_7_2_0_23514_007<u8>
+Field_7_2_0_23514_008<u32>
+Field_7_2_0_23514_009<u32>

@@ -1,0 +1,10 @@
+COLUMNS
+float Field_7_2_0_23746_000
+int Field_7_2_0_23746_001
+int Field_7_2_0_23746_002
+
+LAYOUT B92EDA80
+BUILD 7.2.0.23746
+Field_7_2_0_23746_000[4]
+Field_7_2_0_23746_001<8>
+$id$Field_7_2_0_23746_002<32>

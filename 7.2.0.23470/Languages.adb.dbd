@@ -1,0 +1,8 @@
+COLUMNS
+locstring Field_7_2_0_23470_000_lang
+int Field_7_2_0_23470_001
+
+LAYOUT 1B55DECC
+BUILD 7.2.0.23470
+Field_7_2_0_23470_000_lang
+$id$Field_7_2_0_23470_001<u32>

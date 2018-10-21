@@ -1,0 +1,16 @@
+COLUMNS
+int Field_7_2_0_23905_000
+int Field_7_2_0_23905_001
+locstring Field_7_2_0_23905_002_lang
+locstring Field_7_2_0_23905_003_lang
+int Field_7_2_0_23905_004
+int Field_7_2_0_23905_005
+
+LAYOUT BB79E214
+BUILD 7.2.0.23905
+$id$Field_7_2_0_23905_000<32>
+Field_7_2_0_23905_001<32>
+Field_7_2_0_23905_002_lang
+Field_7_2_0_23905_003_lang
+Field_7_2_0_23905_004<32>[4]
+Field_7_2_0_23905_005<32>

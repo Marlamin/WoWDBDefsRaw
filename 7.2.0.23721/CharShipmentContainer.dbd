@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+locstring Field_7_2_0_23721_000_lang
+locstring Field_7_2_0_23721_001_lang
+int Field_7_2_0_23721_002
+int Field_7_2_0_23721_003
+int Field_7_2_0_23721_004
+int Field_7_2_0_23721_005
+int Field_7_2_0_23721_006
+int Field_7_2_0_23721_007
+int Field_7_2_0_23721_008
+int Field_7_2_0_23721_009
+int Field_7_2_0_23721_010
+int Field_7_2_0_23721_011
+int Field_7_2_0_23721_012
+int Field_7_2_0_23721_013
+int Field_7_2_0_23721_014
+int Field_7_2_0_23721_015
+
+LAYOUT BC15C40D
+BUILD 7.2.0.23721
+$noninline,id$ID<32>
+Field_7_2_0_23721_000_lang
+Field_7_2_0_23721_001_lang
+Field_7_2_0_23721_002<u32>
+Field_7_2_0_23721_003<u16>
+Field_7_2_0_23721_004<u16>
+Field_7_2_0_23721_005<u16>
+Field_7_2_0_23721_006<u16>
+Field_7_2_0_23721_007<u16>
+Field_7_2_0_23721_008<u16>
+Field_7_2_0_23721_009<u8>
+Field_7_2_0_23721_010<u8>
+Field_7_2_0_23721_011<u8>
+Field_7_2_0_23721_012<u8>
+Field_7_2_0_23721_013<u8>
+Field_7_2_0_23721_014<8>
+Field_7_2_0_23721_015<u32>

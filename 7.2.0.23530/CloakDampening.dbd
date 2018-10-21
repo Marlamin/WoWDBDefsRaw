@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+float Field_7_2_0_23530_000
+float Field_7_2_0_23530_001
+float Field_7_2_0_23530_002
+float Field_7_2_0_23530_003
+float Field_7_2_0_23530_004
+float Field_7_2_0_23530_005
+float Field_7_2_0_23530_006
+
+LAYOUT 4C6C0A23
+BUILD 7.2.0.23530
+$noninline,id$ID<32>
+Field_7_2_0_23530_000[5]
+Field_7_2_0_23530_001[5]
+Field_7_2_0_23530_002[2]
+Field_7_2_0_23530_003[2]
+Field_7_2_0_23530_004
+Field_7_2_0_23530_005
+Field_7_2_0_23530_006

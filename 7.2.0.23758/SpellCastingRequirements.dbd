@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+int Field_7_2_0_23758_000
+int Field_7_2_0_23758_001
+int Field_7_2_0_23758_002
+int Field_7_2_0_23758_003
+int Field_7_2_0_23758_004
+int Field_7_2_0_23758_005
+int Field_7_2_0_23758_006
+
+LAYOUT F6016D9C
+BUILD 7.2.0.23758
+$noninline,id$ID<32>
+Field_7_2_0_23758_000<32>
+Field_7_2_0_23758_001<u16>
+Field_7_2_0_23758_002<u16>
+Field_7_2_0_23758_003<u16>
+Field_7_2_0_23758_004<u8>
+Field_7_2_0_23758_005<8>
+Field_7_2_0_23758_006<u8>

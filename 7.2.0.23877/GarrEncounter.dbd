@@ -1,0 +1,18 @@
+COLUMNS
+int Field_7_2_0_23877_000
+locstring Field_7_2_0_23877_001_lang
+float Field_7_2_0_23877_002
+float Field_7_2_0_23877_003
+int Field_7_2_0_23877_004
+int Field_7_2_0_23877_005
+int Field_7_2_0_23877_006
+
+LAYOUT FB05FEFD
+BUILD 7.2.0.23877
+Field_7_2_0_23877_000<32>
+Field_7_2_0_23877_001_lang
+Field_7_2_0_23877_002
+Field_7_2_0_23877_003
+Field_7_2_0_23877_004<32>
+$id$Field_7_2_0_23877_005<32>
+Field_7_2_0_23877_006<u32>

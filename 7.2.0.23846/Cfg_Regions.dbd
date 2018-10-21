@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+string Field_7_2_0_23846_000
+int Field_7_2_0_23846_001
+int Field_7_2_0_23846_002
+int Field_7_2_0_23846_003
+int Field_7_2_0_23846_004
+
+LAYOUT BB581C66
+BUILD 7.2.0.23846
+$noninline,id$ID<32>
+Field_7_2_0_23846_000
+Field_7_2_0_23846_001<u32>
+Field_7_2_0_23846_002<u32>
+Field_7_2_0_23846_003<u8>
+Field_7_2_0_23846_004<u8>

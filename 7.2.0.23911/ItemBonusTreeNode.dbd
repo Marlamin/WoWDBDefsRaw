@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int Field_7_2_0_23911_000
+int Field_7_2_0_23911_001
+int Field_7_2_0_23911_002
+int Field_7_2_0_23911_003
+int Field_7_2_0_23911_004
+
+LAYOUT DFCBD330
+BUILD 7.2.0.23911
+$noninline,id$ID<32>
+Field_7_2_0_23911_000<u16>
+Field_7_2_0_23911_001<u16>
+Field_7_2_0_23911_002<u16>
+Field_7_2_0_23911_003<u16>
+Field_7_2_0_23911_004<u8>

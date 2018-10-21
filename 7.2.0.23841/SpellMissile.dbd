@@ -1,0 +1,36 @@
+COLUMNS
+int ID
+int Field_7_2_0_23841_000
+float Field_7_2_0_23841_001
+float Field_7_2_0_23841_002
+float Field_7_2_0_23841_003
+float Field_7_2_0_23841_004
+float Field_7_2_0_23841_005
+float Field_7_2_0_23841_006
+float Field_7_2_0_23841_007
+float Field_7_2_0_23841_008
+float Field_7_2_0_23841_009
+float Field_7_2_0_23841_010
+float Field_7_2_0_23841_011
+float Field_7_2_0_23841_012
+float Field_7_2_0_23841_013
+int Field_7_2_0_23841_014
+
+LAYOUT D15D882B
+BUILD 7.2.0.23841
+$noninline,id$ID<32>
+Field_7_2_0_23841_000<32>
+Field_7_2_0_23841_001
+Field_7_2_0_23841_002
+Field_7_2_0_23841_003
+Field_7_2_0_23841_004
+Field_7_2_0_23841_005
+Field_7_2_0_23841_006
+Field_7_2_0_23841_007
+Field_7_2_0_23841_008
+Field_7_2_0_23841_009
+Field_7_2_0_23841_010
+Field_7_2_0_23841_011
+Field_7_2_0_23841_012
+Field_7_2_0_23841_013
+Field_7_2_0_23841_014<u8>

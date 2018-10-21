@@ -1,0 +1,12 @@
+COLUMNS
+int Field_7_2_0_23874_000
+locstring Field_7_2_0_23874_001_lang
+int Field_7_2_0_23874_002
+int Field_7_2_0_23874_003
+
+LAYOUT CF470D75
+BUILD 7.2.0.23874
+Field_7_2_0_23874_000<32>
+Field_7_2_0_23874_001_lang
+Field_7_2_0_23874_002<u16>
+$id$Field_7_2_0_23874_003<u32>

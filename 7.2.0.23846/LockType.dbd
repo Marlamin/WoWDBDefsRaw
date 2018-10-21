@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_7_2_0_23846_000_lang
+locstring Field_7_2_0_23846_001_lang
+locstring Field_7_2_0_23846_002_lang
+string Field_7_2_0_23846_003
+int Field_7_2_0_23846_004
+
+LAYOUT 45B49052
+BUILD 7.2.0.23846
+Field_7_2_0_23846_000_lang
+Field_7_2_0_23846_001_lang
+Field_7_2_0_23846_002_lang
+Field_7_2_0_23846_003
+$id$Field_7_2_0_23846_004<32>
