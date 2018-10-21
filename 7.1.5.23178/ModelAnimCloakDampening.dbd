@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int Field_7_1_5_23178_000
+int Field_7_1_5_23178_001
+int Field_7_1_5_23178_002
+
+LAYOUT ABAAC3BD
+BUILD 7.1.5.23178
+$noninline,id$ID<32>
+Field_7_1_5_23178_000<8>
+Field_7_1_5_23178_001<32>
+Field_7_1_5_23178_002<32>

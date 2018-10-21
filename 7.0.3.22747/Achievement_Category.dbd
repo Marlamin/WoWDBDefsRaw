@@ -1,0 +1,12 @@
+COLUMNS
+string Field_7_0_3_22747_000
+int Field_7_0_3_22747_001
+int Field_7_0_3_22747_002
+int Field_7_0_3_22747_003
+
+LAYOUT 5F7AFA62
+BUILD 7.0.3.22747
+Field_7_0_3_22747_000
+Field_7_0_3_22747_001<16>
+Field_7_0_3_22747_002<8>
+$id$Field_7_0_3_22747_003<32>

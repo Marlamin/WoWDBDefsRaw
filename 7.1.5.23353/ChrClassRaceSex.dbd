@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_7_1_5_23353_000
+int Field_7_1_5_23353_001
+int Field_7_1_5_23353_002
+int Field_7_1_5_23353_003
+int Field_7_1_5_23353_004
+int Field_7_1_5_23353_005
+
+LAYOUT CBF79DCD
+BUILD 7.1.5.23353
+$noninline,id$ID<32>
+Field_7_1_5_23353_000<8>
+Field_7_1_5_23353_001<8>
+Field_7_1_5_23353_002<8>
+Field_7_1_5_23353_003<32>
+Field_7_1_5_23353_004<32>
+Field_7_1_5_23353_005<32>

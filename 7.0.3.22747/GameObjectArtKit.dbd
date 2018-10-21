@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+string Field_7_0_3_22747_000
+string Field_7_0_3_22747_001
+
+LAYOUT 36033AFB
+BUILD 7.0.3.22747
+$noninline,id$ID<32>
+Field_7_0_3_22747_000[3]
+Field_7_0_3_22747_001[4]

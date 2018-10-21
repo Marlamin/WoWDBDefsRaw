@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+int Field_7_1_0_23222_000
+int Field_7_1_0_23222_001
+
+LAYOUT EF8BF246
+BUILD 7.1.0.23222
+$noninline,id$ID<32>
+Field_7_1_0_23222_000<16>
+Field_7_1_0_23222_001<16>

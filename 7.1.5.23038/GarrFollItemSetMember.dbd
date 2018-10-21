@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_7_1_5_23038_000
+int Field_7_1_5_23038_001
+int Field_7_1_5_23038_002
+int Field_7_1_5_23038_003
+
+LAYOUT DCA5714F
+BUILD 7.1.5.23038
+$noninline,id$ID<32>
+Field_7_1_5_23038_000<32>
+Field_7_1_5_23038_001<16>
+Field_7_1_5_23038_002<16>
+Field_7_1_5_23038_003<8>

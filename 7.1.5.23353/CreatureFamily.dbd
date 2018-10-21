@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+float Field_7_1_5_23353_000
+float Field_7_1_5_23353_001
+string Field_7_1_5_23353_002
+string Field_7_1_5_23353_003
+int Field_7_1_5_23353_004
+int Field_7_1_5_23353_005
+int Field_7_1_5_23353_006
+int Field_7_1_5_23353_007
+int Field_7_1_5_23353_008
+
+LAYOUT DF8261E1
+BUILD 7.1.5.23353
+$noninline,id$ID<32>
+Field_7_1_5_23353_000
+Field_7_1_5_23353_001
+Field_7_1_5_23353_002
+Field_7_1_5_23353_003
+Field_7_1_5_23353_004<16>[2]
+Field_7_1_5_23353_005<16>
+Field_7_1_5_23353_006<8>
+Field_7_1_5_23353_007<8>
+Field_7_1_5_23353_008<8>

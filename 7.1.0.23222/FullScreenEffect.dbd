@@ -1,0 +1,84 @@
+COLUMNS
+int ID
+float Field_7_1_0_23222_000
+float Field_7_1_0_23222_001
+float Field_7_1_0_23222_002
+float Field_7_1_0_23222_003
+float Field_7_1_0_23222_004
+float Field_7_1_0_23222_005
+float Field_7_1_0_23222_006
+float Field_7_1_0_23222_007
+float Field_7_1_0_23222_008
+float Field_7_1_0_23222_009
+float Field_7_1_0_23222_010
+float Field_7_1_0_23222_011
+float Field_7_1_0_23222_012
+float Field_7_1_0_23222_013
+float Field_7_1_0_23222_014
+float Field_7_1_0_23222_015
+float Field_7_1_0_23222_016
+float Field_7_1_0_23222_017
+float Field_7_1_0_23222_018
+int Field_7_1_0_23222_019
+int Field_7_1_0_23222_020
+float Field_7_1_0_23222_021
+float Field_7_1_0_23222_022
+float Field_7_1_0_23222_023
+float Field_7_1_0_23222_024
+float Field_7_1_0_23222_025
+float Field_7_1_0_23222_026
+float Field_7_1_0_23222_027
+float Field_7_1_0_23222_028
+float Field_7_1_0_23222_029
+float Field_7_1_0_23222_030
+float Field_7_1_0_23222_031
+float Field_7_1_0_23222_032
+float Field_7_1_0_23222_033
+float Field_7_1_0_23222_034
+int Field_7_1_0_23222_035
+int Field_7_1_0_23222_036
+int Field_7_1_0_23222_037
+int Field_7_1_0_23222_038
+
+LAYOUT 5477D956
+BUILD 7.1.0.23222
+$noninline,id$ID<32>
+Field_7_1_0_23222_000
+Field_7_1_0_23222_001
+Field_7_1_0_23222_002
+Field_7_1_0_23222_003
+Field_7_1_0_23222_004
+Field_7_1_0_23222_005
+Field_7_1_0_23222_006
+Field_7_1_0_23222_007
+Field_7_1_0_23222_008
+Field_7_1_0_23222_009
+Field_7_1_0_23222_010
+Field_7_1_0_23222_011
+Field_7_1_0_23222_012
+Field_7_1_0_23222_013
+Field_7_1_0_23222_014
+Field_7_1_0_23222_015
+Field_7_1_0_23222_016
+Field_7_1_0_23222_017
+Field_7_1_0_23222_018
+Field_7_1_0_23222_019<32>
+Field_7_1_0_23222_020<32>
+Field_7_1_0_23222_021
+Field_7_1_0_23222_022
+Field_7_1_0_23222_023
+Field_7_1_0_23222_024
+Field_7_1_0_23222_025
+Field_7_1_0_23222_026
+Field_7_1_0_23222_027
+Field_7_1_0_23222_028
+Field_7_1_0_23222_029
+Field_7_1_0_23222_030
+Field_7_1_0_23222_031
+Field_7_1_0_23222_032
+Field_7_1_0_23222_033
+Field_7_1_0_23222_034
+Field_7_1_0_23222_035<8>
+Field_7_1_0_23222_036<32>
+Field_7_1_0_23222_037<32>
+Field_7_1_0_23222_038<32>

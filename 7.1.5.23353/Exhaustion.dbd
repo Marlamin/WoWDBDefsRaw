@@ -1,0 +1,20 @@
+COLUMNS
+int Field_7_1_5_23353_000
+float Field_7_1_5_23353_001
+float Field_7_1_5_23353_002
+float Field_7_1_5_23353_003
+string Field_7_1_5_23353_004
+float Field_7_1_5_23353_005
+string Field_7_1_5_23353_006
+int Field_7_1_5_23353_007
+
+LAYOUT 5868E9E5
+BUILD 7.1.5.23353
+Field_7_1_5_23353_000<32>
+Field_7_1_5_23353_001
+Field_7_1_5_23353_002
+Field_7_1_5_23353_003
+Field_7_1_5_23353_004
+Field_7_1_5_23353_005
+Field_7_1_5_23353_006
+$id$Field_7_1_5_23353_007<32>

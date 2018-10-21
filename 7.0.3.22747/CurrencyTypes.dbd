@@ -1,0 +1,26 @@
+COLUMNS
+int ID
+string Field_7_0_3_22747_000
+string Field_7_0_3_22747_001
+int Field_7_0_3_22747_002
+int Field_7_0_3_22747_003
+int Field_7_0_3_22747_004
+string Field_7_0_3_22747_005
+int Field_7_0_3_22747_006
+int Field_7_0_3_22747_007
+int Field_7_0_3_22747_008
+int Field_7_0_3_22747_009
+
+LAYOUT DEBE9278
+BUILD 7.0.3.22747
+$noninline,id$ID<32>
+Field_7_0_3_22747_000
+Field_7_0_3_22747_001[2]
+Field_7_0_3_22747_002<32>
+Field_7_0_3_22747_003<32>
+Field_7_0_3_22747_004<32>
+Field_7_0_3_22747_005
+Field_7_0_3_22747_006<8>
+Field_7_0_3_22747_007<8>
+Field_7_0_3_22747_008<8>
+Field_7_0_3_22747_009<32>

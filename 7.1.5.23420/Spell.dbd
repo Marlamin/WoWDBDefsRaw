@@ -1,0 +1,18 @@
+COLUMNS
+string Field_7_1_5_23420_000
+string Field_7_1_5_23420_001
+string Field_7_1_5_23420_002
+string Field_7_1_5_23420_003
+int Field_7_1_5_23420_004
+int Field_7_1_5_23420_005
+int Field_7_1_5_23420_006
+
+LAYOUT E5833C90
+BUILD 7.1.5.23420
+Field_7_1_5_23420_000
+Field_7_1_5_23420_001
+Field_7_1_5_23420_002
+Field_7_1_5_23420_003
+Field_7_1_5_23420_004<32>
+$id$Field_7_1_5_23420_005<32>
+Field_7_1_5_23420_006<32>

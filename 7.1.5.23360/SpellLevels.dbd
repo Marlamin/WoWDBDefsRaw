@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_7_1_5_23360_000
+int Field_7_1_5_23360_001
+int Field_7_1_5_23360_002
+int Field_7_1_5_23360_003
+int Field_7_1_5_23360_004
+int Field_7_1_5_23360_005
+
+LAYOUT AAD87C71
+BUILD 7.1.5.23360
+$noninline,id$ID<32>
+Field_7_1_5_23360_000<32>
+Field_7_1_5_23360_001<16>
+Field_7_1_5_23360_002<16>
+Field_7_1_5_23360_003<16>
+Field_7_1_5_23360_004<8>
+Field_7_1_5_23360_005<8>

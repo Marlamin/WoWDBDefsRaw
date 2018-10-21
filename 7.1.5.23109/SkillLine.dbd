@@ -1,0 +1,22 @@
+COLUMNS
+int ID
+string Field_7_1_5_23109_000
+string Field_7_1_5_23109_001
+string Field_7_1_5_23109_002
+int Field_7_1_5_23109_003
+int Field_7_1_5_23109_004
+int Field_7_1_5_23109_005
+int Field_7_1_5_23109_006
+int Field_7_1_5_23109_007
+
+LAYOUT D05F97DB
+BUILD 7.1.5.23109
+$noninline,id$ID<32>
+Field_7_1_5_23109_000
+Field_7_1_5_23109_001
+Field_7_1_5_23109_002
+Field_7_1_5_23109_003<16>
+Field_7_1_5_23109_004<16>
+Field_7_1_5_23109_005<8>
+Field_7_1_5_23109_006<8>
+Field_7_1_5_23109_007<32>
