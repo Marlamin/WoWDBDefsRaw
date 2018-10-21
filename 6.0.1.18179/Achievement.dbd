@@ -1,0 +1,33 @@
+COLUMNS
+int ID
+int faction
+int instance_id
+int supercedes
+string title_lang
+string description_lang
+int category
+int points
+int ui_order
+int flags
+int iconID
+string reward_lang
+int minimum_criteria
+int shares_criteria
+int criteria_tree
+
+BUILD 6.0.1.18179
+$id$ID<32>
+faction<32>
+instance_id<32>
+supercedes<32>
+title_lang
+description_lang
+category<32>
+points<32>
+ui_order<32>
+flags<32>
+iconID<32>
+reward_lang
+minimum_criteria<32>
+shares_criteria<32>
+criteria_tree<32>
