@@ -1,0 +1,24 @@
+COLUMNS
+string Field_8_1_0_28202_000
+float Field_8_1_0_28202_001
+int Field_8_1_0_28202_002
+int Field_8_1_0_28202_003
+int Field_8_1_0_28202_004
+float Field_8_1_0_28202_005
+float Field_8_1_0_28202_006
+float Field_8_1_0_28202_007
+float Field_8_1_0_28202_008
+int Field_8_1_0_28202_009
+
+LAYOUT 8B5BF449
+BUILD 8.1.0.28202
+Field_8_1_0_28202_000
+Field_8_1_0_28202_001[3]
+$id$Field_8_1_0_28202_002<32>
+Field_8_1_0_28202_003<u8>
+Field_8_1_0_28202_004<32>
+Field_8_1_0_28202_005
+Field_8_1_0_28202_006
+Field_8_1_0_28202_007
+Field_8_1_0_28202_008
+$noninline,relation$Field_8_1_0_28202_009<32>
