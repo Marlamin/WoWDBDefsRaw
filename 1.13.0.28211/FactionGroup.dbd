@@ -1,0 +1,16 @@
+COLUMNS
+string Field_1_13_0_28211_000
+locstring Field_1_13_0_28211_001_lang
+int Field_1_13_0_28211_002
+int Field_1_13_0_28211_003
+int Field_1_13_0_28211_004
+int Field_1_13_0_28211_005
+
+LAYOUT 7A7F9A51
+BUILD 1.13.0.28211
+Field_1_13_0_28211_000
+Field_1_13_0_28211_001_lang
+$id$Field_1_13_0_28211_002<32>
+Field_1_13_0_28211_003<u8>
+Field_1_13_0_28211_004<32>
+Field_1_13_0_28211_005<32>
