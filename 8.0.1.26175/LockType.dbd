@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_8_0_1_26175_000_lang
+locstring Field_8_0_1_26175_001_lang
+locstring Field_8_0_1_26175_002_lang
+string Field_8_0_1_26175_003
+int Field_8_0_1_26175_004
+
+LAYOUT CD5E1D2F
+BUILD 8.0.1.26175
+Field_8_0_1_26175_000_lang
+Field_8_0_1_26175_001_lang
+Field_8_0_1_26175_002_lang
+Field_8_0_1_26175_003
+$id$Field_8_0_1_26175_004<32>

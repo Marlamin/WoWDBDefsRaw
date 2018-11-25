@@ -1,0 +1,28 @@
+COLUMNS
+int ID
+float Field_8_1_0_28440_000
+float Field_8_1_0_28440_001
+int Field_8_1_0_28440_002
+int Field_8_1_0_28440_003
+float Field_8_1_0_28440_004
+float Field_8_1_0_28440_005
+float Field_8_1_0_28440_006
+int Field_8_1_0_28440_007
+int Field_8_1_0_28440_008
+int Field_8_1_0_28440_009
+int Field_8_1_0_28440_010
+
+LAYOUT EE5489F4
+BUILD 8.1.0.28440
+$noninline,id$ID<32>
+Field_8_1_0_28440_000[3]
+Field_8_1_0_28440_001[3]
+Field_8_1_0_28440_002<8>
+Field_8_1_0_28440_003<32>
+Field_8_1_0_28440_004
+Field_8_1_0_28440_005
+Field_8_1_0_28440_006
+Field_8_1_0_28440_007<8>
+Field_8_1_0_28440_008<8>
+Field_8_1_0_28440_009<8>
+Field_8_1_0_28440_010<8>

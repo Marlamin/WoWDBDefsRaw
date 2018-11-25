@@ -1,0 +1,12 @@
+COLUMNS
+int Field_8_0_1_26175_000
+int Field_8_0_1_26175_001
+int Field_8_0_1_26175_002
+int Field_8_0_1_26175_003
+
+LAYOUT A549F79C
+BUILD 8.0.1.26175
+Field_8_0_1_26175_000<8>
+Field_8_0_1_26175_001<8>
+$id$Field_8_0_1_26175_002<32>
+$noninline,relation$Field_8_0_1_26175_003<32>

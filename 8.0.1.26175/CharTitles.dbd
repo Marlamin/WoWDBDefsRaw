@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+locstring Field_8_0_1_26175_000_lang
+locstring Field_8_0_1_26175_001_lang
+int Field_8_0_1_26175_002
+int Field_8_0_1_26175_003
+
+LAYOUT 7A58AA5F
+BUILD 8.0.1.26175
+$noninline,id$ID<32>
+Field_8_0_1_26175_000_lang
+Field_8_0_1_26175_001_lang
+Field_8_0_1_26175_002<16>
+Field_8_0_1_26175_003<8>

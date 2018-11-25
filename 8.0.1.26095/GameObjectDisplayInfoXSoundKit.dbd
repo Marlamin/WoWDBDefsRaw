@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int Field_8_0_1_26095_000
+int Field_8_0_1_26095_001
+int Field_8_0_1_26095_002
+
+LAYOUT 4BBA66F2
+BUILD 8.0.1.26095
+$noninline,id$ID<32>
+Field_8_0_1_26095_000<8>
+Field_8_0_1_26095_001<u32>
+$noninline,relation$Field_8_0_1_26095_002<u32>

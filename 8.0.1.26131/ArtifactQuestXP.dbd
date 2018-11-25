@@ -1,0 +1,8 @@
+COLUMNS
+int ID
+int Field_8_0_1_26131_000
+
+LAYOUT 86397302
+BUILD 8.0.1.26131
+$noninline,id$ID<32>
+Field_8_0_1_26131_000<u32>[10]

@@ -1,0 +1,16 @@
+COLUMNS
+string Field_8_0_1_26231_000
+locstring Field_8_0_1_26231_001_lang
+int Field_8_0_1_26231_002
+int Field_8_0_1_26231_003
+int Field_8_0_1_26231_004
+int Field_8_0_1_26231_005
+
+LAYOUT 7A7F9A51
+BUILD 8.0.1.26231
+Field_8_0_1_26231_000
+Field_8_0_1_26231_001_lang
+$id$Field_8_0_1_26231_002<32>
+Field_8_0_1_26231_003<u8>
+Field_8_0_1_26231_004<32>
+Field_8_0_1_26231_005<32>

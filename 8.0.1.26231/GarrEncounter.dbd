@@ -1,0 +1,18 @@
+COLUMNS
+locstring Field_8_0_1_26231_000_lang
+int Field_8_0_1_26231_001
+float Field_8_0_1_26231_002
+float Field_8_0_1_26231_003
+int Field_8_0_1_26231_004
+int Field_8_0_1_26231_005
+int Field_8_0_1_26231_006
+
+LAYOUT 63EF121A
+BUILD 8.0.1.26231
+Field_8_0_1_26231_000_lang
+Field_8_0_1_26231_001<32>
+Field_8_0_1_26231_002
+Field_8_0_1_26231_003
+Field_8_0_1_26231_004<32>
+$id$Field_8_0_1_26231_005<32>
+Field_8_0_1_26231_006<u32>
