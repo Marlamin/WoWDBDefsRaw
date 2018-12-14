@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_8_1_0_28768_000
+int Field_8_1_0_28768_001
+int Field_8_1_0_28768_002
+int Field_8_1_0_28768_003
+int Field_8_1_0_28768_004
+int Field_8_1_0_28768_005
+
+LAYOUT 4C843BC5
+BUILD 8.1.0.28768
+$noninline,id$ID<32>
+Field_8_1_0_28768_000<8>
+Field_8_1_0_28768_001<8>
+Field_8_1_0_28768_002<8>
+Field_8_1_0_28768_003<8>
+Field_8_1_0_28768_004<32>
+$noninline,relation$Field_8_1_0_28768_005<8>
