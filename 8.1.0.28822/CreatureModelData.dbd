@@ -1,0 +1,62 @@
+COLUMNS
+int ID
+float Field_8_1_0_28822_000
+int Field_8_1_0_28822_001
+int Field_8_1_0_28822_002
+int Field_8_1_0_28822_003
+int Field_8_1_0_28822_004
+float Field_8_1_0_28822_005
+float Field_8_1_0_28822_006
+float Field_8_1_0_28822_007
+int Field_8_1_0_28822_008
+int Field_8_1_0_28822_009
+int Field_8_1_0_28822_010
+int Field_8_1_0_28822_011
+int Field_8_1_0_28822_012
+float Field_8_1_0_28822_013
+float Field_8_1_0_28822_014
+float Field_8_1_0_28822_015
+int Field_8_1_0_28822_016
+float Field_8_1_0_28822_017
+float Field_8_1_0_28822_018
+float Field_8_1_0_28822_019
+float Field_8_1_0_28822_020
+float Field_8_1_0_28822_021
+float Field_8_1_0_28822_022
+float Field_8_1_0_28822_023
+float Field_8_1_0_28822_024
+float Field_8_1_0_28822_025
+float Field_8_1_0_28822_026
+float Field_8_1_0_28822_027
+
+LAYOUT F61D550A
+BUILD 8.1.0.28822
+$noninline,id$ID<32>
+Field_8_1_0_28822_000[6]
+Field_8_1_0_28822_001<u32>
+Field_8_1_0_28822_002<u32>
+Field_8_1_0_28822_003<u32>
+Field_8_1_0_28822_004<u32>
+Field_8_1_0_28822_005
+Field_8_1_0_28822_006
+Field_8_1_0_28822_007
+Field_8_1_0_28822_008<u32>
+Field_8_1_0_28822_009<u32>
+Field_8_1_0_28822_010<u32>
+Field_8_1_0_28822_011<u32>
+Field_8_1_0_28822_012<u32>
+Field_8_1_0_28822_013
+Field_8_1_0_28822_014
+Field_8_1_0_28822_015
+Field_8_1_0_28822_016<u32>
+Field_8_1_0_28822_017
+Field_8_1_0_28822_018
+Field_8_1_0_28822_019
+Field_8_1_0_28822_020
+Field_8_1_0_28822_021
+Field_8_1_0_28822_022
+Field_8_1_0_28822_023
+Field_8_1_0_28822_024
+Field_8_1_0_28822_025
+Field_8_1_0_28822_026
+Field_8_1_0_28822_027
