@@ -1,0 +1,12 @@
+COLUMNS
+locstring Field_8_1_5_29141_000_lang
+int Field_8_1_5_29141_001
+int Field_8_1_5_29141_002
+int Field_8_1_5_29141_003
+
+LAYOUT EC517FDD
+BUILD 8.1.5.29141
+Field_8_1_5_29141_000_lang
+$id$Field_8_1_5_29141_001<32>
+Field_8_1_5_29141_002<u8>
+Field_8_1_5_29141_003<u8>
