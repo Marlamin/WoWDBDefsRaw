@@ -1,0 +1,10 @@
+COLUMNS
+int Field_8_1_5_29281_000
+int Field_8_1_5_29281_001
+int Field_8_1_5_29281_002
+
+LAYOUT CA7143E7
+BUILD 8.1.5.29281
+$id$Field_8_1_5_29281_000<32>
+Field_8_1_5_29281_001<u32>
+$noninline,relation$Field_8_1_5_29281_002<u32>
