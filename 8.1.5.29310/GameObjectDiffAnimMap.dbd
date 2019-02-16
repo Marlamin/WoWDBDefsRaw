@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_8_1_5_29310_000
+int Field_8_1_5_29310_001
+int Field_8_1_5_29310_002
+int Field_8_1_5_29310_003
+
+LAYOUT DB3508F3
+BUILD 8.1.5.29310
+$noninline,id$ID<32>
+Field_8_1_5_29310_000<u8>
+Field_8_1_5_29310_001<u8>
+Field_8_1_5_29310_002<u16>
+$noninline,relation$Field_8_1_5_29310_003<u8>
