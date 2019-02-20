@@ -1,38 +1,38 @@
 COLUMNS
-string icon
-locstring string_lang
-locstring tooltip_lang
-locstring dynamicTooltip_lang
-string extendedUI
-int ID
-int mapID
-int areaID
-int stateVariable
-int type
-int dynamicIconFileID
-int dynamicFlashIconFileID
-int orderIndex
-int phaseUseFlags
-int phaseID
-int phaseGroupID
-int extendedUIStateVariable
+string Field_8_1_0_27826_000
+locstring Field_8_1_0_27826_001_lang
+locstring Field_8_1_0_27826_002_lang
+locstring Field_8_1_0_27826_003_lang
+string Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
+int Field_8_1_0_27826_016
 
 LAYOUT E1F042FE
 BUILD 8.1.0.27826
-icon
-string_lang
-tooltip_lang
-dynamicTooltip_lang
-extendedUI
-$id$ID<32>
-$relation$mapID<16>
-areaID<u16>
-stateVariable<u16>
-type<u8>
-dynamicIconFileID<32>
-dynamicFlashIconFileID<32>
-orderIndex<u8>
-phaseUseFlags<u8>
-phaseID<u16>
-phaseGroupID<u16>
-extendedUIStateVariable<u16>[3]
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002_lang
+Field_8_1_0_27826_003_lang
+Field_8_1_0_27826_004
+$id$Field_8_1_0_27826_005<32>
+$relation$Field_8_1_0_27826_006<16>
+Field_8_1_0_27826_007<u16>
+Field_8_1_0_27826_008<u16>
+Field_8_1_0_27826_009<u8>
+Field_8_1_0_27826_010<32>
+Field_8_1_0_27826_011<32>
+Field_8_1_0_27826_012<u8>
+Field_8_1_0_27826_013<u8>
+Field_8_1_0_27826_014<u16>
+Field_8_1_0_27826_015<u16>
+Field_8_1_0_27826_016<u16>[3]

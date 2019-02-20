@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int damageReplaceStat
-int epic
-int superior
-int good
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
 
 LAYOUT 7741F65C
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-damageReplaceStat<32>
-epic<u32>[5]
-superior<u32>[5]
-good<u32>[5]
+Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<u32>[5]
+Field_8_1_0_27826_002<u32>[5]
+Field_8_1_0_27826_003<u32>[5]

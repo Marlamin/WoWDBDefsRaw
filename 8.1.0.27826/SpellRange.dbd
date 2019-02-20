@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-locstring displayName_lang
-locstring displayNameShort_lang
-int flags
-float rangeMin
-float rangeMax
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
+float Field_8_1_0_27826_003
+float Field_8_1_0_27826_004
 
 LAYOUT 6B9E2FD2
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-displayName_lang
-displayNameShort_lang
-flags<u8>
-rangeMin[2]
-rangeMax[2]
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003[2]
+Field_8_1_0_27826_004[2]

@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int specializationID
-int pvpScalingEffectTypeID
-float value
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
 
 LAYOUT AF88F6DB
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-specializationID<32>
-$relation$pvpScalingEffectTypeID<32>
-value
+Field_8_1_0_27826_000<32>
+$relation$Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002

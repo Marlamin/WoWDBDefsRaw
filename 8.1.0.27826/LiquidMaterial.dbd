@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int flags
-int LVF
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
 
 LAYOUT 6A7287A2
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-flags<8>
-LVF<8>
+Field_8_1_0_27826_000<8>
+Field_8_1_0_27826_001<8>

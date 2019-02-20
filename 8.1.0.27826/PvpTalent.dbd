@@ -1,22 +1,22 @@
 COLUMNS
-locstring description_lang
-int ID
-int specID
-int spellID
-int overridesSpellID
-int flags
-int actionBarSpellID
-int pvpTalentCategoryID
-int levelRequired
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
 
 LAYOUT 340BABA3
 BUILD 8.1.0.27826
-description_lang
-$id$ID<32>
-$relation$specID<32>
-spellID<32>
-overridesSpellID<32>
-flags<32>
-actionBarSpellID<32>
-pvpTalentCategoryID<32>
-levelRequired<32>
+Field_8_1_0_27826_000_lang
+$id$Field_8_1_0_27826_001<32>
+$relation$Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<32>
+Field_8_1_0_27826_006<32>
+Field_8_1_0_27826_007<32>
+Field_8_1_0_27826_008<32>

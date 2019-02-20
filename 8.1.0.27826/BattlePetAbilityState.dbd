@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int battlePetStateID
-int value
-int battlePetAbilityID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT 73DDAA6A
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-battlePetStateID<u8>
-value<32>
-$noninline,relation$battlePetAbilityID<u16>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<32>
+$noninline,relation$Field_8_1_0_27826_002<u16>

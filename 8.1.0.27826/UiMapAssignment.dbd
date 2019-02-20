@@ -1,24 +1,24 @@
 COLUMNS
-float uiMin
-float uiMax
-float region
-int ID
-int uiMapID
-int orderIndex
-int mapID
-int areaID
-int wmoDoodadPlacementID
-int wmoGroupID
+float Field_8_1_0_27826_000
+float Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
 
 LAYOUT FA919770
 BUILD 8.1.0.27826
-uiMin[2]
-uiMax[2]
-region[6]
-$id$ID<32>
-$relation$uiMapID<32>
-orderIndex<32>
-mapID<32>
-areaID<32>
-wmoDoodadPlacementID<32>
-wmoGroupID<32>
+Field_8_1_0_27826_000[2]
+Field_8_1_0_27826_001[2]
+Field_8_1_0_27826_002[6]
+$id$Field_8_1_0_27826_003<32>
+$relation$Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<32>
+Field_8_1_0_27826_006<32>
+Field_8_1_0_27826_007<32>
+Field_8_1_0_27826_008<32>
+Field_8_1_0_27826_009<32>

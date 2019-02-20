@@ -1,62 +1,62 @@
 COLUMNS
 int ID
-int flags
-float saturation
-float gammaRed
-float gammaGreen
-float gammaBlue
-float maskOffsetY
-float maskSizeMultiplier
-float maskPower
-float colorMultiplyRed
-float colorMultiplyGreen
-float colorMultiplyBlue
-float colorMultiplyOffsetY
-float colorMultiplyMultiplier
-float colorMultiplyPower
-float colorAdditionRed
-float colorAdditionGreen
-float colorAdditionBlue
-float colorAdditionOffsetY
-float colorAdditionMultiplier
-float colorAdditionPower
-int OverlayTextureFileDataID
-float blurIntensity
-float blurOffsetY
-float blurMultiplier
-float blurPower
-int effectFadeInMs
-int effectFadeOutMs
-int textureBlendSetID
+int Field_8_1_0_27826_000
+float Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
+float Field_8_1_0_27826_003
+float Field_8_1_0_27826_004
+float Field_8_1_0_27826_005
+float Field_8_1_0_27826_006
+float Field_8_1_0_27826_007
+float Field_8_1_0_27826_008
+float Field_8_1_0_27826_009
+float Field_8_1_0_27826_010
+float Field_8_1_0_27826_011
+float Field_8_1_0_27826_012
+float Field_8_1_0_27826_013
+float Field_8_1_0_27826_014
+float Field_8_1_0_27826_015
+float Field_8_1_0_27826_016
+float Field_8_1_0_27826_017
+float Field_8_1_0_27826_018
+float Field_8_1_0_27826_019
+int Field_8_1_0_27826_020
+float Field_8_1_0_27826_021
+float Field_8_1_0_27826_022
+float Field_8_1_0_27826_023
+float Field_8_1_0_27826_024
+int Field_8_1_0_27826_025
+int Field_8_1_0_27826_026
+int Field_8_1_0_27826_027
 
 LAYOUT 9854A6AC
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-flags<u32>
-saturation
-gammaRed
-gammaGreen
-gammaBlue
-maskOffsetY
-maskSizeMultiplier
-maskPower
-colorMultiplyRed
-colorMultiplyGreen
-colorMultiplyBlue
-colorMultiplyOffsetY
-colorMultiplyMultiplier
-colorMultiplyPower
-colorAdditionRed
-colorAdditionGreen
-colorAdditionBlue
-colorAdditionOffsetY
-colorAdditionMultiplier
-colorAdditionPower
-OverlayTextureFileDataID<32>
-blurIntensity
-blurOffsetY
-blurMultiplier
-blurPower
-effectFadeInMs<u32>
-effectFadeOutMs<u32>
-textureBlendSetID<u32>
+Field_8_1_0_27826_000<u32>
+Field_8_1_0_27826_001
+Field_8_1_0_27826_002
+Field_8_1_0_27826_003
+Field_8_1_0_27826_004
+Field_8_1_0_27826_005
+Field_8_1_0_27826_006
+Field_8_1_0_27826_007
+Field_8_1_0_27826_008
+Field_8_1_0_27826_009
+Field_8_1_0_27826_010
+Field_8_1_0_27826_011
+Field_8_1_0_27826_012
+Field_8_1_0_27826_013
+Field_8_1_0_27826_014
+Field_8_1_0_27826_015
+Field_8_1_0_27826_016
+Field_8_1_0_27826_017
+Field_8_1_0_27826_018
+Field_8_1_0_27826_019
+Field_8_1_0_27826_020<32>
+Field_8_1_0_27826_021
+Field_8_1_0_27826_022
+Field_8_1_0_27826_023
+Field_8_1_0_27826_024
+Field_8_1_0_27826_025<u32>
+Field_8_1_0_27826_026<u32>
+Field_8_1_0_27826_027<u32>

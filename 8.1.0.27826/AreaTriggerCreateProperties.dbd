@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int shapeType
-int startShapeID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
 
 LAYOUT AAE6E300
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-shapeType<8>
-startShapeID<16>
+Field_8_1_0_27826_000<8>
+Field_8_1_0_27826_001<16>

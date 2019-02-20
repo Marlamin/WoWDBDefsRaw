@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-locstring description_lang
+locstring Field_8_1_0_27826_000_lang
 
 LAYOUT E70F298C
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-description_lang
+Field_8_1_0_27826_000_lang

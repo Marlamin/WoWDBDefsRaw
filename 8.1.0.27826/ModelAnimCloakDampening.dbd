@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int animationDataID
-int cloakDampeningID
-int fileDataID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT AA668B4F
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-animationDataID<u32>
-cloakDampeningID<u32>
-$noninline,relation$fileDataID<u32>
+Field_8_1_0_27826_000<u32>
+Field_8_1_0_27826_001<u32>
+$noninline,relation$Field_8_1_0_27826_002<u32>

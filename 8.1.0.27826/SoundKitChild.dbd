@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int soundKitID
-int parentSoundKitID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
 
 LAYOUT 4215B0DD
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-soundKitID<u32>
-$relation$parentSoundKitID<u32>
+Field_8_1_0_27826_000<u32>
+$relation$Field_8_1_0_27826_001<u32>

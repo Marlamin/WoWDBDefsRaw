@@ -1,8 +1,8 @@
 COLUMNS
-int itemLevelDelta
-int ID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
 
 LAYOUT 819C0CC1
 BUILD 8.1.0.27826
-itemLevelDelta<16>
-$id$ID<32>
+Field_8_1_0_27826_000<16>
+$id$Field_8_1_0_27826_001<32>

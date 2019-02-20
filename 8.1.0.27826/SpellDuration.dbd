@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int duration
-int durationPerLevel
-int maxDuration
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT 22236CBC
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-duration<32>
-durationPerLevel<u32>
-maxDuration<32>
+Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<u32>
+Field_8_1_0_27826_002<32>

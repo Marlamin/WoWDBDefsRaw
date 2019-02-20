@@ -1,6 +1,6 @@
 COLUMNS
-int ID
+int Field_8_1_0_27826_000
 
 LAYOUT B5EE0DCB
 BUILD 8.1.0.27826
-$id$ID<32>
+$id$Field_8_1_0_27826_000<32>

@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-locstring title_lang
-int garrTypeID
-int classID
-int maxTiers
-int uiOrder
-int flags
-int uiTextureKitID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
 
 LAYOUT 9A3BC97D
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-title_lang
-garrTypeID<32>
-classID<32>
-maxTiers<8>
-uiOrder<8>
-flags<8>
-uiTextureKitID<u16>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<8>
+Field_8_1_0_27826_004<8>
+Field_8_1_0_27826_005<8>
+Field_8_1_0_27826_006<u16>

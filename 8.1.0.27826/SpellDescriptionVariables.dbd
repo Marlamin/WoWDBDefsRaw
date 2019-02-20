@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-string variables
+string Field_8_1_0_27826_000
 
 LAYOUT 9C318DAF
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-variables
+Field_8_1_0_27826_000

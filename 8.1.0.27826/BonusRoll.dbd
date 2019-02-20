@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int currencyTypesID
-int currencyCost
-int journalEncounterID
-int journalInstanceID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
 
 LAYOUT F7A194FA
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-currencyTypesID<u32>
-currencyCost<u32>
-journalEncounterID<u32>
-journalInstanceID<u32>
+Field_8_1_0_27826_000<u32>
+Field_8_1_0_27826_001<u32>
+Field_8_1_0_27826_002<u32>
+Field_8_1_0_27826_003<u32>

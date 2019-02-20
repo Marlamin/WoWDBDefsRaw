@@ -1,24 +1,24 @@
 COLUMNS
 int ID
-locstring effectDescription_lang
-locstring auraDescription_lang
-int spellEffectType
-int auraEffectType
-int pointsSign
-int targetType
-int schoolMask
-int effectOrderIndex
-int auraOrderIndex
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
 
 LAYOUT 7C523D94
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-effectDescription_lang
-auraDescription_lang
-spellEffectType<32>
-auraEffectType<32>
-pointsSign<8>
-targetType<8>
-schoolMask<8>
-effectOrderIndex<32>
-auraOrderIndex<32>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<8>
+Field_8_1_0_27826_005<8>
+Field_8_1_0_27826_006<8>
+Field_8_1_0_27826_007<32>
+Field_8_1_0_27826_008<32>

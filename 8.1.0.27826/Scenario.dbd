@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-locstring name_lang
-int areaTableID
-int type
-int flags
-int uiTextureKitID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 0857765A
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name_lang
-areaTableID<u16>
-type<u8>
-flags<u8>
-uiTextureKitID<u32>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<u32>

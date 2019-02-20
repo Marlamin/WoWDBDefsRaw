@@ -1,8 +1,8 @@
 COLUMNS
-string word
-int ID
+string Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
 
 LAYOUT 10D7C6A6
 BUILD 8.1.0.27826
-word
-$id$ID<32>
+Field_8_1_0_27826_000
+$id$Field_8_1_0_27826_001<32>

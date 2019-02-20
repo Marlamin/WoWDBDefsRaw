@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int slot
-int levelRequired
-int deathKnightLevelRequired
-int demonHunterLevelRequired
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
 
 LAYOUT 572DDD84
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-slot<8>
-levelRequired<32>
-deathKnightLevelRequired<32>
-demonHunterLevelRequired<32>
+Field_8_1_0_27826_000<8>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<32>

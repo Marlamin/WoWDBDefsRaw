@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int Geoset
-int raceID
-int sexID
-int VariationID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
 
 LAYOUT AA817A08
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Geoset<32>[5]
-raceID<u8>
-sexID<u8>
-VariationID<u8>
+Field_8_1_0_27826_000<32>[5]
+Field_8_1_0_27826_001<u8>
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<u8>

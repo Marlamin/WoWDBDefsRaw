@@ -1,32 +1,32 @@
 COLUMNS
 int ID
-int areaID
-int wmoAreaID
-int phaseID
-int phaseGroupID
-int phaseUseFlags
-int zoneIntroMusicID
-int zoneMusicID
-int soundAmbienceID
-int soundProviderPreferencesID
-int uwZoneIntroMusicID
-int uwZoneMusicID
-int uwSoundAmbienceID
-int uwSoundProviderPreferencesID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
 
 LAYOUT 7CA0A010
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-areaID<u16>
-wmoAreaID<u8>
-phaseID<u16>
-phaseGroupID<u16>
-phaseUseFlags<u8>
-zoneIntroMusicID<u32>
-zoneMusicID<u32>
-soundAmbienceID<u16>
-soundProviderPreferencesID<u8>
-uwZoneIntroMusicID<u32>
-uwZoneMusicID<u32>
-uwSoundAmbienceID<u16>
-uwSoundProviderPreferencesID<u8>
+Field_8_1_0_27826_000<u16>
+Field_8_1_0_27826_001<u8>
+Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003<u16>
+Field_8_1_0_27826_004<u8>
+Field_8_1_0_27826_005<u32>
+Field_8_1_0_27826_006<u32>
+Field_8_1_0_27826_007<u16>
+Field_8_1_0_27826_008<u8>
+Field_8_1_0_27826_009<u32>
+Field_8_1_0_27826_010<u32>
+Field_8_1_0_27826_011<u16>
+Field_8_1_0_27826_012<u8>

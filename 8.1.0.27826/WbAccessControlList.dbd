@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-string URL
-int grantFlags
-int revokeFlags
-int wowEditInternal
-int regionID
+string Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT DC9D8334
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-URL
-grantFlags<u16>
-revokeFlags<u8>
-wowEditInternal<u8>
-regionID<u8>
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<u8>

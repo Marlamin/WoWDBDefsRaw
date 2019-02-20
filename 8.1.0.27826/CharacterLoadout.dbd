@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int raceMask
-int chrClassID
-int purpose
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT A07F9727
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-raceMask<64>
-chrClassID<8>
-purpose<8>
+Field_8_1_0_27826_000<64>
+Field_8_1_0_27826_001<8>
+Field_8_1_0_27826_002<8>

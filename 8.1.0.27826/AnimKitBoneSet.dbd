@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-string name
-int boneDataID
-int parentAnimKitBoneSetID
-int extraBoneCount
-int altAnimKitBoneSetID
+string Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 1C432613
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name
-boneDataID<8>
-parentAnimKitBoneSetID<8>
-extraBoneCount<u8>
-altAnimKitBoneSetID<8>
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001<8>
+Field_8_1_0_27826_002<8>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<8>

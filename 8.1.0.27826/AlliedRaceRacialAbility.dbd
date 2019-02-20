@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-locstring Name_lang
-locstring Description_lang
-int IconFileDataID
-int orderIndex
-int AlliedRaceID
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 96902165
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Name_lang
-Description_lang
-IconFileDataID<32>
-orderIndex<u8>
-$noninline,relation$AlliedRaceID<32>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<u8>
+$noninline,relation$Field_8_1_0_27826_004<32>

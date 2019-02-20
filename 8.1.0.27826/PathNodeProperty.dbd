@@ -1,14 +1,14 @@
 COLUMNS
-int ID
-int pathID
-int sequence
-int propertyIndex
-int value
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 578DA815
 BUILD 8.1.0.27826
-$id$ID<32>
-pathID<u16>
-sequence<u16>
-propertyIndex<u8>
-value<32>
+$id$Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<32>

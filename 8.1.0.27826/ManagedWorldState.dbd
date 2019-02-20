@@ -1,24 +1,24 @@
 COLUMNS
-int ID
-int currentStageWorldStateID
-int progressWorldStateID
-int upTimeSecs
-int downTimeSecs
-int accumulationStateTargetValue
-int depletionStateTargetValue
-int accumulationAmountPerMinute
-int depletionAmountPerMinute
-int occurrencesWorldStateID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
 
 LAYOUT 043BFC8F
 BUILD 8.1.0.27826
-$id$ID<32>
-currentStageWorldStateID<32>
-progressWorldStateID<32>
-upTimeSecs<u32>
-downTimeSecs<u32>
-accumulationStateTargetValue<32>
-depletionStateTargetValue<32>
-accumulationAmountPerMinute<32>
-depletionAmountPerMinute<32>
-occurrencesWorldStateID<32>[4]
+$id$Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<u32>
+Field_8_1_0_27826_004<u32>
+Field_8_1_0_27826_005<32>
+Field_8_1_0_27826_006<32>
+Field_8_1_0_27826_007<32>
+Field_8_1_0_27826_008<32>
+Field_8_1_0_27826_009<32>[4]

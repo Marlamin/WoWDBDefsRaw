@@ -1,32 +1,32 @@
 COLUMNS
 int ID
-float duration
-float fadeIn
-float fadeOut
-float fresnelCoefficient
-float glowRed
-float glowGreen
-float glowBlue
-float glowAlpha
-float glowMultiplier
-int flags
-float initialDelay
-int curveID
-int priority
+float Field_8_1_0_27826_000
+float Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
+float Field_8_1_0_27826_003
+float Field_8_1_0_27826_004
+float Field_8_1_0_27826_005
+float Field_8_1_0_27826_006
+float Field_8_1_0_27826_007
+float Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+float Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
 
 LAYOUT CBCC7336
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-duration
-fadeIn
-fadeOut
-fresnelCoefficient
-glowRed
-glowGreen
-glowBlue
-glowAlpha
-glowMultiplier
-flags<8>
-initialDelay
-curveID<32>
-priority<u32>
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001
+Field_8_1_0_27826_002
+Field_8_1_0_27826_003
+Field_8_1_0_27826_004
+Field_8_1_0_27826_005
+Field_8_1_0_27826_006
+Field_8_1_0_27826_007
+Field_8_1_0_27826_008
+Field_8_1_0_27826_009<8>
+Field_8_1_0_27826_010
+Field_8_1_0_27826_011<32>
+Field_8_1_0_27826_012<u32>

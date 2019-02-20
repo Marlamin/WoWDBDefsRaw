@@ -1,10 +1,10 @@
 COLUMNS
-locstring name_lang
-int ID
-int slot
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT D7448990
 BUILD 8.1.0.27826
-name_lang
-$id$ID<32>
-slot<u8>
+Field_8_1_0_27826_000_lang
+$id$Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<u8>

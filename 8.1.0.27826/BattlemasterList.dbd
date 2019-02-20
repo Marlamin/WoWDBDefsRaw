@@ -1,40 +1,40 @@
 COLUMNS
 int ID
-locstring name_lang
-locstring gameType_lang
-locstring shortDescription_lang
-locstring longDescription_lang
-int instanceType
-int minLevel
-int maxLevel
-int ratedPlayers
-int minPlayers
-int maxPlayers
-int groupsAllowed
-int maxGroupSize
-int holidayWorldState
-int flags
-int iconFileDataID
-int required_Player_Condition_ID
-int mapID
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+locstring Field_8_1_0_27826_002_lang
+locstring Field_8_1_0_27826_003_lang
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
+int Field_8_1_0_27826_016
 
 LAYOUT 167284E8
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name_lang
-gameType_lang
-shortDescription_lang
-longDescription_lang
-instanceType<8>
-minLevel<8>
-maxLevel<8>
-ratedPlayers<8>
-minPlayers<8>
-maxPlayers<8>
-groupsAllowed<8>
-maxGroupSize<8>
-holidayWorldState<16>
-flags<8>
-iconFileDataID<32>
-required_Player_Condition_ID<16>
-mapID<16>[16]
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002_lang
+Field_8_1_0_27826_003_lang
+Field_8_1_0_27826_004<8>
+Field_8_1_0_27826_005<8>
+Field_8_1_0_27826_006<8>
+Field_8_1_0_27826_007<8>
+Field_8_1_0_27826_008<8>
+Field_8_1_0_27826_009<8>
+Field_8_1_0_27826_010<8>
+Field_8_1_0_27826_011<8>
+Field_8_1_0_27826_012<16>
+Field_8_1_0_27826_013<8>
+Field_8_1_0_27826_014<32>
+Field_8_1_0_27826_015<16>
+Field_8_1_0_27826_016<16>[16]

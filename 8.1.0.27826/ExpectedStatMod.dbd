@@ -1,24 +1,24 @@
 COLUMNS
 int ID
-float creatureHealthMod
-float playerHealthMod
-float creatureAutoAttackDPSMod
-float creatureArmorMod
-float playerManaMod
-float playerPrimaryStatMod
-float playerSecondaryStatMod
-float armorConstantMod
-float creatureSpellDamageMod
+float Field_8_1_0_27826_000
+float Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
+float Field_8_1_0_27826_003
+float Field_8_1_0_27826_004
+float Field_8_1_0_27826_005
+float Field_8_1_0_27826_006
+float Field_8_1_0_27826_007
+float Field_8_1_0_27826_008
 
 LAYOUT EA56E599
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-creatureHealthMod
-playerHealthMod
-creatureAutoAttackDPSMod
-creatureArmorMod
-playerManaMod
-playerPrimaryStatMod
-playerSecondaryStatMod
-armorConstantMod
-creatureSpellDamageMod
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001
+Field_8_1_0_27826_002
+Field_8_1_0_27826_003
+Field_8_1_0_27826_004
+Field_8_1_0_27826_005
+Field_8_1_0_27826_006
+Field_8_1_0_27826_007
+Field_8_1_0_27826_008

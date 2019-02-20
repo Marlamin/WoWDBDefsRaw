@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-string Name
+string Field_8_1_0_27826_000
 
 LAYOUT ECCAE96B
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Name
+Field_8_1_0_27826_000

@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int currencyTypeID
-int quantity
-int rewardPackID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT EA88FC16
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-currencyTypeID<u32>
-quantity<32>
-$noninline,relation$rewardPackID<u32>
+Field_8_1_0_27826_000<u32>
+Field_8_1_0_27826_001<32>
+$noninline,relation$Field_8_1_0_27826_002<u32>

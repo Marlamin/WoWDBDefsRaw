@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int flags
-int scheduledIntervalID
-int selectionType
-int selectionCount
-int priority
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT CF71B287
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-flags<32>
-scheduledIntervalID<32>
-selectionType<32>
-selectionCount<32>
-priority<32>
+Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<32>

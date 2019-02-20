@@ -1,126 +1,126 @@
 COLUMNS
 int ID
-float avgSegLen
-float noiseScale
-float texCoordScale
-int segDuration
-int segDelay
-int flags
-int jointCount
-float jointOffsetRadius
-int jointsPerMinorJoint
-int minorJointsPerMajorJoint
-float minorJointScale
-float majorJointScale
-float jointMoveSpeed
-float jointSmoothness
-float minDurationBetweenJointJumps
-float maxDurationBetweenJointJumps
-float waveHeight
-float waveFreq
-float waveSpeed
-float minWaveAngle
-float maxWaveAngle
-float minWaveSpin
-float maxWaveSpin
-float arcHeight
-float minArcAngle
-float maxArcAngle
-float minArcSpin
-float maxArcSpin
-float delayBetweenEffects
-float minFlickerOnDuration
-float maxFlickerOnDuration
-float minFlickerOffDuration
-float maxFlickerOffDuration
-float pulseSpeed
-float pulseOnLength
-float pulseFadeLength
-int alpha
-int red
-int green
-int blue
-int blendMode
-int renderLayer
-float wavePhase
-float timePerFlipFrame
-float variancePerFlipFrame
-int textureParticleFileDataID
-float startWidth
-float endWidth
-int widthScaleCurveID
-int numFlipFramesU
-int numFlipFramesV
-int soundKitID
-float particleScaleMultiplier
-float particleEmissionRateMultiplier
-int spellChainEffectID
-float textureCoordScaleU
-float textureCoordScaleV
-float textureRepeatLengthU
-float textureRepeatLengthV
-int textureFileDataID
+float Field_8_1_0_27826_000
+float Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+float Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+float Field_8_1_0_27826_010
+float Field_8_1_0_27826_011
+float Field_8_1_0_27826_012
+float Field_8_1_0_27826_013
+float Field_8_1_0_27826_014
+float Field_8_1_0_27826_015
+float Field_8_1_0_27826_016
+float Field_8_1_0_27826_017
+float Field_8_1_0_27826_018
+float Field_8_1_0_27826_019
+float Field_8_1_0_27826_020
+float Field_8_1_0_27826_021
+float Field_8_1_0_27826_022
+float Field_8_1_0_27826_023
+float Field_8_1_0_27826_024
+float Field_8_1_0_27826_025
+float Field_8_1_0_27826_026
+float Field_8_1_0_27826_027
+float Field_8_1_0_27826_028
+float Field_8_1_0_27826_029
+float Field_8_1_0_27826_030
+float Field_8_1_0_27826_031
+float Field_8_1_0_27826_032
+float Field_8_1_0_27826_033
+float Field_8_1_0_27826_034
+float Field_8_1_0_27826_035
+int Field_8_1_0_27826_036
+int Field_8_1_0_27826_037
+int Field_8_1_0_27826_038
+int Field_8_1_0_27826_039
+int Field_8_1_0_27826_040
+int Field_8_1_0_27826_041
+float Field_8_1_0_27826_042
+float Field_8_1_0_27826_043
+float Field_8_1_0_27826_044
+int Field_8_1_0_27826_045
+float Field_8_1_0_27826_046
+float Field_8_1_0_27826_047
+int Field_8_1_0_27826_048
+int Field_8_1_0_27826_049
+int Field_8_1_0_27826_050
+int Field_8_1_0_27826_051
+float Field_8_1_0_27826_052
+float Field_8_1_0_27826_053
+int Field_8_1_0_27826_054
+float Field_8_1_0_27826_055
+float Field_8_1_0_27826_056
+float Field_8_1_0_27826_057
+float Field_8_1_0_27826_058
+int Field_8_1_0_27826_059
 
 LAYOUT 461F9829
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-avgSegLen
-noiseScale
-texCoordScale
-segDuration<u32>
-segDelay<u16>
-flags<u32>
-jointCount<u16>
-jointOffsetRadius
-jointsPerMinorJoint<u8>
-minorJointsPerMajorJoint<u8>
-minorJointScale
-majorJointScale
-jointMoveSpeed
-jointSmoothness
-minDurationBetweenJointJumps
-maxDurationBetweenJointJumps
-waveHeight
-waveFreq
-waveSpeed
-minWaveAngle
-maxWaveAngle
-minWaveSpin
-maxWaveSpin
-arcHeight
-minArcAngle
-maxArcAngle
-minArcSpin
-maxArcSpin
-delayBetweenEffects
-minFlickerOnDuration
-maxFlickerOnDuration
-minFlickerOffDuration
-maxFlickerOffDuration
-pulseSpeed
-pulseOnLength
-pulseFadeLength
-alpha<u8>
-red<u8>
-green<u8>
-blue<u8>
-blendMode<u8>
-renderLayer<u8>
-wavePhase
-timePerFlipFrame
-variancePerFlipFrame
-textureParticleFileDataID<u32>
-startWidth
-endWidth
-widthScaleCurveID<u16>
-numFlipFramesU<u8>
-numFlipFramesV<u8>
-soundKitID<u32>
-particleScaleMultiplier
-particleEmissionRateMultiplier
-spellChainEffectID<u16>[11]
-textureCoordScaleU[3]
-textureCoordScaleV[3]
-textureRepeatLengthU[3]
-textureRepeatLengthV[3]
-textureFileDataID<32>[3]
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001
+Field_8_1_0_27826_002
+Field_8_1_0_27826_003<u32>
+Field_8_1_0_27826_004<u16>
+Field_8_1_0_27826_005<u32>
+Field_8_1_0_27826_006<u16>
+Field_8_1_0_27826_007
+Field_8_1_0_27826_008<u8>
+Field_8_1_0_27826_009<u8>
+Field_8_1_0_27826_010
+Field_8_1_0_27826_011
+Field_8_1_0_27826_012
+Field_8_1_0_27826_013
+Field_8_1_0_27826_014
+Field_8_1_0_27826_015
+Field_8_1_0_27826_016
+Field_8_1_0_27826_017
+Field_8_1_0_27826_018
+Field_8_1_0_27826_019
+Field_8_1_0_27826_020
+Field_8_1_0_27826_021
+Field_8_1_0_27826_022
+Field_8_1_0_27826_023
+Field_8_1_0_27826_024
+Field_8_1_0_27826_025
+Field_8_1_0_27826_026
+Field_8_1_0_27826_027
+Field_8_1_0_27826_028
+Field_8_1_0_27826_029
+Field_8_1_0_27826_030
+Field_8_1_0_27826_031
+Field_8_1_0_27826_032
+Field_8_1_0_27826_033
+Field_8_1_0_27826_034
+Field_8_1_0_27826_035
+Field_8_1_0_27826_036<u8>
+Field_8_1_0_27826_037<u8>
+Field_8_1_0_27826_038<u8>
+Field_8_1_0_27826_039<u8>
+Field_8_1_0_27826_040<u8>
+Field_8_1_0_27826_041<u8>
+Field_8_1_0_27826_042
+Field_8_1_0_27826_043
+Field_8_1_0_27826_044
+Field_8_1_0_27826_045<u32>
+Field_8_1_0_27826_046
+Field_8_1_0_27826_047
+Field_8_1_0_27826_048<u16>
+Field_8_1_0_27826_049<u8>
+Field_8_1_0_27826_050<u8>
+Field_8_1_0_27826_051<u32>
+Field_8_1_0_27826_052
+Field_8_1_0_27826_053
+Field_8_1_0_27826_054<u16>[11]
+Field_8_1_0_27826_055[3]
+Field_8_1_0_27826_056[3]
+Field_8_1_0_27826_057[3]
+Field_8_1_0_27826_058[3]
+Field_8_1_0_27826_059<32>[3]

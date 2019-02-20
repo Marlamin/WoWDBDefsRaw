@@ -1,22 +1,22 @@
 COLUMNS
 int ID
-float offset
-int objectEffectGroupID
-int triggerType
-int eventType
-int effectRecType
-int effectRecID
-int attachment
-int objectEffectModifierID
+float Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
 
 LAYOUT 48D89FCF
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-offset[3]
-objectEffectGroupID<u16>
-triggerType<u8>
-eventType<u8>
-effectRecType<u8>
-effectRecID<u32>
-attachment<8>
-objectEffectModifierID<u32>
+Field_8_1_0_27826_000[3]
+Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<u8>
+Field_8_1_0_27826_005<u32>
+Field_8_1_0_27826_006<8>
+Field_8_1_0_27826_007<u32>

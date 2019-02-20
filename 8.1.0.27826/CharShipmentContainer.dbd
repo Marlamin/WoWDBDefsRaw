@@ -1,38 +1,38 @@
 COLUMNS
 int ID
-locstring description_lang
-locstring pendingText_lang
-int uiTextureKitID
-int garrTypeID
-int garrBuildingType
-int baseCapacity
-int smallDisplayInfoID
-int mediumDisplayInfoID
-int largeDisplayInfoID
-int workingDisplayInfoID
-int workingSpellVisualID
-int completeSpellVisualID
-int mediumThreshold
-int largeThreshold
-int faction
-int crossFactionID
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
 
 LAYOUT 13048703
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-description_lang
-pendingText_lang
-uiTextureKitID<u16>
-garrTypeID<u8>
-garrBuildingType<u8>
-baseCapacity<u8>
-smallDisplayInfoID<u16>
-mediumDisplayInfoID<u16>
-largeDisplayInfoID<u16>
-workingDisplayInfoID<u16>
-workingSpellVisualID<u32>
-completeSpellVisualID<u32>
-mediumThreshold<u8>
-largeThreshold<u8>
-faction<8>
-crossFactionID<u16>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<u8>
+Field_8_1_0_27826_005<u8>
+Field_8_1_0_27826_006<u16>
+Field_8_1_0_27826_007<u16>
+Field_8_1_0_27826_008<u16>
+Field_8_1_0_27826_009<u16>
+Field_8_1_0_27826_010<u32>
+Field_8_1_0_27826_011<u32>
+Field_8_1_0_27826_012<u8>
+Field_8_1_0_27826_013<u8>
+Field_8_1_0_27826_014<8>
+Field_8_1_0_27826_015<u16>

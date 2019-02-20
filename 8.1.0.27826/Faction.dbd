@@ -1,36 +1,36 @@
 COLUMNS
-int reputationRaceMask
-locstring name_lang
-locstring description_lang
-int ID
-int reputationIndex
-int parentFactionID
-int expansion
-int friendshipRepID
-int flags
-int paragonFactionID
-int reputationClassMask
-int reputationFlags
-int reputationBase
-int reputationMax
-float parentFactionMod
-int parentFactionCap
+int Field_8_1_0_27826_000
+locstring Field_8_1_0_27826_001_lang
+locstring Field_8_1_0_27826_002_lang
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+float Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
 
 LAYOUT B6C3CC81
 BUILD 8.1.0.27826
-reputationRaceMask<64>[4]
-name_lang
-description_lang
-$id$ID<32>
-reputationIndex<16>
-parentFactionID<u16>
-expansion<u8>
-friendshipRepID<u32>
-flags<u8>
-paragonFactionID<u16>
-reputationClassMask<16>[4]
-reputationFlags<u16>[4]
-reputationBase<32>[4]
-reputationMax<32>[4]
-parentFactionMod[2]
-parentFactionCap<u8>[2]
+Field_8_1_0_27826_000<64>[4]
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002_lang
+$id$Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<16>
+Field_8_1_0_27826_005<u16>
+Field_8_1_0_27826_006<u8>
+Field_8_1_0_27826_007<u32>
+Field_8_1_0_27826_008<u8>
+Field_8_1_0_27826_009<u16>
+Field_8_1_0_27826_010<16>[4]
+Field_8_1_0_27826_011<u16>[4]
+Field_8_1_0_27826_012<32>[4]
+Field_8_1_0_27826_013<32>[4]
+Field_8_1_0_27826_014[2]
+Field_8_1_0_27826_015<u8>[2]

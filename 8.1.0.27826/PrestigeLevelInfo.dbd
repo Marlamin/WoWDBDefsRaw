@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-locstring name_lang
-int prestigeLevel
-int badgeTextureFileDataID
-int flags
-int awardedAchievementID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 31BD813F
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name_lang
-prestigeLevel<32>
-badgeTextureFileDataID<32>
-flags<u8>
-awardedAchievementID<32>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<32>

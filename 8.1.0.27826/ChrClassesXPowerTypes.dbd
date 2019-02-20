@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int powerType
-int classID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
 
 LAYOUT 6DE888E7
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-powerType<8>
-$noninline,relation$classID<u8>
+Field_8_1_0_27826_000<8>
+$noninline,relation$Field_8_1_0_27826_001<u8>

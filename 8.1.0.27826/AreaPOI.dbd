@@ -1,38 +1,38 @@
 COLUMNS
-locstring name_lang
-locstring description_lang
-int ID
-float pos
-int portLocID
-int playerConditionID
-int uiTextureAtlasMemberID
-int flags
-int wmoGroupID
-int poiDataType
-int poiData
-int continentID
-int areaID
-int worldStateID
-int widgetSetID
-int importance
-int icon
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
+float Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
+int Field_8_1_0_27826_016
 
 LAYOUT 34D56581
 BUILD 8.1.0.27826
-name_lang
-description_lang
-$id$ID<32>
-pos[3]
-portLocID<32>
-playerConditionID<u32>
-uiTextureAtlasMemberID<u32>
-flags<u32>
-wmoGroupID<32>
-poiDataType<32>
-poiData<32>
-$relation$continentID<u16>
-areaID<16>
-worldStateID<u16>
-widgetSetID<u16>
-importance<u8>
-icon<u8>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+$id$Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003[3]
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<u32>
+Field_8_1_0_27826_006<u32>
+Field_8_1_0_27826_007<u32>
+Field_8_1_0_27826_008<32>
+Field_8_1_0_27826_009<32>
+Field_8_1_0_27826_010<32>
+$relation$Field_8_1_0_27826_011<u16>
+Field_8_1_0_27826_012<16>
+Field_8_1_0_27826_013<u16>
+Field_8_1_0_27826_014<u16>
+Field_8_1_0_27826_015<u8>
+Field_8_1_0_27826_016<u8>

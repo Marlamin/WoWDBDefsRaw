@@ -1,36 +1,36 @@
 COLUMNS
 int ID
-int raceMask
-int orderIndex
-int gender
-int classMask
-int skinColorMask
-int hairColorMask
-int hairStyleMask
-int faceStyleMask
-int facialHairStyleMask
-int creatureModelDataID
-int customOption0_Mask
-int customOption1_Mask
-int customOption2_Mask
-int textureVariationFileDataID
-int creatureDisplayInfoID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
 
 LAYOUT 596B4605
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-raceMask<64>
-orderIndex<8>
-gender<8>
-classMask<u32>
-skinColorMask<u32>
-hairColorMask<u32>
-hairStyleMask<u32>
-faceStyleMask<u32>
-facialHairStyleMask<u32>
-creatureModelDataID<32>
-customOption0_Mask<32>[2]
-customOption1_Mask<32>[2]
-customOption2_Mask<32>[2]
-textureVariationFileDataID<32>[3]
-$noninline,relation$creatureDisplayInfoID<32>
+Field_8_1_0_27826_000<64>
+Field_8_1_0_27826_001<8>
+Field_8_1_0_27826_002<8>
+Field_8_1_0_27826_003<u32>
+Field_8_1_0_27826_004<u32>
+Field_8_1_0_27826_005<u32>
+Field_8_1_0_27826_006<u32>
+Field_8_1_0_27826_007<u32>
+Field_8_1_0_27826_008<u32>
+Field_8_1_0_27826_009<32>
+Field_8_1_0_27826_010<32>[2]
+Field_8_1_0_27826_011<32>[2]
+Field_8_1_0_27826_012<32>[2]
+Field_8_1_0_27826_013<32>[3]
+$noninline,relation$Field_8_1_0_27826_014<32>

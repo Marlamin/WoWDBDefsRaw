@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int chrClassesID
-int advGuidePlayerConditionID
-int splashPlayerConditionID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT 3D58F88F
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-chrClassesID<u8>
-advGuidePlayerConditionID<u32>
-splashPlayerConditionID<u32>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<u32>
+Field_8_1_0_27826_002<u32>

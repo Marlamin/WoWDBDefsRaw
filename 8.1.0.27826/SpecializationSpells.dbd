@@ -1,16 +1,16 @@
 COLUMNS
-locstring description_lang
-int ID
-int specID
-int spellID
-int overridesSpellID
-int displayOrder
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
 
 LAYOUT 88A56A2F
 BUILD 8.1.0.27826
-description_lang
-$id$ID<32>
-$relation$specID<u16>
-spellID<32>
-overridesSpellID<32>
-displayOrder<u8>
+Field_8_1_0_27826_000_lang
+$id$Field_8_1_0_27826_001<32>
+$relation$Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<u8>

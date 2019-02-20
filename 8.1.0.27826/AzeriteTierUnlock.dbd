@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int itemCreationContext
-int tier
-int azeriteLevel
-int azeriteTierUnlockSetID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
 
 LAYOUT 2B04F059
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-itemCreationContext<u8>
-tier<u8>
-azeriteLevel<u8>
-$noninline,relation$azeriteTierUnlockSetID<u8>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<u8>
+Field_8_1_0_27826_002<u8>
+$noninline,relation$Field_8_1_0_27826_003<u8>

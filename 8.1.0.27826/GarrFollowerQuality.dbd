@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-int quality
-int xpToNextQuality
-int garrFollowerTypeID
-int abilityCount
-int traitCount
-int shipmentXP
-int classSpecID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
 
 LAYOUT CAE87042
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-quality<u8>
-xpToNextQuality<u32>
-garrFollowerTypeID<u8>
-abilityCount<u8>
-traitCount<u8>
-shipmentXP<u16>
-classSpecID<u32>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<u32>
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<u8>
+Field_8_1_0_27826_005<u16>
+Field_8_1_0_27826_006<u32>

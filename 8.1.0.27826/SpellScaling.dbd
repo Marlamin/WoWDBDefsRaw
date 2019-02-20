@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int spellID
-int class
-int minScalingLevel
-int maxScalingLevel
-int scalesFromItemLevel
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 4B0C2E65
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-spellID<32>
-class<32>
-minScalingLevel<u32>
-maxScalingLevel<u32>
-scalesFromItemLevel<16>
+Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<u32>
+Field_8_1_0_27826_003<u32>
+Field_8_1_0_27826_004<16>

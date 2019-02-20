@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int itemContext
-int childItemBonusTreeID
-int childItemBonusListID
-int childItemLevelSelectorID
-int parentItemBonusTreeID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 1DDAA885
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-itemContext<u8>
-childItemBonusTreeID<u16>
-childItemBonusListID<u16>
-childItemLevelSelectorID<u16>
-$noninline,relation$parentItemBonusTreeID<u16>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003<u16>
+$noninline,relation$Field_8_1_0_27826_004<u16>

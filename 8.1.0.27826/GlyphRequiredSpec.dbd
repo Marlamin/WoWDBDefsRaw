@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int chrSpecializationID
-int glyphPropertiesID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
 
 LAYOUT 70D4ECC6
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-chrSpecializationID<u16>
-$noninline,relation$glyphPropertiesID<u16>
+Field_8_1_0_27826_000<u16>
+$noninline,relation$Field_8_1_0_27826_001<u16>

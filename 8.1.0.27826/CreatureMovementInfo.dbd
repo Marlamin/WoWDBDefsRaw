@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-float smoothFacingChaseRate
+float Field_8_1_0_27826_000
 
 LAYOUT 31BE6397
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-smoothFacingChaseRate
+Field_8_1_0_27826_000

@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int powerA
-int powerB
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
 
 LAYOUT BB7E3584
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-powerA<u16>
-powerB<u16>
+Field_8_1_0_27826_000<u16>
+Field_8_1_0_27826_001<u16>

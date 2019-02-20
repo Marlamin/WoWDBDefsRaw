@@ -1,22 +1,22 @@
 COLUMNS
 int ID
-int scheduledWorldStateGroupID
-int worldStateID
-int value
-int durationSecs
-int weight
-int uniqueCategory
-int flags
-int orderIndex
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
 
 LAYOUT DC45735A
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-$relation$scheduledWorldStateGroupID<32>
-worldStateID<32>
-value<32>
-durationSecs<32>
-weight<32>
-uniqueCategory<32>
-flags<32>
-orderIndex<32>
+$relation$Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<32>
+Field_8_1_0_27826_006<32>
+Field_8_1_0_27826_007<32>

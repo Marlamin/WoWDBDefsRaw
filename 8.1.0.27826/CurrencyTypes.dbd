@@ -1,28 +1,28 @@
 COLUMNS
 int ID
-locstring name_lang
-locstring description_lang
-int categoryID
-int inventoryIconFileID
-int spellWeight
-int spellCategory
-int maxQty
-int maxEarnablePerWeek
-int flags
-int quality
-int factionID
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
 
 LAYOUT 998F0AAA
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name_lang
-description_lang
-categoryID<u8>
-inventoryIconFileID<32>
-spellWeight<u32>
-spellCategory<u8>
-maxQty<u32>
-maxEarnablePerWeek<u32>
-flags<u32>
-quality<8>
-factionID<32>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<u32>
+Field_8_1_0_27826_005<u8>
+Field_8_1_0_27826_006<u32>
+Field_8_1_0_27826_007<u32>
+Field_8_1_0_27826_008<u32>
+Field_8_1_0_27826_009<8>
+Field_8_1_0_27826_010<32>

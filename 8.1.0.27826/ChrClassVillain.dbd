@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-locstring name_lang
-int chrClassID
-int gender
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT 601C7CCD
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name_lang
-chrClassID<u8>
-gender<8>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<u8>
+Field_8_1_0_27826_002<8>

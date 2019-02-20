@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+int Field_8_0_1_27075_000
+int Field_8_0_1_27075_001
+float Field_8_0_1_27075_002
+float Field_8_0_1_27075_003
+float Field_8_0_1_27075_004
+float Field_8_0_1_27075_005
+float Field_8_0_1_27075_006
+float Field_8_0_1_27075_007
+float Field_8_0_1_27075_008
+float Field_8_0_1_27075_009
+int Field_8_0_1_27075_010
+int Field_8_0_1_27075_011
+int Field_8_0_1_27075_012
+int Field_8_0_1_27075_013
+int Field_8_0_1_27075_014
+int Field_8_0_1_27075_015
+
+LAYOUT ED27DC2F
+BUILD 8.0.1.27075
+$noninline,id$ID<32>
+Field_8_0_1_27075_000<u8>
+Field_8_0_1_27075_001<u16>
+Field_8_0_1_27075_002
+Field_8_0_1_27075_003
+Field_8_0_1_27075_004
+Field_8_0_1_27075_005
+Field_8_0_1_27075_006
+Field_8_0_1_27075_007
+Field_8_0_1_27075_008
+Field_8_0_1_27075_009
+Field_8_0_1_27075_010<u8>
+Field_8_0_1_27075_011<8>
+Field_8_0_1_27075_012<u8>
+Field_8_0_1_27075_013<u8>
+Field_8_0_1_27075_014<8>
+$noninline,relation$Field_8_0_1_27075_015<u16>

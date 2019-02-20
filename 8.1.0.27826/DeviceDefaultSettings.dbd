@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int vendorID
-int deviceID
-int defaultSetting
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT 2AB8A38C
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-vendorID<u16>
-deviceID<u16>
-defaultSetting<8>
+Field_8_1_0_27826_000<u16>
+Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002<8>

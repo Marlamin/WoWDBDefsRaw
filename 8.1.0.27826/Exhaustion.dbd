@@ -1,20 +1,20 @@
 COLUMNS
-locstring name_lang
-string combatLogText
-int ID
-int xp
-float factor
-float outdoorHours
-float innHours
-float threshold
+locstring Field_8_1_0_27826_000_lang
+string Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+float Field_8_1_0_27826_004
+float Field_8_1_0_27826_005
+float Field_8_1_0_27826_006
+float Field_8_1_0_27826_007
 
 LAYOUT F0F48BB5
 BUILD 8.1.0.27826
-name_lang
-combatLogText
-$id$ID<32>
-xp<32>
-factor
-outdoorHours
-innHours
-threshold
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001
+$id$Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004
+Field_8_1_0_27826_005
+Field_8_1_0_27826_006
+Field_8_1_0_27826_007

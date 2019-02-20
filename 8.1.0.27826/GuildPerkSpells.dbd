@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-int spellID
+int Field_8_1_0_27826_000
 
 LAYOUT C9961BEB
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-spellID<32>
+Field_8_1_0_27826_000<32>

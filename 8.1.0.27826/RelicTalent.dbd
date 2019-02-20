@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int type
-int artifactPowerID
-int artifactPowerLabel
-int pVal
-int flags
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 8BEAE937
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-type<32>
-artifactPowerID<u16>
-artifactPowerLabel<u8>
-pVal<32>
-flags<32>
+Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<32>

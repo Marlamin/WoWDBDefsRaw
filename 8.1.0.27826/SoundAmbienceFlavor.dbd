@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int SoundEntriesIDDay
-int SoundEntriesIDNight
-int SoundAmbienceID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT 41E33D5D
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-SoundEntriesIDDay<u32>
-SoundEntriesIDNight<u32>
-$noninline,relation$SoundAmbienceID<u16>
+Field_8_1_0_27826_000<u32>
+Field_8_1_0_27826_001<u32>
+$noninline,relation$Field_8_1_0_27826_002<u16>

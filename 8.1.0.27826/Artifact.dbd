@@ -1,26 +1,26 @@
 COLUMNS
-locstring name_lang
-int ID
-int uiTextureKitID
-int uiNameColor
-int uiBarOverlayColor
-int uiBarBackgroundColor
-int chrSpecializationID
-int flags
-int artifactCategoryID
-int uiModelSceneID
-int spellVisualKitID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
 
 LAYOUT 780D61EA
 BUILD 8.1.0.27826
-name_lang
-$id$ID<32>
-uiTextureKitID<u16>
-uiNameColor<32>
-uiBarOverlayColor<32>
-uiBarBackgroundColor<32>
-chrSpecializationID<u16>
-flags<u8>
-artifactCategoryID<u8>
-uiModelSceneID<u32>
-spellVisualKitID<u32>
+Field_8_1_0_27826_000_lang
+$id$Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<32>
+Field_8_1_0_27826_006<u16>
+Field_8_1_0_27826_007<u8>
+Field_8_1_0_27826_008<u8>
+Field_8_1_0_27826_009<u32>
+Field_8_1_0_27826_010<u32>

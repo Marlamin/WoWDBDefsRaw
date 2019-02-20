@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-float pos
-float rot
+float Field_8_1_0_27826_000
+float Field_8_1_0_27826_001
 
 LAYOUT 71BD1122
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-pos[3]
-rot[3]
+Field_8_1_0_27826_000[3]
+Field_8_1_0_27826_001[3]

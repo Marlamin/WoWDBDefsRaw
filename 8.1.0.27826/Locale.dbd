@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int wowLocale
-int fontFileDataID
-int clientDisplayExpansion
-int secondary
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
 
 LAYOUT 65638FD5
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-wowLocale<u8>
-fontFileDataID<32>
-clientDisplayExpansion<u8>
-secondary<u8>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<u8>

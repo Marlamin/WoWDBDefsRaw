@@ -1,10 +1,10 @@
 COLUMNS
-int ID
-int width
-int height
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT 77DC2C2A
 BUILD 8.1.0.27826
-$id$ID<32>
-width<16>
-height<16>
+$id$Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<16>
+Field_8_1_0_27826_002<16>

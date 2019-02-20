@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-string baseTag
-locstring tagText_lang
-int flags
+string Field_8_1_0_27826_000
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
 
 LAYOUT 843675FD
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-baseTag
-tagText_lang
-flags<u8>
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002<u8>

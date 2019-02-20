@@ -1,50 +1,50 @@
 COLUMNS
 int ID
-int state0ImpactEffectDoodadSet
-int state0AmbientDoodadSet
-int state1Wmo
-int state1DestructionDoodadSet
-int state1ImpactEffectDoodadSet
-int state1AmbientDoodadSet
-int state2Wmo
-int state2DestructionDoodadSet
-int state2ImpactEffectDoodadSet
-int state2AmbientDoodadSet
-int state3Wmo
-int state3InitDoodadSet
-int state3AmbientDoodadSet
-int ejectDirection
-int doNotHighlight
-int state0Wmo
-int healEffect
-int healEffectSpeed
-int state0NameSet
-int state1NameSet
-int state2NameSet
-int state3NameSet
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
+int Field_8_1_0_27826_016
+int Field_8_1_0_27826_017
+int Field_8_1_0_27826_018
+int Field_8_1_0_27826_019
+int Field_8_1_0_27826_020
+int Field_8_1_0_27826_021
 
 LAYOUT F245BA93
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-state0ImpactEffectDoodadSet<8>
-state0AmbientDoodadSet<u8>
-state1Wmo<u16>
-state1DestructionDoodadSet<8>
-state1ImpactEffectDoodadSet<8>
-state1AmbientDoodadSet<u8>
-state2Wmo<u16>
-state2DestructionDoodadSet<8>
-state2ImpactEffectDoodadSet<8>
-state2AmbientDoodadSet<u8>
-state3Wmo<u16>
-state3InitDoodadSet<u8>
-state3AmbientDoodadSet<u8>
-ejectDirection<u8>
-doNotHighlight<u8>
-state0Wmo<u16>
-healEffect<u8>
-healEffectSpeed<u16>
-state0NameSet<8>
-state1NameSet<8>
-state2NameSet<8>
-state3NameSet<8>
+Field_8_1_0_27826_000<8>
+Field_8_1_0_27826_001<u8>
+Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003<8>
+Field_8_1_0_27826_004<8>
+Field_8_1_0_27826_005<u8>
+Field_8_1_0_27826_006<u16>
+Field_8_1_0_27826_007<8>
+Field_8_1_0_27826_008<8>
+Field_8_1_0_27826_009<u8>
+Field_8_1_0_27826_010<u16>
+Field_8_1_0_27826_011<u8>
+Field_8_1_0_27826_012<u8>
+Field_8_1_0_27826_013<u8>
+Field_8_1_0_27826_014<u8>
+Field_8_1_0_27826_015<u16>
+Field_8_1_0_27826_016<u8>
+Field_8_1_0_27826_017<u16>
+Field_8_1_0_27826_018<8>
+Field_8_1_0_27826_019<8>
+Field_8_1_0_27826_020<8>
+Field_8_1_0_27826_021<8>

@@ -1,14 +1,14 @@
 COLUMNS
-locstring name_lang
-locstring resourceName_lang
-locstring verb_lang
-string cursorName
-int ID
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+locstring Field_8_1_0_27826_002_lang
+string Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 3F736720
 BUILD 8.1.0.27826
-name_lang
-resourceName_lang
-verb_lang
-cursorName
-$id$ID<32>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002_lang
+Field_8_1_0_27826_003
+$id$Field_8_1_0_27826_004<32>

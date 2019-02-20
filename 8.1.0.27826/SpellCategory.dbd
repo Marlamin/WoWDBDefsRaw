@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-locstring name_lang
-int flags
-int usesPerWeek
-int maxCharges
-int chargeRecoveryTime
-int typeMask
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
 
 LAYOUT 53EB1CD3
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name_lang
-flags<8>
-usesPerWeek<u8>
-maxCharges<8>
-chargeRecoveryTime<32>
-typeMask<32>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<8>
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<8>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<32>

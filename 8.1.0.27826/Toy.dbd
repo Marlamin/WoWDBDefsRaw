@@ -1,14 +1,14 @@
 COLUMNS
-locstring sourceText_lang
-int ID
-int itemID
-int flags
-int sourceTypeEnum
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 6156EBCA
 BUILD 8.1.0.27826
-sourceText_lang
-$id$ID<32>
-itemID<32>
-flags<u8>
-sourceTypeEnum<8>
+Field_8_1_0_27826_000_lang
+$id$Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<8>

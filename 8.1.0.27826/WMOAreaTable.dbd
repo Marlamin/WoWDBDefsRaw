@@ -1,34 +1,34 @@
 COLUMNS
-locstring areaName_lang
-int ID
-int wmoID
-int nameSetID
-int wmoGroupID
-int soundProviderPref
-int soundProviderPrefUnderwater
-int ambienceID
-int uwAmbience
-int zoneMusic
-int uwZoneMusic
-int introSound
-int uwIntroSound
-int areaTableID
-int flags
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
 
 LAYOUT 60EC930B
 BUILD 8.1.0.27826
-areaName_lang
-$id$ID<32>
-$relation$wmoID<u16>
-nameSetID<u8>
-wmoGroupID<32>
-soundProviderPref<u8>
-soundProviderPrefUnderwater<u8>
-ambienceID<u16>
-uwAmbience<u16>
-zoneMusic<u16>
-uwZoneMusic<u32>
-introSound<u16>
-uwIntroSound<u16>
-areaTableID<u16>
-flags<u8>
+Field_8_1_0_27826_000_lang
+$id$Field_8_1_0_27826_001<32>
+$relation$Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<u8>
+Field_8_1_0_27826_006<u8>
+Field_8_1_0_27826_007<u16>
+Field_8_1_0_27826_008<u16>
+Field_8_1_0_27826_009<u16>
+Field_8_1_0_27826_010<u32>
+Field_8_1_0_27826_011<u16>
+Field_8_1_0_27826_012<u16>
+Field_8_1_0_27826_013<u16>
+Field_8_1_0_27826_014<u8>

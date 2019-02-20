@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int journalTierID
-int journalInstanceID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
 
 LAYOUT D584CE6A
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-$relation$journalTierID<u16>
-journalInstanceID<u16>
+$relation$Field_8_1_0_27826_000<u16>
+Field_8_1_0_27826_001<u16>

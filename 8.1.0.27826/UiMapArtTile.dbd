@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int rowIndex
-int colIndex
-int layerIndex
-int fileDataID
-int uiMapArtID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT BA5290E9
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-rowIndex<u8>
-colIndex<u8>
-layerIndex<u8>
-fileDataID<32>
-$noninline,relation$uiMapArtID<32>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<u8>
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<32>
+$noninline,relation$Field_8_1_0_27826_004<32>

@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int specializationID
-int spellID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
 
 LAYOUT BD5EEC46
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-$relation$specializationID<u16>
-spellID<u32>[6]
+$relation$Field_8_1_0_27826_000<u16>
+Field_8_1_0_27826_001<u32>[6]

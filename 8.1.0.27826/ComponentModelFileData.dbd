@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int genderIndex
-int classID
-int raceID
-int positionIndex
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
 
 LAYOUT 0F90AFAF
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-genderIndex<u8>
-classID<u8>
-raceID<u8>
-positionIndex<8>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<u8>
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<8>

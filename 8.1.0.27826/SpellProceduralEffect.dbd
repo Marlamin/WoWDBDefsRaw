@@ -1,10 +1,10 @@
 COLUMNS
-int ID
-int type
-float value
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
 
 LAYOUT F320E3AD
 BUILD 8.1.0.27826
-$id$ID<32>
-type<8>
-value[4]
+$id$Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<8>
+Field_8_1_0_27826_002[4]

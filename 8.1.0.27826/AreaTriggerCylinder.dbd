@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-float radius
-float height
-float ZOffset
+float Field_8_1_0_27826_000
+float Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
 
 LAYOUT 867834A9
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-radius
-height
-ZOffset
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001
+Field_8_1_0_27826_002

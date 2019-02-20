@@ -1,26 +1,26 @@
 COLUMNS
 int ID
-locstring message_lang
-int itemContextPickerID
-int contentTuningID
-int difficultyID
-int lockID
-int resetInterval
-int maxPlayers
-int itemContext
-int flags
-int mapID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
 
 LAYOUT F876E8BA
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-message_lang
-itemContextPickerID<u32>
-contentTuningID<32>
-difficultyID<u8>
-lockID<u8>
-resetInterval<u8>
-maxPlayers<u8>
-itemContext<u8>
-flags<u8>
-$noninline,relation$mapID<u16>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<u32>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<u8>
+Field_8_1_0_27826_005<u8>
+Field_8_1_0_27826_006<u8>
+Field_8_1_0_27826_007<u8>
+Field_8_1_0_27826_008<u8>
+$noninline,relation$Field_8_1_0_27826_009<u16>

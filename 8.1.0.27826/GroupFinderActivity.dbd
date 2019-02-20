@@ -1,34 +1,34 @@
 COLUMNS
 int ID
-locstring fullName_lang
-locstring shortName_lang
-int groupFinderCategoryID
-int orderIndex
-int groupFinderActivityGrpID
-int minLevel
-int maxLevelSuggestion
-int flags
-int minGearLevelSuggestion
-int mapID
-int difficultyID
-int areaID
-int maxPlayers
-int displayType
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
 
 LAYOUT EC40E4B1
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-fullName_lang
-shortName_lang
-groupFinderCategoryID<u8>
-orderIndex<8>
-groupFinderActivityGrpID<u8>
-minLevel<u8>
-maxLevelSuggestion<u8>
-flags<u32>
-minGearLevelSuggestion<u16>
-mapID<u16>
-difficultyID<u8>
-areaID<u16>
-maxPlayers<u8>
-displayType<u8>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<8>
+Field_8_1_0_27826_004<u8>
+Field_8_1_0_27826_005<u8>
+Field_8_1_0_27826_006<u8>
+Field_8_1_0_27826_007<u32>
+Field_8_1_0_27826_008<u16>
+Field_8_1_0_27826_009<u16>
+Field_8_1_0_27826_010<u8>
+Field_8_1_0_27826_011<u16>
+Field_8_1_0_27826_012<u8>
+Field_8_1_0_27826_013<u8>

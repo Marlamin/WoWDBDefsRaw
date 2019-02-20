@@ -1,22 +1,22 @@
 COLUMNS
-locstring name_lang
-locstring description_lang
-int ID
-int displayIndex
-int uiCameraID
-int altHandUICameraID
-int forgeAttachmentOverride
-int flags
-int artifactID
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
 
 LAYOUT BB4DB4D3
 BUILD 8.1.0.27826
-name_lang
-description_lang
-$id$ID<u32>
-displayIndex<u8>
-uiCameraID<u16>
-altHandUICameraID<u16>
-forgeAttachmentOverride<8>
-flags<u8>
-$noninline,relation$artifactID<u8>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+$id$Field_8_1_0_27826_002<u32>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<u16>
+Field_8_1_0_27826_005<u16>
+Field_8_1_0_27826_006<8>
+Field_8_1_0_27826_007<u8>
+$noninline,relation$Field_8_1_0_27826_008<u8>

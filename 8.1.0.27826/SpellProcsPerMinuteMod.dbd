@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int type
-int param
-float coeff
-int spellProcsPerMinuteID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
 
 LAYOUT E5827335
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-type<u8>
-param<16>
-coeff
-$noninline,relation$spellProcsPerMinuteID<u16>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<16>
+Field_8_1_0_27826_002
+$noninline,relation$Field_8_1_0_27826_003<u16>

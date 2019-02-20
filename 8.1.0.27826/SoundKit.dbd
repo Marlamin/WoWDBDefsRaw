@@ -1,36 +1,36 @@
 COLUMNS
-int ID
-int soundType
-float volumeFloat
-int flags
-float minDistance
-float distanceCutoff
-int EAXDef
-int soundKitAdvancedID
-float volumeVariationPlus
-float volumeVariationMinus
-float pitchVariationPlus
-float pitchVariationMinus
-int dialogType
-float pitchAdjust
-int busOverwriteID
-int maxInstances
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+float Field_8_1_0_27826_004
+float Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+float Field_8_1_0_27826_008
+float Field_8_1_0_27826_009
+float Field_8_1_0_27826_010
+float Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+float Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
 
 LAYOUT 17C44133
 BUILD 8.1.0.27826
-$id$ID<32>
-soundType<32>
-volumeFloat
-flags<u16>
-minDistance
-distanceCutoff
-EAXDef<u8>
-soundKitAdvancedID<u32>
-volumeVariationPlus
-volumeVariationMinus
-pitchVariationPlus
-pitchVariationMinus
-dialogType<8>
-pitchAdjust
-busOverwriteID<u16>
-maxInstances<u8>
+$id$Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002
+Field_8_1_0_27826_003<u16>
+Field_8_1_0_27826_004
+Field_8_1_0_27826_005
+Field_8_1_0_27826_006<u8>
+Field_8_1_0_27826_007<u32>
+Field_8_1_0_27826_008
+Field_8_1_0_27826_009
+Field_8_1_0_27826_010
+Field_8_1_0_27826_011
+Field_8_1_0_27826_012<8>
+Field_8_1_0_27826_013
+Field_8_1_0_27826_014<u16>
+Field_8_1_0_27826_015<u8>

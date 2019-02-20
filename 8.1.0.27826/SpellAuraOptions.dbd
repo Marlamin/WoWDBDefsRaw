@@ -1,22 +1,22 @@
 COLUMNS
 int ID
-int difficultyID
-int cumulativeAura
-int procCategoryRecovery
-int procChance
-int procCharges
-int spellProcsPerMinuteID
-int procTypeMask
-int spellID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
 
 LAYOUT CBDA0981
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-difficultyID<u8>
-cumulativeAura<u16>
-procCategoryRecovery<32>
-procChance<u8>
-procCharges<32>
-spellProcsPerMinuteID<u16>
-procTypeMask<32>[2]
-$noninline,relation$spellID<32>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<u16>
+Field_8_1_0_27826_006<32>[2]
+$noninline,relation$Field_8_1_0_27826_007<32>

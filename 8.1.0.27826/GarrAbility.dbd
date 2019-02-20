@@ -1,20 +1,20 @@
 COLUMNS
-locstring name_lang
-locstring description_lang
-int ID
-int garrAbilityCategoryID
-int garrFollowerTypeID
-int iconFileDataID
-int factionChangeGarrAbilityID
-int flags
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
 
 LAYOUT 8256E595
 BUILD 8.1.0.27826
-name_lang
-description_lang
-$id$ID<32>
-garrAbilityCategoryID<u8>
-garrFollowerTypeID<u8>
-iconFileDataID<32>
-factionChangeGarrAbilityID<u16>
-flags<u16>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+$id$Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<u8>
+Field_8_1_0_27826_005<32>
+Field_8_1_0_27826_006<u16>
+Field_8_1_0_27826_007<u16>

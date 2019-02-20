@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-float pos
-int curveID
-int orderIndex
+float Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT FA003217
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-pos[2]
-curveID<u16>
-orderIndex<u8>
+Field_8_1_0_27826_000[2]
+Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002<u8>

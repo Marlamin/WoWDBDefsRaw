@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int inventorySlot
-int armorSubClass
-int fallbackItemID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT 9628BAFD
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-inventorySlot<32>
-armorSubClass<32>
-fallbackItemID<32>
+Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>

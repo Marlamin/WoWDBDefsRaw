@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-string name
-string scriptBody
-int flags
-int missileCount
+string Field_8_1_0_27826_000
+string Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
 
 LAYOUT A61A5983
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name
-scriptBody
-flags<u8>
-missileCount<u8>
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<u8>

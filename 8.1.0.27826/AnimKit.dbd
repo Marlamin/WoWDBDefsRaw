@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int oneShotDuration
-int oneShotStopAnimKitID
-int lowDefAnimKitID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT 0C4BCDEC
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-oneShotDuration<u32>
-oneShotStopAnimKitID<u16>
-lowDefAnimKitID<u16>
+Field_8_1_0_27826_000<u32>
+Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002<u16>

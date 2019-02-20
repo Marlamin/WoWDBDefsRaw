@@ -1,12 +1,12 @@
 COLUMNS
-locstring description_lang
-int ID
-int factionID
-int textureFileID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
 
 LAYOUT ECCE459C
 BUILD 8.1.0.27826
-description_lang
-$id$ID<u32>
-factionID<u16>
-textureFileID<32>
+Field_8_1_0_27826_000_lang
+$id$Field_8_1_0_27826_001<u32>
+Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003<32>

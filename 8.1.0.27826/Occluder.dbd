@@ -1,22 +1,22 @@
 COLUMNS
-int ID
-int mapID
-int type
-int splineType
-int red
-int green
-int blue
-int alpha
-int flags
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
 
 LAYOUT FEDCAAB3
 BUILD 8.1.0.27826
-$id$ID<32>
-mapID<32>
-type<u8>
-splineType<u8>
-red<u8>
-green<u8>
-blue<u8>
-alpha<u8>
-flags<u8>
+$id$Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<u8>
+Field_8_1_0_27826_005<u8>
+Field_8_1_0_27826_006<u8>
+Field_8_1_0_27826_007<u8>
+Field_8_1_0_27826_008<u8>

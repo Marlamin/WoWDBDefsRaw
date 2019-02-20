@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-locstring text_lang
-int relationshipFlags
-int emotesTextID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT 460E8F09
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-text_lang
-relationshipFlags<u8>
-$noninline,relation$emotesTextID<u16>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<u8>
+$noninline,relation$Field_8_1_0_27826_002<u16>

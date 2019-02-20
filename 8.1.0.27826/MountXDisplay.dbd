@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int creatureDisplayInfoID
-int playerConditionID
-int mountID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT 2D4F3D78
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-creatureDisplayInfoID<32>
-playerConditionID<u32>
-$noninline,relation$mountID<32>
+Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<u32>
+$noninline,relation$Field_8_1_0_27826_002<32>

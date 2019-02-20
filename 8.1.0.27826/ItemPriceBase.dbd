@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int itemLevel
-float armor
-float weapon
+int Field_8_1_0_27826_000
+float Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
 
 LAYOUT C90092C7
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-itemLevel<u16>
-armor
-weapon
+Field_8_1_0_27826_000<u16>
+Field_8_1_0_27826_001
+Field_8_1_0_27826_002

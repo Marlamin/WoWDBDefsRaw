@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-locstring name_lang
-int Flags
-int FizzleSoundID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT F7F049B5
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name_lang
-Flags<u8>
-FizzleSoundID<u32>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<u8>
+Field_8_1_0_27826_002<u32>

@@ -1,20 +1,20 @@
 COLUMNS
-int ID
-int raceID
-int bannerColor
-int crestTextureID
-int modelBackgroundTextureID
-int maleCreatureDisplayID
-int femaleCreatureDisplayID
-int ui_unlockAchievementID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
 
 LAYOUT E89FA2D2
 BUILD 8.1.0.27826
-$id$ID<32>
-raceID<32>
-bannerColor<u32>
-crestTextureID<32>
-modelBackgroundTextureID<32>
-maleCreatureDisplayID<32>
-femaleCreatureDisplayID<32>
-ui_unlockAchievementID<32>
+$id$Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<u32>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<32>
+Field_8_1_0_27826_006<32>
+Field_8_1_0_27826_007<32>

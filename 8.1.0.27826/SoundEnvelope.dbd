@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-int soundKitID
-int envelopeType
-int flags
-int curveID
-int decayIndex
-int sustainIndex
-int releaseIndex
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
 
 LAYOUT BD6F1248
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-$relation$soundKitID<32>
-envelopeType<u8>
-flags<u32>
-curveID<32>
-decayIndex<u16>
-sustainIndex<u16>
-releaseIndex<u16>
+$relation$Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<u8>
+Field_8_1_0_27826_002<u32>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<u16>
+Field_8_1_0_27826_005<u16>
+Field_8_1_0_27826_006<u16>

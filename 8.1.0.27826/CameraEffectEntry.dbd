@@ -1,38 +1,38 @@
 COLUMNS
 int ID
-int OrderIndex
-int AmplitudeCurveID
-float Duration
-float Delay
-float Phase
-float Amplitude
-float AmplitudeB
-float Frequency
-float RadiusMin
-float RadiusMax
-int Flags
-int EffectType
-int DirectionType
-int MovementType
-int AttenuationType
-int CameraEffectID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
+float Field_8_1_0_27826_003
+float Field_8_1_0_27826_004
+float Field_8_1_0_27826_005
+float Field_8_1_0_27826_006
+float Field_8_1_0_27826_007
+float Field_8_1_0_27826_008
+float Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
 
 LAYOUT ED27DC2F
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-OrderIndex<u8>
-AmplitudeCurveID<u16>
-Duration
-Delay
-Phase
-Amplitude
-AmplitudeB
-Frequency
-RadiusMin
-RadiusMax
-Flags<u8>
-EffectType<8>
-DirectionType<u8>
-MovementType<u8>
-AttenuationType<8>
-$noninline,relation$CameraEffectID<u16>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002
+Field_8_1_0_27826_003
+Field_8_1_0_27826_004
+Field_8_1_0_27826_005
+Field_8_1_0_27826_006
+Field_8_1_0_27826_007
+Field_8_1_0_27826_008
+Field_8_1_0_27826_009
+Field_8_1_0_27826_010<u8>
+Field_8_1_0_27826_011<8>
+Field_8_1_0_27826_012<u8>
+Field_8_1_0_27826_013<u8>
+Field_8_1_0_27826_014<8>
+$noninline,relation$Field_8_1_0_27826_015<u16>

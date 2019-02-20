@@ -1,8 +1,8 @@
 COLUMNS
-locstring name_lang
-int ID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
 
 LAYOUT AA508D47
 BUILD 8.1.0.27826
-name_lang
-$id$ID<u32>
+Field_8_1_0_27826_000_lang
+$id$Field_8_1_0_27826_001<u32>

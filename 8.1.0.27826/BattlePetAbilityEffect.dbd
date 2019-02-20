@@ -1,18 +1,18 @@
 COLUMNS
-int ID
-int battlePetAbilityTurnID
-int orderIndex
-int battlePetEffectPropertiesID
-int auraBattlePetAbilityID
-int battlePetVisualID
-int param
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
 
 LAYOUT C850B549
 BUILD 8.1.0.27826
-$id$ID<32>
-$relation$battlePetAbilityTurnID<u16>
-orderIndex<u8>
-battlePetEffectPropertiesID<u16>
-auraBattlePetAbilityID<u16>
-battlePetVisualID<u16>
-param<16>[6]
+$id$Field_8_1_0_27826_000<32>
+$relation$Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<u16>
+Field_8_1_0_27826_004<u16>
+Field_8_1_0_27826_005<u16>
+Field_8_1_0_27826_006<16>[6]

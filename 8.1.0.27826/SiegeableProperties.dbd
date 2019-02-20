@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int health
-int damageSpellVisualKitID
-int healingSpellVisualKitID
-int flags
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
 
 LAYOUT 98E42A9F
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-health<u32>
-damageSpellVisualKitID<32>
-healingSpellVisualKitID<32>
-flags<u32>
+Field_8_1_0_27826_000<u32>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<u32>

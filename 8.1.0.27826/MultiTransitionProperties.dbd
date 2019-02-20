@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int transitionType
-int durationMS
-int flags
-int startSpellVisualKitID
-int endSpellVisualKitID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 5720F452
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-transitionType<u32>
-durationMS<u32>
-flags<u32>
-startSpellVisualKitID<32>
-endSpellVisualKitID<32>
+Field_8_1_0_27826_000<u32>
+Field_8_1_0_27826_001<u32>
+Field_8_1_0_27826_002<u32>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<32>

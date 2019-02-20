@@ -1,22 +1,22 @@
 COLUMNS
 int ID
-locstring description_lang
-int type
-int amount
-int objectID
-int orderIndex
-int flags
-int storageIndex
-int questID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
 
 LAYOUT 37353FB6
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-description_lang
-type<u8>
-amount<32>
-objectID<32>
-orderIndex<u8>
-flags<u8>
-storageIndex<u8>
-$noninline,relation$questID<u16>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<u8>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<u8>
+Field_8_1_0_27826_005<u8>
+Field_8_1_0_27826_006<u8>
+$noninline,relation$Field_8_1_0_27826_007<u16>

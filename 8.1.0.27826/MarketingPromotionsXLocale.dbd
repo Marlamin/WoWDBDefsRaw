@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-string acceptURL
-int promotionID
-int localeID
-int adTexture
-int logoTexture
-int acceptButtonTexture
-int declineButtonTexture
+string Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
 
 LAYOUT C04E61FB
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-acceptURL
-promotionID<u8>
-localeID<8>
-adTexture<32>
-logoTexture<32>
-acceptButtonTexture<32>
-declineButtonTexture<32>
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001<u8>
+Field_8_1_0_27826_002<8>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<32>
+Field_8_1_0_27826_006<32>

@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-int minLevel
-int maxLevel
-int itemType
-int primaryStat
-int secondaryStat
-int specializationID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
 
 LAYOUT EB138F8E
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-minLevel<u8>
-maxLevel<u8>
-$relation$itemType<u8>
-primaryStat<u8>
-secondaryStat<u8>
-specializationID<u16>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<u8>
+$relation$Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<u8>
+Field_8_1_0_27826_005<u16>

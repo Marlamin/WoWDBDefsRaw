@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int questID
-int factionID
-int iconFileDataID
-int turninPlayerConditionID
-int bountySetID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 797CCAA0
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-questID<u16>
-factionID<u16>
-iconFileDataID<u32>
-turninPlayerConditionID<u32>
-$noninline,relation$bountySetID<u8>
+Field_8_1_0_27826_000<u16>
+Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002<u32>
+Field_8_1_0_27826_003<u32>
+$noninline,relation$Field_8_1_0_27826_004<u8>

@@ -1,18 +1,18 @@
 COLUMNS
-locstring description_lang
-locstring name_lang
-int ID
-int managedWorldStateInputID
-int orderIndex
-int contributionStyleContainer
-int uiTextureAtlasMemberID
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
 
 LAYOUT 37C49135
 BUILD 8.1.0.27826
-description_lang
-name_lang
-$id$ID<32>
-$relation$managedWorldStateInputID<32>
-orderIndex<32>
-contributionStyleContainer<32>
-uiTextureAtlasMemberID<32>[4]
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+$id$Field_8_1_0_27826_002<32>
+$relation$Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<32>
+Field_8_1_0_27826_006<32>[4]

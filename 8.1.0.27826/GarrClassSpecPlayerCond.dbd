@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-locstring name_lang
-int garrClassSpecID
-int playerConditionID
-int iconFileDataID
-int flavorGarrStringID
-int orderIndex
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
 
 LAYOUT 561DEBFE
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name_lang
-garrClassSpecID<u32>
-playerConditionID<u32>
-iconFileDataID<32>
-flavorGarrStringID<32>
-orderIndex<u8>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<u32>
+Field_8_1_0_27826_002<u32>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<u8>

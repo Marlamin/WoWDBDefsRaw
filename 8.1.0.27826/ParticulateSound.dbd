@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int particulateID
-int daySound
-int nightSound
-int enterSound
-int exitSound
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT F60E0955
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-$relation$particulateID<32>
-daySound<32>
-nightSound<32>
-enterSound<32>
-exitSound<32>
+$relation$Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<32>

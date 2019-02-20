@@ -1,36 +1,36 @@
 COLUMNS
-locstring name_lang
-int ID
-int artifactAppearanceSetID
-int displayIndex
-int unlockPlayerConditionID
-int itemAppearanceModifierID
-int uiSwatchColor
-float uiModelSaturation
-float uiModelOpacity
-int overrideShapeshiftFormID
-int overrideShapeshiftDisplayID
-int uiItemAppearanceID
-int uiAltItemAppearanceID
-int flags
-int uiCameraID
-int usablePlayerConditionID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+float Field_8_1_0_27826_007
+float Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
 
 LAYOUT A4ABF40A
 BUILD 8.1.0.27826
-name_lang
-$id$ID<32>
-$relation$artifactAppearanceSetID<u16>
-displayIndex<u8>
-unlockPlayerConditionID<u32>
-itemAppearanceModifierID<u8>
-uiSwatchColor<32>
-uiModelSaturation
-uiModelOpacity
-overrideShapeshiftFormID<u8>
-overrideShapeshiftDisplayID<u32>
-uiItemAppearanceID<u32>
-uiAltItemAppearanceID<u32>
-flags<u8>
-uiCameraID<u16>
-usablePlayerConditionID<u32>
+Field_8_1_0_27826_000_lang
+$id$Field_8_1_0_27826_001<32>
+$relation$Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<u32>
+Field_8_1_0_27826_005<u8>
+Field_8_1_0_27826_006<32>
+Field_8_1_0_27826_007
+Field_8_1_0_27826_008
+Field_8_1_0_27826_009<u8>
+Field_8_1_0_27826_010<u32>
+Field_8_1_0_27826_011<u32>
+Field_8_1_0_27826_012<u32>
+Field_8_1_0_27826_013<u8>
+Field_8_1_0_27826_014<u16>
+Field_8_1_0_27826_015<u32>

@@ -1,48 +1,48 @@
 COLUMNS
 int ID
-string name
-string texture
-int flags
-int soundBank
-int soundID
-int spellID
-float maxDarkenDepth
-float fogDarkenIntensity
-float ambDarkenIntensity
-float dirDarkenIntensity
-int lightID
-float particleScale
-int particleMovement
-int particleTexSlots
-int materialID
-int minimapStaticCol
-int frameCountTexture
-int color
-float float
-int int
-float coefficient
+string Field_8_1_0_27826_000
+string Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+float Field_8_1_0_27826_006
+float Field_8_1_0_27826_007
+float Field_8_1_0_27826_008
+float Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+float Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
+int Field_8_1_0_27826_016
+int Field_8_1_0_27826_017
+float Field_8_1_0_27826_018
+int Field_8_1_0_27826_019
+float Field_8_1_0_27826_020
 
 LAYOUT 29F8C65E
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name
-texture[6]
-flags<u16>
-soundBank<u8>
-soundID<u32>
-spellID<u32>
-maxDarkenDepth
-fogDarkenIntensity
-ambDarkenIntensity
-dirDarkenIntensity
-lightID<u16>
-particleScale
-particleMovement<u8>
-particleTexSlots<u8>
-materialID<u8>
-minimapStaticCol<32>
-frameCountTexture<u8>[6]
-color<32>[2]
-float[18]
-int<u32>[4]
-coefficient[4]
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001[6]
+Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<u32>
+Field_8_1_0_27826_005<u32>
+Field_8_1_0_27826_006
+Field_8_1_0_27826_007
+Field_8_1_0_27826_008
+Field_8_1_0_27826_009
+Field_8_1_0_27826_010<u16>
+Field_8_1_0_27826_011
+Field_8_1_0_27826_012<u8>
+Field_8_1_0_27826_013<u8>
+Field_8_1_0_27826_014<u8>
+Field_8_1_0_27826_015<32>
+Field_8_1_0_27826_016<u8>[6]
+Field_8_1_0_27826_017<32>[2]
+Field_8_1_0_27826_018[18]
+Field_8_1_0_27826_019<u32>[4]
+Field_8_1_0_27826_020[4]

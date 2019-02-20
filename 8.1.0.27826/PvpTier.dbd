@@ -1,22 +1,22 @@
 COLUMNS
 int ID
-locstring name_lang
-int descendRating
-int ascendRating
-int descendTier
-int ascendTier
-int pvpBracketEnum
-int pvpTierEnum
-int tierIconID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
 
 LAYOUT 689983C8
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name_lang
-descendRating<16>
-ascendRating<16>
-descendTier<32>
-ascendTier<32>
-$relation$pvpBracketEnum<8>
-pvpTierEnum<8>
-tierIconID<32>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<16>
+Field_8_1_0_27826_002<16>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<32>
+$relation$Field_8_1_0_27826_005<8>
+Field_8_1_0_27826_006<8>
+Field_8_1_0_27826_007<32>

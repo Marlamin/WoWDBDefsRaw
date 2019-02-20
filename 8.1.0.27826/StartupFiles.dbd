@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int fileDataID
-int locale
-int bytesRequired
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT F1381769
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-fileDataID<32>
-locale<32>
-bytesRequired<32>
+Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>

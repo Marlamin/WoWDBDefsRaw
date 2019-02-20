@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-locstring name_lang
-locstring name1_lang
-int mask_ID
-int flags
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
 
 LAYOUT 81B69C5F
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name_lang
-name1_lang
-mask_ID<16>
-flags<8>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002<16>
+Field_8_1_0_27826_003<8>

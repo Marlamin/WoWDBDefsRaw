@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-float maxRadius
+float Field_8_1_0_27826_000
 
 LAYOUT F1D2220B
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-maxRadius
+Field_8_1_0_27826_000

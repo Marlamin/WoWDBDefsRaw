@@ -1,24 +1,24 @@
 COLUMNS
 int ID
-locstring name_lang
-int playerConditionID
-int visibleTrackingQuestID
-int questFeedbackEffectID
-int flags
-float maxHeight
-float minHeight
-int vignetteType
-int rewardQuestID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+float Field_8_1_0_27826_005
+float Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
 
 LAYOUT E70E083E
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name_lang
-playerConditionID<u32>
-visibleTrackingQuestID<u32>
-questFeedbackEffectID<u32>
-flags<u32>
-maxHeight
-minHeight
-vignetteType<8>
-rewardQuestID<32>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<u32>
+Field_8_1_0_27826_002<u32>
+Field_8_1_0_27826_003<u32>
+Field_8_1_0_27826_004<u32>
+Field_8_1_0_27826_005
+Field_8_1_0_27826_006
+Field_8_1_0_27826_007<8>
+Field_8_1_0_27826_008<32>

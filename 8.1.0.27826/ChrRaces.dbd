@@ -1,96 +1,96 @@
 COLUMNS
-string clientPrefix
-string clientFileString
-locstring name_lang
-locstring name_female_lang
-locstring name_lowercase_lang
-locstring name_female_lowercase_lang
-int ID
-int flags
-int maleDisplayId
-int femaleDisplayId
-int highResMaleDisplayId
-int highResFemaleDisplayId
-int createScreenFileDataID
-int selectScreenFileDataID
-float maleCustomizeOffset
-float femaleCustomizeOffset
-int lowResScreenFileDataID
-int alteredFormStartVisualKitID
-int alteredFormFinishVisualKitID
-int heritageArmorAchievementID
-int startingLevel
-int uiDisplayOrder
-int femaleSkeletonFileDataID
-int maleSkeletonFileDataID
-int helmVisFallbackRaceID
-int factionID
-int cinematicSequenceID
-int resSicknessSpellID
-int splashSoundID
-int baseLanguage
-int creatureType
-int alliance
-int race_related
-int unalteredVisualRaceID
-int charComponentTextureLayoutID
-int charComponentTexLayoutHiResID
-int defaultClassID
-int neutralRaceID
-int maleModelFallbackRaceID
-int maleModelFallbackSex
-int femaleModelFallbackRaceID
-int femaleModelFallbackSex
-int maleTextureFallbackRaceID
-int maleTextureFallbackSex
-int femaleTextureFallbackRaceID
-int femaleTextureFallbackSex
+string Field_8_1_0_27826_000
+string Field_8_1_0_27826_001
+locstring Field_8_1_0_27826_002_lang
+locstring Field_8_1_0_27826_003_lang
+locstring Field_8_1_0_27826_004_lang
+locstring Field_8_1_0_27826_005_lang
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+float Field_8_1_0_27826_014
+float Field_8_1_0_27826_015
+int Field_8_1_0_27826_016
+int Field_8_1_0_27826_017
+int Field_8_1_0_27826_018
+int Field_8_1_0_27826_019
+int Field_8_1_0_27826_020
+int Field_8_1_0_27826_021
+int Field_8_1_0_27826_022
+int Field_8_1_0_27826_023
+int Field_8_1_0_27826_024
+int Field_8_1_0_27826_025
+int Field_8_1_0_27826_026
+int Field_8_1_0_27826_027
+int Field_8_1_0_27826_028
+int Field_8_1_0_27826_029
+int Field_8_1_0_27826_030
+int Field_8_1_0_27826_031
+int Field_8_1_0_27826_032
+int Field_8_1_0_27826_033
+int Field_8_1_0_27826_034
+int Field_8_1_0_27826_035
+int Field_8_1_0_27826_036
+int Field_8_1_0_27826_037
+int Field_8_1_0_27826_038
+int Field_8_1_0_27826_039
+int Field_8_1_0_27826_040
+int Field_8_1_0_27826_041
+int Field_8_1_0_27826_042
+int Field_8_1_0_27826_043
+int Field_8_1_0_27826_044
+int Field_8_1_0_27826_045
 
 LAYOUT C8BCDC89
 BUILD 8.1.0.27826
-clientPrefix
-clientFileString
-name_lang
-name_female_lang
-name_lowercase_lang
-name_female_lowercase_lang
-$id$ID<32>
-flags<32>
-maleDisplayId<u32>
-femaleDisplayId<u32>
-highResMaleDisplayId<u32>
-highResFemaleDisplayId<u32>
-createScreenFileDataID<32>
-selectScreenFileDataID<32>
-maleCustomizeOffset[3]
-femaleCustomizeOffset[3]
-lowResScreenFileDataID<32>
-alteredFormStartVisualKitID<u32>[3]
-alteredFormFinishVisualKitID<u32>[3]
-heritageArmorAchievementID<32>
-startingLevel<32>
-uiDisplayOrder<32>
-femaleSkeletonFileDataID<32>
-maleSkeletonFileDataID<32>
-helmVisFallbackRaceID<32>
-factionID<16>
-cinematicSequenceID<16>
-resSicknessSpellID<16>
-splashSoundID<16>
-baseLanguage<8>
-creatureType<8>
-alliance<8>
-race_related<8>
-unalteredVisualRaceID<8>
-charComponentTextureLayoutID<8>
-charComponentTexLayoutHiResID<8>
-defaultClassID<8>
-neutralRaceID<8>
-maleModelFallbackRaceID<8>
-maleModelFallbackSex<8>
-femaleModelFallbackRaceID<8>
-femaleModelFallbackSex<8>
-maleTextureFallbackRaceID<8>
-maleTextureFallbackSex<8>
-femaleTextureFallbackRaceID<8>
-femaleTextureFallbackSex<8>
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001
+Field_8_1_0_27826_002_lang
+Field_8_1_0_27826_003_lang
+Field_8_1_0_27826_004_lang
+Field_8_1_0_27826_005_lang
+$id$Field_8_1_0_27826_006<32>
+Field_8_1_0_27826_007<32>
+Field_8_1_0_27826_008<u32>
+Field_8_1_0_27826_009<u32>
+Field_8_1_0_27826_010<u32>
+Field_8_1_0_27826_011<u32>
+Field_8_1_0_27826_012<32>
+Field_8_1_0_27826_013<32>
+Field_8_1_0_27826_014[3]
+Field_8_1_0_27826_015[3]
+Field_8_1_0_27826_016<32>
+Field_8_1_0_27826_017<u32>[3]
+Field_8_1_0_27826_018<u32>[3]
+Field_8_1_0_27826_019<32>
+Field_8_1_0_27826_020<32>
+Field_8_1_0_27826_021<32>
+Field_8_1_0_27826_022<32>
+Field_8_1_0_27826_023<32>
+Field_8_1_0_27826_024<32>
+Field_8_1_0_27826_025<16>
+Field_8_1_0_27826_026<16>
+Field_8_1_0_27826_027<16>
+Field_8_1_0_27826_028<16>
+Field_8_1_0_27826_029<8>
+Field_8_1_0_27826_030<8>
+Field_8_1_0_27826_031<8>
+Field_8_1_0_27826_032<8>
+Field_8_1_0_27826_033<8>
+Field_8_1_0_27826_034<8>
+Field_8_1_0_27826_035<8>
+Field_8_1_0_27826_036<8>
+Field_8_1_0_27826_037<8>
+Field_8_1_0_27826_038<8>
+Field_8_1_0_27826_039<8>
+Field_8_1_0_27826_040<8>
+Field_8_1_0_27826_041<8>
+Field_8_1_0_27826_042<8>
+Field_8_1_0_27826_043<8>
+Field_8_1_0_27826_044<8>
+Field_8_1_0_27826_045<8>

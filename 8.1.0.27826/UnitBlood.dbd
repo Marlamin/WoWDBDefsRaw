@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-int playerCritBloodSpurtID
-int playerHitBloodSpurtID
-int defaultBloodSpurtID
-int playerOmniCritBloodSpurtID
-int playerOmniHitBloodSpurtID
-int defaultOmniBloodSpurtID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
 
 LAYOUT 007ED968
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-playerCritBloodSpurtID<u32>
-playerHitBloodSpurtID<u32>
-defaultBloodSpurtID<u32>
-playerOmniCritBloodSpurtID<u32>
-playerOmniHitBloodSpurtID<u32>
-defaultOmniBloodSpurtID<u32>
+Field_8_1_0_27826_000<u32>
+Field_8_1_0_27826_001<u32>
+Field_8_1_0_27826_002<u32>
+Field_8_1_0_27826_003<u32>
+Field_8_1_0_27826_004<u32>
+Field_8_1_0_27826_005<u32>

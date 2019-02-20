@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int highlightFileDataID
-int highlightAtlasID
-int uiMapArtStyleID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT D85EF8B6
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-highlightFileDataID<32>
-highlightAtlasID<32>
-uiMapArtStyleID<32>
+Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>

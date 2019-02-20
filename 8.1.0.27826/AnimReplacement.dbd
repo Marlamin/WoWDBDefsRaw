@@ -1,14 +1,14 @@
 COLUMNS
-int ID
-int srcAnimID
-int dstAnimID
-int flags
-int parentAnimReplacementSetID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 5D91ABFD
 BUILD 8.1.0.27826
-$id$ID<32>
-srcAnimID<u16>
-dstAnimID<u16>
-flags<u16>
-$noninline,relation$parentAnimReplacementSetID<u16>
+$id$Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<u16>
+Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003<u16>
+$noninline,relation$Field_8_1_0_27826_004<u16>

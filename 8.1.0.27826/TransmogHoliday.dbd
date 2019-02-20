@@ -1,8 +1,8 @@
 COLUMNS
-int ID
-int requiredTransmogHoliday
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
 
 LAYOUT 6FC325A0
 BUILD 8.1.0.27826
-$id$ID<32>
-requiredTransmogHoliday<32>
+$id$Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<32>

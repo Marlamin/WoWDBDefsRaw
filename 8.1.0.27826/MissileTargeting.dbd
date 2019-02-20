@@ -1,30 +1,30 @@
 COLUMNS
 int ID
-float turnLingering
-float pitchLingering
-float mouseLingering
-float endOpacity
-float arcSpeed
-float arcRepeat
-float arcWidth
-float impactTexRadius
-int arcTextureFileID
-int impactTextureFileID
-float impactRadius
-int impactModelFileID
+float Field_8_1_0_27826_000
+float Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
+float Field_8_1_0_27826_003
+float Field_8_1_0_27826_004
+float Field_8_1_0_27826_005
+float Field_8_1_0_27826_006
+float Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+float Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
 
 LAYOUT F695DDBA
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-turnLingering
-pitchLingering
-mouseLingering
-endOpacity
-arcSpeed
-arcRepeat
-arcWidth
-impactTexRadius
-arcTextureFileID<32>
-impactTextureFileID<32>
-impactRadius[2]
-impactModelFileID<32>[2]
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001
+Field_8_1_0_27826_002
+Field_8_1_0_27826_003
+Field_8_1_0_27826_004
+Field_8_1_0_27826_005
+Field_8_1_0_27826_006
+Field_8_1_0_27826_007
+Field_8_1_0_27826_008<32>
+Field_8_1_0_27826_009<32>
+Field_8_1_0_27826_010[2]
+Field_8_1_0_27826_011<32>[2]

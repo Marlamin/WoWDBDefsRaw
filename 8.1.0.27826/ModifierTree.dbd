@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-int Parent
-int operator
-int amount
-int type
-int asset
-int secondaryAsset
-int tertiaryAsset
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
 
 LAYOUT 643002AE
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-Parent<u32>
-operator<8>
-amount<8>
-type<u8>
-asset<32>
-secondaryAsset<32>
-tertiaryAsset<8>
+Field_8_1_0_27826_000<u32>
+Field_8_1_0_27826_001<8>
+Field_8_1_0_27826_002<8>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<32>
+Field_8_1_0_27826_006<8>

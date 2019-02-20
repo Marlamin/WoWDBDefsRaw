@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int type
-int startColor
-int midColor
-int endColor
-int flags
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT DC14DB43
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-type<8>
-startColor<32>
-midColor<32>
-endColor<32>
-flags<u8>
+Field_8_1_0_27826_000<8>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<u8>

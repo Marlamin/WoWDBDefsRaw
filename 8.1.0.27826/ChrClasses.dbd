@@ -1,44 +1,44 @@
 COLUMNS
-locstring name_lang
-string filename
-locstring name_male_lang
-locstring name_female_lang
-string petNameToken
-int ID
-int createScreenFileDataID
-int selectScreenFileDataID
-int iconFileDataID
-int lowResScreenFileDataID
-int startingLevel
-int flags
-int cinematicSequenceID
-int defaultSpec
-int primaryStatPriority
-int displayPower
-int rangedAttackPowerPerAgility
-int attackPowerPerAgility
-int attackPowerPerStrength
-int spellClassSet
+locstring Field_8_1_0_27826_000_lang
+string Field_8_1_0_27826_001
+locstring Field_8_1_0_27826_002_lang
+locstring Field_8_1_0_27826_003_lang
+string Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
+int Field_8_1_0_27826_016
+int Field_8_1_0_27826_017
+int Field_8_1_0_27826_018
+int Field_8_1_0_27826_019
 
 LAYOUT 2CD115AC
 BUILD 8.1.0.27826
-name_lang
-filename
-name_male_lang
-name_female_lang
-petNameToken
-$id$ID<32>
-createScreenFileDataID<u32>
-selectScreenFileDataID<u32>
-iconFileDataID<u32>
-lowResScreenFileDataID<u32>
-startingLevel<32>
-flags<u16>
-cinematicSequenceID<u16>
-defaultSpec<u16>
-primaryStatPriority<u8>
-displayPower<u8>
-rangedAttackPowerPerAgility<u8>
-attackPowerPerAgility<u8>
-attackPowerPerStrength<u8>
-spellClassSet<u8>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001
+Field_8_1_0_27826_002_lang
+Field_8_1_0_27826_003_lang
+Field_8_1_0_27826_004
+$id$Field_8_1_0_27826_005<32>
+Field_8_1_0_27826_006<u32>
+Field_8_1_0_27826_007<u32>
+Field_8_1_0_27826_008<u32>
+Field_8_1_0_27826_009<u32>
+Field_8_1_0_27826_010<32>
+Field_8_1_0_27826_011<u16>
+Field_8_1_0_27826_012<u16>
+Field_8_1_0_27826_013<u16>
+Field_8_1_0_27826_014<u8>
+Field_8_1_0_27826_015<u8>
+Field_8_1_0_27826_016<u8>
+Field_8_1_0_27826_017<u8>
+Field_8_1_0_27826_018<u8>
+Field_8_1_0_27826_019<u8>

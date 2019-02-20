@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-locstring name_lang
-int trackingQuestID
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
 
 LAYOUT 57E8ADB8
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name_lang
-trackingQuestID<u16>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<u16>

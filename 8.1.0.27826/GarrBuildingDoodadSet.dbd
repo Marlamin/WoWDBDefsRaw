@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int garrBuildingID
-int type
-int hordeDoodadSet
-int allianceDoodadSet
-int specializationID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 9A6DE309
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-garrBuildingID<u8>
-type<u8>
-hordeDoodadSet<u8>
-allianceDoodadSet<u8>
-specializationID<u8>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<u8>
+Field_8_1_0_27826_002<u8>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<u8>

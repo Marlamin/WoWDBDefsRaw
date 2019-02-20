@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-locstring body_lang
+locstring Field_8_1_0_27826_000_lang
 
 LAYOUT C6E0D9B5
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-body_lang
+Field_8_1_0_27826_000_lang

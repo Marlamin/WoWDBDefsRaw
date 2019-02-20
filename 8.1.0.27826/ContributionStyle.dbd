@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-locstring stateName_lang
-locstring tooltipLine_lang
-int stateColor
-int flags
-int statusBarAtlas
-int borderAtlas
-int bannerAtlas
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
 
 LAYOUT 799AE511
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-stateName_lang
-tooltipLine_lang
-stateColor<32>
-flags<u32>
-statusBarAtlas<32>
-borderAtlas<32>
-bannerAtlas<32>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<u32>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<32>
+Field_8_1_0_27826_006<32>

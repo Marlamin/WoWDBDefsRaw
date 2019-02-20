@@ -1,62 +1,62 @@
 COLUMNS
-locstring name_lang
-locstring location_lang
-locstring description_lang
-float mapPos_
-float worldPos
-int ID
-int garrTypeID
-int garrMissionTypeID
-int garrFollowerTypeID
-int maxFollowers
-int missionCost
-int missionCostCurrencyTypesID
-int offeredGarrMissionTextureID
-int uiTextureKitID
-int envGarrMechanicID
-int envGarrMechanicTypeID
-int playerConditionID
-int targetLevel
-int targetItemLevel
-int missionDuration
-int travelDuration
-int offerDuration
-int baseCompletionChance
-int baseFollowerXP
-int overmaxRewardPackID
-int followerDeathChance
-int areaID
-int flags
-int garrMissionSetID
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+locstring Field_8_1_0_27826_002_lang
+float Field_8_1_0_27826_003
+float Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
+int Field_8_1_0_27826_016
+int Field_8_1_0_27826_017
+int Field_8_1_0_27826_018
+int Field_8_1_0_27826_019
+int Field_8_1_0_27826_020
+int Field_8_1_0_27826_021
+int Field_8_1_0_27826_022
+int Field_8_1_0_27826_023
+int Field_8_1_0_27826_024
+int Field_8_1_0_27826_025
+int Field_8_1_0_27826_026
+int Field_8_1_0_27826_027
+int Field_8_1_0_27826_028
 
 LAYOUT 00777205
 BUILD 8.1.0.27826
-name_lang
-location_lang
-description_lang
-mapPos_[2]
-worldPos[2]
-$id$ID<32>
-garrTypeID<u8>
-garrMissionTypeID<u8>
-garrFollowerTypeID<u8>
-maxFollowers<u8>
-missionCost<u32>
-missionCostCurrencyTypesID<u16>
-offeredGarrMissionTextureID<u8>
-uiTextureKitID<u16>
-envGarrMechanicID<u32>
-envGarrMechanicTypeID<u8>
-playerConditionID<u32>
-targetLevel<8>
-targetItemLevel<u16>
-missionDuration<32>
-travelDuration<32>
-offerDuration<u32>
-baseCompletionChance<u8>
-baseFollowerXP<u32>
-overmaxRewardPackID<u32>
-followerDeathChance<u8>
-areaID<u32>
-flags<u32>
-$noninline,relation$garrMissionSetID<32>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002_lang
+Field_8_1_0_27826_003[2]
+Field_8_1_0_27826_004[2]
+$id$Field_8_1_0_27826_005<32>
+Field_8_1_0_27826_006<u8>
+Field_8_1_0_27826_007<u8>
+Field_8_1_0_27826_008<u8>
+Field_8_1_0_27826_009<u8>
+Field_8_1_0_27826_010<u32>
+Field_8_1_0_27826_011<u16>
+Field_8_1_0_27826_012<u8>
+Field_8_1_0_27826_013<u16>
+Field_8_1_0_27826_014<u32>
+Field_8_1_0_27826_015<u8>
+Field_8_1_0_27826_016<u32>
+Field_8_1_0_27826_017<8>
+Field_8_1_0_27826_018<u16>
+Field_8_1_0_27826_019<32>
+Field_8_1_0_27826_020<32>
+Field_8_1_0_27826_021<u32>
+Field_8_1_0_27826_022<u8>
+Field_8_1_0_27826_023<u32>
+Field_8_1_0_27826_024<u32>
+Field_8_1_0_27826_025<u8>
+Field_8_1_0_27826_026<u32>
+Field_8_1_0_27826_027<u32>
+$noninline,relation$Field_8_1_0_27826_028<32>

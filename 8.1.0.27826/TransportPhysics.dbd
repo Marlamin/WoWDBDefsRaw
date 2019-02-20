@@ -1,26 +1,26 @@
 COLUMNS
 int ID
-float waveAmp
-float waveTimeScale
-float rollAmp
-float rollTimeScale
-float pitchAmp
-float pitchTimeScale
-float maxBank
-float maxBankTurnSpeed
-float speedDampThresh
-float speedDamp
+float Field_8_1_0_27826_000
+float Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
+float Field_8_1_0_27826_003
+float Field_8_1_0_27826_004
+float Field_8_1_0_27826_005
+float Field_8_1_0_27826_006
+float Field_8_1_0_27826_007
+float Field_8_1_0_27826_008
+float Field_8_1_0_27826_009
 
 LAYOUT 0B297C98
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-waveAmp
-waveTimeScale
-rollAmp
-rollTimeScale
-pitchAmp
-pitchTimeScale
-maxBank
-maxBankTurnSpeed
-speedDampThresh
-speedDamp
+Field_8_1_0_27826_000
+Field_8_1_0_27826_001
+Field_8_1_0_27826_002
+Field_8_1_0_27826_003
+Field_8_1_0_27826_004
+Field_8_1_0_27826_005
+Field_8_1_0_27826_006
+Field_8_1_0_27826_007
+Field_8_1_0_27826_008
+Field_8_1_0_27826_009

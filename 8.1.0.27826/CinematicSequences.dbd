@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int soundID
-int camera
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
 
 LAYOUT 6A232AD4
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-soundID<u32>
-camera<u16>[8]
+Field_8_1_0_27826_000<u32>
+Field_8_1_0_27826_001<u16>[8]

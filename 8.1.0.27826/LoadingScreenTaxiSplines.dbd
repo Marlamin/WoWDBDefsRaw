@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int PathID
-int LegIndex
-int loadingScreenID
-float LocX
-float LocY
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+float Field_8_1_0_27826_003
+float Field_8_1_0_27826_004
 
 LAYOUT CDF5DDF1
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-PathID<u16>
-LegIndex<u8>
-loadingScreenID<u16>
-LocX[10]
-LocY[10]
+Field_8_1_0_27826_000<u16>
+Field_8_1_0_27826_001<u8>
+Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003[10]
+Field_8_1_0_27826_004[10]

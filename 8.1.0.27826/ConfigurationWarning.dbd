@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-locstring warning_lang
-int type
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
 
 LAYOUT 99BCBA2D
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-warning_lang
-type<u32>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001<u32>

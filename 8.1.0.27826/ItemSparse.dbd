@@ -1,135 +1,135 @@
 COLUMNS
 int ID
-int allowableRace
-locstring description_lang
-locstring display3_lang
-locstring display2_lang
-locstring display1_lang
-locstring display_lang
-float dmgVariance
-int durationInInventory
-float qualityModifier
-int bagFamily
-float itemRange
-float statPercentageOfSocket
-int statPercentEditor
-int stackable
-int maxCount
-int requiredAbility
-int sellPrice
-int buyPrice
-int vendorStackCount
-float priceVariance
-float priceRandomValue
-int flags
-int faction_related
-int itemNameDescriptionID
-int requiredTransmogHoliday
-int requiredHoliday
-int limitCategory
-int gem_properties
-int socket_match_enchantment_id
-int totemCategoryID
-int instanceBound
-int zoneBound
-int itemSet
-int itemRandomSuffixGroupID
-int randomSelect
-int lockID
-int startQuestID
-int pageID
-int itemDelay
-int scalingStatDistributionID
-int minFactionID
-int requiredSkillRank
-int requiredSkill
-int itemLevel
-int allowableClass
-int expansionID
-int artifactID
-int spellWeight
-int spellWeightCategory
-int socketType
-int sheatheType
-int material
-int pageMaterialID
-int languageID
-int bonding
-int damage_damageType
-int statModifier_bonusStat
-int containerSlots
-int minReputation
-int requiredPVPMedal
-int requiredPVPRank
-int requiredLevel
-int inventoryType
-int overallQualityID
+int Field_8_1_0_27826_000
+locstring Field_8_1_0_27826_001_lang
+locstring Field_8_1_0_27826_002_lang
+locstring Field_8_1_0_27826_003_lang
+locstring Field_8_1_0_27826_004_lang
+locstring Field_8_1_0_27826_005_lang
+float Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+float Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+float Field_8_1_0_27826_010
+float Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
+int Field_8_1_0_27826_016
+int Field_8_1_0_27826_017
+int Field_8_1_0_27826_018
+float Field_8_1_0_27826_019
+float Field_8_1_0_27826_020
+int Field_8_1_0_27826_021
+int Field_8_1_0_27826_022
+int Field_8_1_0_27826_023
+int Field_8_1_0_27826_024
+int Field_8_1_0_27826_025
+int Field_8_1_0_27826_026
+int Field_8_1_0_27826_027
+int Field_8_1_0_27826_028
+int Field_8_1_0_27826_029
+int Field_8_1_0_27826_030
+int Field_8_1_0_27826_031
+int Field_8_1_0_27826_032
+int Field_8_1_0_27826_033
+int Field_8_1_0_27826_034
+int Field_8_1_0_27826_035
+int Field_8_1_0_27826_036
+int Field_8_1_0_27826_037
+int Field_8_1_0_27826_038
+int Field_8_1_0_27826_039
+int Field_8_1_0_27826_040
+int Field_8_1_0_27826_041
+int Field_8_1_0_27826_042
+int Field_8_1_0_27826_043
+int Field_8_1_0_27826_044
+int Field_8_1_0_27826_045
+int Field_8_1_0_27826_046
+int Field_8_1_0_27826_047
+int Field_8_1_0_27826_048
+int Field_8_1_0_27826_049
+int Field_8_1_0_27826_050
+int Field_8_1_0_27826_051
+int Field_8_1_0_27826_052
+int Field_8_1_0_27826_053
+int Field_8_1_0_27826_054
+int Field_8_1_0_27826_055
+int Field_8_1_0_27826_056
+int Field_8_1_0_27826_057
+int Field_8_1_0_27826_058
+int Field_8_1_0_27826_059
+int Field_8_1_0_27826_060
+int Field_8_1_0_27826_061
+int Field_8_1_0_27826_062
+int Field_8_1_0_27826_063
 
 LAYOUT F9021F01
 BUILD 8.1.0.27826
 COMMENT table is sparse
 $noninline,id$ID<32>
-allowableRace<64>
-description_lang
-display3_lang
-display2_lang
-display1_lang
-display_lang
-dmgVariance
-durationInInventory<u32>
-qualityModifier
-bagFamily<u32>
-itemRange
-statPercentageOfSocket[10]
-statPercentEditor<32>[10]
-stackable<32>
-maxCount<32>
-requiredAbility<u32>
-sellPrice<u32>
-buyPrice<u32>
-vendorStackCount<u32>
-priceVariance
-priceRandomValue
-flags<32>[4]
-faction_related<32>
-itemNameDescriptionID<u16>
-requiredTransmogHoliday<u16>
-requiredHoliday<u16>
-limitCategory<u16>
-gem_properties<u16>
-socket_match_enchantment_id<u16>
-totemCategoryID<u16>
-instanceBound<u16>
-zoneBound<u16>
-itemSet<u16>
-itemRandomSuffixGroupID<u16>
-randomSelect<u16>
-lockID<u16>
-startQuestID<u16>
-pageID<u16>
-itemDelay<u16>
-scalingStatDistributionID<u16>
-minFactionID<u16>
-requiredSkillRank<u16>
-requiredSkill<u16>
-itemLevel<u16>
-allowableClass<16>
-expansionID<u8>
-artifactID<u8>
-spellWeight<u8>
-spellWeightCategory<u8>
-socketType<u8>[3]
-sheatheType<u8>
-material<u8>
-pageMaterialID<u8>
-languageID<u8>
-bonding<u8>
-damage_damageType<u8>
-statModifier_bonusStat<8>[10]
-containerSlots<u8>
-minReputation<u8>
-requiredPVPMedal<u8>
-requiredPVPRank<u8>
-requiredLevel<8>
-inventoryType<u8>
-overallQualityID<u8>
+Field_8_1_0_27826_000<64>
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002_lang
+Field_8_1_0_27826_003_lang
+Field_8_1_0_27826_004_lang
+Field_8_1_0_27826_005_lang
+Field_8_1_0_27826_006
+Field_8_1_0_27826_007<u32>
+Field_8_1_0_27826_008
+Field_8_1_0_27826_009<u32>
+Field_8_1_0_27826_010
+Field_8_1_0_27826_011[10]
+Field_8_1_0_27826_012<32>[10]
+Field_8_1_0_27826_013<32>
+Field_8_1_0_27826_014<32>
+Field_8_1_0_27826_015<u32>
+Field_8_1_0_27826_016<u32>
+Field_8_1_0_27826_017<u32>
+Field_8_1_0_27826_018<u32>
+Field_8_1_0_27826_019
+Field_8_1_0_27826_020
+Field_8_1_0_27826_021<32>[4]
+Field_8_1_0_27826_022<32>
+Field_8_1_0_27826_023<u16>
+Field_8_1_0_27826_024<u16>
+Field_8_1_0_27826_025<u16>
+Field_8_1_0_27826_026<u16>
+Field_8_1_0_27826_027<u16>
+Field_8_1_0_27826_028<u16>
+Field_8_1_0_27826_029<u16>
+Field_8_1_0_27826_030<u16>
+Field_8_1_0_27826_031<u16>
+Field_8_1_0_27826_032<u16>
+Field_8_1_0_27826_033<u16>
+Field_8_1_0_27826_034<u16>
+Field_8_1_0_27826_035<u16>
+Field_8_1_0_27826_036<u16>
+Field_8_1_0_27826_037<u16>
+Field_8_1_0_27826_038<u16>
+Field_8_1_0_27826_039<u16>
+Field_8_1_0_27826_040<u16>
+Field_8_1_0_27826_041<u16>
+Field_8_1_0_27826_042<u16>
+Field_8_1_0_27826_043<u16>
+Field_8_1_0_27826_044<16>
+Field_8_1_0_27826_045<u8>
+Field_8_1_0_27826_046<u8>
+Field_8_1_0_27826_047<u8>
+Field_8_1_0_27826_048<u8>
+Field_8_1_0_27826_049<u8>[3]
+Field_8_1_0_27826_050<u8>
+Field_8_1_0_27826_051<u8>
+Field_8_1_0_27826_052<u8>
+Field_8_1_0_27826_053<u8>
+Field_8_1_0_27826_054<u8>
+Field_8_1_0_27826_055<u8>
+Field_8_1_0_27826_056<8>[10]
+Field_8_1_0_27826_057<u8>
+Field_8_1_0_27826_058<u8>
+Field_8_1_0_27826_059<u8>
+Field_8_1_0_27826_060<u8>
+Field_8_1_0_27826_061<8>
+Field_8_1_0_27826_062<u8>
+Field_8_1_0_27826_063<u8>

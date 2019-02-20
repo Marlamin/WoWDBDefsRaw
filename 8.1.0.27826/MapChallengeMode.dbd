@@ -1,14 +1,14 @@
 COLUMNS
-locstring name_lang
-int ID
-int mapID
-int flags
-int criteriaCount
+locstring Field_8_1_0_27826_000_lang
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT 50F3ABC2
 BUILD 8.1.0.27826
-name_lang
-$id$ID<32>
-$relation$mapID<u16>
-flags<u8>
-criteriaCount<16>[3]
+Field_8_1_0_27826_000_lang
+$id$Field_8_1_0_27826_001<32>
+$relation$Field_8_1_0_27826_002<u16>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<16>[3]

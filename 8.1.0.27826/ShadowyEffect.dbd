@@ -1,32 +1,32 @@
 COLUMNS
 int ID
-int primaryColor
-int secondaryColor
-float duration
-float value
-float fadeInTime
-float fadeOutTime
-int attachPos
-int flags
-float innerStrength
-float outerStrength
-float initialDelay
-int curveID
-int priority
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+float Field_8_1_0_27826_002
+float Field_8_1_0_27826_003
+float Field_8_1_0_27826_004
+float Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+float Field_8_1_0_27826_008
+float Field_8_1_0_27826_009
+float Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
 
 LAYOUT 7292BC4C
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-primaryColor<32>
-secondaryColor<32>
-duration
-value
-fadeInTime
-fadeOutTime
-attachPos<8>
-flags<8>
-innerStrength
-outerStrength
-initialDelay
-curveID<32>
-priority<u32>
+Field_8_1_0_27826_000<32>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002
+Field_8_1_0_27826_003
+Field_8_1_0_27826_004
+Field_8_1_0_27826_005
+Field_8_1_0_27826_006<8>
+Field_8_1_0_27826_007<8>
+Field_8_1_0_27826_008
+Field_8_1_0_27826_009
+Field_8_1_0_27826_010
+Field_8_1_0_27826_011<32>
+Field_8_1_0_27826_012<u32>

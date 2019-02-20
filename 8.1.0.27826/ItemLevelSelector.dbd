@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int minItemLevel
-int itemLevelSelectorQualitySetID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
 
 LAYOUT 3112276E
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-minItemLevel<u16>
-itemLevelSelectorQualitySetID<u16>
+Field_8_1_0_27826_000<u16>
+Field_8_1_0_27826_001<u16>

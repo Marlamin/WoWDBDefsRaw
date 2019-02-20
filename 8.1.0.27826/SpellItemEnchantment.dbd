@@ -1,46 +1,46 @@
 COLUMNS
 int ID
-locstring name_lang
-locstring hordeName_lang
-int effectArg
-float effectScalingPoints
-int transmogPlayerConditionID
-int transmogCost
-int iconFileDataID
-int effectPointsMin
-int itemVisual
-int flags
-int requiredSkillID
-int requiredSkillRank
-int itemLevel
-int charges
-int effect
-int scalingClass
-int scalingClassRestricted
-int condition_ID
-int minLevel
-int maxLevel
+locstring Field_8_1_0_27826_000_lang
+locstring Field_8_1_0_27826_001_lang
+int Field_8_1_0_27826_002
+float Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
+int Field_8_1_0_27826_016
+int Field_8_1_0_27826_017
+int Field_8_1_0_27826_018
+int Field_8_1_0_27826_019
 
 LAYOUT 96D1828E
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-name_lang
-hordeName_lang
-effectArg<u32>[3]
-effectScalingPoints[3]
-transmogPlayerConditionID<u32>
-transmogCost<u32>
-iconFileDataID<u32>
-effectPointsMin<16>[3]
-itemVisual<u16>
-flags<u16>
-requiredSkillID<u16>
-requiredSkillRank<u16>
-itemLevel<u16>
-charges<u8>
-effect<u8>[3]
-scalingClass<8>
-scalingClassRestricted<8>
-condition_ID<u8>
-minLevel<u8>
-maxLevel<u8>
+Field_8_1_0_27826_000_lang
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002<u32>[3]
+Field_8_1_0_27826_003[3]
+Field_8_1_0_27826_004<u32>
+Field_8_1_0_27826_005<u32>
+Field_8_1_0_27826_006<u32>
+Field_8_1_0_27826_007<16>[3]
+Field_8_1_0_27826_008<u16>
+Field_8_1_0_27826_009<u16>
+Field_8_1_0_27826_010<u16>
+Field_8_1_0_27826_011<u16>
+Field_8_1_0_27826_012<u16>
+Field_8_1_0_27826_013<u8>
+Field_8_1_0_27826_014<u8>[3]
+Field_8_1_0_27826_015<8>
+Field_8_1_0_27826_016<8>
+Field_8_1_0_27826_017<u8>
+Field_8_1_0_27826_018<u8>
+Field_8_1_0_27826_019<u8>

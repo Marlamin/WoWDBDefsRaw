@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int soundKitID
-int eventIndex
-int gameObjectDisplayInfoID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
 
 LAYOUT 456E4627
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-soundKitID<u32>
-eventIndex<8>
-$noninline,relation$gameObjectDisplayInfoID<32>
+Field_8_1_0_27826_000<u32>
+Field_8_1_0_27826_001<8>
+$noninline,relation$Field_8_1_0_27826_002<32>

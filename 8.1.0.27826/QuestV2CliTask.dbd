@@ -1,52 +1,52 @@
 COLUMNS
-int FiltRaces
-locstring QuestTitle_lang
-locstring BulletText_lang
-int ID
-int UniqueBitFlag
-int ConditionID
-int FiltActiveQuest
-int FiltClasses
-int FiltCompletedQuestLogic
-int FiltMaxFactionID
-int FiltMaxFactionValue
-int FiltMaxLevel
-int FiltMinFactionID
-int FiltMinFactionValue
-int FiltMinLevel
-int FiltMinSkillID
-int FiltMinSkillValue
-int FiltNonActiveQuest
-int BreadCrumbID
-int StartItem
-int WorldStateExpressionID
-int QuestInfoID
-int ContentTuningID
-int FiltCompletedQuest
+int Field_8_1_0_27826_000
+locstring Field_8_1_0_27826_001_lang
+locstring Field_8_1_0_27826_002_lang
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
+int Field_8_1_0_27826_015
+int Field_8_1_0_27826_016
+int Field_8_1_0_27826_017
+int Field_8_1_0_27826_018
+int Field_8_1_0_27826_019
+int Field_8_1_0_27826_020
+int Field_8_1_0_27826_021
+int Field_8_1_0_27826_022
+int Field_8_1_0_27826_023
 
 LAYOUT C0387D4E
 BUILD 8.1.0.27826
-FiltRaces<64>
-QuestTitle_lang
-BulletText_lang
-$id$ID<u32>
-UniqueBitFlag<u16>
-ConditionID<u32>
-FiltActiveQuest<u32>
-FiltClasses<16>
-FiltCompletedQuestLogic<u32>
-FiltMaxFactionID<u32>
-FiltMaxFactionValue<u32>
-FiltMaxLevel<u32>
-FiltMinFactionID<u32>
-FiltMinFactionValue<u32>
-FiltMinLevel<u32>
-FiltMinSkillID<u32>
-FiltMinSkillValue<u32>
-FiltNonActiveQuest<u32>
-BreadCrumbID<u32>
-StartItem<32>
-WorldStateExpressionID<16>
-QuestInfoID<u32>
-ContentTuningID<32>
-FiltCompletedQuest<u32>[3]
+Field_8_1_0_27826_000<64>
+Field_8_1_0_27826_001_lang
+Field_8_1_0_27826_002_lang
+$id$Field_8_1_0_27826_003<u32>
+Field_8_1_0_27826_004<u16>
+Field_8_1_0_27826_005<u32>
+Field_8_1_0_27826_006<u32>
+Field_8_1_0_27826_007<16>
+Field_8_1_0_27826_008<u32>
+Field_8_1_0_27826_009<u32>
+Field_8_1_0_27826_010<u32>
+Field_8_1_0_27826_011<u32>
+Field_8_1_0_27826_012<u32>
+Field_8_1_0_27826_013<u32>
+Field_8_1_0_27826_014<u32>
+Field_8_1_0_27826_015<u32>
+Field_8_1_0_27826_016<u32>
+Field_8_1_0_27826_017<u32>
+Field_8_1_0_27826_018<u32>
+Field_8_1_0_27826_019<32>
+Field_8_1_0_27826_020<16>
+Field_8_1_0_27826_021<u32>
+Field_8_1_0_27826_022<32>
+Field_8_1_0_27826_023<u32>[3]

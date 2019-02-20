@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-float map
-int journalEncounterID
-int mapDisplayConditionID
-int flags
-int uiMapID
+float Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
 
 LAYOUT BCE56697
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-map[2]
-journalEncounterID<32>
-mapDisplayConditionID<32>
-flags<u8>
-$noninline,relation$uiMapID<32>
+Field_8_1_0_27826_000[2]
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<32>
+Field_8_1_0_27826_003<u8>
+$noninline,relation$Field_8_1_0_27826_004<32>

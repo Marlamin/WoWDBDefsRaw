@@ -1,36 +1,36 @@
 COLUMNS
 int ID
-float missileCastOffset
-float missileImpactOffset
-int animEventSoundID
-int flags
-int missileAttachment
-int missileDestinationAttachment
-int missileCastPositionerID
-int missileImpactPositionerID
-int missileTargetingKit
-int hostileSpellVisualID
-int casterSpellVisualID
-int spellVisualMissileSetID
-int damageNumberDelay
-int lowViolenceSpellVisualID
-int raidSpellVisualMissileSetID
+float Field_8_1_0_27826_000
+float Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
+int Field_8_1_0_27826_011
+int Field_8_1_0_27826_012
+int Field_8_1_0_27826_013
+int Field_8_1_0_27826_014
 
 LAYOUT 514F85ED
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-missileCastOffset[3]
-missileImpactOffset[3]
-animEventSoundID<u32>
-flags<32>
-missileAttachment<8>
-missileDestinationAttachment<8>
-missileCastPositionerID<u32>
-missileImpactPositionerID<u32>
-missileTargetingKit<32>
-hostileSpellVisualID<u32>
-casterSpellVisualID<u32>
-spellVisualMissileSetID<u16>
-damageNumberDelay<u16>
-lowViolenceSpellVisualID<u32>
-raidSpellVisualMissileSetID<u32>
+Field_8_1_0_27826_000[3]
+Field_8_1_0_27826_001[3]
+Field_8_1_0_27826_002<u32>
+Field_8_1_0_27826_003<32>
+Field_8_1_0_27826_004<8>
+Field_8_1_0_27826_005<8>
+Field_8_1_0_27826_006<u32>
+Field_8_1_0_27826_007<u32>
+Field_8_1_0_27826_008<32>
+Field_8_1_0_27826_009<u32>
+Field_8_1_0_27826_010<u32>
+Field_8_1_0_27826_011<u16>
+Field_8_1_0_27826_012<u16>
+Field_8_1_0_27826_013<u32>
+Field_8_1_0_27826_014<u32>

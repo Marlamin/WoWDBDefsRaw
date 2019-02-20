@@ -1,28 +1,28 @@
 COLUMNS
 int ID
-int type
-int asset
-int modifier_tree_id
-int start_event
-int start_asset
-int start_timer
-int fail_event
-int fail_asset
-int flags
-int eligibility_world_state_ID
-int eligibility_world_state_value
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
+int Field_8_1_0_27826_006
+int Field_8_1_0_27826_007
+int Field_8_1_0_27826_008
+int Field_8_1_0_27826_009
+int Field_8_1_0_27826_010
 
 LAYOUT 754DDF45
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-type<16>
-asset<32>
-modifier_tree_id<u32>
-start_event<u8>
-start_asset<32>
-start_timer<u16>
-fail_event<u8>
-fail_asset<32>
-flags<u8>
-eligibility_world_state_ID<16>
-eligibility_world_state_value<8>
+Field_8_1_0_27826_000<16>
+Field_8_1_0_27826_001<32>
+Field_8_1_0_27826_002<u32>
+Field_8_1_0_27826_003<u8>
+Field_8_1_0_27826_004<32>
+Field_8_1_0_27826_005<u16>
+Field_8_1_0_27826_006<u8>
+Field_8_1_0_27826_007<32>
+Field_8_1_0_27826_008<u8>
+Field_8_1_0_27826_009<16>
+Field_8_1_0_27826_010<8>

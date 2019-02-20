@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-int difficultyID
-int baseLevel
-int maxLevel
-int spellLevel
-int maxPassiveAuraLevel
-int spellID
+int Field_8_1_0_27826_000
+int Field_8_1_0_27826_001
+int Field_8_1_0_27826_002
+int Field_8_1_0_27826_003
+int Field_8_1_0_27826_004
+int Field_8_1_0_27826_005
 
 LAYOUT E3096221
 BUILD 8.1.0.27826
 $noninline,id$ID<32>
-difficultyID<u8>
-baseLevel<16>
-maxLevel<16>
-spellLevel<16>
-maxPassiveAuraLevel<u8>
-$noninline,relation$spellID<32>
+Field_8_1_0_27826_000<u8>
+Field_8_1_0_27826_001<16>
+Field_8_1_0_27826_002<16>
+Field_8_1_0_27826_003<16>
+Field_8_1_0_27826_004<u8>
+$noninline,relation$Field_8_1_0_27826_005<32>
