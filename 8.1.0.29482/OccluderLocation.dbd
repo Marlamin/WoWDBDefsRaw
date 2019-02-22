@@ -1,0 +1,12 @@
+COLUMNS
+float Field_8_1_0_29482_000
+float Field_8_1_0_29482_001
+int Field_8_1_0_29482_002
+int Field_8_1_0_29482_003
+
+LAYOUT 95F8BBE4
+BUILD 8.1.0.29482
+Field_8_1_0_29482_000[3]
+Field_8_1_0_29482_001[3]
+$id$Field_8_1_0_29482_002<32>
+Field_8_1_0_29482_003<32>
