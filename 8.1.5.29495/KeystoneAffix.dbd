@@ -1,0 +1,12 @@
+COLUMNS
+locstring Field_8_1_5_29495_000_lang
+locstring Field_8_1_5_29495_001_lang
+int Field_8_1_5_29495_002
+int Field_8_1_5_29495_003
+
+LAYOUT 60D97B7F
+BUILD 8.1.5.29495
+Field_8_1_5_29495_000_lang
+Field_8_1_5_29495_001_lang
+$id$Field_8_1_5_29495_002<32>
+Field_8_1_5_29495_003<32>
