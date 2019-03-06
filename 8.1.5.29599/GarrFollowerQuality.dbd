@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+int Field_8_1_5_29599_000
+int Field_8_1_5_29599_001
+int Field_8_1_5_29599_002
+int Field_8_1_5_29599_003
+int Field_8_1_5_29599_004
+int Field_8_1_5_29599_005
+int Field_8_1_5_29599_006
+
+LAYOUT CAE87042
+BUILD 8.1.5.29599
+$noninline,id$ID<32>
+Field_8_1_5_29599_000<u8>
+Field_8_1_5_29599_001<u32>
+Field_8_1_5_29599_002<u8>
+Field_8_1_5_29599_003<u8>
+Field_8_1_5_29599_004<u8>
+Field_8_1_5_29599_005<u16>
+Field_8_1_5_29599_006<u32>
