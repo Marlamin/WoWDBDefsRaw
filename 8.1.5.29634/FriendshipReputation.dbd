@@ -1,0 +1,12 @@
+COLUMNS
+locstring Field_8_1_5_29634_000_lang
+int Field_8_1_5_29634_001
+int Field_8_1_5_29634_002
+int Field_8_1_5_29634_003
+
+LAYOUT ECCE459C
+BUILD 8.1.5.29634
+Field_8_1_5_29634_000_lang
+$id$Field_8_1_5_29634_001<u32>
+Field_8_1_5_29634_002<u16>
+Field_8_1_5_29634_003<32>
