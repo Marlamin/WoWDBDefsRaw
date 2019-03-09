@@ -1,0 +1,14 @@
+COLUMNS
+float Field_8_1_5_29664_000
+int Field_8_1_5_29664_001
+int Field_8_1_5_29664_002
+int Field_8_1_5_29664_003
+int Field_8_1_5_29664_004
+
+LAYOUT FB61E627
+BUILD 8.1.5.29664
+Field_8_1_5_29664_000[2]
+$id$Field_8_1_5_29664_001<32>
+$relation$Field_8_1_5_29664_002<u8>
+Field_8_1_5_29664_003<u16>
+Field_8_1_5_29664_004<u16>
