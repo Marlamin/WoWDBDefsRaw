@@ -1,0 +1,13 @@
+COLUMNS
+int ID
+locstring Field_8_1_5_29683_000_lang
+locstring Field_8_1_5_29683_001_lang
+locstring Field_8_1_5_29683_002_lang
+
+LAYOUT FFF1DA38
+BUILD 8.1.5.29683
+COMMENT table is sparse
+$noninline,id$ID<32>
+Field_8_1_5_29683_000_lang
+Field_8_1_5_29683_001_lang
+Field_8_1_5_29683_002_lang

@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+locstring Field_8_1_5_29683_000_lang
+int Field_8_1_5_29683_001
+int Field_8_1_5_29683_002
+int Field_8_1_5_29683_003
+int Field_8_1_5_29683_004
+float Field_8_1_5_29683_005
+float Field_8_1_5_29683_006
+int Field_8_1_5_29683_007
+int Field_8_1_5_29683_008
+
+LAYOUT E70E083E
+BUILD 8.1.5.29683
+$noninline,id$ID<32>
+Field_8_1_5_29683_000_lang
+Field_8_1_5_29683_001<u32>
+Field_8_1_5_29683_002<u32>
+Field_8_1_5_29683_003<u32>
+Field_8_1_5_29683_004<u32>
+Field_8_1_5_29683_005
+Field_8_1_5_29683_006
+Field_8_1_5_29683_007<8>
+Field_8_1_5_29683_008<32>
