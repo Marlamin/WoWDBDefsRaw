@@ -1,0 +1,30 @@
+COLUMNS
+int ID
+locstring Field_8_1_5_29732_000_lang
+locstring Field_8_1_5_29732_001_lang
+int Field_8_1_5_29732_002
+int Field_8_1_5_29732_003
+int Field_8_1_5_29732_004
+int Field_8_1_5_29732_005
+int Field_8_1_5_29732_006
+int Field_8_1_5_29732_007
+int Field_8_1_5_29732_008
+int Field_8_1_5_29732_009
+int Field_8_1_5_29732_010
+int Field_8_1_5_29732_011
+
+LAYOUT C6A4670A
+BUILD 8.1.5.29732
+$noninline,id$ID<32>
+Field_8_1_5_29732_000_lang
+Field_8_1_5_29732_001_lang
+Field_8_1_5_29732_002<u8>
+Field_8_1_5_29732_003<32>
+Field_8_1_5_29732_004<u32>
+Field_8_1_5_29732_005<u8>
+Field_8_1_5_29732_006<u32>
+Field_8_1_5_29732_007<u32>
+Field_8_1_5_29732_008<u32>
+Field_8_1_5_29732_009<8>
+Field_8_1_5_29732_010<32>
+Field_8_1_5_29732_011<32>

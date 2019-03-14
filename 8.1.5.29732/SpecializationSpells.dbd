@@ -1,0 +1,16 @@
+COLUMNS
+locstring Field_8_1_5_29732_000_lang
+int Field_8_1_5_29732_001
+int Field_8_1_5_29732_002
+int Field_8_1_5_29732_003
+int Field_8_1_5_29732_004
+int Field_8_1_5_29732_005
+
+LAYOUT 88A56A2F
+BUILD 8.1.5.29732
+Field_8_1_5_29732_000_lang
+$id$Field_8_1_5_29732_001<32>
+$relation$Field_8_1_5_29732_002<u16>
+Field_8_1_5_29732_003<32>
+Field_8_1_5_29732_004<32>
+Field_8_1_5_29732_005<u8>
