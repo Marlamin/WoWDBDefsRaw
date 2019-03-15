@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+string Field_8_1_5_29737_000
+int Field_8_1_5_29737_001
+
+LAYOUT CD33D2BE
+BUILD 8.1.5.29737
+$noninline,id$ID<32>
+Field_8_1_5_29737_000
+Field_8_1_5_29737_001<8>

@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+int Field_8_1_5_29737_000
+int Field_8_1_5_29737_001
+int Field_8_1_5_29737_002
+int Field_8_1_5_29737_003
+int Field_8_1_5_29737_004
+int Field_8_1_5_29737_005
+int Field_8_1_5_29737_006
+int Field_8_1_5_29737_007
+int Field_8_1_5_29737_008
+
+LAYOUT 46818AA6
+BUILD 8.1.5.29737
+$noninline,id$ID<32>
+Field_8_1_5_29737_000<u8>
+Field_8_1_5_29737_001<8>
+Field_8_1_5_29737_002<16>
+Field_8_1_5_29737_003<32>
+Field_8_1_5_29737_004<32>
+Field_8_1_5_29737_005<u16>
+Field_8_1_5_29737_006<32>
+Field_8_1_5_29737_007<u16>
+$noninline,relation$Field_8_1_5_29737_008<32>
