@@ -1,0 +1,10 @@
+COLUMNS
+int Field_8_2_0_30093_000
+int Field_8_2_0_30093_001
+int Field_8_2_0_30093_002
+
+LAYOUT 08FEDBFF
+BUILD 8.2.0.30093
+$id$Field_8_2_0_30093_000<32>
+Field_8_2_0_30093_001<u8>
+Field_8_2_0_30093_002<u8>
