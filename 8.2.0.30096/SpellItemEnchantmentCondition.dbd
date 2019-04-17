@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_8_2_0_30096_000
+int Field_8_2_0_30096_001
+int Field_8_2_0_30096_002
+int Field_8_2_0_30096_003
+int Field_8_2_0_30096_004
+int Field_8_2_0_30096_005
+
+LAYOUT FAA95A11
+BUILD 8.2.0.30096
+$noninline,id$ID<32>
+Field_8_2_0_30096_000<u8>[5]
+Field_8_2_0_30096_001<u32>[5]
+Field_8_2_0_30096_002<u8>[5]
+Field_8_2_0_30096_003<u8>[5]
+Field_8_2_0_30096_004<u8>[5]
+Field_8_2_0_30096_005<u8>[5]

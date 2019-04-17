@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+string Field_8_2_0_30096_000
+int Field_8_2_0_30096_001
+int Field_8_2_0_30096_002
+int Field_8_2_0_30096_003
+int Field_8_2_0_30096_004
+
+LAYOUT EB89C62F
+BUILD 8.2.0.30096
+$noninline,id$ID<32>
+Field_8_2_0_30096_000
+Field_8_2_0_30096_001<u8>
+Field_8_2_0_30096_002<u8>
+Field_8_2_0_30096_003<u8>
+Field_8_2_0_30096_004<u8>
