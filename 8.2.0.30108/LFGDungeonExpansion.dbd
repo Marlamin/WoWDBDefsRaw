@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+int Field_8_2_0_30108_000
+int Field_8_2_0_30108_001
+int Field_8_2_0_30108_002
+int Field_8_2_0_30108_003
+int Field_8_2_0_30108_004
+int Field_8_2_0_30108_005
+int Field_8_2_0_30108_006
+
+LAYOUT 6754EDAB
+BUILD 8.2.0.30108
+$noninline,id$ID<32>
+Field_8_2_0_30108_000<u8>
+Field_8_2_0_30108_001<u16>
+Field_8_2_0_30108_002<u8>
+Field_8_2_0_30108_003<u8>
+Field_8_2_0_30108_004<32>
+Field_8_2_0_30108_005<32>
+$noninline,relation$Field_8_2_0_30108_006<u16>
