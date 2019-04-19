@@ -1,0 +1,10 @@
+COLUMNS
+int Field_1_13_2_30128_000
+int Field_1_13_2_30128_001
+int Field_1_13_2_30128_002
+
+LAYOUT 81B7C74C
+BUILD 1.13.2.30128
+$id$Field_1_13_2_30128_000<32>
+Field_1_13_2_30128_001<u16>
+$noninline,relation$Field_1_13_2_30128_002<u8>
