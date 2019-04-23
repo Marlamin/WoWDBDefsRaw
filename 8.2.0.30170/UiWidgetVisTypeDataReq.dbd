@@ -1,0 +1,16 @@
+COLUMNS
+string Field_8_2_0_30170_000?
+int Field_8_2_0_30170_001?
+int Field_8_2_0_30170_002?
+int Field_8_2_0_30170_003?
+int Field_8_2_0_30170_004?
+int Field_8_2_0_30170_005?
+
+LAYOUT AE3180D2
+BUILD 8.2.0.30170
+Field_8_2_0_30170_000
+$id$Field_8_2_0_30170_001<32>
+Field_8_2_0_30170_002<32>
+Field_8_2_0_30170_003<32>
+Field_8_2_0_30170_004<32>
+$noninline,relation$Field_8_2_0_30170_005<32>
