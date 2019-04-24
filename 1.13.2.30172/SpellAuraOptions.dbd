@@ -1,0 +1,22 @@
+COLUMNS
+int ID
+int Field_1_13_2_30172_000?
+int Field_1_13_2_30172_001?
+int Field_1_13_2_30172_002?
+int Field_1_13_2_30172_003?
+int Field_1_13_2_30172_004?
+int Field_1_13_2_30172_005?
+int Field_1_13_2_30172_006?
+int Field_1_13_2_30172_007?
+
+LAYOUT CBDA0981
+BUILD 1.13.2.30172
+$noninline,id$ID<32>
+Field_1_13_2_30172_000<u8>
+Field_1_13_2_30172_001<u16>
+Field_1_13_2_30172_002<32>
+Field_1_13_2_30172_003<u8>
+Field_1_13_2_30172_004<32>
+Field_1_13_2_30172_005<u16>
+Field_1_13_2_30172_006<32>[2]
+$noninline,relation$Field_1_13_2_30172_007<32>
