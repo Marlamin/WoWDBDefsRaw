@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+int Field_1_13_2_30265_000?
+int Field_1_13_2_30265_001?
+int Field_1_13_2_30265_002?
+int Field_1_13_2_30265_003?
+int Field_1_13_2_30265_004?
+int Field_1_13_2_30265_005?
+int Field_1_13_2_30265_006?
+
+LAYOUT D344A642
+BUILD 1.13.2.30265
+$noninline,id$ID<32>
+Field_1_13_2_30265_000<8>
+Field_1_13_2_30265_001<8>
+Field_1_13_2_30265_002<8>
+Field_1_13_2_30265_003<u16>
+Field_1_13_2_30265_004<32>
+Field_1_13_2_30265_005<32>[7]
+$noninline,relation$Field_1_13_2_30265_006<32>
