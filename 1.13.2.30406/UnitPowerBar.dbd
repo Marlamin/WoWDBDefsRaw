@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+locstring Field_1_13_2_30406_000_lang?
+locstring Field_1_13_2_30406_001_lang?
+locstring Field_1_13_2_30406_002_lang?
+locstring Field_1_13_2_30406_003_lang?
+int Field_1_13_2_30406_004?
+int Field_1_13_2_30406_005?
+int Field_1_13_2_30406_006?
+int Field_1_13_2_30406_007?
+float Field_1_13_2_30406_008?
+float Field_1_13_2_30406_009?
+int Field_1_13_2_30406_010?
+int Field_1_13_2_30406_011?
+float Field_1_13_2_30406_012?
+float Field_1_13_2_30406_013?
+int Field_1_13_2_30406_014?
+int Field_1_13_2_30406_015?
+
+LAYOUT 2640852D
+BUILD 1.13.2.30406
+$noninline,id$ID<32>
+Field_1_13_2_30406_000_lang
+Field_1_13_2_30406_001_lang
+Field_1_13_2_30406_002_lang
+Field_1_13_2_30406_003_lang
+Field_1_13_2_30406_004<u32>
+Field_1_13_2_30406_005<u32>
+Field_1_13_2_30406_006<u16>
+Field_1_13_2_30406_007<u8>
+Field_1_13_2_30406_008
+Field_1_13_2_30406_009
+Field_1_13_2_30406_010<u8>
+Field_1_13_2_30406_011<u16>
+Field_1_13_2_30406_012
+Field_1_13_2_30406_013
+Field_1_13_2_30406_014<32>[6]
+Field_1_13_2_30406_015<32>[6]
