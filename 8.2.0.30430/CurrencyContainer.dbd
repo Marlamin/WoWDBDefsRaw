@@ -1,0 +1,22 @@
+COLUMNS
+int ID
+locstring Field_8_2_0_30430_000_lang?
+locstring Field_8_2_0_30430_001_lang?
+int Field_8_2_0_30430_002?
+int Field_8_2_0_30430_003?
+int Field_8_2_0_30430_004?
+int Field_8_2_0_30430_005?
+int Field_8_2_0_30430_006?
+int Field_8_2_0_30430_007?
+
+LAYOUT AC6030BF
+BUILD 8.2.0.30430
+$noninline,id$ID<32>
+Field_8_2_0_30430_000_lang
+Field_8_2_0_30430_001_lang
+Field_8_2_0_30430_002<32>
+Field_8_2_0_30430_003<32>
+Field_8_2_0_30430_004<32>
+Field_8_2_0_30430_005<32>
+Field_8_2_0_30430_006<32>
+$noninline,relation$Field_8_2_0_30430_007<32>
