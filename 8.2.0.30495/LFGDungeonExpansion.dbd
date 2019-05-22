@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+int Field_8_2_0_30495_000?
+int Field_8_2_0_30495_001?
+int Field_8_2_0_30495_002?
+int Field_8_2_0_30495_003?
+int Field_8_2_0_30495_004?
+int Field_8_2_0_30495_005?
+int Field_8_2_0_30495_006?
+
+LAYOUT 6754EDAB
+BUILD 8.2.0.30495
+$noninline,id$ID<32>
+Field_8_2_0_30495_000<u8>
+Field_8_2_0_30495_001<u16>
+Field_8_2_0_30495_002<u8>
+Field_8_2_0_30495_003<u8>
+Field_8_2_0_30495_004<32>
+Field_8_2_0_30495_005<32>
+$noninline,relation$Field_8_2_0_30495_006<u16>
