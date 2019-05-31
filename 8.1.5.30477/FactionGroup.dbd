@@ -1,0 +1,16 @@
+COLUMNS
+string Field_8_1_5_30477_000?
+locstring Field_8_1_5_30477_001_lang?
+int Field_8_1_5_30477_002?
+int Field_8_1_5_30477_003?
+int Field_8_1_5_30477_004?
+int Field_8_1_5_30477_005?
+
+LAYOUT B9B4369B
+BUILD 8.1.5.30477
+Field_8_1_5_30477_000
+Field_8_1_5_30477_001_lang
+$id$Field_8_1_5_30477_002<32>
+Field_8_1_5_30477_003<u8>
+Field_8_1_5_30477_004<32>
+Field_8_1_5_30477_005<32>
