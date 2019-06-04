@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+locstring Field_1_13_2_30682_000_lang?
+int Field_1_13_2_30682_001?
+int Field_1_13_2_30682_002?
+int Field_1_13_2_30682_003?
+int Field_1_13_2_30682_004?
+
+LAYOUT EB8CA12C
+BUILD 1.13.2.30682
+$noninline,id$ID<32>
+Field_1_13_2_30682_000_lang
+Field_1_13_2_30682_001<u8>
+Field_1_13_2_30682_002<u8>
+Field_1_13_2_30682_003<u32>
+$noninline,relation$Field_1_13_2_30682_004<u16>
