@@ -1,0 +1,8 @@
+COLUMNS
+int ID
+int Field_8_1_5_30706_000?
+
+LAYOUT DAC6A93C
+BUILD 8.1.5.30706
+$noninline,id$ID<32>
+$relation$Field_8_1_5_30706_000<32>
