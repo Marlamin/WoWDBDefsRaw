@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_1_13_2_30786_000_lang?
+locstring Field_1_13_2_30786_001_lang?
+locstring Field_1_13_2_30786_002_lang?
+string Field_1_13_2_30786_003?
+int Field_1_13_2_30786_004?
+
+LAYOUT 3F736720
+BUILD 1.13.2.30786
+Field_1_13_2_30786_000_lang
+Field_1_13_2_30786_001_lang
+Field_1_13_2_30786_002_lang
+Field_1_13_2_30786_003
+$id$Field_1_13_2_30786_004<32>

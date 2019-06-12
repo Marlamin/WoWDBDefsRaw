@@ -1,0 +1,36 @@
+COLUMNS
+int ID
+int Field_1_13_2_30786_000?
+int Field_1_13_2_30786_001?
+float Field_1_13_2_30786_002?
+float Field_1_13_2_30786_003?
+float Field_1_13_2_30786_004?
+float Field_1_13_2_30786_005?
+float Field_1_13_2_30786_006?
+float Field_1_13_2_30786_007?
+float Field_1_13_2_30786_008?
+float Field_1_13_2_30786_009?
+float Field_1_13_2_30786_010?
+float Field_1_13_2_30786_011?
+float Field_1_13_2_30786_012?
+float Field_1_13_2_30786_013?
+float Field_1_13_2_30786_014?
+
+LAYOUT AF286A50
+BUILD 1.13.2.30786
+$noninline,id$ID<32>
+Field_1_13_2_30786_000<32>
+Field_1_13_2_30786_001<u8>
+Field_1_13_2_30786_002
+Field_1_13_2_30786_003
+Field_1_13_2_30786_004
+Field_1_13_2_30786_005
+Field_1_13_2_30786_006
+Field_1_13_2_30786_007
+Field_1_13_2_30786_008
+Field_1_13_2_30786_009
+Field_1_13_2_30786_010
+Field_1_13_2_30786_011
+Field_1_13_2_30786_012
+Field_1_13_2_30786_013
+Field_1_13_2_30786_014
