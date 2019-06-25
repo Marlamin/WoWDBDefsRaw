@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int Field_8_2_0_30920_000?
+int Field_8_2_0_30920_001?
+int Field_8_2_0_30920_002?
+int Field_8_2_0_30920_003?
+int Field_8_2_0_30920_004?
+
+LAYOUT BA5290E9
+BUILD 8.2.0.30920
+$noninline,id$ID<32>
+Field_8_2_0_30920_000<u8>
+Field_8_2_0_30920_001<u8>
+Field_8_2_0_30920_002<u8>
+Field_8_2_0_30920_003<32>
+$noninline,relation$Field_8_2_0_30920_004<32>
