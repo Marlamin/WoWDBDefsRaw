@@ -1,0 +1,14 @@
+COLUMNS
+float Field_8_2_5_31337_000?
+int Field_8_2_5_31337_001?
+int Field_8_2_5_31337_002?
+int Field_8_2_5_31337_003?
+int Field_8_2_5_31337_004?
+
+LAYOUT FB61E627
+BUILD 8.2.5.31337
+Field_8_2_5_31337_000[2]
+$id$Field_8_2_5_31337_001<32>
+$relation$Field_8_2_5_31337_002<u8>
+Field_8_2_5_31337_003<u16>
+Field_8_2_5_31337_004<u16>

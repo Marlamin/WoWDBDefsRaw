@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+int Field_8_2_5_31337_000?
+int Field_8_2_5_31337_001?
+float Field_8_2_5_31337_002?
+float Field_8_2_5_31337_003?
+float Field_8_2_5_31337_004?
+float Field_8_2_5_31337_005?
+float Field_8_2_5_31337_006?
+float Field_8_2_5_31337_007?
+float Field_8_2_5_31337_008?
+float Field_8_2_5_31337_009?
+int Field_8_2_5_31337_010?
+int Field_8_2_5_31337_011?
+int Field_8_2_5_31337_012?
+int Field_8_2_5_31337_013?
+int Field_8_2_5_31337_014?
+int Field_8_2_5_31337_015?
+
+LAYOUT ED27DC2F
+BUILD 8.2.5.31337
+$noninline,id$ID<32>
+Field_8_2_5_31337_000<u8>
+Field_8_2_5_31337_001<u16>
+Field_8_2_5_31337_002
+Field_8_2_5_31337_003
+Field_8_2_5_31337_004
+Field_8_2_5_31337_005
+Field_8_2_5_31337_006
+Field_8_2_5_31337_007
+Field_8_2_5_31337_008
+Field_8_2_5_31337_009
+Field_8_2_5_31337_010<u8>
+Field_8_2_5_31337_011<8>
+Field_8_2_5_31337_012<u8>
+Field_8_2_5_31337_013<u8>
+Field_8_2_5_31337_014<8>
+$noninline,relation$Field_8_2_5_31337_015<u16>
