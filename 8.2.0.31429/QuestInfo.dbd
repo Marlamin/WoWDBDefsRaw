@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+locstring Field_8_2_0_31429_000_lang?
+int Field_8_2_0_31429_001?
+int Field_8_2_0_31429_002?
+int Field_8_2_0_31429_003?
+
+LAYOUT DDB38B83
+BUILD 8.2.0.31429
+$noninline,id$ID<32>
+Field_8_2_0_31429_000_lang
+Field_8_2_0_31429_001<8>
+Field_8_2_0_31429_002<u8>
+Field_8_2_0_31429_003<u16>
