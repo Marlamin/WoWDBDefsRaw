@@ -1,0 +1,36 @@
+COLUMNS
+string Field_8_2_5_31521_000?
+float Field_8_2_5_31521_001?
+float Field_8_2_5_31521_002?
+int Field_8_2_5_31521_003?
+int Field_8_2_5_31521_004?
+int Field_8_2_5_31521_005?
+float Field_8_2_5_31521_006?
+float Field_8_2_5_31521_007?
+float Field_8_2_5_31521_008?
+float Field_8_2_5_31521_009?
+float Field_8_2_5_31521_010?
+float Field_8_2_5_31521_011?
+float Field_8_2_5_31521_012?
+float Field_8_2_5_31521_013?
+float Field_8_2_5_31521_014?
+int Field_8_2_5_31521_015?
+
+LAYOUT EDFBD5A2
+BUILD 8.2.5.31521
+Field_8_2_5_31521_000
+Field_8_2_5_31521_001[3]
+Field_8_2_5_31521_002[3]
+$id$Field_8_2_5_31521_003<32>
+Field_8_2_5_31521_004<u8>
+Field_8_2_5_31521_005<u8>
+Field_8_2_5_31521_006
+Field_8_2_5_31521_007
+Field_8_2_5_31521_008
+Field_8_2_5_31521_009
+Field_8_2_5_31521_010
+Field_8_2_5_31521_011
+Field_8_2_5_31521_012
+Field_8_2_5_31521_013
+Field_8_2_5_31521_014
+$noninline,relation$Field_8_2_5_31521_015<32>
