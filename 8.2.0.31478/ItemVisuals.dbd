@@ -1,0 +1,8 @@
+COLUMNS
+int ID
+int Field_8_2_0_31478_000?
+
+LAYOUT 4025FA36
+BUILD 8.2.0.31478
+$noninline,id$ID<32>
+Field_8_2_0_31478_000<32>[5]
