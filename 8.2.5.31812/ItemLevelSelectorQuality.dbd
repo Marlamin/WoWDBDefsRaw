@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int Field_8_2_5_31812_000?
+int Field_8_2_5_31812_001?
+int Field_8_2_5_31812_002?
+
+LAYOUT C40169D5
+BUILD 8.2.5.31812
+$noninline,id$ID<32>
+Field_8_2_5_31812_000<32>
+Field_8_2_5_31812_001<8>
+$noninline,relation$Field_8_2_5_31812_002<16>
