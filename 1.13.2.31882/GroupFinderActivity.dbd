@@ -1,0 +1,34 @@
+COLUMNS
+int ID
+locstring Field_1_13_2_31882_000_lang?
+locstring Field_1_13_2_31882_001_lang?
+int Field_1_13_2_31882_002?
+int Field_1_13_2_31882_003?
+int Field_1_13_2_31882_004?
+int Field_1_13_2_31882_005?
+int Field_1_13_2_31882_006?
+int Field_1_13_2_31882_007?
+int Field_1_13_2_31882_008?
+int Field_1_13_2_31882_009?
+int Field_1_13_2_31882_010?
+int Field_1_13_2_31882_011?
+int Field_1_13_2_31882_012?
+int Field_1_13_2_31882_013?
+
+LAYOUT EC40E4B1
+BUILD 1.13.2.31882
+$noninline,id$ID<32>
+Field_1_13_2_31882_000_lang
+Field_1_13_2_31882_001_lang
+Field_1_13_2_31882_002<u8>
+Field_1_13_2_31882_003<8>
+Field_1_13_2_31882_004<u8>
+Field_1_13_2_31882_005<u8>
+Field_1_13_2_31882_006<u8>
+Field_1_13_2_31882_007<u32>
+Field_1_13_2_31882_008<u16>
+Field_1_13_2_31882_009<u16>
+Field_1_13_2_31882_010<u8>
+Field_1_13_2_31882_011<u16>
+Field_1_13_2_31882_012<u8>
+Field_1_13_2_31882_013<u8>
