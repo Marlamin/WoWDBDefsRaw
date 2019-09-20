@@ -1,0 +1,10 @@
+COLUMNS
+locstring Field_8_2_5_31919_000_lang?
+int Field_8_2_5_31919_001?
+int Field_8_2_5_31919_002?
+
+LAYOUT D7448990
+BUILD 8.2.5.31919
+Field_8_2_5_31919_000_lang
+$id$Field_8_2_5_31919_001<32>
+Field_8_2_5_31919_002<u8>
