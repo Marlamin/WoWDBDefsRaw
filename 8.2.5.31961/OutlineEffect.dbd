@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_8_2_5_31961_000?
+int Field_8_2_5_31961_001?
+int Field_8_2_5_31961_002?
+int Field_8_2_5_31961_003?
+float Field_8_2_5_31961_004?
+int Field_8_2_5_31961_005?
+
+LAYOUT ECA16738
+BUILD 8.2.5.31961
+$noninline,id$ID<32>
+Field_8_2_5_31961_000<u32>
+Field_8_2_5_31961_001<u32>
+Field_8_2_5_31961_002<32>
+Field_8_2_5_31961_003<32>
+Field_8_2_5_31961_004
+Field_8_2_5_31961_005<u32>[2]
