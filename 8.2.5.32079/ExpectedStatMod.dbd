@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+float Field_8_2_5_32079_000?
+float Field_8_2_5_32079_001?
+float Field_8_2_5_32079_002?
+float Field_8_2_5_32079_003?
+float Field_8_2_5_32079_004?
+float Field_8_2_5_32079_005?
+float Field_8_2_5_32079_006?
+float Field_8_2_5_32079_007?
+float Field_8_2_5_32079_008?
+
+LAYOUT EA56E599
+BUILD 8.2.5.32079
+$noninline,id$ID<32>
+Field_8_2_5_32079_000
+Field_8_2_5_32079_001
+Field_8_2_5_32079_002
+Field_8_2_5_32079_003
+Field_8_2_5_32079_004
+Field_8_2_5_32079_005
+Field_8_2_5_32079_006
+Field_8_2_5_32079_007
+Field_8_2_5_32079_008
