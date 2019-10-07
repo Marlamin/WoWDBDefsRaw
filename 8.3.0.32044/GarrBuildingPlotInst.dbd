@@ -1,0 +1,14 @@
+COLUMNS
+float Field_8_3_0_32044_000?
+int Field_8_3_0_32044_001?
+int Field_8_3_0_32044_002?
+int Field_8_3_0_32044_003?
+int Field_8_3_0_32044_004?
+
+LAYOUT DB36FC65
+BUILD 8.3.0.32044
+Field_8_3_0_32044_000[2]
+$id$Field_8_3_0_32044_001<32>
+$relation$Field_8_3_0_32044_002<u8>
+Field_8_3_0_32044_003<u16>
+Field_8_3_0_32044_004<u16>
