@@ -1,0 +1,18 @@
+COLUMNS
+locstring Field_8_2_5_32144_000_lang?
+locstring Field_8_2_5_32144_001_lang?
+locstring Field_8_2_5_32144_002_lang?
+int Field_8_2_5_32144_003?
+int Field_8_2_5_32144_004?
+int Field_8_2_5_32144_005?
+int Field_8_2_5_32144_006?
+
+LAYOUT D2DB04A4
+BUILD 8.2.5.32144
+Field_8_2_5_32144_000_lang
+Field_8_2_5_32144_001_lang
+Field_8_2_5_32144_002_lang
+$id$Field_8_2_5_32144_003<u32>
+Field_8_2_5_32144_004<32>
+Field_8_2_5_32144_005<32>
+Field_8_2_5_32144_006<32>

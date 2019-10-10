@@ -1,0 +1,10 @@
+COLUMNS
+int Field_8_3_0_32151_000?
+int Field_8_3_0_32151_001?
+int Field_8_3_0_32151_002?
+
+LAYOUT 6CF6BAAA
+BUILD 8.3.0.32151
+$id$Field_8_3_0_32151_000<32>
+Field_8_3_0_32151_001<u8>
+Field_8_3_0_32151_002<u8>

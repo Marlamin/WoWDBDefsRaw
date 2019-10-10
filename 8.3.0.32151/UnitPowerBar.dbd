@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+locstring Field_8_3_0_32151_000_lang?
+locstring Field_8_3_0_32151_001_lang?
+locstring Field_8_3_0_32151_002_lang?
+locstring Field_8_3_0_32151_003_lang?
+int Field_8_3_0_32151_004?
+int Field_8_3_0_32151_005?
+int Field_8_3_0_32151_006?
+int Field_8_3_0_32151_007?
+float Field_8_3_0_32151_008?
+float Field_8_3_0_32151_009?
+int Field_8_3_0_32151_010?
+int Field_8_3_0_32151_011?
+float Field_8_3_0_32151_012?
+float Field_8_3_0_32151_013?
+int Field_8_3_0_32151_014?
+int Field_8_3_0_32151_015?
+
+LAYOUT B6CED45F
+BUILD 8.3.0.32151
+$noninline,id$ID<32>
+Field_8_3_0_32151_000_lang
+Field_8_3_0_32151_001_lang
+Field_8_3_0_32151_002_lang
+Field_8_3_0_32151_003_lang
+Field_8_3_0_32151_004<u32>
+Field_8_3_0_32151_005<u32>
+Field_8_3_0_32151_006<u32>
+Field_8_3_0_32151_007<u8>
+Field_8_3_0_32151_008
+Field_8_3_0_32151_009
+Field_8_3_0_32151_010<u8>
+Field_8_3_0_32151_011<u16>
+Field_8_3_0_32151_012
+Field_8_3_0_32151_013
+Field_8_3_0_32151_014<32>[6]
+Field_8_3_0_32151_015<32>[6]
