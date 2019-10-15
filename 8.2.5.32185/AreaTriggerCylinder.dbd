@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+float Field_8_2_5_32185_000?
+float Field_8_2_5_32185_001?
+float Field_8_2_5_32185_002?
+
+LAYOUT 867834A9
+BUILD 8.2.5.32185
+$noninline,id$ID<32>
+Field_8_2_5_32185_000
+Field_8_2_5_32185_001
+Field_8_2_5_32185_002
