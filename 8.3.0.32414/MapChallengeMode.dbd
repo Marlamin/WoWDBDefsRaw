@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_8_3_0_32414_000_lang?
+int Field_8_3_0_32414_001?
+int Field_8_3_0_32414_002?
+int Field_8_3_0_32414_003?
+int Field_8_3_0_32414_004?
+
+LAYOUT D1A78B20
+BUILD 8.3.0.32414
+Field_8_3_0_32414_000_lang
+$id$Field_8_3_0_32414_001<32>
+$relation$Field_8_3_0_32414_002<u16>
+Field_8_3_0_32414_003<u8>
+Field_8_3_0_32414_004<16>[3]
