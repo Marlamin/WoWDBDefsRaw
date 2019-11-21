@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_8_3_0_32593_000?
+int Field_8_3_0_32593_001?
+int Field_8_3_0_32593_002?
+int Field_8_3_0_32593_003?
+int Field_8_3_0_32593_004?
+int Field_8_3_0_32593_005?
+
+LAYOUT D948D3F0
+BUILD 8.3.0.32593
+$noninline,id$ID<32>
+Field_8_3_0_32593_000<32>
+Field_8_3_0_32593_001<8>
+Field_8_3_0_32593_002<32>
+Field_8_3_0_32593_003<32>
+Field_8_3_0_32593_004<32>
+$noninline,relation$Field_8_3_0_32593_005<32>
