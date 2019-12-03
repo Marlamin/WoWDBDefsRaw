@@ -1,0 +1,10 @@
+COLUMNS
+int Field_8_2_5_32722_000?
+int Field_8_2_5_32722_001?
+float Field_8_2_5_32722_002?
+
+LAYOUT F320E3AD
+BUILD 8.2.5.32722
+$id$Field_8_2_5_32722_000<32>
+Field_8_2_5_32722_001<8>
+Field_8_2_5_32722_002[4]
