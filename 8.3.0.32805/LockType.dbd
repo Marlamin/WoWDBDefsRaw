@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_8_3_0_32805_000_lang?
+locstring Field_8_3_0_32805_001_lang?
+locstring Field_8_3_0_32805_002_lang?
+string Field_8_3_0_32805_003?
+int Field_8_3_0_32805_004?
+
+LAYOUT 1BCEC060
+BUILD 8.3.0.32805
+Field_8_3_0_32805_000_lang
+Field_8_3_0_32805_001_lang
+Field_8_3_0_32805_002_lang
+Field_8_3_0_32805_003
+$id$Field_8_3_0_32805_004<32>
