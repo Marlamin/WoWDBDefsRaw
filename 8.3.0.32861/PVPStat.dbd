@@ -1,0 +1,10 @@
+COLUMNS
+locstring Field_8_3_0_32861_000_lang?
+int Field_8_3_0_32861_001?
+int Field_8_3_0_32861_002?
+
+LAYOUT D1138CDD
+BUILD 8.3.0.32861
+Field_8_3_0_32861_000_lang
+$id$Field_8_3_0_32861_001<32>
+$relation$Field_8_3_0_32861_002<32>

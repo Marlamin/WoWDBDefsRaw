@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+float Field_8_3_0_32861_000?
+float Field_8_3_0_32861_001?
+float Field_8_3_0_32861_002?
+float Field_8_3_0_32861_003?
+float Field_8_3_0_32861_004?
+
+LAYOUT CC7C0C3B
+BUILD 8.3.0.32861
+$noninline,id$ID<32>
+Field_8_3_0_32861_000
+Field_8_3_0_32861_001
+Field_8_3_0_32861_002
+Field_8_3_0_32861_003
+Field_8_3_0_32861_004

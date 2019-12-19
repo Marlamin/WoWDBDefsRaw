@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int Field_8_3_0_32861_000?
+int Field_8_3_0_32861_001?
+int Field_8_3_0_32861_002?
+int Field_8_3_0_32861_003?
+int Field_8_3_0_32861_004?
+
+LAYOUT C89BA379
+BUILD 8.3.0.32861
+$noninline,id$ID<32>
+Field_8_3_0_32861_000<32>
+Field_8_3_0_32861_001<32>
+Field_8_3_0_32861_002<u32>[5]
+Field_8_3_0_32861_003<u32>[5]
+Field_8_3_0_32861_004<u32>[5]
