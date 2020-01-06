@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_1_13_3_32887_000?
+int Field_1_13_3_32887_001?
+int Field_1_13_3_32887_002?
+int Field_1_13_3_32887_003?
+
+LAYOUT CCBD52E8
+BUILD 1.13.3.32887
+$noninline,id$ID<32>
+Field_1_13_3_32887_000<u32>
+Field_1_13_3_32887_001<u8>
+Field_1_13_3_32887_002<u16>[4]
+Field_1_13_3_32887_003<8>[4]
