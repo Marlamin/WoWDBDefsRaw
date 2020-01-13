@@ -1,0 +1,23 @@
+COLUMNS
+int ID
+int Field_8_3_0_33010_000?
+int Field_8_3_0_33010_001?
+int Field_8_3_0_33010_002?
+int Field_8_3_0_33010_003?
+int Field_8_3_0_33010_004?
+int Field_8_3_0_33010_005?
+int Field_8_3_0_33010_006?
+int Field_8_3_0_33010_007?
+
+LAYOUT 6A344A3F
+BUILD 8.3.0.33010
+COMMENT table is sparse
+$noninline,id$ID<32>
+Field_8_3_0_33010_000<u32>
+Field_8_3_0_33010_001<u32>
+Field_8_3_0_33010_002<32>
+Field_8_3_0_33010_003<u16>
+Field_8_3_0_33010_004<u16>
+Field_8_3_0_33010_005<u8>
+Field_8_3_0_33010_006<u8>
+Field_8_3_0_33010_007<u8>
