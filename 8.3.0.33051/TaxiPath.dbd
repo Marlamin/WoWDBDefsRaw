@@ -1,0 +1,12 @@
+COLUMNS
+int Field_8_3_0_33051_000?
+int Field_8_3_0_33051_001?
+int Field_8_3_0_33051_002?
+int Field_8_3_0_33051_003?
+
+LAYOUT 0ECA5A01
+BUILD 8.3.0.33051
+$id$Field_8_3_0_33051_000<32>
+$relation$Field_8_3_0_33051_001<u16>
+Field_8_3_0_33051_002<u16>
+Field_8_3_0_33051_003<u32>
