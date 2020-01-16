@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+float Field_8_3_0_33073_000?
+float Field_8_3_0_33073_001?
+float Field_8_3_0_33073_002?
+float Field_8_3_0_33073_003?
+float Field_8_3_0_33073_004?
+float Field_8_3_0_33073_005?
+float Field_8_3_0_33073_006?
+float Field_8_3_0_33073_007?
+float Field_8_3_0_33073_008?
+
+LAYOUT 955F5B02
+BUILD 8.3.0.33073
+$noninline,id$ID<32>
+Field_8_3_0_33073_000
+Field_8_3_0_33073_001
+Field_8_3_0_33073_002
+Field_8_3_0_33073_003
+Field_8_3_0_33073_004
+Field_8_3_0_33073_005
+Field_8_3_0_33073_006
+Field_8_3_0_33073_007
+Field_8_3_0_33073_008
