@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+string Field_8_3_0_33115_000?
+string Field_8_3_0_33115_001?
+int Field_8_3_0_33115_002?
+int Field_8_3_0_33115_003?
+
+LAYOUT A76EF553
+BUILD 8.3.0.33115
+$noninline,id$ID<32>
+Field_8_3_0_33115_000
+Field_8_3_0_33115_001
+Field_8_3_0_33115_002<u8>
+Field_8_3_0_33115_003<u8>
