@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+string Field_8_3_0_33169_000?
+int Field_8_3_0_33169_001?
+
+LAYOUT CE63393A
+BUILD 8.3.0.33169
+$noninline,id$ID<32>
+Field_8_3_0_33169_000
+Field_8_3_0_33169_001<8>
