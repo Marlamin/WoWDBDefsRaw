@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_1_13_3_33155_000?
+int Field_1_13_3_33155_001?
+int Field_1_13_3_33155_002?
+float Field_1_13_3_33155_003?
+int Field_1_13_3_33155_004?
+int Field_1_13_3_33155_005?
+
+LAYOUT 93A1FAA6
+BUILD 1.13.3.33155
+$noninline,id$ID<32>
+Field_1_13_3_33155_000<u8>
+Field_1_13_3_33155_001<u8>
+Field_1_13_3_33155_002<32>
+Field_1_13_3_33155_003
+Field_1_13_3_33155_004<u8>
+$noninline,relation$Field_1_13_3_33155_005<u16>
