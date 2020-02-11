@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int Field_1_13_3_33302_000?
+int Field_1_13_3_33302_001?
+int Field_1_13_3_33302_002?
+
+LAYOUT BCE902DB
+BUILD 1.13.3.33302
+$noninline,id$ID<32>
+Field_1_13_3_33302_000<u16>
+Field_1_13_3_33302_001<32>
+Field_1_13_3_33302_002<u16>
