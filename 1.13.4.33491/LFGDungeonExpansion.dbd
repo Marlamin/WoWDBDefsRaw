@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+int Field_1_13_4_33491_000?
+int Field_1_13_4_33491_001?
+int Field_1_13_4_33491_002?
+int Field_1_13_4_33491_003?
+int Field_1_13_4_33491_004?
+int Field_1_13_4_33491_005?
+int Field_1_13_4_33491_006?
+
+LAYOUT 6754EDAB
+BUILD 1.13.4.33491
+$noninline,id$ID<32>
+Field_1_13_4_33491_000<u8>
+Field_1_13_4_33491_001<u16>
+Field_1_13_4_33491_002<u8>
+Field_1_13_4_33491_003<u8>
+Field_1_13_4_33491_004<32>
+Field_1_13_4_33491_005<32>
+$noninline,relation$Field_1_13_4_33491_006<u16>
