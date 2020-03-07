@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+locstring Field_8_3_0_32203_000_lang?
+int Field_8_3_0_32203_001?
+int Field_8_3_0_32203_002?
+int Field_8_3_0_32203_003?
+int Field_8_3_0_32203_004?
+
+LAYOUT 3793DB10
+BUILD 8.3.0.32203
+$noninline,id$ID<32>
+Field_8_3_0_32203_000_lang
+Field_8_3_0_32203_001<u8>
+Field_8_3_0_32203_002<u8>
+Field_8_3_0_32203_003<u32>
+$noninline,relation$Field_8_3_0_32203_004<u16>
