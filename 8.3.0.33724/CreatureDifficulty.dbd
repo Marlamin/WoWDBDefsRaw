@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+int Field_8_3_0_33724_000?
+int Field_8_3_0_33724_001?
+int Field_8_3_0_33724_002?
+int Field_8_3_0_33724_003?
+int Field_8_3_0_33724_004?
+int Field_8_3_0_33724_005?
+int Field_8_3_0_33724_006?
+
+LAYOUT A7D21F05
+BUILD 8.3.0.33724
+$noninline,id$ID<32>
+Field_8_3_0_33724_000<8>
+Field_8_3_0_33724_001<8>
+Field_8_3_0_33724_002<8>
+Field_8_3_0_33724_003<u16>
+Field_8_3_0_33724_004<32>
+Field_8_3_0_33724_005<32>[7]
+$noninline,relation$Field_8_3_0_33724_006<32>
