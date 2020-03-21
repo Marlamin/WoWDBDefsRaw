@@ -1,0 +1,12 @@
+COLUMNS
+locstring Field_8_3_0_33775_000_lang?
+locstring Field_8_3_0_33775_001_lang?
+int Field_8_3_0_33775_002?
+int Field_8_3_0_33775_003?
+
+LAYOUT 6A1F8517
+BUILD 8.3.0.33775
+Field_8_3_0_33775_000_lang
+Field_8_3_0_33775_001_lang
+$id$Field_8_3_0_33775_002<32>
+Field_8_3_0_33775_003<32>
