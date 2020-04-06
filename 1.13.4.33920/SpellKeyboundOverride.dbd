@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+string Field_1_13_4_33920_000?
+int Field_1_13_4_33920_001?
+int Field_1_13_4_33920_002?
+
+LAYOUT FB8AD330
+BUILD 1.13.4.33920
+$noninline,id$ID<32>
+Field_1_13_4_33920_000
+Field_1_13_4_33920_001<8>
+Field_1_13_4_33920_002<32>
