@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_9_0_1_34137_000?
+int Field_9_0_1_34137_001?
+int Field_9_0_1_34137_002?
+float Field_9_0_1_34137_003?
+
+LAYOUT CB5833EB
+BUILD 9.0.1.34137
+$noninline,id$ID<32>
+Field_9_0_1_34137_000<u8>
+Field_9_0_1_34137_001<u8>
+Field_9_0_1_34137_002<u16>
+Field_9_0_1_34137_003
