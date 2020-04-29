@@ -1,0 +1,34 @@
+COLUMNS
+int ID
+locstring Field_9_0_1_34199_000_lang?
+locstring Field_9_0_1_34199_001_lang?
+int Field_9_0_1_34199_002?
+int Field_9_0_1_34199_003?
+int Field_9_0_1_34199_004?
+int Field_9_0_1_34199_005?
+int Field_9_0_1_34199_006?
+int Field_9_0_1_34199_007?
+int Field_9_0_1_34199_008?
+int Field_9_0_1_34199_009?
+int Field_9_0_1_34199_010?
+int Field_9_0_1_34199_011?
+int Field_9_0_1_34199_012?
+int Field_9_0_1_34199_013?
+
+LAYOUT D3114D3D
+BUILD 9.0.1.34199
+$noninline,id$ID<32>
+Field_9_0_1_34199_000_lang
+Field_9_0_1_34199_001_lang
+Field_9_0_1_34199_002<u8>
+Field_9_0_1_34199_003<8>
+Field_9_0_1_34199_004<u16>
+Field_9_0_1_34199_005<u32>
+Field_9_0_1_34199_006<u16>
+Field_9_0_1_34199_007<32>
+Field_9_0_1_34199_008<u16>
+Field_9_0_1_34199_009<u8>
+Field_9_0_1_34199_010<u16>
+Field_9_0_1_34199_011<u8>
+Field_9_0_1_34199_012<u8>
+Field_9_0_1_34199_013<32>
