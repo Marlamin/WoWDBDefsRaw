@@ -1,0 +1,22 @@
+COLUMNS
+int ID
+locstring Field_8_3_0_34220_000_lang?
+locstring Field_8_3_0_34220_001_lang?
+int Field_8_3_0_34220_002?
+int Field_8_3_0_34220_003?
+int Field_8_3_0_34220_004?
+int Field_8_3_0_34220_005?
+int Field_8_3_0_34220_006?
+int Field_8_3_0_34220_007?
+
+LAYOUT DBFEB4D2
+BUILD 8.3.0.34220
+$noninline,id$ID<32>
+Field_8_3_0_34220_000_lang
+Field_8_3_0_34220_001_lang
+Field_8_3_0_34220_002<32>
+Field_8_3_0_34220_003<u8>
+Field_8_3_0_34220_004<32>
+Field_8_3_0_34220_005<32>
+Field_8_3_0_34220_006<32>
+Field_8_3_0_34220_007<32>
