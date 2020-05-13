@@ -1,0 +1,98 @@
+COLUMNS
+string Field_9_0_1_34365_000?
+string Field_9_0_1_34365_001?
+locstring Field_9_0_1_34365_002_lang?
+locstring Field_9_0_1_34365_003_lang?
+locstring Field_9_0_1_34365_004_lang?
+locstring Field_9_0_1_34365_005_lang?
+locstring Field_9_0_1_34365_006_lang?
+locstring Field_9_0_1_34365_007_lang?
+locstring Field_9_0_1_34365_008_lang?
+locstring Field_9_0_1_34365_009_lang?
+locstring Field_9_0_1_34365_010_lang?
+locstring Field_9_0_1_34365_011_lang?
+locstring Field_9_0_1_34365_012_lang?
+locstring Field_9_0_1_34365_013_lang?
+locstring Field_9_0_1_34365_014_lang?
+int Field_9_0_1_34365_015?
+int Field_9_0_1_34365_016?
+int Field_9_0_1_34365_017?
+int Field_9_0_1_34365_018?
+int Field_9_0_1_34365_019?
+int Field_9_0_1_34365_020?
+int Field_9_0_1_34365_021?
+int Field_9_0_1_34365_022?
+int Field_9_0_1_34365_023?
+int Field_9_0_1_34365_024?
+int Field_9_0_1_34365_025?
+int Field_9_0_1_34365_026?
+int Field_9_0_1_34365_027?
+int Field_9_0_1_34365_028?
+int Field_9_0_1_34365_029?
+int Field_9_0_1_34365_030?
+int Field_9_0_1_34365_031?
+int Field_9_0_1_34365_032?
+int Field_9_0_1_34365_033?
+int Field_9_0_1_34365_034?
+int Field_9_0_1_34365_035?
+int Field_9_0_1_34365_036?
+int Field_9_0_1_34365_037?
+int Field_9_0_1_34365_038?
+int Field_9_0_1_34365_039?
+int Field_9_0_1_34365_040?
+int Field_9_0_1_34365_041?
+int Field_9_0_1_34365_042?
+int Field_9_0_1_34365_043?
+int Field_9_0_1_34365_044?
+int Field_9_0_1_34365_045?
+int Field_9_0_1_34365_046?
+
+LAYOUT 6692653E
+BUILD 9.0.1.34365
+Field_9_0_1_34365_000
+Field_9_0_1_34365_001
+Field_9_0_1_34365_002_lang
+Field_9_0_1_34365_003_lang
+Field_9_0_1_34365_004_lang
+Field_9_0_1_34365_005_lang
+Field_9_0_1_34365_006_lang
+Field_9_0_1_34365_007_lang
+Field_9_0_1_34365_008_lang
+Field_9_0_1_34365_009_lang
+Field_9_0_1_34365_010_lang
+Field_9_0_1_34365_011_lang
+Field_9_0_1_34365_012_lang
+Field_9_0_1_34365_013_lang
+Field_9_0_1_34365_014_lang
+$id$Field_9_0_1_34365_015<32>
+Field_9_0_1_34365_016<32>
+Field_9_0_1_34365_017<32>
+Field_9_0_1_34365_018<32>
+Field_9_0_1_34365_019<32>
+Field_9_0_1_34365_020<u32>[3]
+Field_9_0_1_34365_021<u32>[3]
+Field_9_0_1_34365_022<32>
+Field_9_0_1_34365_023<32>
+Field_9_0_1_34365_024<32>
+Field_9_0_1_34365_025<32>
+Field_9_0_1_34365_026<32>
+Field_9_0_1_34365_027<32>
+Field_9_0_1_34365_028<16>
+Field_9_0_1_34365_029<16>
+Field_9_0_1_34365_030<16>
+Field_9_0_1_34365_031<16>
+Field_9_0_1_34365_032<8>
+Field_9_0_1_34365_033<8>
+Field_9_0_1_34365_034<8>
+Field_9_0_1_34365_035<8>
+Field_9_0_1_34365_036<8>
+Field_9_0_1_34365_037<8>
+Field_9_0_1_34365_038<8>
+Field_9_0_1_34365_039<8>
+Field_9_0_1_34365_040<8>
+Field_9_0_1_34365_041<8>
+Field_9_0_1_34365_042<8>
+Field_9_0_1_34365_043<8>
+Field_9_0_1_34365_044<8>
+Field_9_0_1_34365_045<8>
+Field_9_0_1_34365_046<8>
