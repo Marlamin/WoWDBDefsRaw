@@ -1,0 +1,14 @@
+COLUMNS
+int Field_8_3_0_34601_000?
+float Field_8_3_0_34601_001?
+float Field_8_3_0_34601_002?
+float Field_8_3_0_34601_003?
+float Field_8_3_0_34601_004?
+
+LAYOUT 20BC890C
+BUILD 8.3.0.34601
+$id$Field_8_3_0_34601_000<32>
+Field_8_3_0_34601_001
+Field_8_3_0_34601_002
+Field_8_3_0_34601_003
+Field_8_3_0_34601_004
