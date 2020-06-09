@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_1_13_5_34713_000?
+int Field_1_13_5_34713_001?
+int Field_1_13_5_34713_002?
+int Field_1_13_5_34713_003?
+
+LAYOUT EB0764D1
+BUILD 1.13.5.34713
+$noninline,id$ID<32>
+Field_1_13_5_34713_000<u16>
+Field_1_13_5_34713_001<32>
+Field_1_13_5_34713_002<u32>
+Field_1_13_5_34713_003<u8>

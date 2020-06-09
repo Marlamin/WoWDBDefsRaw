@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+int Field_1_13_5_34713_000?
+int Field_1_13_5_34713_001?
+int Field_1_13_5_34713_002?
+int Field_1_13_5_34713_003?
+int Field_1_13_5_34713_004?
+float Field_1_13_5_34713_005?
+float Field_1_13_5_34713_006?
+int Field_1_13_5_34713_007?
+int Field_1_13_5_34713_008?
+
+LAYOUT AFF6429A
+BUILD 1.13.5.34713
+$noninline,id$ID<32>
+Field_1_13_5_34713_000<u8>
+Field_1_13_5_34713_001<u16>
+Field_1_13_5_34713_002<u16>
+Field_1_13_5_34713_003<u16>
+Field_1_13_5_34713_004<u16>
+Field_1_13_5_34713_005
+Field_1_13_5_34713_006
+Field_1_13_5_34713_007<32>
+$noninline,relation$Field_1_13_5_34713_008<32>

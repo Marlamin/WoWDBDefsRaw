@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+int Field_1_13_5_34713_000?
+int Field_1_13_5_34713_001?
+int Field_1_13_5_34713_002?
+int Field_1_13_5_34713_003?
+float Field_1_13_5_34713_004?
+float Field_1_13_5_34713_005?
+float Field_1_13_5_34713_006?
+
+LAYOUT DD1DD903
+BUILD 1.13.5.34713
+$noninline,id$ID<32>
+Field_1_13_5_34713_000<u32>
+Field_1_13_5_34713_001<u32>
+Field_1_13_5_34713_002<u32>
+Field_1_13_5_34713_003<u32>
+Field_1_13_5_34713_004
+Field_1_13_5_34713_005
+Field_1_13_5_34713_006
