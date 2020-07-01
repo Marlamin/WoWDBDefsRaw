@@ -1,0 +1,10 @@
+COLUMNS
+int Field_9_0_1_34972_000?
+int Field_9_0_1_34972_001?
+int Field_9_0_1_34972_002?
+
+LAYOUT CA3A84D6
+BUILD 9.0.1.34972
+$id$Field_9_0_1_34972_000<32>
+Field_9_0_1_34972_001<32>
+$noninline,relation$Field_9_0_1_34972_002<32>
