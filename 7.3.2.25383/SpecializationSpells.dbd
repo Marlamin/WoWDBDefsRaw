@@ -1,10 +1,10 @@
 COLUMNS
-int Field_7_3_2_25383_000
-int Field_7_3_2_25383_001
-locstring Field_7_3_2_25383_002_lang
-int Field_7_3_2_25383_003
-int Field_7_3_2_25383_004
-int Field_7_3_2_25383_005
+int Field_7_3_2_25383_000?
+int Field_7_3_2_25383_001?
+locstring Field_7_3_2_25383_002_lang?
+int Field_7_3_2_25383_003?
+int Field_7_3_2_25383_004?
+int Field_7_3_2_25383_005?
 
 LAYOUT 2E72326F
 BUILD 7.3.2.25383

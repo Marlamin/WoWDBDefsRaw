@@ -1,7 +1,7 @@
 COLUMNS
 int ID
-string Field_7_3_2_25516_000
-int Field_7_3_2_25516_001
+string Field_7_3_2_25516_000?
+int Field_7_3_2_25516_001?
 
 LAYOUT B708BB37
 BUILD 7.3.2.25516

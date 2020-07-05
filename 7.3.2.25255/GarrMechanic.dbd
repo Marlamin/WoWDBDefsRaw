@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-float Field_7_3_2_25255_000
-int Field_7_3_2_25255_001
-int Field_7_3_2_25255_002
+float Field_7_3_2_25255_000?
+int Field_7_3_2_25255_001?
+int Field_7_3_2_25255_002?
 
 LAYOUT AB49DA61
 BUILD 7.3.2.25255

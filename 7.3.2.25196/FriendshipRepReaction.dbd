@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-locstring Field_7_3_2_25196_000_lang
-int Field_7_3_2_25196_001
-int Field_7_3_2_25196_002
+locstring Field_7_3_2_25196_000_lang?
+int Field_7_3_2_25196_001?
+int Field_7_3_2_25196_002?
 
 LAYOUT 9C412E5B
 BUILD 7.3.2.25196

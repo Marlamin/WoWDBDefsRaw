@@ -1,9 +1,9 @@
 COLUMNS
 int ID
-int Field_7_3_2_25255_000
-int Field_7_3_2_25255_001
-int Field_7_3_2_25255_002
-int Field_7_3_2_25255_003
+int Field_7_3_2_25255_000?
+int Field_7_3_2_25255_001?
+int Field_7_3_2_25255_002?
+int Field_7_3_2_25255_003?
 
 LAYOUT 03182786
 BUILD 7.3.2.25255

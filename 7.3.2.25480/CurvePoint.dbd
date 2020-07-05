@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-float Field_7_3_2_25480_000
-int Field_7_3_2_25480_001
-int Field_7_3_2_25480_002
+float Field_7_3_2_25480_000?
+int Field_7_3_2_25480_001?
+int Field_7_3_2_25480_002?
 
 LAYOUT F36752EB
 BUILD 7.3.2.25480

@@ -1,14 +1,14 @@
 COLUMNS
-int Field_7_3_2_25480_000
-locstring Field_7_3_2_25480_001_lang
-int Field_7_3_2_25480_002
-int Field_7_3_2_25480_003
-int Field_7_3_2_25480_004
-int Field_7_3_2_25480_005
-int Field_7_3_2_25480_006
-int Field_7_3_2_25480_007
-int Field_7_3_2_25480_008
-int Field_7_3_2_25480_009
+int Field_7_3_2_25480_000?
+locstring Field_7_3_2_25480_001_lang?
+int Field_7_3_2_25480_002?
+int Field_7_3_2_25480_003?
+int Field_7_3_2_25480_004?
+int Field_7_3_2_25480_005?
+int Field_7_3_2_25480_006?
+int Field_7_3_2_25480_007?
+int Field_7_3_2_25480_008?
+int Field_7_3_2_25480_009?
 
 LAYOUT 4DB151B2
 BUILD 7.3.2.25480
@@ -21,4 +21,4 @@ Field_7_3_2_25480_005<u8>
 Field_7_3_2_25480_006<u8>
 Field_7_3_2_25480_007<8>
 Field_7_3_2_25480_008<32>
-$noninline,relation$Field_7_3_2_25480_009<u64>[33]
+$noninline,relation$Field_7_3_2_25480_009<16>

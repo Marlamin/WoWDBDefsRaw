@@ -1,12 +1,12 @@
 COLUMNS
-int Field_7_3_2_25163_000
-float Field_7_3_2_25163_001
-float Field_7_3_2_25163_002
-float Field_7_3_2_25163_003
-locstring Field_7_3_2_25163_004_lang
-float Field_7_3_2_25163_005
-string Field_7_3_2_25163_006
-int Field_7_3_2_25163_007
+int Field_7_3_2_25163_000?
+float Field_7_3_2_25163_001?
+float Field_7_3_2_25163_002?
+float Field_7_3_2_25163_003?
+locstring Field_7_3_2_25163_004_lang?
+float Field_7_3_2_25163_005?
+string Field_7_3_2_25163_006?
+int Field_7_3_2_25163_007?
 
 LAYOUT 6A883A15
 BUILD 7.3.2.25163

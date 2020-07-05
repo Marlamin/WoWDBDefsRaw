@@ -1,9 +1,9 @@
 COLUMNS
 int ID
-float Field_7_3_2_25497_000
-float Field_7_3_2_25497_001
-int Field_7_3_2_25497_002
-int Field_7_3_2_25497_003
+float Field_7_3_2_25497_000?
+float Field_7_3_2_25497_001?
+int Field_7_3_2_25497_002?
+int Field_7_3_2_25497_003?
 
 LAYOUT 9FB4704E
 BUILD 7.3.2.25497

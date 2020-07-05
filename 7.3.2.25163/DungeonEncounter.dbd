@@ -1,13 +1,13 @@
 COLUMNS
-locstring Field_7_3_2_25163_000_lang
-int Field_7_3_2_25163_001
-int Field_7_3_2_25163_002
-int Field_7_3_2_25163_003
-int Field_7_3_2_25163_004
-int Field_7_3_2_25163_005
-int Field_7_3_2_25163_006
-int Field_7_3_2_25163_007
-int Field_7_3_2_25163_008
+locstring Field_7_3_2_25163_000_lang?
+int Field_7_3_2_25163_001?
+int Field_7_3_2_25163_002?
+int Field_7_3_2_25163_003?
+int Field_7_3_2_25163_004?
+int Field_7_3_2_25163_005?
+int Field_7_3_2_25163_006?
+int Field_7_3_2_25163_007?
+int Field_7_3_2_25163_008?
 
 LAYOUT B04A2596
 BUILD 7.3.2.25163

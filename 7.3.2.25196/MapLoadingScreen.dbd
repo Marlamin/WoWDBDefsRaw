@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-float Field_7_3_2_25196_000
-float Field_7_3_2_25196_001
-int Field_7_3_2_25196_002
-int Field_7_3_2_25196_003
-int Field_7_3_2_25196_004
+float Field_7_3_2_25196_000?
+float Field_7_3_2_25196_001?
+int Field_7_3_2_25196_002?
+int Field_7_3_2_25196_003?
+int Field_7_3_2_25196_004?
 
 LAYOUT B7D5DEDE
 BUILD 7.3.2.25196

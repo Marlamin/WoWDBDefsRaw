@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-string Field_7_3_2_25516_000
-int Field_7_3_2_25516_001
-int Field_7_3_2_25516_002
-int Field_7_3_2_25516_003
-int Field_7_3_2_25516_004
+string Field_7_3_2_25516_000?
+int Field_7_3_2_25516_001?
+int Field_7_3_2_25516_002?
+int Field_7_3_2_25516_003?
+int Field_7_3_2_25516_004?
 
 LAYOUT BE044710
 BUILD 7.3.2.25516

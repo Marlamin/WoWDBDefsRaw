@@ -1,17 +1,17 @@
 COLUMNS
-int Field_7_3_2_25480_000
-string Field_7_3_2_25480_001
-int Field_7_3_2_25480_002
-int Field_7_3_2_25480_003
-int Field_7_3_2_25480_004
-int Field_7_3_2_25480_005
-int Field_7_3_2_25480_006
-int Field_7_3_2_25480_007
-int Field_7_3_2_25480_008
-int Field_7_3_2_25480_009
-int Field_7_3_2_25480_010
-int Field_7_3_2_25480_011
-int Field_7_3_2_25480_012
+int Field_7_3_2_25480_000?
+string Field_7_3_2_25480_001?
+int Field_7_3_2_25480_002?
+int Field_7_3_2_25480_003?
+int Field_7_3_2_25480_004?
+int Field_7_3_2_25480_005?
+int Field_7_3_2_25480_006?
+int Field_7_3_2_25480_007?
+int Field_7_3_2_25480_008?
+int Field_7_3_2_25480_009?
+int Field_7_3_2_25480_010?
+int Field_7_3_2_25480_011?
+int Field_7_3_2_25480_012?
 
 LAYOUT 0D2DACAF
 BUILD 7.3.2.25480
@@ -27,4 +27,4 @@ Field_7_3_2_25480_008<32>
 Field_7_3_2_25480_009<32>
 Field_7_3_2_25480_010<32>
 Field_7_3_2_25480_011<32>
-$noninline,relation$Field_7_3_2_25480_012<64>[56]
+$noninline,relation$Field_7_3_2_25480_012<32>

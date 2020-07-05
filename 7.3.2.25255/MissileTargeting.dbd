@@ -1,17 +1,17 @@
 COLUMNS
 int ID
-float Field_7_3_2_25255_000
-float Field_7_3_2_25255_001
-float Field_7_3_2_25255_002
-float Field_7_3_2_25255_003
-float Field_7_3_2_25255_004
-float Field_7_3_2_25255_005
-float Field_7_3_2_25255_006
-float Field_7_3_2_25255_007
-float Field_7_3_2_25255_008
-int Field_7_3_2_25255_009
-int Field_7_3_2_25255_010
-int Field_7_3_2_25255_011
+float Field_7_3_2_25255_000?
+float Field_7_3_2_25255_001?
+float Field_7_3_2_25255_002?
+float Field_7_3_2_25255_003?
+float Field_7_3_2_25255_004?
+float Field_7_3_2_25255_005?
+float Field_7_3_2_25255_006?
+float Field_7_3_2_25255_007?
+float Field_7_3_2_25255_008?
+int Field_7_3_2_25255_009?
+int Field_7_3_2_25255_010?
+int Field_7_3_2_25255_011?
 
 LAYOUT AD7FCC9A
 BUILD 7.3.2.25255

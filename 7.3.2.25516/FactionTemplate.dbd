@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int Field_7_3_2_25516_000
-int Field_7_3_2_25516_001
-int Field_7_3_2_25516_002
-int Field_7_3_2_25516_003
-int Field_7_3_2_25516_004
-int Field_7_3_2_25516_005
-int Field_7_3_2_25516_006
+int Field_7_3_2_25516_000?
+int Field_7_3_2_25516_001?
+int Field_7_3_2_25516_002?
+int Field_7_3_2_25516_003?
+int Field_7_3_2_25516_004?
+int Field_7_3_2_25516_005?
+int Field_7_3_2_25516_006?
 
 LAYOUT 6F1D2135
 BUILD 7.3.2.25516

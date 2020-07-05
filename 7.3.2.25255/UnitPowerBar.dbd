@@ -1,21 +1,21 @@
 COLUMNS
 int ID
-float Field_7_3_2_25255_000
-float Field_7_3_2_25255_001
-int Field_7_3_2_25255_002
-int Field_7_3_2_25255_003
-locstring Field_7_3_2_25255_004_lang
-locstring Field_7_3_2_25255_005_lang
-locstring Field_7_3_2_25255_006_lang
-locstring Field_7_3_2_25255_007_lang
-float Field_7_3_2_25255_008
-float Field_7_3_2_25255_009
-int Field_7_3_2_25255_010
-int Field_7_3_2_25255_011
-int Field_7_3_2_25255_012
-int Field_7_3_2_25255_013
-int Field_7_3_2_25255_014
-int Field_7_3_2_25255_015
+float Field_7_3_2_25255_000?
+float Field_7_3_2_25255_001?
+int Field_7_3_2_25255_002?
+int Field_7_3_2_25255_003?
+locstring Field_7_3_2_25255_004_lang?
+locstring Field_7_3_2_25255_005_lang?
+locstring Field_7_3_2_25255_006_lang?
+locstring Field_7_3_2_25255_007_lang?
+float Field_7_3_2_25255_008?
+float Field_7_3_2_25255_009?
+int Field_7_3_2_25255_010?
+int Field_7_3_2_25255_011?
+int Field_7_3_2_25255_012?
+int Field_7_3_2_25255_013?
+int Field_7_3_2_25255_014?
+int Field_7_3_2_25255_015?
 
 LAYOUT 3D064961
 BUILD 7.3.2.25255

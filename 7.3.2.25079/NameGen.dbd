@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-string Field_7_3_2_25079_000
-int Field_7_3_2_25079_001
-int Field_7_3_2_25079_002
+string Field_7_3_2_25079_000?
+int Field_7_3_2_25079_001?
+int Field_7_3_2_25079_002?
 
 LAYOUT 2EF936CD
 BUILD 7.3.2.25079

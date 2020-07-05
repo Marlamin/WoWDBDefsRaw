@@ -1,9 +1,9 @@
 COLUMNS
 int ID
-int Field_7_3_2_25163_000
-int Field_7_3_2_25163_001
-int Field_7_3_2_25163_002
-int Field_7_3_2_25163_003
+int Field_7_3_2_25163_000?
+int Field_7_3_2_25163_001?
+int Field_7_3_2_25163_002?
+int Field_7_3_2_25163_003?
 
 LAYOUT A461C24D
 BUILD 7.3.2.25163

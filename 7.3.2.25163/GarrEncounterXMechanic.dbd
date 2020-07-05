@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-int Field_7_3_2_25163_000
-int Field_7_3_2_25163_001
-int Field_7_3_2_25163_002
+int Field_7_3_2_25163_000?
+int Field_7_3_2_25163_001?
+int Field_7_3_2_25163_002?
 
 LAYOUT 3617EB8F
 BUILD 7.3.2.25163

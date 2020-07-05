@@ -1,17 +1,17 @@
 COLUMNS
 int ID
-string Field_7_3_2_25255_000
-int Field_7_3_2_25255_001
-int Field_7_3_2_25255_002
-int Field_7_3_2_25255_003
-int Field_7_3_2_25255_004
-int Field_7_3_2_25255_005
-int Field_7_3_2_25255_006
-int Field_7_3_2_25255_007
-int Field_7_3_2_25255_008
-int Field_7_3_2_25255_009
-int Field_7_3_2_25255_010
-int Field_7_3_2_25255_011
+string Field_7_3_2_25255_000?
+int Field_7_3_2_25255_001?
+int Field_7_3_2_25255_002?
+int Field_7_3_2_25255_003?
+int Field_7_3_2_25255_004?
+int Field_7_3_2_25255_005?
+int Field_7_3_2_25255_006?
+int Field_7_3_2_25255_007?
+int Field_7_3_2_25255_008?
+int Field_7_3_2_25255_009?
+int Field_7_3_2_25255_010?
+int Field_7_3_2_25255_011?
 
 LAYOUT 4D5B91C5
 BUILD 7.3.2.25255

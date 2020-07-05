@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-float Field_7_3_2_25079_000
-int Field_7_3_2_25079_001
-int Field_7_3_2_25079_002
-int Field_7_3_2_25079_003
-int Field_7_3_2_25079_004
+float Field_7_3_2_25079_000?
+int Field_7_3_2_25079_001?
+int Field_7_3_2_25079_002?
+int Field_7_3_2_25079_003?
+int Field_7_3_2_25079_004?
 
 LAYOUT 35F5AE92
 BUILD 7.3.2.25079

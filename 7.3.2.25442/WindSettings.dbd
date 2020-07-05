@@ -1,15 +1,15 @@
 COLUMNS
 int ID
-float Field_7_3_2_25442_000
-float Field_7_3_2_25442_001
-float Field_7_3_2_25442_002
-float Field_7_3_2_25442_003
-float Field_7_3_2_25442_004
-float Field_7_3_2_25442_005
-float Field_7_3_2_25442_006
-float Field_7_3_2_25442_007
-float Field_7_3_2_25442_008
-int Field_7_3_2_25442_009
+float Field_7_3_2_25442_000?
+float Field_7_3_2_25442_001?
+float Field_7_3_2_25442_002?
+float Field_7_3_2_25442_003?
+float Field_7_3_2_25442_004?
+float Field_7_3_2_25442_005?
+float Field_7_3_2_25442_006?
+float Field_7_3_2_25442_007?
+float Field_7_3_2_25442_008?
+int Field_7_3_2_25442_009?
 
 LAYOUT 5308550C
 BUILD 7.3.2.25442

@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-float Field_7_3_2_25255_000
-float Field_7_3_2_25255_001
-float Field_7_3_2_25255_002
-float Field_7_3_2_25255_003
-float Field_7_3_2_25255_004
+float Field_7_3_2_25255_000?
+float Field_7_3_2_25255_001?
+float Field_7_3_2_25255_002?
+float Field_7_3_2_25255_003?
+float Field_7_3_2_25255_004?
 
 LAYOUT CCFBD16E
 BUILD 7.3.2.25255

@@ -1,7 +1,7 @@
 COLUMNS
 int ID
-float Field_7_3_2_25196_000
-int Field_7_3_2_25196_001
+float Field_7_3_2_25196_000?
+int Field_7_3_2_25196_001?
 
 LAYOUT 4BC1931B
 BUILD 7.3.2.25196

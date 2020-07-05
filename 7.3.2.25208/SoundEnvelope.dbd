@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int Field_7_3_2_25208_000
-int Field_7_3_2_25208_001
-int Field_7_3_2_25208_002
-int Field_7_3_2_25208_003
-int Field_7_3_2_25208_004
-int Field_7_3_2_25208_005
-int Field_7_3_2_25208_006
+int Field_7_3_2_25208_000?
+int Field_7_3_2_25208_001?
+int Field_7_3_2_25208_002?
+int Field_7_3_2_25208_003?
+int Field_7_3_2_25208_004?
+int Field_7_3_2_25208_005?
+int Field_7_3_2_25208_006?
 
 LAYOUT 5B78031C
 BUILD 7.3.2.25208

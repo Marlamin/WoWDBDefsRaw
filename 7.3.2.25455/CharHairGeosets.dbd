@@ -1,15 +1,15 @@
 COLUMNS
 int ID
-int Field_7_3_2_25455_000
-int Field_7_3_2_25455_001
-int Field_7_3_2_25455_002
-int Field_7_3_2_25455_003
-int Field_7_3_2_25455_004
-int Field_7_3_2_25455_005
-int Field_7_3_2_25455_006
-int Field_7_3_2_25455_007
-int Field_7_3_2_25455_008
-int Field_7_3_2_25455_009
+int Field_7_3_2_25455_000?
+int Field_7_3_2_25455_001?
+int Field_7_3_2_25455_002?
+int Field_7_3_2_25455_003?
+int Field_7_3_2_25455_004?
+int Field_7_3_2_25455_005?
+int Field_7_3_2_25455_006?
+int Field_7_3_2_25455_007?
+int Field_7_3_2_25455_008?
+int Field_7_3_2_25455_009?
 
 LAYOUT 33EB32D2
 BUILD 7.3.2.25455

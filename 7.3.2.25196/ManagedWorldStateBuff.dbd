@@ -1,9 +1,9 @@
 COLUMNS
 int ID
-int Field_7_3_2_25196_000
-int Field_7_3_2_25196_001
-int Field_7_3_2_25196_002
-int Field_7_3_2_25196_003
+int Field_7_3_2_25196_000?
+int Field_7_3_2_25196_001?
+int Field_7_3_2_25196_002?
+int Field_7_3_2_25196_003?
 
 LAYOUT 8649A3CF
 BUILD 7.3.2.25196

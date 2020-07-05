@@ -1,15 +1,15 @@
 COLUMNS
 int ID
-locstring Field_7_3_2_25326_000_lang
-locstring Field_7_3_2_25326_001_lang
-int Field_7_3_2_25326_002
-int Field_7_3_2_25326_003
-int Field_7_3_2_25326_004
-int Field_7_3_2_25326_005
-int Field_7_3_2_25326_006
-int Field_7_3_2_25326_007
-int Field_7_3_2_25326_008
-int Field_7_3_2_25326_009
+locstring Field_7_3_2_25326_000_lang?
+locstring Field_7_3_2_25326_001_lang?
+int Field_7_3_2_25326_002?
+int Field_7_3_2_25326_003?
+int Field_7_3_2_25326_004?
+int Field_7_3_2_25326_005?
+int Field_7_3_2_25326_006?
+int Field_7_3_2_25326_007?
+int Field_7_3_2_25326_008?
+int Field_7_3_2_25326_009?
 
 LAYOUT DAD92A67
 BUILD 7.3.2.25326

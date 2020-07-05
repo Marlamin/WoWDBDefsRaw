@@ -1,19 +1,19 @@
 COLUMNS
 int ID
-float Field_7_3_2_25480_000
-float Field_7_3_2_25480_001
-float Field_7_3_2_25480_002
-float Field_7_3_2_25480_003
-float Field_7_3_2_25480_004
-float Field_7_3_2_25480_005
-float Field_7_3_2_25480_006
-float Field_7_3_2_25480_007
-int Field_7_3_2_25480_008
-int Field_7_3_2_25480_009
-int Field_7_3_2_25480_010
-int Field_7_3_2_25480_011
-int Field_7_3_2_25480_012
-int Field_7_3_2_25480_013
+float Field_7_3_2_25480_000?
+float Field_7_3_2_25480_001?
+float Field_7_3_2_25480_002?
+float Field_7_3_2_25480_003?
+float Field_7_3_2_25480_004?
+float Field_7_3_2_25480_005?
+float Field_7_3_2_25480_006?
+float Field_7_3_2_25480_007?
+int Field_7_3_2_25480_008?
+int Field_7_3_2_25480_009?
+int Field_7_3_2_25480_010?
+int Field_7_3_2_25480_011?
+int Field_7_3_2_25480_012?
+int Field_7_3_2_25480_013?
 
 LAYOUT 7C160B07
 BUILD 7.3.2.25480

@@ -1,7 +1,7 @@
 COLUMNS
 int ID
-locstring Field_7_3_2_25442_000_lang
-int Field_7_3_2_25442_001
+locstring Field_7_3_2_25442_000_lang?
+int Field_7_3_2_25442_001?
 
 LAYOUT A94645EE
 BUILD 7.3.2.25442

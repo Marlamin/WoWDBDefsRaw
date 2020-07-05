@@ -1,14 +1,14 @@
 COLUMNS
-string Field_7_3_2_25383_000
-float Field_7_3_2_25383_001
-float Field_7_3_2_25383_002
-float Field_7_3_2_25383_003
-float Field_7_3_2_25383_004
-float Field_7_3_2_25383_005
-int Field_7_3_2_25383_006
-int Field_7_3_2_25383_007
-int Field_7_3_2_25383_008
-int Field_7_3_2_25383_009
+string Field_7_3_2_25383_000?
+float Field_7_3_2_25383_001?
+float Field_7_3_2_25383_002?
+float Field_7_3_2_25383_003?
+float Field_7_3_2_25383_004?
+float Field_7_3_2_25383_005?
+int Field_7_3_2_25383_006?
+int Field_7_3_2_25383_007?
+int Field_7_3_2_25383_008?
+int Field_7_3_2_25383_009?
 
 LAYOUT BB10B7E3
 BUILD 7.3.2.25383

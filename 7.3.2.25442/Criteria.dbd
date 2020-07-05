@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-int Field_7_3_2_25442_000
-int Field_7_3_2_25442_001
-int Field_7_3_2_25442_002
-int Field_7_3_2_25442_003
-int Field_7_3_2_25442_004
-int Field_7_3_2_25442_005
-int Field_7_3_2_25442_006
-int Field_7_3_2_25442_007
-int Field_7_3_2_25442_008
-int Field_7_3_2_25442_009
-int Field_7_3_2_25442_010
+int Field_7_3_2_25442_000?
+int Field_7_3_2_25442_001?
+int Field_7_3_2_25442_002?
+int Field_7_3_2_25442_003?
+int Field_7_3_2_25442_004?
+int Field_7_3_2_25442_005?
+int Field_7_3_2_25442_006?
+int Field_7_3_2_25442_007?
+int Field_7_3_2_25442_008?
+int Field_7_3_2_25442_009?
+int Field_7_3_2_25442_010?
 
 LAYOUT A87A5BB9
 BUILD 7.3.2.25442

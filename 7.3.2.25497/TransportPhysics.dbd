@@ -1,15 +1,15 @@
 COLUMNS
 int ID
-float Field_7_3_2_25497_000
-float Field_7_3_2_25497_001
-float Field_7_3_2_25497_002
-float Field_7_3_2_25497_003
-float Field_7_3_2_25497_004
-float Field_7_3_2_25497_005
-float Field_7_3_2_25497_006
-float Field_7_3_2_25497_007
-float Field_7_3_2_25497_008
-float Field_7_3_2_25497_009
+float Field_7_3_2_25497_000?
+float Field_7_3_2_25497_001?
+float Field_7_3_2_25497_002?
+float Field_7_3_2_25497_003?
+float Field_7_3_2_25497_004?
+float Field_7_3_2_25497_005?
+float Field_7_3_2_25497_006?
+float Field_7_3_2_25497_007?
+float Field_7_3_2_25497_008?
+float Field_7_3_2_25497_009?
 
 LAYOUT 2C1FB208
 BUILD 7.3.2.25497

@@ -1,9 +1,9 @@
 COLUMNS
 int ID
-string Field_7_3_2_25516_000
-int Field_7_3_2_25516_001
-int Field_7_3_2_25516_002
-int Field_7_3_2_25516_003
+string Field_7_3_2_25516_000?
+int Field_7_3_2_25516_001?
+int Field_7_3_2_25516_002?
+int Field_7_3_2_25516_003?
 
 LAYOUT 1F8417ED
 BUILD 7.3.2.25516
