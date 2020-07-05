@@ -1,12 +1,12 @@
 COLUMNS
-locstring Field_7_3_0_24887_000_lang
-locstring Field_7_3_0_24887_001_lang
-int Field_7_3_0_24887_002
-int Field_7_3_0_24887_003
-int Field_7_3_0_24887_004
-int Field_7_3_0_24887_005
-int Field_7_3_0_24887_006
-int Field_7_3_0_24887_007
+locstring Field_7_3_0_24887_000_lang?
+locstring Field_7_3_0_24887_001_lang?
+int Field_7_3_0_24887_002?
+int Field_7_3_0_24887_003?
+int Field_7_3_0_24887_004?
+int Field_7_3_0_24887_005?
+int Field_7_3_0_24887_006?
+int Field_7_3_0_24887_007?
 
 LAYOUT 5DF95DBD
 BUILD 7.3.0.24887

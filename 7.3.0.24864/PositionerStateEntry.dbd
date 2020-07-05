@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-float Field_7_3_0_24864_000
-float Field_7_3_0_24864_001
-int Field_7_3_0_24864_002
-int Field_7_3_0_24864_003
-int Field_7_3_0_24864_004
-int Field_7_3_0_24864_005
-int Field_7_3_0_24864_006
-int Field_7_3_0_24864_007
-int Field_7_3_0_24864_008
-int Field_7_3_0_24864_009
-int Field_7_3_0_24864_010
+float Field_7_3_0_24864_000?
+float Field_7_3_0_24864_001?
+int Field_7_3_0_24864_002?
+int Field_7_3_0_24864_003?
+int Field_7_3_0_24864_004?
+int Field_7_3_0_24864_005?
+int Field_7_3_0_24864_006?
+int Field_7_3_0_24864_007?
+int Field_7_3_0_24864_008?
+int Field_7_3_0_24864_009?
+int Field_7_3_0_24864_010?
 
 LAYOUT 667ED965
 BUILD 7.3.0.24864

@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int Field_7_3_0_24727_000
-int Field_7_3_0_24727_001
-int Field_7_3_0_24727_002
-int Field_7_3_0_24727_003
-int Field_7_3_0_24727_004
+int Field_7_3_0_24727_000?
+int Field_7_3_0_24727_001?
+int Field_7_3_0_24727_002?
+int Field_7_3_0_24727_003?
+int Field_7_3_0_24727_004?
 
 LAYOUT 8F3A4137
 BUILD 7.3.0.24727

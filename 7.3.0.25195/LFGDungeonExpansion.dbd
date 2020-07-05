@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int Field_7_3_0_25195_000
-int Field_7_3_0_25195_001
-int Field_7_3_0_25195_002
-int Field_7_3_0_25195_003
-int Field_7_3_0_25195_004
-int Field_7_3_0_25195_005
-int Field_7_3_0_25195_006
+int Field_7_3_0_25195_000?
+int Field_7_3_0_25195_001?
+int Field_7_3_0_25195_002?
+int Field_7_3_0_25195_003?
+int Field_7_3_0_25195_004?
+int Field_7_3_0_25195_005?
+int Field_7_3_0_25195_006?
 
 LAYOUT 190E71CD
 BUILD 7.3.0.25195

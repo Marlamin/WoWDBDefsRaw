@@ -1,11 +1,11 @@
 COLUMNS
 int ID
-int Field_7_3_0_24473_000
-int Field_7_3_0_24473_001
-int Field_7_3_0_24473_002
-int Field_7_3_0_24473_003
-int Field_7_3_0_24473_004
-int Field_7_3_0_24473_005
+int Field_7_3_0_24473_000?
+int Field_7_3_0_24473_001?
+int Field_7_3_0_24473_002?
+int Field_7_3_0_24473_003?
+int Field_7_3_0_24473_004?
+int Field_7_3_0_24473_005?
 
 LAYOUT B8481E58
 BUILD 7.3.0.24473

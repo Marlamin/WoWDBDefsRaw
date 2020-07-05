@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-int Field_7_3_0_24484_000
-int Field_7_3_0_24484_001
-int Field_7_3_0_24484_002
-int Field_7_3_0_24484_003
-int Field_7_3_0_24484_004
-int Field_7_3_0_24484_005
-int Field_7_3_0_24484_006
-int Field_7_3_0_24484_007
-int Field_7_3_0_24484_008
-int Field_7_3_0_24484_009
-int Field_7_3_0_24484_010
-int Field_7_3_0_24484_011
-int Field_7_3_0_24484_012
-int Field_7_3_0_24484_013
-int Field_7_3_0_24484_014
+int Field_7_3_0_24484_000?
+int Field_7_3_0_24484_001?
+int Field_7_3_0_24484_002?
+int Field_7_3_0_24484_003?
+int Field_7_3_0_24484_004?
+int Field_7_3_0_24484_005?
+int Field_7_3_0_24484_006?
+int Field_7_3_0_24484_007?
+int Field_7_3_0_24484_008?
+int Field_7_3_0_24484_009?
+int Field_7_3_0_24484_010?
+int Field_7_3_0_24484_011?
+int Field_7_3_0_24484_012?
+int Field_7_3_0_24484_013?
+int Field_7_3_0_24484_014?
 
 LAYOUT 989BCDC7
 BUILD 7.3.0.24484

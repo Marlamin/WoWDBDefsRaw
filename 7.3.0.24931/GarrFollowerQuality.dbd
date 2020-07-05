@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int Field_7_3_0_24931_000
-int Field_7_3_0_24931_001
-int Field_7_3_0_24931_002
-int Field_7_3_0_24931_003
-int Field_7_3_0_24931_004
-int Field_7_3_0_24931_005
-int Field_7_3_0_24931_006
+int Field_7_3_0_24931_000?
+int Field_7_3_0_24931_001?
+int Field_7_3_0_24931_002?
+int Field_7_3_0_24931_003?
+int Field_7_3_0_24931_004?
+int Field_7_3_0_24931_005?
+int Field_7_3_0_24931_006?
 
 LAYOUT AFF4CF7E
 BUILD 7.3.0.24931

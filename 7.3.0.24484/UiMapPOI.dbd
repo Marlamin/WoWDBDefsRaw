@@ -1,11 +1,11 @@
 COLUMNS
-int Field_7_3_0_24484_000
-float Field_7_3_0_24484_001
-int Field_7_3_0_24484_002
-int Field_7_3_0_24484_003
-int Field_7_3_0_24484_004
-int Field_7_3_0_24484_005
-int Field_7_3_0_24484_006
+int Field_7_3_0_24484_000?
+float Field_7_3_0_24484_001?
+int Field_7_3_0_24484_002?
+int Field_7_3_0_24484_003?
+int Field_7_3_0_24484_004?
+int Field_7_3_0_24484_005?
+int Field_7_3_0_24484_006?
 
 LAYOUT 559E1F11
 BUILD 7.3.0.24484

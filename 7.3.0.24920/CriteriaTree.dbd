@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int Field_7_3_0_24920_000
-locstring Field_7_3_0_24920_001_lang
-int Field_7_3_0_24920_002
-int Field_7_3_0_24920_003
-int Field_7_3_0_24920_004
-int Field_7_3_0_24920_005
-int Field_7_3_0_24920_006
+int Field_7_3_0_24920_000?
+locstring Field_7_3_0_24920_001_lang?
+int Field_7_3_0_24920_002?
+int Field_7_3_0_24920_003?
+int Field_7_3_0_24920_004?
+int Field_7_3_0_24920_005?
+int Field_7_3_0_24920_006?
 
 LAYOUT CEDCC5E4
 BUILD 7.3.0.24920

@@ -1,9 +1,9 @@
 COLUMNS
 int ID
-float Field_7_3_0_24956_000
-locstring Field_7_3_0_24956_001_lang
-int Field_7_3_0_24956_002
-int Field_7_3_0_24956_003
+float Field_7_3_0_24956_000?
+locstring Field_7_3_0_24956_001_lang?
+int Field_7_3_0_24956_002?
+int Field_7_3_0_24956_003?
 
 LAYOUT 5B68FDD8
 BUILD 7.3.0.24956

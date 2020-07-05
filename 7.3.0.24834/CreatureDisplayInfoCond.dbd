@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-int Field_7_3_0_24834_000
-int Field_7_3_0_24834_001
-int Field_7_3_0_24834_002
-int Field_7_3_0_24834_003
-int Field_7_3_0_24834_004
-int Field_7_3_0_24834_005
-int Field_7_3_0_24834_006
-int Field_7_3_0_24834_007
-int Field_7_3_0_24834_008
-int Field_7_3_0_24834_009
-int Field_7_3_0_24834_010
-int Field_7_3_0_24834_011
-int Field_7_3_0_24834_012
-int Field_7_3_0_24834_013
-int Field_7_3_0_24834_014
+int Field_7_3_0_24834_000?
+int Field_7_3_0_24834_001?
+int Field_7_3_0_24834_002?
+int Field_7_3_0_24834_003?
+int Field_7_3_0_24834_004?
+int Field_7_3_0_24834_005?
+int Field_7_3_0_24834_006?
+int Field_7_3_0_24834_007?
+int Field_7_3_0_24834_008?
+int Field_7_3_0_24834_009?
+int Field_7_3_0_24834_010?
+int Field_7_3_0_24834_011?
+int Field_7_3_0_24834_012?
+int Field_7_3_0_24834_013?
+int Field_7_3_0_24834_014?
 
 LAYOUT 223879D9
 BUILD 7.3.0.24834

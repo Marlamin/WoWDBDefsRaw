@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-string Field_7_3_0_25021_000
-int Field_7_3_0_25021_001
-int Field_7_3_0_25021_002
+string Field_7_3_0_25021_000?
+int Field_7_3_0_25021_001?
+int Field_7_3_0_25021_002?
 
 LAYOUT 66B0597E
 BUILD 7.3.0.25021

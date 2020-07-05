@@ -1,11 +1,11 @@
 COLUMNS
-locstring Field_7_3_0_25195_000_lang
-locstring Field_7_3_0_25195_001_lang
-locstring Field_7_3_0_25195_002_lang
-locstring Field_7_3_0_25195_003_lang
-int Field_7_3_0_25195_004
-int Field_7_3_0_25195_005
-int Field_7_3_0_25195_006
+locstring Field_7_3_0_25195_000_lang?
+locstring Field_7_3_0_25195_001_lang?
+locstring Field_7_3_0_25195_002_lang?
+locstring Field_7_3_0_25195_003_lang?
+int Field_7_3_0_25195_004?
+int Field_7_3_0_25195_005?
+int Field_7_3_0_25195_006?
 
 LAYOUT 9BB9B426
 BUILD 7.3.0.25195
@@ -15,4 +15,4 @@ Field_7_3_0_25195_002_lang
 Field_7_3_0_25195_003_lang
 Field_7_3_0_25195_004<32>
 $id$Field_7_3_0_25195_005<32>
-$noninline,relation$Field_7_3_0_25195_006<64>[24]
+$noninline,relation$Field_7_3_0_25195_006<32>

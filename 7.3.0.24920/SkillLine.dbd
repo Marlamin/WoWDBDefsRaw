@@ -1,13 +1,13 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24920_000_lang
-locstring Field_7_3_0_24920_001_lang
-locstring Field_7_3_0_24920_002_lang
-int Field_7_3_0_24920_003
-int Field_7_3_0_24920_004
-int Field_7_3_0_24920_005
-int Field_7_3_0_24920_006
-int Field_7_3_0_24920_007
+locstring Field_7_3_0_24920_000_lang?
+locstring Field_7_3_0_24920_001_lang?
+locstring Field_7_3_0_24920_002_lang?
+int Field_7_3_0_24920_003?
+int Field_7_3_0_24920_004?
+int Field_7_3_0_24920_005?
+int Field_7_3_0_24920_006?
+int Field_7_3_0_24920_007?
 
 LAYOUT 3F7E88AF
 BUILD 7.3.0.24920

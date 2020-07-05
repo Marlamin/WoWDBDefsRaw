@@ -1,18 +1,18 @@
 COLUMNS
-int Field_7_3_0_24793_000
-int Field_7_3_0_24793_001
-float Field_7_3_0_24793_002
-float Field_7_3_0_24793_003
-int Field_7_3_0_24793_004
-float Field_7_3_0_24793_005
-int Field_7_3_0_24793_006
-int Field_7_3_0_24793_007
-int Field_7_3_0_24793_008
-int Field_7_3_0_24793_009
-int Field_7_3_0_24793_010
-int Field_7_3_0_24793_011
-int Field_7_3_0_24793_012
-int Field_7_3_0_24793_013
+int Field_7_3_0_24793_000?
+int Field_7_3_0_24793_001?
+float Field_7_3_0_24793_002?
+float Field_7_3_0_24793_003?
+int Field_7_3_0_24793_004?
+float Field_7_3_0_24793_005?
+int Field_7_3_0_24793_006?
+int Field_7_3_0_24793_007?
+int Field_7_3_0_24793_008?
+int Field_7_3_0_24793_009?
+int Field_7_3_0_24793_010?
+int Field_7_3_0_24793_011?
+int Field_7_3_0_24793_012?
+int Field_7_3_0_24793_013?
 
 LAYOUT A2D2A8CE
 BUILD 7.3.0.24793

@@ -1,6 +1,6 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_25021_000_lang
+locstring Field_7_3_0_25021_000_lang?
 
 LAYOUT 9D852FDC
 BUILD 7.3.0.25021

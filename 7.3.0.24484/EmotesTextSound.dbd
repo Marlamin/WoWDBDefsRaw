@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int Field_7_3_0_24484_000
-int Field_7_3_0_24484_001
-int Field_7_3_0_24484_002
-int Field_7_3_0_24484_003
-int Field_7_3_0_24484_004
+int Field_7_3_0_24484_000?
+int Field_7_3_0_24484_001?
+int Field_7_3_0_24484_002?
+int Field_7_3_0_24484_003?
+int Field_7_3_0_24484_004?
 
 LAYOUT C036C616
 BUILD 7.3.0.24484

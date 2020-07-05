@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-string Field_7_3_0_24539_000
-int Field_7_3_0_24539_001
-int Field_7_3_0_24539_002
+string Field_7_3_0_24539_000?
+int Field_7_3_0_24539_001?
+int Field_7_3_0_24539_002?
 
 LAYOUT 644732AE
 BUILD 7.3.0.24539

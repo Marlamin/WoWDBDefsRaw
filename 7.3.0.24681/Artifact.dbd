@@ -1,15 +1,15 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24681_000_lang
-int Field_7_3_0_24681_001
-int Field_7_3_0_24681_002
-int Field_7_3_0_24681_003
-int Field_7_3_0_24681_004
-int Field_7_3_0_24681_005
-int Field_7_3_0_24681_006
-int Field_7_3_0_24681_007
-int Field_7_3_0_24681_008
-int Field_7_3_0_24681_009
+locstring Field_7_3_0_24681_000_lang?
+int Field_7_3_0_24681_001?
+int Field_7_3_0_24681_002?
+int Field_7_3_0_24681_003?
+int Field_7_3_0_24681_004?
+int Field_7_3_0_24681_005?
+int Field_7_3_0_24681_006?
+int Field_7_3_0_24681_007?
+int Field_7_3_0_24681_008?
+int Field_7_3_0_24681_009?
 
 LAYOUT 76CF31A8
 BUILD 7.3.0.24681

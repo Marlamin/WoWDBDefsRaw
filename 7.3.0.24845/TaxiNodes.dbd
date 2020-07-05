@@ -1,17 +1,17 @@
 COLUMNS
 int ID
-float Field_7_3_0_24845_000
-locstring Field_7_3_0_24845_001_lang
-int Field_7_3_0_24845_002
-float Field_7_3_0_24845_003
-float Field_7_3_0_24845_004
-float Field_7_3_0_24845_005
-int Field_7_3_0_24845_006
-int Field_7_3_0_24845_007
-int Field_7_3_0_24845_008
-int Field_7_3_0_24845_009
-int Field_7_3_0_24845_010
-int Field_7_3_0_24845_011
+float Field_7_3_0_24845_000?
+locstring Field_7_3_0_24845_001_lang?
+int Field_7_3_0_24845_002?
+float Field_7_3_0_24845_003?
+float Field_7_3_0_24845_004?
+float Field_7_3_0_24845_005?
+int Field_7_3_0_24845_006?
+int Field_7_3_0_24845_007?
+int Field_7_3_0_24845_008?
+int Field_7_3_0_24845_009?
+int Field_7_3_0_24845_010?
+int Field_7_3_0_24845_011?
 
 LAYOUT C47A8C7F
 BUILD 7.3.0.24845

@@ -1,19 +1,19 @@
 COLUMNS
-locstring Field_7_3_0_24744_000_lang
-int Field_7_3_0_24744_001
-float Field_7_3_0_24744_002
-float Field_7_3_0_24744_003
-int Field_7_3_0_24744_004
-int Field_7_3_0_24744_005
-int Field_7_3_0_24744_006
-int Field_7_3_0_24744_007
-int Field_7_3_0_24744_008
-int Field_7_3_0_24744_009
-int Field_7_3_0_24744_010
-int Field_7_3_0_24744_011
-int Field_7_3_0_24744_012
-int Field_7_3_0_24744_013
-int Field_7_3_0_24744_014
+locstring Field_7_3_0_24744_000_lang?
+int Field_7_3_0_24744_001?
+float Field_7_3_0_24744_002?
+float Field_7_3_0_24744_003?
+int Field_7_3_0_24744_004?
+int Field_7_3_0_24744_005?
+int Field_7_3_0_24744_006?
+int Field_7_3_0_24744_007?
+int Field_7_3_0_24744_008?
+int Field_7_3_0_24744_009?
+int Field_7_3_0_24744_010?
+int Field_7_3_0_24744_011?
+int Field_7_3_0_24744_012?
+int Field_7_3_0_24744_013?
+int Field_7_3_0_24744_014?
 
 LAYOUT AEED7395
 BUILD 7.3.0.24744

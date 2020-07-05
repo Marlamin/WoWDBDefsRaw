@@ -1,10 +1,10 @@
 COLUMNS
-float Field_7_3_0_24853_000
-float Field_7_3_0_24853_001
-int Field_7_3_0_24853_002
-int Field_7_3_0_24853_003
-int Field_7_3_0_24853_004
-int Field_7_3_0_24853_005
+float Field_7_3_0_24853_000?
+float Field_7_3_0_24853_001?
+int Field_7_3_0_24853_002?
+int Field_7_3_0_24853_003?
+int Field_7_3_0_24853_004?
+int Field_7_3_0_24853_005?
 
 LAYOUT AC810A44
 BUILD 7.3.0.24853
@@ -13,4 +13,4 @@ Field_7_3_0_24853_001[3]
 Field_7_3_0_24853_002<8>
 Field_7_3_0_24853_003<8>
 $id$Field_7_3_0_24853_004<32>
-$noninline,relation$Field_7_3_0_24853_005<64>[30]
+$noninline,relation$Field_7_3_0_24853_005<32>

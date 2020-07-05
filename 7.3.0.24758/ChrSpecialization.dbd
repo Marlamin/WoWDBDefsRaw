@@ -1,17 +1,17 @@
 COLUMNS
-int Field_7_3_0_24758_000
-locstring Field_7_3_0_24758_001_lang
-locstring Field_7_3_0_24758_002_lang
-locstring Field_7_3_0_24758_003_lang
-int Field_7_3_0_24758_004
-int Field_7_3_0_24758_005
-int Field_7_3_0_24758_006
-int Field_7_3_0_24758_007
-int Field_7_3_0_24758_008
-int Field_7_3_0_24758_009
-int Field_7_3_0_24758_010
-int Field_7_3_0_24758_011
-int Field_7_3_0_24758_012
+int Field_7_3_0_24758_000?
+locstring Field_7_3_0_24758_001_lang?
+locstring Field_7_3_0_24758_002_lang?
+locstring Field_7_3_0_24758_003_lang?
+int Field_7_3_0_24758_004?
+int Field_7_3_0_24758_005?
+int Field_7_3_0_24758_006?
+int Field_7_3_0_24758_007?
+int Field_7_3_0_24758_008?
+int Field_7_3_0_24758_009?
+int Field_7_3_0_24758_010?
+int Field_7_3_0_24758_011?
+int Field_7_3_0_24758_012?
 
 LAYOUT 02E4C36D
 BUILD 7.3.0.24758

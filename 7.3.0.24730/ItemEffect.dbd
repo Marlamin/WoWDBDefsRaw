@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int Field_7_3_0_24730_000
-int Field_7_3_0_24730_001
-int Field_7_3_0_24730_002
-int Field_7_3_0_24730_003
-int Field_7_3_0_24730_004
-int Field_7_3_0_24730_005
-int Field_7_3_0_24730_006
-int Field_7_3_0_24730_007
-int Field_7_3_0_24730_008
+int Field_7_3_0_24730_000?
+int Field_7_3_0_24730_001?
+int Field_7_3_0_24730_002?
+int Field_7_3_0_24730_003?
+int Field_7_3_0_24730_004?
+int Field_7_3_0_24730_005?
+int Field_7_3_0_24730_006?
+int Field_7_3_0_24730_007?
+int Field_7_3_0_24730_008?
 
 LAYOUT 56F0AE0C
 BUILD 7.3.0.24730

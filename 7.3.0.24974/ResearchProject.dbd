@@ -1,13 +1,13 @@
 COLUMNS
-locstring Field_7_3_0_24974_000_lang
-locstring Field_7_3_0_24974_001_lang
-int Field_7_3_0_24974_002
-int Field_7_3_0_24974_003
-int Field_7_3_0_24974_004
-int Field_7_3_0_24974_005
-int Field_7_3_0_24974_006
-int Field_7_3_0_24974_007
-int Field_7_3_0_24974_008
+locstring Field_7_3_0_24974_000_lang?
+locstring Field_7_3_0_24974_001_lang?
+int Field_7_3_0_24974_002?
+int Field_7_3_0_24974_003?
+int Field_7_3_0_24974_004?
+int Field_7_3_0_24974_005?
+int Field_7_3_0_24974_006?
+int Field_7_3_0_24974_007?
+int Field_7_3_0_24974_008?
 
 LAYOUT B1CAB80B
 BUILD 7.3.0.24974

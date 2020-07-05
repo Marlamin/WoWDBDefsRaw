@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-int Field_7_3_0_24700_000
-string Field_7_3_0_24700_001
-int Field_7_3_0_24700_002
+int Field_7_3_0_24700_000?
+string Field_7_3_0_24700_001?
+int Field_7_3_0_24700_002?
 
 LAYOUT 8AC16F04
 BUILD 7.3.0.24700

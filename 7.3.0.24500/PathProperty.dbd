@@ -1,8 +1,8 @@
 COLUMNS
-int Field_7_3_0_24500_000
-int Field_7_3_0_24500_001
-int Field_7_3_0_24500_002
-int Field_7_3_0_24500_003
+int Field_7_3_0_24500_000?
+int Field_7_3_0_24500_001?
+int Field_7_3_0_24500_002?
+int Field_7_3_0_24500_003?
 
 LAYOUT C90264B9
 BUILD 7.3.0.24500

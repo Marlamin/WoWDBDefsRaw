@@ -1,6 +1,6 @@
 COLUMNS
 int ID
-string Field_7_3_0_24744_000
+string Field_7_3_0_24744_000?
 
 LAYOUT 6F7D397D
 BUILD 7.3.0.24744

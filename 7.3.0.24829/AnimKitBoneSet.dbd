@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-string Field_7_3_0_24829_000
-int Field_7_3_0_24829_001
-int Field_7_3_0_24829_002
-int Field_7_3_0_24829_003
-int Field_7_3_0_24829_004
+string Field_7_3_0_24829_000?
+int Field_7_3_0_24829_001?
+int Field_7_3_0_24829_002?
+int Field_7_3_0_24829_003?
+int Field_7_3_0_24829_004?
 
 LAYOUT FE4B9B1F
 BUILD 7.3.0.24829

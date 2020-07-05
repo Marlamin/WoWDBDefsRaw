@@ -1,20 +1,20 @@
 COLUMNS
-int Field_7_3_0_24845_000
-int Field_7_3_0_24845_001
-int Field_7_3_0_24845_002
-float Field_7_3_0_24845_003
-float Field_7_3_0_24845_004
-int Field_7_3_0_24845_005
-int Field_7_3_0_24845_006
-int Field_7_3_0_24845_007
-int Field_7_3_0_24845_008
-int Field_7_3_0_24845_009
-int Field_7_3_0_24845_010
-int Field_7_3_0_24845_011
-int Field_7_3_0_24845_012
-int Field_7_3_0_24845_013
-int Field_7_3_0_24845_014
-int Field_7_3_0_24845_015
+int Field_7_3_0_24845_000?
+int Field_7_3_0_24845_001?
+int Field_7_3_0_24845_002?
+float Field_7_3_0_24845_003?
+float Field_7_3_0_24845_004?
+int Field_7_3_0_24845_005?
+int Field_7_3_0_24845_006?
+int Field_7_3_0_24845_007?
+int Field_7_3_0_24845_008?
+int Field_7_3_0_24845_009?
+int Field_7_3_0_24845_010?
+int Field_7_3_0_24845_011?
+int Field_7_3_0_24845_012?
+int Field_7_3_0_24845_013?
+int Field_7_3_0_24845_014?
+int Field_7_3_0_24845_015?
 
 LAYOUT DC228F29
 BUILD 7.3.0.24845

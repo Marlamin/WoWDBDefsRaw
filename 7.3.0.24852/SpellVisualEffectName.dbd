@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-float Field_7_3_0_24852_000
-float Field_7_3_0_24852_001
-float Field_7_3_0_24852_002
-float Field_7_3_0_24852_003
-float Field_7_3_0_24852_004
-float Field_7_3_0_24852_005
-int Field_7_3_0_24852_006
-int Field_7_3_0_24852_007
-int Field_7_3_0_24852_008
-int Field_7_3_0_24852_009
-int Field_7_3_0_24852_010
-int Field_7_3_0_24852_011
-int Field_7_3_0_24852_012
+float Field_7_3_0_24852_000?
+float Field_7_3_0_24852_001?
+float Field_7_3_0_24852_002?
+float Field_7_3_0_24852_003?
+float Field_7_3_0_24852_004?
+float Field_7_3_0_24852_005?
+int Field_7_3_0_24852_006?
+int Field_7_3_0_24852_007?
+int Field_7_3_0_24852_008?
+int Field_7_3_0_24852_009?
+int Field_7_3_0_24852_010?
+int Field_7_3_0_24852_011?
+int Field_7_3_0_24852_012?
 
 LAYOUT B930A934
 BUILD 7.3.0.24852

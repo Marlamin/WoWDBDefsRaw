@@ -1,21 +1,21 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24539_000_lang
-locstring Field_7_3_0_24539_001_lang
-int Field_7_3_0_24539_002
-int Field_7_3_0_24539_003
-int Field_7_3_0_24539_004
-int Field_7_3_0_24539_005
-int Field_7_3_0_24539_006
-int Field_7_3_0_24539_007
-int Field_7_3_0_24539_008
-int Field_7_3_0_24539_009
-int Field_7_3_0_24539_010
-int Field_7_3_0_24539_011
-int Field_7_3_0_24539_012
-int Field_7_3_0_24539_013
-int Field_7_3_0_24539_014
-int Field_7_3_0_24539_015
+locstring Field_7_3_0_24539_000_lang?
+locstring Field_7_3_0_24539_001_lang?
+int Field_7_3_0_24539_002?
+int Field_7_3_0_24539_003?
+int Field_7_3_0_24539_004?
+int Field_7_3_0_24539_005?
+int Field_7_3_0_24539_006?
+int Field_7_3_0_24539_007?
+int Field_7_3_0_24539_008?
+int Field_7_3_0_24539_009?
+int Field_7_3_0_24539_010?
+int Field_7_3_0_24539_011?
+int Field_7_3_0_24539_012?
+int Field_7_3_0_24539_013?
+int Field_7_3_0_24539_014?
+int Field_7_3_0_24539_015?
 
 LAYOUT 194896E3
 BUILD 7.3.0.24539

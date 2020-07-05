@@ -1,9 +1,9 @@
 COLUMNS
-int Field_7_3_0_24904_000
-locstring Field_7_3_0_24904_001_lang
-int Field_7_3_0_24904_002
-int Field_7_3_0_24904_003
-int Field_7_3_0_24904_004
+int Field_7_3_0_24904_000?
+locstring Field_7_3_0_24904_001_lang?
+int Field_7_3_0_24904_002?
+int Field_7_3_0_24904_003?
+int Field_7_3_0_24904_004?
 
 LAYOUT 01D29F62
 BUILD 7.3.0.24904

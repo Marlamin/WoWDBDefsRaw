@@ -1,20 +1,20 @@
 COLUMNS
-string Field_7_3_0_24727_000
-float Field_7_3_0_24727_001
-float Field_7_3_0_24727_002
-float Field_7_3_0_24727_003
-float Field_7_3_0_24727_004
-float Field_7_3_0_24727_005
-float Field_7_3_0_24727_006
-float Field_7_3_0_24727_007
-float Field_7_3_0_24727_008
-float Field_7_3_0_24727_009
-float Field_7_3_0_24727_010
-float Field_7_3_0_24727_011
-int Field_7_3_0_24727_012
-int Field_7_3_0_24727_013
-int Field_7_3_0_24727_014
-int Field_7_3_0_24727_015
+string Field_7_3_0_24727_000?
+float Field_7_3_0_24727_001?
+float Field_7_3_0_24727_002?
+float Field_7_3_0_24727_003?
+float Field_7_3_0_24727_004?
+float Field_7_3_0_24727_005?
+float Field_7_3_0_24727_006?
+float Field_7_3_0_24727_007?
+float Field_7_3_0_24727_008?
+float Field_7_3_0_24727_009?
+float Field_7_3_0_24727_010?
+float Field_7_3_0_24727_011?
+int Field_7_3_0_24727_012?
+int Field_7_3_0_24727_013?
+int Field_7_3_0_24727_014?
+int Field_7_3_0_24727_015?
 
 LAYOUT C58AA5EC
 BUILD 7.3.0.24727

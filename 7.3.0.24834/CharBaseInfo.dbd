@@ -1,7 +1,7 @@
 COLUMNS
 int ID
-int Field_7_3_0_24834_000
-int Field_7_3_0_24834_001
+int Field_7_3_0_24834_000?
+int Field_7_3_0_24834_001?
 
 LAYOUT 9E9939B8
 BUILD 7.3.0.24834

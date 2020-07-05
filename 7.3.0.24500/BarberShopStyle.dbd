@@ -1,12 +1,12 @@
 COLUMNS
-locstring Field_7_3_0_24500_000_lang
-locstring Field_7_3_0_24500_001_lang
-float Field_7_3_0_24500_002
-int Field_7_3_0_24500_003
-int Field_7_3_0_24500_004
-int Field_7_3_0_24500_005
-int Field_7_3_0_24500_006
-int Field_7_3_0_24500_007
+locstring Field_7_3_0_24500_000_lang?
+locstring Field_7_3_0_24500_001_lang?
+float Field_7_3_0_24500_002?
+int Field_7_3_0_24500_003?
+int Field_7_3_0_24500_004?
+int Field_7_3_0_24500_005?
+int Field_7_3_0_24500_006?
+int Field_7_3_0_24500_007?
 
 LAYOUT 8675532E
 BUILD 7.3.0.24500

@@ -1,15 +1,15 @@
 COLUMNS
 int ID
-float Field_7_3_0_24920_000
-float Field_7_3_0_24920_001
-float Field_7_3_0_24920_002
-int Field_7_3_0_24920_003
-int Field_7_3_0_24920_004
-int Field_7_3_0_24920_005
-int Field_7_3_0_24920_006
-int Field_7_3_0_24920_007
-int Field_7_3_0_24920_008
-int Field_7_3_0_24920_009
+float Field_7_3_0_24920_000?
+float Field_7_3_0_24920_001?
+float Field_7_3_0_24920_002?
+int Field_7_3_0_24920_003?
+int Field_7_3_0_24920_004?
+int Field_7_3_0_24920_005?
+int Field_7_3_0_24920_006?
+int Field_7_3_0_24920_007?
+int Field_7_3_0_24920_008?
+int Field_7_3_0_24920_009?
 
 LAYOUT 99FB4B71
 BUILD 7.3.0.24920

@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int Field_7_3_0_24681_000
-float Field_7_3_0_24681_001
-locstring Field_7_3_0_24681_002_lang
-locstring Field_7_3_0_24681_003_lang
-int Field_7_3_0_24681_004
-int Field_7_3_0_24681_005
-int Field_7_3_0_24681_006
+int Field_7_3_0_24681_000?
+float Field_7_3_0_24681_001?
+locstring Field_7_3_0_24681_002_lang?
+locstring Field_7_3_0_24681_003_lang?
+int Field_7_3_0_24681_004?
+int Field_7_3_0_24681_005?
+int Field_7_3_0_24681_006?
 
 LAYOUT 155E1CD7
 BUILD 7.3.0.24681

@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-float Field_7_3_0_24744_000
-float Field_7_3_0_24744_001
-float Field_7_3_0_24744_002
-float Field_7_3_0_24744_003
-float Field_7_3_0_24744_004
-float Field_7_3_0_24744_005
-float Field_7_3_0_24744_006
+float Field_7_3_0_24744_000?
+float Field_7_3_0_24744_001?
+float Field_7_3_0_24744_002?
+float Field_7_3_0_24744_003?
+float Field_7_3_0_24744_004?
+float Field_7_3_0_24744_005?
+float Field_7_3_0_24744_006?
 
 LAYOUT B2DF7F2A
 BUILD 7.3.0.24744

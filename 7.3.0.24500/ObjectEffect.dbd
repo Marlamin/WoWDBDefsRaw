@@ -1,13 +1,13 @@
 COLUMNS
 int ID
-float Field_7_3_0_24500_000
-int Field_7_3_0_24500_001
-int Field_7_3_0_24500_002
-int Field_7_3_0_24500_003
-int Field_7_3_0_24500_004
-int Field_7_3_0_24500_005
-int Field_7_3_0_24500_006
-int Field_7_3_0_24500_007
+float Field_7_3_0_24500_000?
+int Field_7_3_0_24500_001?
+int Field_7_3_0_24500_002?
+int Field_7_3_0_24500_003?
+int Field_7_3_0_24500_004?
+int Field_7_3_0_24500_005?
+int Field_7_3_0_24500_006?
+int Field_7_3_0_24500_007?
 
 LAYOUT 6A0CF743
 BUILD 7.3.0.24500

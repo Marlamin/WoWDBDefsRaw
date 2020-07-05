@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-float Field_7_3_0_24608_000
-float Field_7_3_0_24608_001
-float Field_7_3_0_24608_002
-float Field_7_3_0_24608_003
-int Field_7_3_0_24608_004
+float Field_7_3_0_24608_000?
+float Field_7_3_0_24608_001?
+float Field_7_3_0_24608_002?
+float Field_7_3_0_24608_003?
+int Field_7_3_0_24608_004?
 
 LAYOUT 45C396DD
 BUILD 7.3.0.24608

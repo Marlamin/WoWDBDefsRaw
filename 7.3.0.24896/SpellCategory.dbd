@@ -1,11 +1,11 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24896_000_lang
-int Field_7_3_0_24896_001
-int Field_7_3_0_24896_002
-int Field_7_3_0_24896_003
-int Field_7_3_0_24896_004
-int Field_7_3_0_24896_005
+locstring Field_7_3_0_24896_000_lang?
+int Field_7_3_0_24896_001?
+int Field_7_3_0_24896_002?
+int Field_7_3_0_24896_003?
+int Field_7_3_0_24896_004?
+int Field_7_3_0_24896_005?
 
 LAYOUT EA60E384
 BUILD 7.3.0.24896

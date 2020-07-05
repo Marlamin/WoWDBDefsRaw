@@ -1,15 +1,15 @@
 COLUMNS
-int Field_7_3_0_24793_000
-int Field_7_3_0_24793_001
-int Field_7_3_0_24793_002
-int Field_7_3_0_24793_003
-locstring Field_7_3_0_24793_004_lang
-locstring Field_7_3_0_24793_005_lang
-int Field_7_3_0_24793_006
-int Field_7_3_0_24793_007
-int Field_7_3_0_24793_008
-int Field_7_3_0_24793_009
-int Field_7_3_0_24793_010
+int Field_7_3_0_24793_000?
+int Field_7_3_0_24793_001?
+int Field_7_3_0_24793_002?
+int Field_7_3_0_24793_003?
+locstring Field_7_3_0_24793_004_lang?
+locstring Field_7_3_0_24793_005_lang?
+int Field_7_3_0_24793_006?
+int Field_7_3_0_24793_007?
+int Field_7_3_0_24793_008?
+int Field_7_3_0_24793_009?
+int Field_7_3_0_24793_010?
 
 LAYOUT A1C4D1E5
 BUILD 7.3.0.24793

@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-int Field_7_3_0_24492_000
-int Field_7_3_0_24492_001
-int Field_7_3_0_24492_002
-int Field_7_3_0_24492_003
-int Field_7_3_0_24492_004
-int Field_7_3_0_24492_005
-int Field_7_3_0_24492_006
-int Field_7_3_0_24492_007
-int Field_7_3_0_24492_008
-int Field_7_3_0_24492_009
-int Field_7_3_0_24492_010
-int Field_7_3_0_24492_011
-int Field_7_3_0_24492_012
+int Field_7_3_0_24492_000?
+int Field_7_3_0_24492_001?
+int Field_7_3_0_24492_002?
+int Field_7_3_0_24492_003?
+int Field_7_3_0_24492_004?
+int Field_7_3_0_24492_005?
+int Field_7_3_0_24492_006?
+int Field_7_3_0_24492_007?
+int Field_7_3_0_24492_008?
+int Field_7_3_0_24492_009?
+int Field_7_3_0_24492_010?
+int Field_7_3_0_24492_011?
+int Field_7_3_0_24492_012?
 
 LAYOUT E59C4EFF
 BUILD 7.3.0.24492

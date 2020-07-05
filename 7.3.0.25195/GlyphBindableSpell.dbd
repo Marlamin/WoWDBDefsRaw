@@ -1,7 +1,7 @@
 COLUMNS
 int ID
-int Field_7_3_0_25195_000
-int Field_7_3_0_25195_001
+int Field_7_3_0_25195_000?
+int Field_7_3_0_25195_001?
 
 LAYOUT EA228DFA
 BUILD 7.3.0.25195

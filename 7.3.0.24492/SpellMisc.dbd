@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-int Field_7_3_0_24492_000
-float Field_7_3_0_24492_001
-float Field_7_3_0_24492_002
-int Field_7_3_0_24492_003
-int Field_7_3_0_24492_004
-int Field_7_3_0_24492_005
-int Field_7_3_0_24492_006
-int Field_7_3_0_24492_007
-int Field_7_3_0_24492_008
+int Field_7_3_0_24492_000?
+float Field_7_3_0_24492_001?
+float Field_7_3_0_24492_002?
+int Field_7_3_0_24492_003?
+int Field_7_3_0_24492_004?
+int Field_7_3_0_24492_005?
+int Field_7_3_0_24492_006?
+int Field_7_3_0_24492_007?
+int Field_7_3_0_24492_008?
 
 LAYOUT 4DF9B9DB
 BUILD 7.3.0.24492

@@ -1,8 +1,8 @@
 COLUMNS
-locstring Field_7_3_0_24744_000_lang
-int Field_7_3_0_24744_001
-int Field_7_3_0_24744_002
-int Field_7_3_0_24744_003
+locstring Field_7_3_0_24744_000_lang?
+int Field_7_3_0_24744_001?
+int Field_7_3_0_24744_002?
+int Field_7_3_0_24744_003?
 
 LAYOUT 2C87937D
 BUILD 7.3.0.24744

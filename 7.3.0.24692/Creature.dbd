@@ -1,17 +1,17 @@
 COLUMNS
 int ID
-int Field_7_3_0_24692_000
-int Field_7_3_0_24692_001
-int Field_7_3_0_24692_002
-float Field_7_3_0_24692_003
-locstring Field_7_3_0_24692_004_lang
-locstring Field_7_3_0_24692_005_lang
-locstring Field_7_3_0_24692_006_lang
-locstring Field_7_3_0_24692_007_lang
-int Field_7_3_0_24692_008
-int Field_7_3_0_24692_009
-int Field_7_3_0_24692_010
-int Field_7_3_0_24692_011
+int Field_7_3_0_24692_000?
+int Field_7_3_0_24692_001?
+int Field_7_3_0_24692_002?
+float Field_7_3_0_24692_003?
+locstring Field_7_3_0_24692_004_lang?
+locstring Field_7_3_0_24692_005_lang?
+locstring Field_7_3_0_24692_006_lang?
+locstring Field_7_3_0_24692_007_lang?
+int Field_7_3_0_24692_008?
+int Field_7_3_0_24692_009?
+int Field_7_3_0_24692_010?
+int Field_7_3_0_24692_011?
 
 LAYOUT A13B6B19
 BUILD 7.3.0.24692

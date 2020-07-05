@@ -1,0 +1,8 @@
+COLUMNS
+int Field_7_3_0_24845_000?
+int Field_7_3_0_24845_001?
+
+LAYOUT DB2F70FE
+BUILD 7.3.0.24845
+$id$Field_7_3_0_24845_000<32>
+$noninline,relation$Field_7_3_0_24845_001<32>

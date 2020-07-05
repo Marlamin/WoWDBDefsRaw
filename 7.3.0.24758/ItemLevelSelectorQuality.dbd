@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-int Field_7_3_0_24758_000
-int Field_7_3_0_24758_001
-int Field_7_3_0_24758_002
+int Field_7_3_0_24758_000?
+int Field_7_3_0_24758_001?
+int Field_7_3_0_24758_002?
 
 LAYOUT D6F9A05B
 BUILD 7.3.0.24758

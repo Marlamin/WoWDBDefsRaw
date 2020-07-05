@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int Field_7_3_0_24758_000
-int Field_7_3_0_24758_001
-int Field_7_3_0_24758_002
-int Field_7_3_0_24758_003
-int Field_7_3_0_24758_004
-int Field_7_3_0_24758_005
-int Field_7_3_0_24758_006
+int Field_7_3_0_24758_000?
+int Field_7_3_0_24758_001?
+int Field_7_3_0_24758_002?
+int Field_7_3_0_24758_003?
+int Field_7_3_0_24758_004?
+int Field_7_3_0_24758_005?
+int Field_7_3_0_24758_006?
 
 LAYOUT E349E55B
 BUILD 7.3.0.24758

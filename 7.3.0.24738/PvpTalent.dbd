@@ -1,15 +1,15 @@
 COLUMNS
 int ID
-int Field_7_3_0_24738_000
-int Field_7_3_0_24738_001
-locstring Field_7_3_0_24738_002_lang
-int Field_7_3_0_24738_003
-int Field_7_3_0_24738_004
-int Field_7_3_0_24738_005
-int Field_7_3_0_24738_006
-int Field_7_3_0_24738_007
-int Field_7_3_0_24738_008
-int Field_7_3_0_24738_009
+int Field_7_3_0_24738_000?
+int Field_7_3_0_24738_001?
+locstring Field_7_3_0_24738_002_lang?
+int Field_7_3_0_24738_003?
+int Field_7_3_0_24738_004?
+int Field_7_3_0_24738_005?
+int Field_7_3_0_24738_006?
+int Field_7_3_0_24738_007?
+int Field_7_3_0_24738_008?
+int Field_7_3_0_24738_009?
 
 LAYOUT D3A8CFAC
 BUILD 7.3.0.24738

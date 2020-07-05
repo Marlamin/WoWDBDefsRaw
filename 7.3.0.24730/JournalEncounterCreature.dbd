@@ -1,11 +1,11 @@
 COLUMNS
-int Field_7_3_0_24730_000
-int Field_7_3_0_24730_001
-locstring Field_7_3_0_24730_002_lang
-locstring Field_7_3_0_24730_003_lang
-int Field_7_3_0_24730_004
-int Field_7_3_0_24730_005
-int Field_7_3_0_24730_006
+int Field_7_3_0_24730_000?
+int Field_7_3_0_24730_001?
+locstring Field_7_3_0_24730_002_lang?
+locstring Field_7_3_0_24730_003_lang?
+int Field_7_3_0_24730_004?
+int Field_7_3_0_24730_005?
+int Field_7_3_0_24730_006?
 
 LAYOUT 07522050
 BUILD 7.3.0.24730

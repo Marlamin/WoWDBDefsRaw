@@ -1,8 +1,8 @@
 COLUMNS
-int Field_7_3_0_24853_000
-locstring Field_7_3_0_24853_001_lang
-int Field_7_3_0_24853_002
-int Field_7_3_0_24853_003
+int Field_7_3_0_24853_000?
+locstring Field_7_3_0_24853_001_lang?
+int Field_7_3_0_24853_002?
+int Field_7_3_0_24853_003?
 
 LAYOUT 9F78AAE7
 BUILD 7.3.0.24853

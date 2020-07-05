@@ -1,7 +1,7 @@
 COLUMNS
 int ID
-int Field_7_3_0_25021_000
-int Field_7_3_0_25021_001
+int Field_7_3_0_25021_000?
+int Field_7_3_0_25021_001?
 
 LAYOUT F1DB623F
 BUILD 7.3.0.25021

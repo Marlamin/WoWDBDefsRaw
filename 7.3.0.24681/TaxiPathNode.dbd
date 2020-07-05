@@ -1,10 +1,10 @@
 COLUMNS
-float Field_7_3_0_24681_000
-int Field_7_3_0_24681_001
-int Field_7_3_0_24681_002
-int Field_7_3_0_24681_003
-int Field_7_3_0_24681_004
-int Field_7_3_0_24681_005
+float Field_7_3_0_24681_000?
+int Field_7_3_0_24681_001?
+int Field_7_3_0_24681_002?
+int Field_7_3_0_24681_003?
+int Field_7_3_0_24681_004?
+int Field_7_3_0_24681_005?
 
 LAYOUT D38E8C01
 BUILD 7.3.0.24681
@@ -13,4 +13,4 @@ Field_7_3_0_24681_001<u16>
 Field_7_3_0_24681_002<u16>
 Field_7_3_0_24681_003<u8>
 $id$Field_7_3_0_24681_004<32>
-$noninline,relation$Field_7_3_0_24681_005<u64>[21]
+$noninline,relation$Field_7_3_0_24681_005<8>

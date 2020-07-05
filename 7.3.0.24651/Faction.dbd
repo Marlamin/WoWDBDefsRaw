@@ -1,20 +1,20 @@
 COLUMNS
-int Field_7_3_0_24651_000
-int Field_7_3_0_24651_001
-int Field_7_3_0_24651_002
-float Field_7_3_0_24651_003
-locstring Field_7_3_0_24651_004_lang
-locstring Field_7_3_0_24651_005_lang
-int Field_7_3_0_24651_006
-int Field_7_3_0_24651_007
-int Field_7_3_0_24651_008
-int Field_7_3_0_24651_009
-int Field_7_3_0_24651_010
-int Field_7_3_0_24651_011
-int Field_7_3_0_24651_012
-int Field_7_3_0_24651_013
-int Field_7_3_0_24651_014
-int Field_7_3_0_24651_015
+int Field_7_3_0_24651_000?
+int Field_7_3_0_24651_001?
+int Field_7_3_0_24651_002?
+float Field_7_3_0_24651_003?
+locstring Field_7_3_0_24651_004_lang?
+locstring Field_7_3_0_24651_005_lang?
+int Field_7_3_0_24651_006?
+int Field_7_3_0_24651_007?
+int Field_7_3_0_24651_008?
+int Field_7_3_0_24651_009?
+int Field_7_3_0_24651_010?
+int Field_7_3_0_24651_011?
+int Field_7_3_0_24651_012?
+int Field_7_3_0_24651_013?
+int Field_7_3_0_24651_014?
+int Field_7_3_0_24651_015?
 
 LAYOUT B9B47D44
 BUILD 7.3.0.24651

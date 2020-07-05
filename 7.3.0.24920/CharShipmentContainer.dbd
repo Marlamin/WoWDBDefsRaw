@@ -1,21 +1,21 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24920_000_lang
-locstring Field_7_3_0_24920_001_lang
-int Field_7_3_0_24920_002
-int Field_7_3_0_24920_003
-int Field_7_3_0_24920_004
-int Field_7_3_0_24920_005
-int Field_7_3_0_24920_006
-int Field_7_3_0_24920_007
-int Field_7_3_0_24920_008
-int Field_7_3_0_24920_009
-int Field_7_3_0_24920_010
-int Field_7_3_0_24920_011
-int Field_7_3_0_24920_012
-int Field_7_3_0_24920_013
-int Field_7_3_0_24920_014
-int Field_7_3_0_24920_015
+locstring Field_7_3_0_24920_000_lang?
+locstring Field_7_3_0_24920_001_lang?
+int Field_7_3_0_24920_002?
+int Field_7_3_0_24920_003?
+int Field_7_3_0_24920_004?
+int Field_7_3_0_24920_005?
+int Field_7_3_0_24920_006?
+int Field_7_3_0_24920_007?
+int Field_7_3_0_24920_008?
+int Field_7_3_0_24920_009?
+int Field_7_3_0_24920_010?
+int Field_7_3_0_24920_011?
+int Field_7_3_0_24920_012?
+int Field_7_3_0_24920_013?
+int Field_7_3_0_24920_014?
+int Field_7_3_0_24920_015?
 
 LAYOUT 194896E3
 BUILD 7.3.0.24920

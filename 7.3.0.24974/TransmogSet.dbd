@@ -1,14 +1,14 @@
 COLUMNS
-locstring Field_7_3_0_24974_000_lang
-int Field_7_3_0_24974_001
-int Field_7_3_0_24974_002
-int Field_7_3_0_24974_003
-int Field_7_3_0_24974_004
-int Field_7_3_0_24974_005
-int Field_7_3_0_24974_006
-int Field_7_3_0_24974_007
-int Field_7_3_0_24974_008
-int Field_7_3_0_24974_009
+locstring Field_7_3_0_24974_000_lang?
+int Field_7_3_0_24974_001?
+int Field_7_3_0_24974_002?
+int Field_7_3_0_24974_003?
+int Field_7_3_0_24974_004?
+int Field_7_3_0_24974_005?
+int Field_7_3_0_24974_006?
+int Field_7_3_0_24974_007?
+int Field_7_3_0_24974_008?
+int Field_7_3_0_24974_009?
 
 LAYOUT BEDFD7D1
 BUILD 7.3.0.24974

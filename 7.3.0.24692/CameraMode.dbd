@@ -1,16 +1,16 @@
 COLUMNS
 int ID
-float Field_7_3_0_24692_000
-float Field_7_3_0_24692_001
-float Field_7_3_0_24692_002
-float Field_7_3_0_24692_003
-float Field_7_3_0_24692_004
-int Field_7_3_0_24692_005
-int Field_7_3_0_24692_006
-int Field_7_3_0_24692_007
-int Field_7_3_0_24692_008
-int Field_7_3_0_24692_009
-int Field_7_3_0_24692_010
+float Field_7_3_0_24692_000?
+float Field_7_3_0_24692_001?
+float Field_7_3_0_24692_002?
+float Field_7_3_0_24692_003?
+float Field_7_3_0_24692_004?
+int Field_7_3_0_24692_005?
+int Field_7_3_0_24692_006?
+int Field_7_3_0_24692_007?
+int Field_7_3_0_24692_008?
+int Field_7_3_0_24692_009?
+int Field_7_3_0_24692_010?
 
 LAYOUT CDB6BC2F
 BUILD 7.3.0.24692

@@ -1,16 +1,16 @@
 COLUMNS
-float Field_7_3_0_24539_000
-float Field_7_3_0_24539_001
-string Field_7_3_0_24539_002
-int Field_7_3_0_24539_003
-int Field_7_3_0_24539_004
-int Field_7_3_0_24539_005
-int Field_7_3_0_24539_006
-int Field_7_3_0_24539_007
-int Field_7_3_0_24539_008
-int Field_7_3_0_24539_009
-int Field_7_3_0_24539_010
-int Field_7_3_0_24539_011
+float Field_7_3_0_24539_000?
+float Field_7_3_0_24539_001?
+string Field_7_3_0_24539_002?
+int Field_7_3_0_24539_003?
+int Field_7_3_0_24539_004?
+int Field_7_3_0_24539_005?
+int Field_7_3_0_24539_006?
+int Field_7_3_0_24539_007?
+int Field_7_3_0_24539_008?
+int Field_7_3_0_24539_009?
+int Field_7_3_0_24539_010?
+int Field_7_3_0_24539_011?
 
 LAYOUT 93877AA8
 BUILD 7.3.0.24539

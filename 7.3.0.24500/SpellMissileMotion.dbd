@@ -1,9 +1,9 @@
 COLUMNS
 int ID
-string Field_7_3_0_24500_000
-string Field_7_3_0_24500_001
-int Field_7_3_0_24500_002
-int Field_7_3_0_24500_003
+string Field_7_3_0_24500_000?
+string Field_7_3_0_24500_001?
+int Field_7_3_0_24500_002?
+int Field_7_3_0_24500_003?
 
 LAYOUT 6B78A45B
 BUILD 7.3.0.24500

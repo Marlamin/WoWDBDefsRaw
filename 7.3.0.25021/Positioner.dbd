@@ -1,9 +1,9 @@
 COLUMNS
 int ID
-float Field_7_3_0_25021_000
-int Field_7_3_0_25021_001
-int Field_7_3_0_25021_002
-int Field_7_3_0_25021_003
+float Field_7_3_0_25021_000?
+int Field_7_3_0_25021_001?
+int Field_7_3_0_25021_002?
+int Field_7_3_0_25021_003?
 
 LAYOUT E830F1B1
 BUILD 7.3.0.25021

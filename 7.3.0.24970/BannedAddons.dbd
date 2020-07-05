@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-string Field_7_3_0_24970_000
-string Field_7_3_0_24970_001
-int Field_7_3_0_24970_002
+string Field_7_3_0_24970_000?
+string Field_7_3_0_24970_001?
+int Field_7_3_0_24970_002?
 
 LAYOUT F779B6E5
 BUILD 7.3.0.24970

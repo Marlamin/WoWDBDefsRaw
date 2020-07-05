@@ -1,16 +1,16 @@
 COLUMNS
-float Field_7_3_0_24920_000
-float Field_7_3_0_24920_001
-float Field_7_3_0_24920_002
-int Field_7_3_0_24920_003
-locstring Field_7_3_0_24920_004_lang
-int Field_7_3_0_24920_005
-int Field_7_3_0_24920_006
-int Field_7_3_0_24920_007
-int Field_7_3_0_24920_008
-int Field_7_3_0_24920_009
-int Field_7_3_0_24920_010
-int Field_7_3_0_24920_011
+float Field_7_3_0_24920_000?
+float Field_7_3_0_24920_001?
+float Field_7_3_0_24920_002?
+int Field_7_3_0_24920_003?
+locstring Field_7_3_0_24920_004_lang?
+int Field_7_3_0_24920_005?
+int Field_7_3_0_24920_006?
+int Field_7_3_0_24920_007?
+int Field_7_3_0_24920_008?
+int Field_7_3_0_24920_009?
+int Field_7_3_0_24920_010?
+int Field_7_3_0_24920_011?
 
 LAYOUT D7382943
 BUILD 7.3.0.24920

@@ -1,11 +1,11 @@
 COLUMNS
 int ID
-int Field_7_3_0_25021_000
-float Field_7_3_0_25021_001
-float Field_7_3_0_25021_002
-float Field_7_3_0_25021_003
-int Field_7_3_0_25021_004
-int Field_7_3_0_25021_005
+int Field_7_3_0_25021_000?
+float Field_7_3_0_25021_001?
+float Field_7_3_0_25021_002?
+float Field_7_3_0_25021_003?
+int Field_7_3_0_25021_004?
+int Field_7_3_0_25021_005?
 
 LAYOUT BE76E593
 BUILD 7.3.0.25021

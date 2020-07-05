@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-string Field_7_3_0_24727_000
-float Field_7_3_0_24727_001
-float Field_7_3_0_24727_002
-float Field_7_3_0_24727_003
-int Field_7_3_0_24727_004
-int Field_7_3_0_24727_005
-int Field_7_3_0_24727_006
-int Field_7_3_0_24727_007
-int Field_7_3_0_24727_008
+string Field_7_3_0_24727_000?
+float Field_7_3_0_24727_001?
+float Field_7_3_0_24727_002?
+float Field_7_3_0_24727_003?
+int Field_7_3_0_24727_004?
+int Field_7_3_0_24727_005?
+int Field_7_3_0_24727_006?
+int Field_7_3_0_24727_007?
+int Field_7_3_0_24727_008?
 
 LAYOUT CA6C98D4
 BUILD 7.3.0.24727

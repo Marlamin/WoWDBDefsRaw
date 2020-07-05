@@ -1,11 +1,11 @@
 COLUMNS
 int ID
-int Field_7_3_0_24730_000
-int Field_7_3_0_24730_001
-int Field_7_3_0_24730_002
-int Field_7_3_0_24730_003
-int Field_7_3_0_24730_004
-int Field_7_3_0_24730_005
+int Field_7_3_0_24730_000?
+int Field_7_3_0_24730_001?
+int Field_7_3_0_24730_002?
+int Field_7_3_0_24730_003?
+int Field_7_3_0_24730_004?
+int Field_7_3_0_24730_005?
 
 LAYOUT D77FF753
 BUILD 7.3.0.24730

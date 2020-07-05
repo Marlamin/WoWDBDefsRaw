@@ -1,12 +1,12 @@
 COLUMNS
-locstring Field_7_3_0_24793_000_lang
-locstring Field_7_3_0_24793_001_lang
-float Field_7_3_0_24793_002
-int Field_7_3_0_24793_003
-int Field_7_3_0_24793_004
-int Field_7_3_0_24793_005
-int Field_7_3_0_24793_006
-int Field_7_3_0_24793_007
+locstring Field_7_3_0_24793_000_lang?
+locstring Field_7_3_0_24793_001_lang?
+float Field_7_3_0_24793_002?
+int Field_7_3_0_24793_003?
+int Field_7_3_0_24793_004?
+int Field_7_3_0_24793_005?
+int Field_7_3_0_24793_006?
+int Field_7_3_0_24793_007?
 
 LAYOUT 670C71AE
 BUILD 7.3.0.24793

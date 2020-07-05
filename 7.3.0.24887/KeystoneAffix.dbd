@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24887_000_lang
-locstring Field_7_3_0_24887_001_lang
-int Field_7_3_0_24887_002
+locstring Field_7_3_0_24887_000_lang?
+locstring Field_7_3_0_24887_001_lang?
+int Field_7_3_0_24887_002?
 
 LAYOUT 1BCB46AA
 BUILD 7.3.0.24887

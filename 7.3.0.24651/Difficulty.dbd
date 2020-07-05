@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24651_000_lang
-int Field_7_3_0_24651_001
-int Field_7_3_0_24651_002
-int Field_7_3_0_24651_003
-int Field_7_3_0_24651_004
-int Field_7_3_0_24651_005
-int Field_7_3_0_24651_006
-int Field_7_3_0_24651_007
-int Field_7_3_0_24651_008
-int Field_7_3_0_24651_009
-int Field_7_3_0_24651_010
-int Field_7_3_0_24651_011
-int Field_7_3_0_24651_012
+locstring Field_7_3_0_24651_000_lang?
+int Field_7_3_0_24651_001?
+int Field_7_3_0_24651_002?
+int Field_7_3_0_24651_003?
+int Field_7_3_0_24651_004?
+int Field_7_3_0_24651_005?
+int Field_7_3_0_24651_006?
+int Field_7_3_0_24651_007?
+int Field_7_3_0_24651_008?
+int Field_7_3_0_24651_009?
+int Field_7_3_0_24651_010?
+int Field_7_3_0_24651_011?
+int Field_7_3_0_24651_012?
 
 LAYOUT 92302BB8
 BUILD 7.3.0.24651

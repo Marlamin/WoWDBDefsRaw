@@ -1,9 +1,9 @@
 COLUMNS
-int Field_7_3_0_24878_000
-float Field_7_3_0_24878_001
-float Field_7_3_0_24878_002
-int Field_7_3_0_24878_003
-int Field_7_3_0_24878_004
+int Field_7_3_0_24878_000?
+float Field_7_3_0_24878_001?
+float Field_7_3_0_24878_002?
+int Field_7_3_0_24878_003?
+int Field_7_3_0_24878_004?
 
 LAYOUT EB5921CC
 BUILD 7.3.0.24878

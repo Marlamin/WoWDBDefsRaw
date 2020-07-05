@@ -1,17 +1,17 @@
 COLUMNS
 int ID
-string Field_7_3_0_24878_000
-int Field_7_3_0_24878_001
-int Field_7_3_0_24878_002
-int Field_7_3_0_24878_003
-int Field_7_3_0_24878_004
-int Field_7_3_0_24878_005
-int Field_7_3_0_24878_006
-int Field_7_3_0_24878_007
-int Field_7_3_0_24878_008
-int Field_7_3_0_24878_009
-int Field_7_3_0_24878_010
-int Field_7_3_0_24878_011
+string Field_7_3_0_24878_000?
+int Field_7_3_0_24878_001?
+int Field_7_3_0_24878_002?
+int Field_7_3_0_24878_003?
+int Field_7_3_0_24878_004?
+int Field_7_3_0_24878_005?
+int Field_7_3_0_24878_006?
+int Field_7_3_0_24878_007?
+int Field_7_3_0_24878_008?
+int Field_7_3_0_24878_009?
+int Field_7_3_0_24878_010?
+int Field_7_3_0_24878_011?
 
 LAYOUT 4D5B91C5
 BUILD 7.3.0.24878

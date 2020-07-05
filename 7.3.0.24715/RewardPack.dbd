@@ -1,11 +1,11 @@
 COLUMNS
 int ID
-int Field_7_3_0_24715_000
-float Field_7_3_0_24715_001
-int Field_7_3_0_24715_002
-int Field_7_3_0_24715_003
-int Field_7_3_0_24715_004
-int Field_7_3_0_24715_005
+int Field_7_3_0_24715_000?
+float Field_7_3_0_24715_001?
+int Field_7_3_0_24715_002?
+int Field_7_3_0_24715_003?
+int Field_7_3_0_24715_004?
+int Field_7_3_0_24715_005?
 
 LAYOUT DB6CC0AB
 BUILD 7.3.0.24715

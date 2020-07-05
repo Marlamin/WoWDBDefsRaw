@@ -1,20 +1,20 @@
 COLUMNS
-int Field_7_3_0_24834_000
-int Field_7_3_0_24834_001
-int Field_7_3_0_24834_002
-float Field_7_3_0_24834_003
-locstring Field_7_3_0_24834_004_lang
-locstring Field_7_3_0_24834_005_lang
-int Field_7_3_0_24834_006
-int Field_7_3_0_24834_007
-int Field_7_3_0_24834_008
-int Field_7_3_0_24834_009
-int Field_7_3_0_24834_010
-int Field_7_3_0_24834_011
-int Field_7_3_0_24834_012
-int Field_7_3_0_24834_013
-int Field_7_3_0_24834_014
-int Field_7_3_0_24834_015
+int Field_7_3_0_24834_000?
+int Field_7_3_0_24834_001?
+int Field_7_3_0_24834_002?
+float Field_7_3_0_24834_003?
+locstring Field_7_3_0_24834_004_lang?
+locstring Field_7_3_0_24834_005_lang?
+int Field_7_3_0_24834_006?
+int Field_7_3_0_24834_007?
+int Field_7_3_0_24834_008?
+int Field_7_3_0_24834_009?
+int Field_7_3_0_24834_010?
+int Field_7_3_0_24834_011?
+int Field_7_3_0_24834_012?
+int Field_7_3_0_24834_013?
+int Field_7_3_0_24834_014?
+int Field_7_3_0_24834_015?
 
 LAYOUT 4208D7B7
 BUILD 7.3.0.24834

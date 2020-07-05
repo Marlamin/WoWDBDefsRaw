@@ -1,18 +1,18 @@
 COLUMNS
 int ID
-int Field_7_3_0_24715_000
-int Field_7_3_0_24715_001
-float Field_7_3_0_24715_002
-float Field_7_3_0_24715_003
-float Field_7_3_0_24715_004
-float Field_7_3_0_24715_005
-float Field_7_3_0_24715_006
-float Field_7_3_0_24715_007
-float Field_7_3_0_24715_008
-int Field_7_3_0_24715_009
-int Field_7_3_0_24715_010
-int Field_7_3_0_24715_011
-int Field_7_3_0_24715_012
+int Field_7_3_0_24715_000?
+int Field_7_3_0_24715_001?
+float Field_7_3_0_24715_002?
+float Field_7_3_0_24715_003?
+float Field_7_3_0_24715_004?
+float Field_7_3_0_24715_005?
+float Field_7_3_0_24715_006?
+float Field_7_3_0_24715_007?
+float Field_7_3_0_24715_008?
+int Field_7_3_0_24715_009?
+int Field_7_3_0_24715_010?
+int Field_7_3_0_24715_011?
+int Field_7_3_0_24715_012?
 
 LAYOUT E909BB18
 BUILD 7.3.0.24715

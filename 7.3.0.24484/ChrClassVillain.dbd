@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24484_000_lang
-int Field_7_3_0_24484_001
-int Field_7_3_0_24484_002
+locstring Field_7_3_0_24484_000_lang?
+int Field_7_3_0_24484_001?
+int Field_7_3_0_24484_002?
 
 LAYOUT A6AC18CD
 BUILD 7.3.0.24484

@@ -1,8 +1,8 @@
 COLUMNS
-locstring Field_7_3_0_24920_000_lang
-int Field_7_3_0_24920_001
-int Field_7_3_0_24920_002
-int Field_7_3_0_24920_003
+locstring Field_7_3_0_24920_000_lang?
+int Field_7_3_0_24920_001?
+int Field_7_3_0_24920_002?
+int Field_7_3_0_24920_003?
 
 LAYOUT ED226BC9
 BUILD 7.3.0.24920

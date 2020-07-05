@@ -1,11 +1,11 @@
 COLUMNS
-int Field_7_3_0_24608_000
-int Field_7_3_0_24608_001
-int Field_7_3_0_24608_002
-int Field_7_3_0_24608_003
-int Field_7_3_0_24608_004
-int Field_7_3_0_24608_005
-int Field_7_3_0_24608_006
+int Field_7_3_0_24608_000?
+int Field_7_3_0_24608_001?
+int Field_7_3_0_24608_002?
+int Field_7_3_0_24608_003?
+int Field_7_3_0_24608_004?
+int Field_7_3_0_24608_005?
+int Field_7_3_0_24608_006?
 
 LAYOUT 5D30EBC5
 BUILD 7.3.0.24608

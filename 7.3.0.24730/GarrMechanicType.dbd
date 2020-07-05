@@ -1,9 +1,9 @@
 COLUMNS
-locstring Field_7_3_0_24730_000_lang
-locstring Field_7_3_0_24730_001_lang
-int Field_7_3_0_24730_002
-int Field_7_3_0_24730_003
-int Field_7_3_0_24730_004
+locstring Field_7_3_0_24730_000_lang?
+locstring Field_7_3_0_24730_001_lang?
+int Field_7_3_0_24730_002?
+int Field_7_3_0_24730_003?
+int Field_7_3_0_24730_004?
 
 LAYOUT 6FEA569F
 BUILD 7.3.0.24730

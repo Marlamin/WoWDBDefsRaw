@@ -1,11 +1,11 @@
 COLUMNS
 int ID
-int Field_7_3_0_25021_000
-int Field_7_3_0_25021_001
-int Field_7_3_0_25021_002
-int Field_7_3_0_25021_003
-int Field_7_3_0_25021_004
-int Field_7_3_0_25021_005
+int Field_7_3_0_25021_000?
+int Field_7_3_0_25021_001?
+int Field_7_3_0_25021_002?
+int Field_7_3_0_25021_003?
+int Field_7_3_0_25021_004?
+int Field_7_3_0_25021_005?
 
 LAYOUT 9F5C2D61
 BUILD 7.3.0.25021

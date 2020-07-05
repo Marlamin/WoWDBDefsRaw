@@ -1,19 +1,19 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24500_000_lang
-locstring Field_7_3_0_24500_001_lang
-int Field_7_3_0_24500_002
-int Field_7_3_0_24500_003
-int Field_7_3_0_24500_004
-int Field_7_3_0_24500_005
-int Field_7_3_0_24500_006
-int Field_7_3_0_24500_007
-int Field_7_3_0_24500_008
-int Field_7_3_0_24500_009
-int Field_7_3_0_24500_010
-int Field_7_3_0_24500_011
-int Field_7_3_0_24500_012
-int Field_7_3_0_24500_013
+locstring Field_7_3_0_24500_000_lang?
+locstring Field_7_3_0_24500_001_lang?
+int Field_7_3_0_24500_002?
+int Field_7_3_0_24500_003?
+int Field_7_3_0_24500_004?
+int Field_7_3_0_24500_005?
+int Field_7_3_0_24500_006?
+int Field_7_3_0_24500_007?
+int Field_7_3_0_24500_008?
+int Field_7_3_0_24500_009?
+int Field_7_3_0_24500_010?
+int Field_7_3_0_24500_011?
+int Field_7_3_0_24500_012?
+int Field_7_3_0_24500_013?
 
 LAYOUT 3EF2F3BD
 BUILD 7.3.0.24500

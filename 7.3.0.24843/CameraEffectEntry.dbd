@@ -1,21 +1,21 @@
 COLUMNS
 int ID
-float Field_7_3_0_24843_000
-float Field_7_3_0_24843_001
-float Field_7_3_0_24843_002
-float Field_7_3_0_24843_003
-float Field_7_3_0_24843_004
-float Field_7_3_0_24843_005
-float Field_7_3_0_24843_006
-float Field_7_3_0_24843_007
-int Field_7_3_0_24843_008
-int Field_7_3_0_24843_009
-int Field_7_3_0_24843_010
-int Field_7_3_0_24843_011
-int Field_7_3_0_24843_012
-int Field_7_3_0_24843_013
-int Field_7_3_0_24843_014
-int Field_7_3_0_24843_015
+float Field_7_3_0_24843_000?
+float Field_7_3_0_24843_001?
+float Field_7_3_0_24843_002?
+float Field_7_3_0_24843_003?
+float Field_7_3_0_24843_004?
+float Field_7_3_0_24843_005?
+float Field_7_3_0_24843_006?
+float Field_7_3_0_24843_007?
+int Field_7_3_0_24843_008?
+int Field_7_3_0_24843_009?
+int Field_7_3_0_24843_010?
+int Field_7_3_0_24843_011?
+int Field_7_3_0_24843_012?
+int Field_7_3_0_24843_013?
+int Field_7_3_0_24843_014?
+int Field_7_3_0_24843_015?
 
 LAYOUT 0CAA2689
 BUILD 7.3.0.24843

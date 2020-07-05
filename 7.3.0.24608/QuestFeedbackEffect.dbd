@@ -1,11 +1,11 @@
 COLUMNS
 int ID
-int Field_7_3_0_24608_000
-int Field_7_3_0_24608_001
-int Field_7_3_0_24608_002
-int Field_7_3_0_24608_003
-int Field_7_3_0_24608_004
-int Field_7_3_0_24608_005
+int Field_7_3_0_24608_000?
+int Field_7_3_0_24608_001?
+int Field_7_3_0_24608_002?
+int Field_7_3_0_24608_003?
+int Field_7_3_0_24608_004?
+int Field_7_3_0_24608_005?
 
 LAYOUT 89D55A27
 BUILD 7.3.0.24608

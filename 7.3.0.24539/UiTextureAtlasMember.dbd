@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-string Field_7_3_0_24539_000
-int Field_7_3_0_24539_001
-int Field_7_3_0_24539_002
-int Field_7_3_0_24539_003
-int Field_7_3_0_24539_004
-int Field_7_3_0_24539_005
-int Field_7_3_0_24539_006
+string Field_7_3_0_24539_000?
+int Field_7_3_0_24539_001?
+int Field_7_3_0_24539_002?
+int Field_7_3_0_24539_003?
+int Field_7_3_0_24539_004?
+int Field_7_3_0_24539_005?
+int Field_7_3_0_24539_006?
 
 LAYOUT 714BF9A1
 BUILD 7.3.0.24539

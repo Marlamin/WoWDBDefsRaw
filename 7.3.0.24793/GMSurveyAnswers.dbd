@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24793_000_lang
-int Field_7_3_0_24793_001
-int Field_7_3_0_24793_002
+locstring Field_7_3_0_24793_000_lang?
+int Field_7_3_0_24793_001?
+int Field_7_3_0_24793_002?
 
 LAYOUT 422747F6
 BUILD 7.3.0.24793

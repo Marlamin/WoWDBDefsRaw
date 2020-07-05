@@ -1,15 +1,15 @@
 COLUMNS
-int Field_7_3_0_24931_000
-int Field_7_3_0_24931_001
-int Field_7_3_0_24931_002
-locstring Field_7_3_0_24931_003_lang
-locstring Field_7_3_0_24931_004_lang
-int Field_7_3_0_24931_005
-int Field_7_3_0_24931_006
-int Field_7_3_0_24931_007
-int Field_7_3_0_24931_008
-int Field_7_3_0_24931_009
-int Field_7_3_0_24931_010
+int Field_7_3_0_24931_000?
+int Field_7_3_0_24931_001?
+int Field_7_3_0_24931_002?
+locstring Field_7_3_0_24931_003_lang?
+locstring Field_7_3_0_24931_004_lang?
+int Field_7_3_0_24931_005?
+int Field_7_3_0_24931_006?
+int Field_7_3_0_24931_007?
+int Field_7_3_0_24931_008?
+int Field_7_3_0_24931_009?
+int Field_7_3_0_24931_010?
 
 LAYOUT 4B260652
 BUILD 7.3.0.24931

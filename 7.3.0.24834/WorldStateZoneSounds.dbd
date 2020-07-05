@@ -1,13 +1,13 @@
 COLUMNS
 int ID
-int Field_7_3_0_24834_000
-int Field_7_3_0_24834_001
-int Field_7_3_0_24834_002
-int Field_7_3_0_24834_003
-int Field_7_3_0_24834_004
-int Field_7_3_0_24834_005
-int Field_7_3_0_24834_006
-int Field_7_3_0_24834_007
+int Field_7_3_0_24834_000?
+int Field_7_3_0_24834_001?
+int Field_7_3_0_24834_002?
+int Field_7_3_0_24834_003?
+int Field_7_3_0_24834_004?
+int Field_7_3_0_24834_005?
+int Field_7_3_0_24834_006?
+int Field_7_3_0_24834_007?
 
 LAYOUT B9572D3D
 BUILD 7.3.0.24834

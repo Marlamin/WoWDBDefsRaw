@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24730_000_lang
-float Field_7_3_0_24730_001
-float Field_7_3_0_24730_002
-int Field_7_3_0_24730_003
-int Field_7_3_0_24730_004
-int Field_7_3_0_24730_005
-int Field_7_3_0_24730_006
+locstring Field_7_3_0_24730_000_lang?
+float Field_7_3_0_24730_001?
+float Field_7_3_0_24730_002?
+int Field_7_3_0_24730_003?
+int Field_7_3_0_24730_004?
+int Field_7_3_0_24730_005?
+int Field_7_3_0_24730_006?
 
 LAYOUT BCCA6581
 BUILD 7.3.0.24730

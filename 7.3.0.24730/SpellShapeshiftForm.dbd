@@ -1,15 +1,15 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24730_000_lang
-float Field_7_3_0_24730_001
-int Field_7_3_0_24730_002
-int Field_7_3_0_24730_003
-int Field_7_3_0_24730_004
-int Field_7_3_0_24730_005
-int Field_7_3_0_24730_006
-int Field_7_3_0_24730_007
-int Field_7_3_0_24730_008
-int Field_7_3_0_24730_009
+locstring Field_7_3_0_24730_000_lang?
+float Field_7_3_0_24730_001?
+int Field_7_3_0_24730_002?
+int Field_7_3_0_24730_003?
+int Field_7_3_0_24730_004?
+int Field_7_3_0_24730_005?
+int Field_7_3_0_24730_006?
+int Field_7_3_0_24730_007?
+int Field_7_3_0_24730_008?
+int Field_7_3_0_24730_009?
 
 LAYOUT 99DC58DF
 BUILD 7.3.0.24730

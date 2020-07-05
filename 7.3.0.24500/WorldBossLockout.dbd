@@ -1,7 +1,7 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24500_000_lang
-int Field_7_3_0_24500_001
+locstring Field_7_3_0_24500_000_lang?
+int Field_7_3_0_24500_001?
 
 LAYOUT 4D7103A0
 BUILD 7.3.0.24500

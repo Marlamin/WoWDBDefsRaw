@@ -1,9 +1,9 @@
 COLUMNS
-locstring Field_7_3_0_24920_000_lang
-locstring Field_7_3_0_24920_001_lang
-locstring Field_7_3_0_24920_002_lang
-string Field_7_3_0_24920_003
-int Field_7_3_0_24920_004
+locstring Field_7_3_0_24920_000_lang?
+locstring Field_7_3_0_24920_001_lang?
+locstring Field_7_3_0_24920_002_lang?
+string Field_7_3_0_24920_003?
+int Field_7_3_0_24920_004?
 
 LAYOUT CD5E1D2F
 BUILD 7.3.0.24920

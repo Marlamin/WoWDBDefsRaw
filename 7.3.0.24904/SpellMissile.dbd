@@ -1,20 +1,20 @@
 COLUMNS
 int ID
-int Field_7_3_0_24904_000
-float Field_7_3_0_24904_001
-float Field_7_3_0_24904_002
-float Field_7_3_0_24904_003
-float Field_7_3_0_24904_004
-float Field_7_3_0_24904_005
-float Field_7_3_0_24904_006
-float Field_7_3_0_24904_007
-float Field_7_3_0_24904_008
-float Field_7_3_0_24904_009
-float Field_7_3_0_24904_010
-float Field_7_3_0_24904_011
-float Field_7_3_0_24904_012
-float Field_7_3_0_24904_013
-int Field_7_3_0_24904_014
+int Field_7_3_0_24904_000?
+float Field_7_3_0_24904_001?
+float Field_7_3_0_24904_002?
+float Field_7_3_0_24904_003?
+float Field_7_3_0_24904_004?
+float Field_7_3_0_24904_005?
+float Field_7_3_0_24904_006?
+float Field_7_3_0_24904_007?
+float Field_7_3_0_24904_008?
+float Field_7_3_0_24904_009?
+float Field_7_3_0_24904_010?
+float Field_7_3_0_24904_011?
+float Field_7_3_0_24904_012?
+float Field_7_3_0_24904_013?
+int Field_7_3_0_24904_014?
 
 LAYOUT 1D35645E
 BUILD 7.3.0.24904

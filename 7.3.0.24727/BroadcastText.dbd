@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24727_000_lang
-locstring Field_7_3_0_24727_001_lang
-int Field_7_3_0_24727_002
-int Field_7_3_0_24727_003
-int Field_7_3_0_24727_004
-int Field_7_3_0_24727_005
-int Field_7_3_0_24727_006
-int Field_7_3_0_24727_007
-int Field_7_3_0_24727_008
+locstring Field_7_3_0_24727_000_lang?
+locstring Field_7_3_0_24727_001_lang?
+int Field_7_3_0_24727_002?
+int Field_7_3_0_24727_003?
+int Field_7_3_0_24727_004?
+int Field_7_3_0_24727_005?
+int Field_7_3_0_24727_006?
+int Field_7_3_0_24727_007?
+int Field_7_3_0_24727_008?
 
 LAYOUT C5965DBB
 BUILD 7.3.0.24727

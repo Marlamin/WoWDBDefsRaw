@@ -1,13 +1,13 @@
 COLUMNS
 int ID
-int Field_7_3_0_24744_000
-int Field_7_3_0_24744_001
-int Field_7_3_0_24744_002
-int Field_7_3_0_24744_003
-int Field_7_3_0_24744_004
-int Field_7_3_0_24744_005
-int Field_7_3_0_24744_006
-int Field_7_3_0_24744_007
+int Field_7_3_0_24744_000?
+int Field_7_3_0_24744_001?
+int Field_7_3_0_24744_002?
+int Field_7_3_0_24744_003?
+int Field_7_3_0_24744_004?
+int Field_7_3_0_24744_005?
+int Field_7_3_0_24744_006?
+int Field_7_3_0_24744_007?
 
 LAYOUT C49556EF
 BUILD 7.3.0.24744

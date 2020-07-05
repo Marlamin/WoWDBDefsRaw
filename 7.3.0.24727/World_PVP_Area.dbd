@@ -1,12 +1,12 @@
 COLUMNS
 int ID
-int Field_7_3_0_24727_000
-int Field_7_3_0_24727_001
-int Field_7_3_0_24727_002
-int Field_7_3_0_24727_003
-int Field_7_3_0_24727_004
-int Field_7_3_0_24727_005
-int Field_7_3_0_24727_006
+int Field_7_3_0_24727_000?
+int Field_7_3_0_24727_001?
+int Field_7_3_0_24727_002?
+int Field_7_3_0_24727_003?
+int Field_7_3_0_24727_004?
+int Field_7_3_0_24727_005?
+int Field_7_3_0_24727_006?
 
 LAYOUT 6FBBF76B
 BUILD 7.3.0.24727

@@ -1,19 +1,19 @@
 COLUMNS
-int Field_7_3_0_24931_000
-int Field_7_3_0_24931_001
-int Field_7_3_0_24931_002
-int Field_7_3_0_24931_003
-int Field_7_3_0_24931_004
-int Field_7_3_0_24931_005
-float Field_7_3_0_24931_006
-float Field_7_3_0_24931_007
-float Field_7_3_0_24931_008
-float Field_7_3_0_24931_009
-float Field_7_3_0_24931_010
-float Field_7_3_0_24931_011
-float Field_7_3_0_24931_012
-int Field_7_3_0_24931_013
-int Field_7_3_0_24931_014
+int Field_7_3_0_24931_000?
+int Field_7_3_0_24931_001?
+int Field_7_3_0_24931_002?
+int Field_7_3_0_24931_003?
+int Field_7_3_0_24931_004?
+int Field_7_3_0_24931_005?
+float Field_7_3_0_24931_006?
+float Field_7_3_0_24931_007?
+float Field_7_3_0_24931_008?
+float Field_7_3_0_24931_009?
+float Field_7_3_0_24931_010?
+float Field_7_3_0_24931_011?
+float Field_7_3_0_24931_012?
+int Field_7_3_0_24931_013?
+int Field_7_3_0_24931_014?
 
 LAYOUT D09BE31C
 BUILD 7.3.0.24931

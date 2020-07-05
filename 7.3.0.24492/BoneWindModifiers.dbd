@@ -1,7 +1,7 @@
 COLUMNS
 int ID
-float Field_7_3_0_24492_000
-float Field_7_3_0_24492_001
+float Field_7_3_0_24492_000?
+float Field_7_3_0_24492_001?
 
 LAYOUT B4E7449E
 BUILD 7.3.0.24492

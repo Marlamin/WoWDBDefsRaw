@@ -1,19 +1,19 @@
 COLUMNS
-int Field_7_3_0_24781_000
-locstring Field_7_3_0_24781_001_lang
-int Field_7_3_0_24781_002
-int Field_7_3_0_24781_003
-int Field_7_3_0_24781_004
-int Field_7_3_0_24781_005
-int Field_7_3_0_24781_006
-int Field_7_3_0_24781_007
-int Field_7_3_0_24781_008
-int Field_7_3_0_24781_009
-int Field_7_3_0_24781_010
-int Field_7_3_0_24781_011
-int Field_7_3_0_24781_012
-int Field_7_3_0_24781_013
-int Field_7_3_0_24781_014
+int Field_7_3_0_24781_000?
+locstring Field_7_3_0_24781_001_lang?
+int Field_7_3_0_24781_002?
+int Field_7_3_0_24781_003?
+int Field_7_3_0_24781_004?
+int Field_7_3_0_24781_005?
+int Field_7_3_0_24781_006?
+int Field_7_3_0_24781_007?
+int Field_7_3_0_24781_008?
+int Field_7_3_0_24781_009?
+int Field_7_3_0_24781_010?
+int Field_7_3_0_24781_011?
+int Field_7_3_0_24781_012?
+int Field_7_3_0_24781_013?
+int Field_7_3_0_24781_014?
 
 LAYOUT 5FA51AD5
 BUILD 7.3.0.24781

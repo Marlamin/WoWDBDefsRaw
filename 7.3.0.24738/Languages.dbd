@@ -1,6 +1,6 @@
 COLUMNS
-locstring Field_7_3_0_24738_000_lang
-int Field_7_3_0_24738_001
+locstring Field_7_3_0_24738_000_lang?
+int Field_7_3_0_24738_001?
 
 LAYOUT 6FA5D0C4
 BUILD 7.3.0.24738

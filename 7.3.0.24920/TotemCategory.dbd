@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24920_000_lang
-int Field_7_3_0_24920_001
-int Field_7_3_0_24920_002
+locstring Field_7_3_0_24920_000_lang?
+int Field_7_3_0_24920_001?
+int Field_7_3_0_24920_002?
 
 LAYOUT 20B9177A
 BUILD 7.3.0.24920

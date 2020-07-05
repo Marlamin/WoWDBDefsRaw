@@ -1,9 +1,9 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24758_000_lang
-string Field_7_3_0_24758_001
-int Field_7_3_0_24758_002
-int Field_7_3_0_24758_003
+locstring Field_7_3_0_24758_000_lang?
+string Field_7_3_0_24758_001?
+int Field_7_3_0_24758_002?
+int Field_7_3_0_24758_003?
 
 LAYOUT E9DDA799
 BUILD 7.3.0.24758

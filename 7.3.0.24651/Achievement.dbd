@@ -1,19 +1,19 @@
 COLUMNS
-locstring Field_7_3_0_24651_000_lang
-locstring Field_7_3_0_24651_001_lang
-int Field_7_3_0_24651_002
-locstring Field_7_3_0_24651_003_lang
-int Field_7_3_0_24651_004
-int Field_7_3_0_24651_005
-int Field_7_3_0_24651_006
-int Field_7_3_0_24651_007
-int Field_7_3_0_24651_008
-int Field_7_3_0_24651_009
-int Field_7_3_0_24651_010
-int Field_7_3_0_24651_011
-int Field_7_3_0_24651_012
-int Field_7_3_0_24651_013
-int Field_7_3_0_24651_014
+locstring Field_7_3_0_24651_000_lang?
+locstring Field_7_3_0_24651_001_lang?
+int Field_7_3_0_24651_002?
+locstring Field_7_3_0_24651_003_lang?
+int Field_7_3_0_24651_004?
+int Field_7_3_0_24651_005?
+int Field_7_3_0_24651_006?
+int Field_7_3_0_24651_007?
+int Field_7_3_0_24651_008?
+int Field_7_3_0_24651_009?
+int Field_7_3_0_24651_010?
+int Field_7_3_0_24651_011?
+int Field_7_3_0_24651_012?
+int Field_7_3_0_24651_013?
+int Field_7_3_0_24651_014?
 
 LAYOUT ECD1BB04
 BUILD 7.3.0.24651

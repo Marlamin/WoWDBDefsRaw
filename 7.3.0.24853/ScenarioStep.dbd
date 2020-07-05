@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24853_000_lang
-locstring Field_7_3_0_24853_001_lang
-int Field_7_3_0_24853_002
-int Field_7_3_0_24853_003
-int Field_7_3_0_24853_004
-int Field_7_3_0_24853_005
-int Field_7_3_0_24853_006
-int Field_7_3_0_24853_007
-int Field_7_3_0_24853_008
+locstring Field_7_3_0_24853_000_lang?
+locstring Field_7_3_0_24853_001_lang?
+int Field_7_3_0_24853_002?
+int Field_7_3_0_24853_003?
+int Field_7_3_0_24853_004?
+int Field_7_3_0_24853_005?
+int Field_7_3_0_24853_006?
+int Field_7_3_0_24853_007?
+int Field_7_3_0_24853_008?
 
 LAYOUT 201B0EFC
 BUILD 7.3.0.24853

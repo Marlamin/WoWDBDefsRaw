@@ -1,9 +1,9 @@
 COLUMNS
 int ID
-float Field_7_3_0_24681_000
-int Field_7_3_0_24681_001
-int Field_7_3_0_24681_002
-int Field_7_3_0_24681_003
+float Field_7_3_0_24681_000?
+int Field_7_3_0_24681_001?
+int Field_7_3_0_24681_002?
+int Field_7_3_0_24681_003?
 
 LAYOUT 57D7949F
 BUILD 7.3.0.24681

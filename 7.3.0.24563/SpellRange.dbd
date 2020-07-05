@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-float Field_7_3_0_24563_000
-float Field_7_3_0_24563_001
-locstring Field_7_3_0_24563_002_lang
-locstring Field_7_3_0_24563_003_lang
-int Field_7_3_0_24563_004
+float Field_7_3_0_24563_000?
+float Field_7_3_0_24563_001?
+locstring Field_7_3_0_24563_002_lang?
+locstring Field_7_3_0_24563_003_lang?
+int Field_7_3_0_24563_004?
 
 LAYOUT 1A6155F2
 BUILD 7.3.0.24563

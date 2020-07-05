@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-float Field_7_3_0_24473_000
-float Field_7_3_0_24473_001
-float Field_7_3_0_24473_002
+float Field_7_3_0_24473_000?
+float Field_7_3_0_24473_001?
+float Field_7_3_0_24473_002?
 
 LAYOUT 26D4052D
 BUILD 7.3.0.24473

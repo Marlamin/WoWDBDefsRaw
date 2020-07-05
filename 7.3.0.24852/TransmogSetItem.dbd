@@ -1,8 +1,8 @@
 COLUMNS
-int Field_7_3_0_24852_000
-int Field_7_3_0_24852_001
-int Field_7_3_0_24852_002
-int Field_7_3_0_24852_003
+int Field_7_3_0_24852_000?
+int Field_7_3_0_24852_001?
+int Field_7_3_0_24852_002?
+int Field_7_3_0_24852_003?
 
 LAYOUT 0E96B3A2
 BUILD 7.3.0.24852

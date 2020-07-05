@@ -1,11 +1,11 @@
 COLUMNS
 int ID
-float Field_7_3_0_24887_000
-int Field_7_3_0_24887_001
-int Field_7_3_0_24887_002
-int Field_7_3_0_24887_003
-int Field_7_3_0_24887_004
-int Field_7_3_0_24887_005
+float Field_7_3_0_24887_000?
+int Field_7_3_0_24887_001?
+int Field_7_3_0_24887_002?
+int Field_7_3_0_24887_003?
+int Field_7_3_0_24887_004?
+int Field_7_3_0_24887_005?
 
 LAYOUT DBF4633D
 BUILD 7.3.0.24887

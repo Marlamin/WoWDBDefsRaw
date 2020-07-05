@@ -1,15 +1,15 @@
 COLUMNS
 int ID
-float Field_7_3_0_24759_000
-float Field_7_3_0_24759_001
-float Field_7_3_0_24759_002
-float Field_7_3_0_24759_003
-float Field_7_3_0_24759_004
-int Field_7_3_0_24759_005
-int Field_7_3_0_24759_006
-int Field_7_3_0_24759_007
-int Field_7_3_0_24759_008
-int Field_7_3_0_24759_009
+float Field_7_3_0_24759_000?
+float Field_7_3_0_24759_001?
+float Field_7_3_0_24759_002?
+float Field_7_3_0_24759_003?
+float Field_7_3_0_24759_004?
+int Field_7_3_0_24759_005?
+int Field_7_3_0_24759_006?
+int Field_7_3_0_24759_007?
+int Field_7_3_0_24759_008?
+int Field_7_3_0_24759_009?
 
 LAYOUT D8440BEE
 BUILD 7.3.0.24759

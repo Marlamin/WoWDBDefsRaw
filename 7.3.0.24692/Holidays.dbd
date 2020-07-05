@@ -1,16 +1,16 @@
 COLUMNS
-int Field_7_3_0_24692_000
-int Field_7_3_0_24692_001
-int Field_7_3_0_24692_002
-int Field_7_3_0_24692_003
-int Field_7_3_0_24692_004
-int Field_7_3_0_24692_005
-int Field_7_3_0_24692_006
-int Field_7_3_0_24692_007
-int Field_7_3_0_24692_008
-int Field_7_3_0_24692_009
-int Field_7_3_0_24692_010
-int Field_7_3_0_24692_011
+int Field_7_3_0_24692_000?
+int Field_7_3_0_24692_001?
+int Field_7_3_0_24692_002?
+int Field_7_3_0_24692_003?
+int Field_7_3_0_24692_004?
+int Field_7_3_0_24692_005?
+int Field_7_3_0_24692_006?
+int Field_7_3_0_24692_007?
+int Field_7_3_0_24692_008?
+int Field_7_3_0_24692_009?
+int Field_7_3_0_24692_010?
+int Field_7_3_0_24692_011?
 
 LAYOUT 06B8E478
 BUILD 7.3.0.24692

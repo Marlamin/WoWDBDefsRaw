@@ -1,14 +1,14 @@
 COLUMNS
 int ID
-float Field_7_3_0_24715_000
-float Field_7_3_0_24715_001
-locstring Field_7_3_0_24715_002_lang
-int Field_7_3_0_24715_003
-int Field_7_3_0_24715_004
-int Field_7_3_0_24715_005
-int Field_7_3_0_24715_006
-int Field_7_3_0_24715_007
-int Field_7_3_0_24715_008
+float Field_7_3_0_24715_000?
+float Field_7_3_0_24715_001?
+locstring Field_7_3_0_24715_002_lang?
+int Field_7_3_0_24715_003?
+int Field_7_3_0_24715_004?
+int Field_7_3_0_24715_005?
+int Field_7_3_0_24715_006?
+int Field_7_3_0_24715_007?
+int Field_7_3_0_24715_008?
 
 LAYOUT 216FF23E
 BUILD 7.3.0.24715

@@ -1,9 +1,9 @@
 COLUMNS
-int Field_7_3_0_24681_000
-locstring Field_7_3_0_24681_001_lang
-int Field_7_3_0_24681_002
-int Field_7_3_0_24681_003
-int Field_7_3_0_24681_004
+int Field_7_3_0_24681_000?
+locstring Field_7_3_0_24681_001_lang?
+int Field_7_3_0_24681_002?
+int Field_7_3_0_24681_003?
+int Field_7_3_0_24681_004?
 
 LAYOUT E3D5F2E2
 BUILD 7.3.0.24681

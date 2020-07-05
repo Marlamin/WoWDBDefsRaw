@@ -1,9 +1,9 @@
 COLUMNS
 int ID
-locstring Field_7_3_0_24843_000_lang
-locstring Field_7_3_0_24843_001_lang
-int Field_7_3_0_24843_002
-int Field_7_3_0_24843_003
+locstring Field_7_3_0_24843_000_lang?
+locstring Field_7_3_0_24843_001_lang?
+int Field_7_3_0_24843_002?
+int Field_7_3_0_24843_003?
 
 LAYOUT 7A58AA5F
 BUILD 7.3.0.24843

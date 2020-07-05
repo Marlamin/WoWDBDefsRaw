@@ -1,11 +1,11 @@
 COLUMNS
 int ID
-int Field_7_3_0_24563_000
-locstring Field_7_3_0_24563_001_lang
-locstring Field_7_3_0_24563_002_lang
-int Field_7_3_0_24563_003
-int Field_7_3_0_24563_004
-int Field_7_3_0_24563_005
+int Field_7_3_0_24563_000?
+locstring Field_7_3_0_24563_001_lang?
+locstring Field_7_3_0_24563_002_lang?
+int Field_7_3_0_24563_003?
+int Field_7_3_0_24563_004?
+int Field_7_3_0_24563_005?
 
 LAYOUT 6E55E113
 BUILD 7.3.0.24563

@@ -1,9 +1,9 @@
 COLUMNS
-string Field_7_3_0_24974_000
-string Field_7_3_0_24974_001
-int Field_7_3_0_24974_002
-int Field_7_3_0_24974_003
-int Field_7_3_0_24974_004
+string Field_7_3_0_24974_000?
+string Field_7_3_0_24974_001?
+int Field_7_3_0_24974_002?
+int Field_7_3_0_24974_003?
+int Field_7_3_0_24974_004?
 
 LAYOUT 63B4527B
 BUILD 7.3.0.24974

@@ -1,10 +1,10 @@
 COLUMNS
 int ID
-int Field_7_3_0_24896_000
-int Field_7_3_0_24896_001
-int Field_7_3_0_24896_002
-int Field_7_3_0_24896_003
-int Field_7_3_0_24896_004
+int Field_7_3_0_24896_000?
+int Field_7_3_0_24896_001?
+int Field_7_3_0_24896_002?
+int Field_7_3_0_24896_003?
+int Field_7_3_0_24896_004?
 
 LAYOUT 10991B3A
 BUILD 7.3.0.24896
