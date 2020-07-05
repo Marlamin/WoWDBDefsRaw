@@ -1,8 +1,8 @@
 COLUMNS
 int ID
-string Field_7_3_2_25549_000
-locstring Field_7_3_2_25549_001_lang
-int Field_7_3_2_25549_002
+string Field_7_3_2_25549_000?
+locstring Field_7_3_2_25549_001_lang?
+int Field_7_3_2_25549_002?
 
 LAYOUT 2CA3EA1E
 BUILD 7.3.2.25549

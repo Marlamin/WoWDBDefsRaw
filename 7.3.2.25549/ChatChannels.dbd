@@ -1,9 +1,9 @@
 COLUMNS
 int ID
-int Field_7_3_2_25549_000
-locstring Field_7_3_2_25549_001_lang
-locstring Field_7_3_2_25549_002_lang
-int Field_7_3_2_25549_003
+int Field_7_3_2_25549_000?
+locstring Field_7_3_2_25549_001_lang?
+locstring Field_7_3_2_25549_002_lang?
+int Field_7_3_2_25549_003?
 
 LAYOUT C97ED7F6
 BUILD 7.3.2.25549
