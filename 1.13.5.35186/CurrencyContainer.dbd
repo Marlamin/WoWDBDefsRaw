@@ -1,0 +1,22 @@
+COLUMNS
+int ID
+locstring Field_1_13_5_35186_000_lang?
+locstring Field_1_13_5_35186_001_lang?
+int Field_1_13_5_35186_002?
+int Field_1_13_5_35186_003?
+int Field_1_13_5_35186_004?
+int Field_1_13_5_35186_005?
+int Field_1_13_5_35186_006?
+int Field_1_13_5_35186_007?
+
+LAYOUT AC6030BF
+BUILD 1.13.5.35186
+$noninline,id$ID<32>
+Field_1_13_5_35186_000_lang
+Field_1_13_5_35186_001_lang
+Field_1_13_5_35186_002<32>
+Field_1_13_5_35186_003<32>
+Field_1_13_5_35186_004<32>
+Field_1_13_5_35186_005<32>
+Field_1_13_5_35186_006<32>
+$noninline,relation$Field_1_13_5_35186_007<32>
