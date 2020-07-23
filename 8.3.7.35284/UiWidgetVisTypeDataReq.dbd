@@ -1,0 +1,16 @@
+COLUMNS
+string Field_8_3_7_35284_000?
+int Field_8_3_7_35284_001?
+int Field_8_3_7_35284_002?
+int Field_8_3_7_35284_003?
+int Field_8_3_7_35284_004?
+int Field_8_3_7_35284_005?
+
+LAYOUT ED45A74E
+BUILD 8.3.7.35284
+Field_8_3_7_35284_000
+$id$Field_8_3_7_35284_001<32>
+Field_8_3_7_35284_002<32>
+Field_8_3_7_35284_003<32>
+Field_8_3_7_35284_004<32>
+$noninline,relation$Field_8_3_7_35284_005<32>

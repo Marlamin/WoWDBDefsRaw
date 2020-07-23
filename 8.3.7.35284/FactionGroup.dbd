@@ -1,0 +1,16 @@
+COLUMNS
+string Field_8_3_7_35284_000?
+locstring Field_8_3_7_35284_001_lang?
+int Field_8_3_7_35284_002?
+int Field_8_3_7_35284_003?
+int Field_8_3_7_35284_004?
+int Field_8_3_7_35284_005?
+
+LAYOUT 23EDF09E
+BUILD 8.3.7.35284
+Field_8_3_7_35284_000
+Field_8_3_7_35284_001_lang
+$id$Field_8_3_7_35284_002<32>
+Field_8_3_7_35284_003<u8>
+Field_8_3_7_35284_004<32>
+Field_8_3_7_35284_005<32>
