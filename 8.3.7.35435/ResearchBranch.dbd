@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+locstring Field_8_3_7_35435_000_lang?
+int Field_8_3_7_35435_001?
+int Field_8_3_7_35435_002?
+int Field_8_3_7_35435_003?
+int Field_8_3_7_35435_004?
+int Field_8_3_7_35435_005?
+
+LAYOUT E71C50A8
+BUILD 8.3.7.35435
+$noninline,id$ID<32>
+Field_8_3_7_35435_000_lang
+Field_8_3_7_35435_001<u8>
+Field_8_3_7_35435_002<u16>
+Field_8_3_7_35435_003<32>
+Field_8_3_7_35435_004<32>
+Field_8_3_7_35435_005<32>
