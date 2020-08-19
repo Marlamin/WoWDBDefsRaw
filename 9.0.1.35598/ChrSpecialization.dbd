@@ -1,0 +1,30 @@
+COLUMNS
+locstring Field_9_0_1_35598_000_lang?
+locstring Field_9_0_1_35598_001_lang?
+locstring Field_9_0_1_35598_002_lang?
+int Field_9_0_1_35598_003?
+int Field_9_0_1_35598_004?
+int Field_9_0_1_35598_005?
+int Field_9_0_1_35598_006?
+int Field_9_0_1_35598_007?
+int Field_9_0_1_35598_008?
+int Field_9_0_1_35598_009?
+int Field_9_0_1_35598_010?
+int Field_9_0_1_35598_011?
+int Field_9_0_1_35598_012?
+
+LAYOUT AC6102D2
+BUILD 9.0.1.35598
+Field_9_0_1_35598_000_lang
+Field_9_0_1_35598_001_lang
+Field_9_0_1_35598_002_lang
+$id$Field_9_0_1_35598_003<32>
+Field_9_0_1_35598_004<8>
+Field_9_0_1_35598_005<8>
+Field_9_0_1_35598_006<8>
+Field_9_0_1_35598_007<8>
+Field_9_0_1_35598_008<u32>
+Field_9_0_1_35598_009<32>
+Field_9_0_1_35598_010<8>
+Field_9_0_1_35598_011<32>
+Field_9_0_1_35598_012<32>[2]
