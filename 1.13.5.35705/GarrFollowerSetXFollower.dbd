@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+int Field_1_13_5_35705_000?
+int Field_1_13_5_35705_001?
+
+LAYOUT 621C60FF
+BUILD 1.13.5.35705
+$noninline,id$ID<32>
+Field_1_13_5_35705_000<32>
+$noninline,relation$Field_1_13_5_35705_001<32>
