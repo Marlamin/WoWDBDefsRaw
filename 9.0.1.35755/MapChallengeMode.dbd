@@ -1,0 +1,16 @@
+COLUMNS
+locstring Field_9_0_1_35755_000_lang?
+int Field_9_0_1_35755_001?
+int Field_9_0_1_35755_002?
+int Field_9_0_1_35755_003?
+int Field_9_0_1_35755_004?
+int Field_9_0_1_35755_005?
+
+LAYOUT 0531FF07
+BUILD 9.0.1.35755
+Field_9_0_1_35755_000_lang
+$id$Field_9_0_1_35755_001<32>
+$relation$Field_9_0_1_35755_002<u16>
+Field_9_0_1_35755_003<u8>
+Field_9_0_1_35755_004<u32>
+Field_9_0_1_35755_005<16>[3]
