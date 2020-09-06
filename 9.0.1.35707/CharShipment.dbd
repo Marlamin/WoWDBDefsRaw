@@ -13,7 +13,7 @@ int Field_9_0_1_35707_008?
 LAYOUT 43F2E414
 BUILD 9.0.1.35707
 $noninline,id$ID<32>
-Field_9_0_1_35707_000<u16>
+$relation$Field_9_0_1_35707_000<u16>
 Field_9_0_1_35707_001<32>
 Field_9_0_1_35707_002<u32>
 Field_9_0_1_35707_003<32>

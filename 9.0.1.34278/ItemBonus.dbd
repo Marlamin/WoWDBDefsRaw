@@ -9,6 +9,6 @@ LAYOUT 84110DA5
 BUILD 9.0.1.34278
 $noninline,id$ID<32>
 Field_9_0_1_34278_000<32>[4]
-Field_9_0_1_34278_001<u16>
+$relation$Field_9_0_1_34278_001<u16>
 Field_9_0_1_34278_002<u8>
 Field_9_0_1_34278_003<u8>

@@ -8,5 +8,5 @@ LAYOUT 78A33CF1
 BUILD 9.0.1.34081
 $noninline,id$ID<32>
 Field_9_0_1_34081_000_lang
-Field_9_0_1_34081_001<u32>
+$relation$Field_9_0_1_34081_001<u32>
 Field_9_0_1_34081_002<u16>

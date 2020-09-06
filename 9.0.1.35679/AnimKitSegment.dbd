@@ -23,7 +23,7 @@ float Field_9_0_1_35679_018?
 LAYOUT 3099BD1B
 BUILD 9.0.1.35679
 $noninline,id$ID<32>
-Field_9_0_1_35679_000<u16>
+$relation$Field_9_0_1_35679_000<u16>
 Field_9_0_1_35679_001<u8>
 Field_9_0_1_35679_002<u16>
 Field_9_0_1_35679_003<u32>
