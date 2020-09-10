@@ -1,0 +1,22 @@
+COLUMNS
+int ID
+int Field_9_0_1_35853_000?
+int Field_9_0_1_35853_001?
+int Field_9_0_1_35853_002?
+int Field_9_0_1_35853_003?
+int Field_9_0_1_35853_004?
+int Field_9_0_1_35853_005?
+float Field_9_0_1_35853_006?
+int Field_9_0_1_35853_007?
+
+LAYOUT ADBD2846
+BUILD 9.0.1.35853
+$noninline,id$ID<32>
+Field_9_0_1_35853_000<u32>
+Field_9_0_1_35853_001<u32>
+Field_9_0_1_35853_002<u32>
+Field_9_0_1_35853_003<u32>
+Field_9_0_1_35853_004<u32>
+Field_9_0_1_35853_005<u32>
+Field_9_0_1_35853_006
+Field_9_0_1_35853_007<u8>

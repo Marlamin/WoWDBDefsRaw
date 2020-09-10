@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int Field_9_0_1_35853_000?
+int Field_9_0_1_35853_001?
+int Field_9_0_1_35853_002?
+int Field_9_0_1_35853_003?
+int Field_9_0_1_35853_004?
+
+LAYOUT EAA72854
+BUILD 9.0.1.35853
+$noninline,id$ID<32>
+Field_9_0_1_35853_000<u8>
+Field_9_0_1_35853_001<u8>
+Field_9_0_1_35853_002<u8>
+Field_9_0_1_35853_003<32>
+$noninline,relation$Field_9_0_1_35853_004<32>
