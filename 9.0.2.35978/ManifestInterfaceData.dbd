@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+string Field_9_0_2_35978_000?
+string Field_9_0_2_35978_001?
+
+LAYOUT 9A4B7AC1
+BUILD 9.0.2.35978
+$noninline,id$ID<32>
+Field_9_0_2_35978_000
+Field_9_0_2_35978_001
