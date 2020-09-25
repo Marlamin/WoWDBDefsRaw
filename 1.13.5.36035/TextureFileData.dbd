@@ -1,0 +1,10 @@
+COLUMNS
+int Field_1_13_5_36035_000?
+int Field_1_13_5_36035_001?
+int Field_1_13_5_36035_002?
+
+LAYOUT 71D3BD92
+BUILD 1.13.5.36035
+$id$Field_1_13_5_36035_000<32>
+Field_1_13_5_36035_001<u8>
+$relation$Field_1_13_5_36035_002<32>
