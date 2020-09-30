@@ -1,0 +1,36 @@
+COLUMNS
+locstring Field_9_0_2_36086_000_lang?
+locstring Field_9_0_2_36086_001_lang?
+locstring Field_9_0_2_36086_002_lang?
+locstring Field_9_0_2_36086_003_lang?
+locstring Field_9_0_2_36086_004_lang?
+locstring Field_9_0_2_36086_005_lang?
+locstring Field_9_0_2_36086_006_lang?
+int Field_9_0_2_36086_007?
+int Field_9_0_2_36086_008?
+int Field_9_0_2_36086_009?
+int Field_9_0_2_36086_010?
+int Field_9_0_2_36086_011?
+int Field_9_0_2_36086_012?
+int Field_9_0_2_36086_013?
+int Field_9_0_2_36086_014?
+int Field_9_0_2_36086_015?
+
+LAYOUT CB8F573D
+BUILD 9.0.2.36086
+Field_9_0_2_36086_000_lang
+Field_9_0_2_36086_001_lang
+Field_9_0_2_36086_002_lang
+Field_9_0_2_36086_003_lang
+Field_9_0_2_36086_004_lang
+Field_9_0_2_36086_005_lang
+Field_9_0_2_36086_006_lang
+$id$Field_9_0_2_36086_007<32>
+Field_9_0_2_36086_008<32>
+Field_9_0_2_36086_009<32>
+Field_9_0_2_36086_010<8>
+Field_9_0_2_36086_011<32>
+Field_9_0_2_36086_012<32>
+Field_9_0_2_36086_013<32>
+Field_9_0_2_36086_014<32>
+Field_9_0_2_36086_015<32>
