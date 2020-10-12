@@ -1,0 +1,20 @@
+COLUMNS
+int Field_9_0_1_36200_000?
+float Field_9_0_1_36200_001?
+float Field_9_0_1_36200_002?
+float Field_9_0_1_36200_003?
+float Field_9_0_1_36200_004?
+float Field_9_0_1_36200_005?
+float Field_9_0_1_36200_006?
+float Field_9_0_1_36200_007?
+
+LAYOUT D7975681
+BUILD 9.0.1.36200
+$id$Field_9_0_1_36200_000<32>
+Field_9_0_1_36200_001
+Field_9_0_1_36200_002
+Field_9_0_1_36200_003
+Field_9_0_1_36200_004
+Field_9_0_1_36200_005
+Field_9_0_1_36200_006
+Field_9_0_1_36200_007
