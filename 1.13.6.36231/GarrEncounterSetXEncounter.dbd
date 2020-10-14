@@ -1,0 +1,10 @@
+COLUMNS
+int Field_1_13_6_36231_000?
+int Field_1_13_6_36231_001?
+int Field_1_13_6_36231_002?
+
+LAYOUT CA7143E7
+BUILD 1.13.6.36231
+$id$Field_1_13_6_36231_000<32>
+Field_1_13_6_36231_001<u32>
+$noninline,relation$Field_1_13_6_36231_002<u32>

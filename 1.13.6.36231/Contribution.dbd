@@ -1,0 +1,18 @@
+COLUMNS
+locstring Field_1_13_6_36231_000_lang?
+locstring Field_1_13_6_36231_001_lang?
+int Field_1_13_6_36231_002?
+int Field_1_13_6_36231_003?
+int Field_1_13_6_36231_004?
+int Field_1_13_6_36231_005?
+int Field_1_13_6_36231_006?
+
+LAYOUT 37C49135
+BUILD 1.13.6.36231
+Field_1_13_6_36231_000_lang
+Field_1_13_6_36231_001_lang
+$id$Field_1_13_6_36231_002<32>
+$relation$Field_1_13_6_36231_003<32>
+Field_1_13_6_36231_004<32>
+Field_1_13_6_36231_005<32>
+Field_1_13_6_36231_006<32>[4]
