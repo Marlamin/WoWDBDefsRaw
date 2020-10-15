@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+float Field_9_0_1_36247_000?
+float Field_9_0_1_36247_001?
+float Field_9_0_1_36247_002?
+float Field_9_0_1_36247_003?
+float Field_9_0_1_36247_004?
+float Field_9_0_1_36247_005?
+float Field_9_0_1_36247_006?
+
+LAYOUT 9E74A177
+BUILD 9.0.1.36247
+$noninline,id$ID<32>
+Field_9_0_1_36247_000
+Field_9_0_1_36247_001
+Field_9_0_1_36247_002
+Field_9_0_1_36247_003[5]
+Field_9_0_1_36247_004[5]
+Field_9_0_1_36247_005[2]
+Field_9_0_1_36247_006[2]
