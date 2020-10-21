@@ -1,0 +1,20 @@
+COLUMNS
+locstring Field_9_0_1_36322_000_lang?
+locstring Field_9_0_1_36322_001_lang?
+locstring Field_9_0_1_36322_002_lang?
+int Field_9_0_1_36322_003?
+int Field_9_0_1_36322_004?
+int Field_9_0_1_36322_005?
+int Field_9_0_1_36322_006?
+int Field_9_0_1_36322_007?
+
+LAYOUT B90D2171
+BUILD 9.0.1.36322
+Field_9_0_1_36322_000_lang
+Field_9_0_1_36322_001_lang
+Field_9_0_1_36322_002_lang
+$id$Field_9_0_1_36322_003<u32>
+Field_9_0_1_36322_004<u16>
+Field_9_0_1_36322_005<u16>
+Field_9_0_1_36322_006<u8>
+Field_9_0_1_36322_007<u8>
