@@ -1,0 +1,16 @@
+COLUMNS
+locstring Field_1_13_5_36325_000_lang?
+int Field_1_13_5_36325_001?
+int Field_1_13_5_36325_002?
+int Field_1_13_5_36325_003?
+int Field_1_13_5_36325_004?
+int Field_1_13_5_36325_005?
+
+LAYOUT 88A56A2F
+BUILD 1.13.5.36325
+Field_1_13_5_36325_000_lang
+$id$Field_1_13_5_36325_001<32>
+$relation$Field_1_13_5_36325_002<u16>
+Field_1_13_5_36325_003<32>
+Field_1_13_5_36325_004<32>
+Field_1_13_5_36325_005<u8>
