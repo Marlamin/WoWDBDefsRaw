@@ -1,0 +1,22 @@
+COLUMNS
+int ID
+string Field_9_0_2_36512_000?
+int Field_9_0_2_36512_001?
+int Field_9_0_2_36512_002?
+int Field_9_0_2_36512_003?
+int Field_9_0_2_36512_004?
+int Field_9_0_2_36512_005?
+int Field_9_0_2_36512_006?
+int Field_9_0_2_36512_007?
+
+LAYOUT 540D504A
+BUILD 9.0.2.36512
+$noninline,id$ID<32>
+Field_9_0_2_36512_000
+Field_9_0_2_36512_001<u32>
+Field_9_0_2_36512_002<u16>
+Field_9_0_2_36512_003<u8>
+Field_9_0_2_36512_004<u8>
+Field_9_0_2_36512_005<u8>
+Field_9_0_2_36512_006<u8>
+Field_9_0_2_36512_007<32>

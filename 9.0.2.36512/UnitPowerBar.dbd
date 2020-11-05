@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+locstring Field_9_0_2_36512_000_lang?
+locstring Field_9_0_2_36512_001_lang?
+locstring Field_9_0_2_36512_002_lang?
+locstring Field_9_0_2_36512_003_lang?
+int Field_9_0_2_36512_004?
+int Field_9_0_2_36512_005?
+int Field_9_0_2_36512_006?
+int Field_9_0_2_36512_007?
+float Field_9_0_2_36512_008?
+float Field_9_0_2_36512_009?
+int Field_9_0_2_36512_010?
+int Field_9_0_2_36512_011?
+float Field_9_0_2_36512_012?
+float Field_9_0_2_36512_013?
+int Field_9_0_2_36512_014?
+int Field_9_0_2_36512_015?
+
+LAYOUT B6CED45F
+BUILD 9.0.2.36512
+$noninline,id$ID<32>
+Field_9_0_2_36512_000_lang
+Field_9_0_2_36512_001_lang
+Field_9_0_2_36512_002_lang
+Field_9_0_2_36512_003_lang
+Field_9_0_2_36512_004<u32>
+Field_9_0_2_36512_005<u32>
+Field_9_0_2_36512_006<u32>
+Field_9_0_2_36512_007<u8>
+Field_9_0_2_36512_008
+Field_9_0_2_36512_009
+Field_9_0_2_36512_010<u8>
+Field_9_0_2_36512_011<u16>
+Field_9_0_2_36512_012
+Field_9_0_2_36512_013
+Field_9_0_2_36512_014<32>[6]
+Field_9_0_2_36512_015<32>[6]
