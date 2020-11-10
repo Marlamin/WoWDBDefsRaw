@@ -1,0 +1,20 @@
+COLUMNS
+locstring Field_9_0_1_36577_000_lang?
+int Field_9_0_1_36577_001?
+int Field_9_0_1_36577_002?
+int Field_9_0_1_36577_003?
+int Field_9_0_1_36577_004?
+int Field_9_0_1_36577_005?
+int Field_9_0_1_36577_006?
+int Field_9_0_1_36577_007?
+
+LAYOUT CE94DFDA
+BUILD 9.0.1.36577
+Field_9_0_1_36577_000_lang
+$id$Field_9_0_1_36577_001<32>
+Field_9_0_1_36577_002<32>
+Field_9_0_1_36577_003<32>
+Field_9_0_1_36577_004<32>
+Field_9_0_1_36577_005<32>
+Field_9_0_1_36577_006<32>[3]
+$noninline,relation$Field_9_0_1_36577_007<32>
