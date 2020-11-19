@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int Field_1_13_6_36670_000?
+int Field_1_13_6_36670_001?
+int Field_1_13_6_36670_002?
+
+LAYOUT CD407FA1
+BUILD 1.13.6.36670
+$noninline,id$ID<32>
+Field_1_13_6_36670_000<32>
+Field_1_13_6_36670_001<32>
+Field_1_13_6_36670_002<u32>
