@@ -1,0 +1,82 @@
+COLUMNS
+locstring Field_9_0_2_36734_000_lang?
+string Field_9_0_2_36734_001?
+locstring Field_9_0_2_36734_002_lang?
+locstring Field_9_0_2_36734_003_lang?
+string Field_9_0_2_36734_004?
+locstring Field_9_0_2_36734_005_lang?
+locstring Field_9_0_2_36734_006_lang?
+locstring Field_9_0_2_36734_007_lang?
+locstring Field_9_0_2_36734_008_lang?
+locstring Field_9_0_2_36734_009_lang?
+int Field_9_0_2_36734_010?
+int Field_9_0_2_36734_011?
+int Field_9_0_2_36734_012?
+int Field_9_0_2_36734_013?
+int Field_9_0_2_36734_014?
+int Field_9_0_2_36734_015?
+int Field_9_0_2_36734_016?
+int Field_9_0_2_36734_017?
+int Field_9_0_2_36734_018?
+int Field_9_0_2_36734_019?
+int Field_9_0_2_36734_020?
+int Field_9_0_2_36734_021?
+int Field_9_0_2_36734_022?
+int Field_9_0_2_36734_023?
+int Field_9_0_2_36734_024?
+int Field_9_0_2_36734_025?
+int Field_9_0_2_36734_026?
+int Field_9_0_2_36734_027?
+int Field_9_0_2_36734_028?
+int Field_9_0_2_36734_029?
+int Field_9_0_2_36734_030?
+int Field_9_0_2_36734_031?
+int Field_9_0_2_36734_032?
+int Field_9_0_2_36734_033?
+int Field_9_0_2_36734_034?
+int Field_9_0_2_36734_035?
+int Field_9_0_2_36734_036?
+int Field_9_0_2_36734_037?
+int Field_9_0_2_36734_038?
+
+LAYOUT 7EF5ADB3
+BUILD 9.0.2.36734
+Field_9_0_2_36734_000_lang
+Field_9_0_2_36734_001
+Field_9_0_2_36734_002_lang
+Field_9_0_2_36734_003_lang
+Field_9_0_2_36734_004
+Field_9_0_2_36734_005_lang
+Field_9_0_2_36734_006_lang
+Field_9_0_2_36734_007_lang
+Field_9_0_2_36734_008_lang
+Field_9_0_2_36734_009_lang
+$id$Field_9_0_2_36734_010<32>
+Field_9_0_2_36734_011<u32>
+Field_9_0_2_36734_012<u32>
+Field_9_0_2_36734_013<u32>
+Field_9_0_2_36734_014<u32>
+Field_9_0_2_36734_015<u32>
+Field_9_0_2_36734_016<u32>
+Field_9_0_2_36734_017<u32>
+Field_9_0_2_36734_018<u32>
+Field_9_0_2_36734_019<32>
+Field_9_0_2_36734_020<32>
+Field_9_0_2_36734_021<32>
+Field_9_0_2_36734_022<32>
+Field_9_0_2_36734_023<32>
+Field_9_0_2_36734_024<32>
+Field_9_0_2_36734_025<32>
+Field_9_0_2_36734_026<32>
+Field_9_0_2_36734_027<32>
+Field_9_0_2_36734_028<u16>
+Field_9_0_2_36734_029<u16>
+Field_9_0_2_36734_030<u8>
+Field_9_0_2_36734_031<u8>
+Field_9_0_2_36734_032<u8>
+Field_9_0_2_36734_033<u8>
+Field_9_0_2_36734_034<u8>
+Field_9_0_2_36734_035<u8>
+Field_9_0_2_36734_036<u8>
+Field_9_0_2_36734_037<u8>
+Field_9_0_2_36734_038<u8>

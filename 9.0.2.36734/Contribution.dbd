@@ -1,0 +1,18 @@
+COLUMNS
+locstring Field_9_0_2_36734_000_lang?
+locstring Field_9_0_2_36734_001_lang?
+int Field_9_0_2_36734_002?
+int Field_9_0_2_36734_003?
+int Field_9_0_2_36734_004?
+int Field_9_0_2_36734_005?
+int Field_9_0_2_36734_006?
+
+LAYOUT 6D42FEB5
+BUILD 9.0.2.36734
+Field_9_0_2_36734_000_lang
+Field_9_0_2_36734_001_lang
+$id$Field_9_0_2_36734_002<32>
+$relation$Field_9_0_2_36734_003<32>
+Field_9_0_2_36734_004<32>
+Field_9_0_2_36734_005<32>
+Field_9_0_2_36734_006<32>[4]
