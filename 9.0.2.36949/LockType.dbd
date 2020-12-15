@@ -1,0 +1,16 @@
+COLUMNS
+locstring Field_9_0_2_36949_000_lang?
+locstring Field_9_0_2_36949_001_lang?
+locstring Field_9_0_2_36949_002_lang?
+string Field_9_0_2_36949_003?
+int Field_9_0_2_36949_004?
+int Field_9_0_2_36949_005?
+
+LAYOUT C811899B
+BUILD 9.0.2.36949
+Field_9_0_2_36949_000_lang
+Field_9_0_2_36949_001_lang
+Field_9_0_2_36949_002_lang
+Field_9_0_2_36949_003
+$id$Field_9_0_2_36949_004<32>
+Field_9_0_2_36949_005<32>
