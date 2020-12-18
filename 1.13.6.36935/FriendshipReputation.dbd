@@ -1,0 +1,12 @@
+COLUMNS
+locstring Field_1_13_6_36935_000_lang?
+int Field_1_13_6_36935_001?
+int Field_1_13_6_36935_002?
+int Field_1_13_6_36935_003?
+
+LAYOUT ECCE459C
+BUILD 1.13.6.36935
+Field_1_13_6_36935_000_lang
+$id$Field_1_13_6_36935_001<u32>
+Field_1_13_6_36935_002<u16>
+Field_1_13_6_36935_003<32>
