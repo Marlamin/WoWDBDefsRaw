@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_1_13_7_37279_000?
+int Field_1_13_7_37279_001?
+int Field_1_13_7_37279_002?
+float Field_1_13_7_37279_003?
+
+LAYOUT CBC66B5F
+BUILD 1.13.7.37279
+$noninline,id$ID<32>
+$relation$Field_1_13_7_37279_000<u32>
+Field_1_13_7_37279_001<32>
+Field_1_13_7_37279_002<u8>
+Field_1_13_7_37279_003
