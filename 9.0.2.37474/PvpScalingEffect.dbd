@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int Field_9_0_2_37474_000?
+int Field_9_0_2_37474_001?
+float Field_9_0_2_37474_002?
+
+LAYOUT 3DDA2316
+BUILD 9.0.2.37474
+$noninline,id$ID<32>
+Field_9_0_2_37474_000<32>
+$relation$Field_9_0_2_37474_001<32>
+Field_9_0_2_37474_002
