@@ -1,0 +1,14 @@
+COLUMNS
+string Field_9_0_5_37862_000?
+int Field_9_0_5_37862_001?
+int Field_9_0_5_37862_002?
+int Field_9_0_5_37862_003?
+int Field_9_0_5_37862_004?
+
+LAYOUT 1DD3B137
+BUILD 9.0.5.37862
+Field_9_0_5_37862_000
+$id$Field_9_0_5_37862_001<32>
+Field_9_0_5_37862_002<32>
+Field_9_0_5_37862_003<32>
+$noninline,relation$Field_9_0_5_37862_004<32>
