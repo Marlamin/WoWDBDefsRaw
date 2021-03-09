@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+int Field_9_0_5_37864_000?
+float Field_9_0_5_37864_001?
+float Field_9_0_5_37864_002?
+float Field_9_0_5_37864_003?
+int Field_9_0_5_37864_004?
+float Field_9_0_5_37864_005?
+float Field_9_0_5_37864_006?
+float Field_9_0_5_37864_007?
+float Field_9_0_5_37864_008?
+
+LAYOUT BD80DBD9
+BUILD 9.0.5.37864
+$noninline,id$ID<32>
+Field_9_0_5_37864_000<32>
+Field_9_0_5_37864_001
+Field_9_0_5_37864_002
+Field_9_0_5_37864_003
+Field_9_0_5_37864_004<32>[3]
+Field_9_0_5_37864_005[3]
+Field_9_0_5_37864_006[3]
+Field_9_0_5_37864_007[3]
+Field_9_0_5_37864_008[3]

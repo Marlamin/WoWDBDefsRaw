@@ -1,0 +1,12 @@
+COLUMNS
+locstring Field_9_0_5_37864_000_lang?
+locstring Field_9_0_5_37864_001_lang?
+int Field_9_0_5_37864_002?
+int Field_9_0_5_37864_003?
+
+LAYOUT B4340B7C
+BUILD 9.0.5.37864
+Field_9_0_5_37864_000_lang
+Field_9_0_5_37864_001_lang
+$id$Field_9_0_5_37864_002<32>
+Field_9_0_5_37864_003<32>

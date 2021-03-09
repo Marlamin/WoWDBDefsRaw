@@ -1,0 +1,34 @@
+COLUMNS
+int ID
+locstring Field_9_0_5_37864_000_lang?
+float Field_9_0_5_37864_001?
+int Field_9_0_5_37864_002?
+int Field_9_0_5_37864_003?
+int Field_9_0_5_37864_004?
+int Field_9_0_5_37864_005?
+int Field_9_0_5_37864_006?
+int Field_9_0_5_37864_007?
+int Field_9_0_5_37864_008?
+int Field_9_0_5_37864_009?
+int Field_9_0_5_37864_010?
+float Field_9_0_5_37864_011?
+int Field_9_0_5_37864_012?
+int Field_9_0_5_37864_013?
+
+LAYOUT F22C193E
+BUILD 9.0.5.37864
+$noninline,id$ID<32>
+Field_9_0_5_37864_000_lang
+Field_9_0_5_37864_001[3]
+Field_9_0_5_37864_002<u8>
+Field_9_0_5_37864_003<32>
+Field_9_0_5_37864_004<32>
+Field_9_0_5_37864_005<32>
+Field_9_0_5_37864_006<32>
+Field_9_0_5_37864_007<32>
+Field_9_0_5_37864_008<32>
+Field_9_0_5_37864_009<32>
+Field_9_0_5_37864_010<32>
+Field_9_0_5_37864_011
+Field_9_0_5_37864_012<32>
+$noninline,relation$Field_9_0_5_37864_013<u8>
