@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_9_0_5_37988_000?
+int Field_9_0_5_37988_001?
+int Field_9_0_5_37988_002?
+int Field_9_0_5_37988_003?
+float Field_9_0_5_37988_004?
+int Field_9_0_5_37988_005?
+
+LAYOUT CAD7FE83
+BUILD 9.0.5.37988
+$noninline,id$ID<32>
+Field_9_0_5_37988_000<u32>
+Field_9_0_5_37988_001<u32>
+Field_9_0_5_37988_002<32>
+Field_9_0_5_37988_003<32>
+Field_9_0_5_37988_004
+Field_9_0_5_37988_005<u32>[2]
