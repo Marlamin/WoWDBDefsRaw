@@ -1,0 +1,18 @@
+COLUMNS
+locstring Field_2_5_1_38118_000_lang?
+string Field_2_5_1_38118_001?
+locstring Field_2_5_1_38118_002_lang?
+int Field_2_5_1_38118_003?
+int Field_2_5_1_38118_004?
+int Field_2_5_1_38118_005?
+int Field_2_5_1_38118_006?
+
+LAYOUT E317A3DC
+BUILD 2.5.1.38118
+Field_2_5_1_38118_000_lang
+Field_2_5_1_38118_001
+Field_2_5_1_38118_002_lang
+$id$Field_2_5_1_38118_003<u32>
+Field_2_5_1_38118_004<u32>
+Field_2_5_1_38118_005<u32>
+Field_2_5_1_38118_006<u32>

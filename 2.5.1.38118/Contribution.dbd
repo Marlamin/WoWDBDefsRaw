@@ -1,0 +1,18 @@
+COLUMNS
+locstring Field_2_5_1_38118_000_lang?
+locstring Field_2_5_1_38118_001_lang?
+int Field_2_5_1_38118_002?
+int Field_2_5_1_38118_003?
+int Field_2_5_1_38118_004?
+int Field_2_5_1_38118_005?
+int Field_2_5_1_38118_006?
+
+LAYOUT 6D42FEB5
+BUILD 2.5.1.38118
+Field_2_5_1_38118_000_lang
+Field_2_5_1_38118_001_lang
+$id$Field_2_5_1_38118_002<32>
+$relation$Field_2_5_1_38118_003<32>
+Field_2_5_1_38118_004<32>
+Field_2_5_1_38118_005<32>
+Field_2_5_1_38118_006<32>[4]
