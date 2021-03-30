@@ -1,0 +1,52 @@
+COLUMNS
+int ID
+string Field_9_0_5_38134_000?
+int Field_9_0_5_38134_001?
+float Field_9_0_5_38134_002?
+float Field_9_0_5_38134_003?
+float Field_9_0_5_38134_004?
+int Field_9_0_5_38134_005?
+int Field_9_0_5_38134_006?
+float Field_9_0_5_38134_007?
+int Field_9_0_5_38134_008?
+float Field_9_0_5_38134_009?
+int Field_9_0_5_38134_010?
+float Field_9_0_5_38134_011?
+float Field_9_0_5_38134_012?
+float Field_9_0_5_38134_013?
+int Field_9_0_5_38134_014?
+float Field_9_0_5_38134_015?
+float Field_9_0_5_38134_016?
+float Field_9_0_5_38134_017?
+float Field_9_0_5_38134_018?
+float Field_9_0_5_38134_019?
+float Field_9_0_5_38134_020?
+float Field_9_0_5_38134_021?
+int Field_9_0_5_38134_022?
+
+LAYOUT FE1AD33D
+BUILD 9.0.5.38134
+$noninline,id$ID<32>
+Field_9_0_5_38134_000
+Field_9_0_5_38134_001<8>
+Field_9_0_5_38134_002
+Field_9_0_5_38134_003
+Field_9_0_5_38134_004
+Field_9_0_5_38134_005<16>
+Field_9_0_5_38134_006<16>
+Field_9_0_5_38134_007
+Field_9_0_5_38134_008<16>
+Field_9_0_5_38134_009
+Field_9_0_5_38134_010<16>
+Field_9_0_5_38134_011
+Field_9_0_5_38134_012
+Field_9_0_5_38134_013
+Field_9_0_5_38134_014<8>
+Field_9_0_5_38134_015
+Field_9_0_5_38134_016
+Field_9_0_5_38134_017
+Field_9_0_5_38134_018
+Field_9_0_5_38134_019
+Field_9_0_5_38134_020
+Field_9_0_5_38134_021
+Field_9_0_5_38134_022<u16>
