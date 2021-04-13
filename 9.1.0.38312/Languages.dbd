@@ -1,0 +1,8 @@
+COLUMNS
+locstring Field_9_1_0_38312_000_lang?
+int Field_9_1_0_38312_001?
+
+LAYOUT 8DD4A016
+BUILD 9.1.0.38312
+Field_9_1_0_38312_000_lang
+$id$Field_9_1_0_38312_001<u32>
