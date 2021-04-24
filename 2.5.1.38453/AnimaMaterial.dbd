@@ -1,0 +1,68 @@
+COLUMNS
+int ID
+float Field_2_5_1_38453_000?
+float Field_2_5_1_38453_001?
+float Field_2_5_1_38453_002?
+float Field_2_5_1_38453_003?
+float Field_2_5_1_38453_004?
+float Field_2_5_1_38453_005?
+float Field_2_5_1_38453_006?
+float Field_2_5_1_38453_007?
+float Field_2_5_1_38453_008?
+float Field_2_5_1_38453_009?
+float Field_2_5_1_38453_010?
+float Field_2_5_1_38453_011?
+float Field_2_5_1_38453_012?
+float Field_2_5_1_38453_013?
+float Field_2_5_1_38453_014?
+float Field_2_5_1_38453_015?
+float Field_2_5_1_38453_016?
+float Field_2_5_1_38453_017?
+float Field_2_5_1_38453_018?
+float Field_2_5_1_38453_019?
+float Field_2_5_1_38453_020?
+float Field_2_5_1_38453_021?
+float Field_2_5_1_38453_022?
+float Field_2_5_1_38453_023?
+int Field_2_5_1_38453_024?
+float Field_2_5_1_38453_025?
+float Field_2_5_1_38453_026?
+int Field_2_5_1_38453_027?
+int Field_2_5_1_38453_028?
+float Field_2_5_1_38453_029?
+int Field_2_5_1_38453_030?
+
+LAYOUT 23D776A4
+BUILD 2.5.1.38453
+$noninline,id$ID<32>
+Field_2_5_1_38453_000
+Field_2_5_1_38453_001
+Field_2_5_1_38453_002
+Field_2_5_1_38453_003
+Field_2_5_1_38453_004
+Field_2_5_1_38453_005
+Field_2_5_1_38453_006
+Field_2_5_1_38453_007
+Field_2_5_1_38453_008
+Field_2_5_1_38453_009
+Field_2_5_1_38453_010
+Field_2_5_1_38453_011
+Field_2_5_1_38453_012
+Field_2_5_1_38453_013
+Field_2_5_1_38453_014
+Field_2_5_1_38453_015
+Field_2_5_1_38453_016
+Field_2_5_1_38453_017
+Field_2_5_1_38453_018
+Field_2_5_1_38453_019
+Field_2_5_1_38453_020
+Field_2_5_1_38453_021
+Field_2_5_1_38453_022
+Field_2_5_1_38453_023
+Field_2_5_1_38453_024<32>
+Field_2_5_1_38453_025
+Field_2_5_1_38453_026
+Field_2_5_1_38453_027<32>
+Field_2_5_1_38453_028<32>
+Field_2_5_1_38453_029
+Field_2_5_1_38453_030<32>[3]
