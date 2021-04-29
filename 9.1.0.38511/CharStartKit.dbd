@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+locstring Field_9_1_0_38511_000_lang?
+float Field_9_1_0_38511_001?
+float Field_9_1_0_38511_002?
+float Field_9_1_0_38511_003?
+int Field_9_1_0_38511_004?
+int Field_9_1_0_38511_005?
+int Field_9_1_0_38511_006?
+int Field_9_1_0_38511_007?
+int Field_9_1_0_38511_008?
+int Field_9_1_0_38511_009?
+int Field_9_1_0_38511_010?
+int Field_9_1_0_38511_011?
+int Field_9_1_0_38511_012?
+float Field_9_1_0_38511_013?
+int Field_9_1_0_38511_014?
+int Field_9_1_0_38511_015?
+
+LAYOUT 25F9934B
+BUILD 9.1.0.38511
+$noninline,id$ID<32>
+Field_9_1_0_38511_000_lang
+Field_9_1_0_38511_001[3]
+Field_9_1_0_38511_002[3]
+Field_9_1_0_38511_003[3]
+Field_9_1_0_38511_004<u8>
+Field_9_1_0_38511_005<32>
+Field_9_1_0_38511_006<32>
+Field_9_1_0_38511_007<32>
+Field_9_1_0_38511_008<32>
+Field_9_1_0_38511_009<32>
+Field_9_1_0_38511_010<32>
+Field_9_1_0_38511_011<32>
+Field_9_1_0_38511_012<32>
+Field_9_1_0_38511_013
+Field_9_1_0_38511_014<32>
+$noninline,relation$Field_9_1_0_38511_015<u8>
