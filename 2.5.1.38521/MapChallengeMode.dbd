@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_2_5_1_38521_000_lang?
+int Field_2_5_1_38521_001?
+int Field_2_5_1_38521_002?
+int Field_2_5_1_38521_003?
+int Field_2_5_1_38521_004?
+
+LAYOUT D1A78B20
+BUILD 2.5.1.38521
+Field_2_5_1_38521_000_lang
+$id$Field_2_5_1_38521_001<32>
+$relation$Field_2_5_1_38521_002<u16>
+Field_2_5_1_38521_003<u8>
+Field_2_5_1_38521_004<16>[3]

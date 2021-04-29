@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+locstring Field_2_5_1_38521_000_lang?
+int Field_2_5_1_38521_001?
+int Field_2_5_1_38521_002?
+int Field_2_5_1_38521_003?
+int Field_2_5_1_38521_004?
+
+LAYOUT 189535BF
+BUILD 2.5.1.38521
+$noninline,id$ID<32>
+Field_2_5_1_38521_000_lang
+Field_2_5_1_38521_001<u32>
+Field_2_5_1_38521_002<u32>
+Field_2_5_1_38521_003<u16>
+Field_2_5_1_38521_004<u32>[17]
