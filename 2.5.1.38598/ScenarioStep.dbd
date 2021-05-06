@@ -1,0 +1,28 @@
+COLUMNS
+int ID
+locstring Field_2_5_1_38598_000_lang?
+locstring Field_2_5_1_38598_001_lang?
+int Field_2_5_1_38598_002?
+int Field_2_5_1_38598_003?
+int Field_2_5_1_38598_004?
+int Field_2_5_1_38598_005?
+int Field_2_5_1_38598_006?
+int Field_2_5_1_38598_007?
+int Field_2_5_1_38598_008?
+int Field_2_5_1_38598_009?
+int Field_2_5_1_38598_010?
+
+LAYOUT 2E81EBA9
+BUILD 2.5.1.38598
+$noninline,id$ID<32>
+Field_2_5_1_38598_000_lang
+Field_2_5_1_38598_001_lang
+$relation$Field_2_5_1_38598_002<u16>
+Field_2_5_1_38598_003<u32>
+Field_2_5_1_38598_004<u32>
+Field_2_5_1_38598_005<32>
+Field_2_5_1_38598_006<u16>
+Field_2_5_1_38598_007<u8>
+Field_2_5_1_38598_008<u8>
+Field_2_5_1_38598_009<u32>
+Field_2_5_1_38598_010<u16>
