@@ -1,0 +1,14 @@
+COLUMNS
+float Field_9_1_0_38627_000?
+int Field_9_1_0_38627_001?
+int Field_9_1_0_38627_002?
+int Field_9_1_0_38627_003?
+int Field_9_1_0_38627_004?
+
+LAYOUT DB36FC65
+BUILD 9.1.0.38627
+Field_9_1_0_38627_000[2]
+$id$Field_9_1_0_38627_001<32>
+$relation$Field_9_1_0_38627_002<u8>
+Field_9_1_0_38627_003<u16>
+Field_9_1_0_38627_004<u16>
