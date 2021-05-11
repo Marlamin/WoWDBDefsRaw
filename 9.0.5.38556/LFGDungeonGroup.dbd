@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+locstring Field_9_0_5_38556_000_lang?
+int Field_9_0_5_38556_001?
+int Field_9_0_5_38556_002?
+int Field_9_0_5_38556_003?
+
+LAYOUT FDF860DD
+BUILD 9.0.5.38556
+$noninline,id$ID<32>
+Field_9_0_5_38556_000_lang
+Field_9_0_5_38556_001<u8>
+Field_9_0_5_38556_002<u8>
+Field_9_0_5_38556_003<u16>

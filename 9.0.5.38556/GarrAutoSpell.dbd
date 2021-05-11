@@ -1,0 +1,20 @@
+COLUMNS
+locstring Field_9_0_5_38556_000_lang?
+locstring Field_9_0_5_38556_001_lang?
+int Field_9_0_5_38556_002?
+int Field_9_0_5_38556_003?
+int Field_9_0_5_38556_004?
+int Field_9_0_5_38556_005?
+int Field_9_0_5_38556_006?
+int Field_9_0_5_38556_007?
+
+LAYOUT DFD06B4A
+BUILD 9.0.5.38556
+Field_9_0_5_38556_000_lang
+Field_9_0_5_38556_001_lang
+$id$Field_9_0_5_38556_002<32>
+Field_9_0_5_38556_003<32>
+Field_9_0_5_38556_004<32>
+Field_9_0_5_38556_005<32>
+Field_9_0_5_38556_006<32>
+Field_9_0_5_38556_007<32>
