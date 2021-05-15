@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+string Field_2_5_1_38677_000?
+float Field_2_5_1_38677_001?
+int Field_2_5_1_38677_002?
+int Field_2_5_1_38677_003?
+float Field_2_5_1_38677_004?
+float Field_2_5_1_38677_005?
+
+LAYOUT 21FD4DC2
+BUILD 2.5.1.38677
+$noninline,id$ID<32>
+Field_2_5_1_38677_000
+Field_2_5_1_38677_001[6]
+Field_2_5_1_38677_002<32>
+Field_2_5_1_38677_003<16>
+Field_2_5_1_38677_004
+Field_2_5_1_38677_005
