@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+string Field_2_5_1_38835_000?
+int Field_2_5_1_38835_001?
+
+LAYOUT 6C600BD2
+BUILD 2.5.1.38835
+$noninline,id$ID<32>
+Field_2_5_1_38835_000
+Field_2_5_1_38835_001<u16>
