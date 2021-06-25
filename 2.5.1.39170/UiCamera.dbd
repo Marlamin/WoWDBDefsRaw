@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+string Field_2_5_1_39170_000?
+float Field_2_5_1_39170_001?
+float Field_2_5_1_39170_002?
+float Field_2_5_1_39170_003?
+int Field_2_5_1_39170_004?
+int Field_2_5_1_39170_005?
+int Field_2_5_1_39170_006?
+int Field_2_5_1_39170_007?
+int Field_2_5_1_39170_008?
+
+LAYOUT EA5339C9
+BUILD 2.5.1.39170
+$noninline,id$ID<32>
+Field_2_5_1_39170_000
+Field_2_5_1_39170_001[3]
+Field_2_5_1_39170_002[3]
+Field_2_5_1_39170_003[3]
+Field_2_5_1_39170_004<u8>
+Field_2_5_1_39170_005<32>
+Field_2_5_1_39170_006<16>
+Field_2_5_1_39170_007<8>
+Field_2_5_1_39170_008<u8>
