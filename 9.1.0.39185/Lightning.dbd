@@ -1,0 +1,74 @@
+COLUMNS
+int ID
+float Field_9_1_0_39185_000?
+int Field_9_1_0_39185_001?
+float Field_9_1_0_39185_002?
+float Field_9_1_0_39185_003?
+float Field_9_1_0_39185_004?
+float Field_9_1_0_39185_005?
+float Field_9_1_0_39185_006?
+float Field_9_1_0_39185_007?
+float Field_9_1_0_39185_008?
+float Field_9_1_0_39185_009?
+float Field_9_1_0_39185_010?
+float Field_9_1_0_39185_011?
+int Field_9_1_0_39185_012?
+float Field_9_1_0_39185_013?
+float Field_9_1_0_39185_014?
+float Field_9_1_0_39185_015?
+float Field_9_1_0_39185_016?
+float Field_9_1_0_39185_017?
+float Field_9_1_0_39185_018?
+float Field_9_1_0_39185_019?
+float Field_9_1_0_39185_020?
+int Field_9_1_0_39185_021?
+int Field_9_1_0_39185_022?
+float Field_9_1_0_39185_023?
+float Field_9_1_0_39185_024?
+float Field_9_1_0_39185_025?
+float Field_9_1_0_39185_026?
+float Field_9_1_0_39185_027?
+float Field_9_1_0_39185_028?
+float Field_9_1_0_39185_029?
+float Field_9_1_0_39185_030?
+float Field_9_1_0_39185_031?
+float Field_9_1_0_39185_032?
+float Field_9_1_0_39185_033?
+
+LAYOUT 5CA01131
+BUILD 9.1.0.39185
+$noninline,id$ID<32>
+Field_9_1_0_39185_000[2]
+Field_9_1_0_39185_001<32>[3]
+Field_9_1_0_39185_002
+Field_9_1_0_39185_003
+Field_9_1_0_39185_004
+Field_9_1_0_39185_005
+Field_9_1_0_39185_006
+Field_9_1_0_39185_007
+Field_9_1_0_39185_008
+Field_9_1_0_39185_009
+Field_9_1_0_39185_010
+Field_9_1_0_39185_011
+Field_9_1_0_39185_012<32>
+Field_9_1_0_39185_013
+Field_9_1_0_39185_014
+Field_9_1_0_39185_015
+Field_9_1_0_39185_016
+Field_9_1_0_39185_017
+Field_9_1_0_39185_018
+Field_9_1_0_39185_019
+Field_9_1_0_39185_020
+Field_9_1_0_39185_021<32>
+Field_9_1_0_39185_022<32>
+Field_9_1_0_39185_023
+Field_9_1_0_39185_024
+Field_9_1_0_39185_025
+Field_9_1_0_39185_026
+Field_9_1_0_39185_027
+Field_9_1_0_39185_028
+Field_9_1_0_39185_029
+Field_9_1_0_39185_030
+Field_9_1_0_39185_031
+Field_9_1_0_39185_032
+Field_9_1_0_39185_033
