@@ -1,0 +1,10 @@
+COLUMNS
+locstring Field_9_1_0_39262_000_lang?
+int Field_9_1_0_39262_001?
+int Field_9_1_0_39262_002?
+
+LAYOUT D1138CDD
+BUILD 9.1.0.39262
+Field_9_1_0_39262_000_lang
+$id$Field_9_1_0_39262_001<32>
+$relation$Field_9_1_0_39262_002<32>
