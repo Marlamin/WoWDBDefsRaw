@@ -1,0 +1,12 @@
+COLUMNS
+int Field_9_1_0_39335_000?
+int Field_9_1_0_39335_001?
+int Field_9_1_0_39335_002?
+int Field_9_1_0_39335_003?
+
+LAYOUT 0ECA5A01
+BUILD 9.1.0.39335
+$id$Field_9_1_0_39335_000<32>
+$relation$Field_9_1_0_39335_001<u16>
+Field_9_1_0_39335_002<u16>
+Field_9_1_0_39335_003<u32>
