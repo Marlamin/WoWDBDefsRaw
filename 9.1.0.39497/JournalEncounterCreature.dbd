@@ -1,0 +1,20 @@
+COLUMNS
+locstring Field_9_1_0_39497_000_lang?
+locstring Field_9_1_0_39497_001_lang?
+int Field_9_1_0_39497_002?
+int Field_9_1_0_39497_003?
+int Field_9_1_0_39497_004?
+int Field_9_1_0_39497_005?
+int Field_9_1_0_39497_006?
+int Field_9_1_0_39497_007?
+
+LAYOUT 56FA3951
+BUILD 9.1.0.39497
+Field_9_1_0_39497_000_lang
+Field_9_1_0_39497_001_lang
+$id$Field_9_1_0_39497_002<32>
+$relation$Field_9_1_0_39497_003<u16>
+Field_9_1_0_39497_004<u32>
+Field_9_1_0_39497_005<u32>
+Field_9_1_0_39497_006<u8>
+Field_9_1_0_39497_007<u32>
