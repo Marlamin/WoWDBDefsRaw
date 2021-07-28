@@ -1,0 +1,18 @@
+COLUMNS
+locstring Field_9_1_0_39584_000_lang?
+locstring Field_9_1_0_39584_001_lang?
+locstring Field_9_1_0_39584_002_lang?
+int Field_9_1_0_39584_003?
+int Field_9_1_0_39584_004?
+int Field_9_1_0_39584_005?
+int Field_9_1_0_39584_006?
+
+LAYOUT 3E4022DF
+BUILD 9.1.0.39584
+Field_9_1_0_39584_000_lang
+Field_9_1_0_39584_001_lang
+Field_9_1_0_39584_002_lang
+$id$Field_9_1_0_39584_003<32>
+Field_9_1_0_39584_004<32>
+Field_9_1_0_39584_005<32>
+Field_9_1_0_39584_006<32>
