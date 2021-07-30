@@ -1,0 +1,12 @@
+COLUMNS
+int Field_1_13_7_39605_000?
+int Field_1_13_7_39605_001?
+int Field_1_13_7_39605_002?
+int Field_1_13_7_39605_003?
+
+LAYOUT 3716BBCD
+BUILD 1.13.7.39605
+$id$Field_1_13_7_39605_000<32>
+$relation$Field_1_13_7_39605_001<u16>
+Field_1_13_7_39605_002<u16>
+Field_1_13_7_39605_003<u32>
