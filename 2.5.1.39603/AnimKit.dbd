@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int Field_2_5_1_39603_000?
+int Field_2_5_1_39603_001?
+int Field_2_5_1_39603_002?
+
+LAYOUT E6EFB281
+BUILD 2.5.1.39603
+$noninline,id$ID<32>
+Field_2_5_1_39603_000<u32>
+Field_2_5_1_39603_001<u16>
+Field_2_5_1_39603_002<u16>
