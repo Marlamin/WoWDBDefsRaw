@@ -1,0 +1,26 @@
+COLUMNS
+locstring Field_9_1_0_39617_000_lang?
+locstring Field_9_1_0_39617_001_lang?
+int Field_9_1_0_39617_002?
+int Field_9_1_0_39617_003?
+int Field_9_1_0_39617_004?
+int Field_9_1_0_39617_005?
+int Field_9_1_0_39617_006?
+int Field_9_1_0_39617_007?
+int Field_9_1_0_39617_008?
+int Field_9_1_0_39617_009?
+int Field_9_1_0_39617_010?
+
+LAYOUT 47DAC81A
+BUILD 9.1.0.39617
+Field_9_1_0_39617_000_lang
+Field_9_1_0_39617_001_lang
+$id$Field_9_1_0_39617_002<32>
+Field_9_1_0_39617_003<32>
+Field_9_1_0_39617_004<32>
+Field_9_1_0_39617_005<u16>
+Field_9_1_0_39617_006<u8>
+Field_9_1_0_39617_007<u32>
+Field_9_1_0_39617_008<u32>[2]
+Field_9_1_0_39617_009<u16>[3]
+Field_9_1_0_39617_010<u16>[3]
