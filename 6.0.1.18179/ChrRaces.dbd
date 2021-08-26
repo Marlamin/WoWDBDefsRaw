@@ -1,71 +1,71 @@
 COLUMNS
-int ID
-int flags
-int factionID
-int ExplorationSoundID
-int MaleDisplayId
-int FemaleDisplayId
-string ClientPrefix
-int BaseLanguage
-int creatureType
-int ResSicknessSpellID
-int SplashSoundID
-string clientFileString
-int cinematicSequenceID
-int alliance
-string name_lang
-string name_female_lang
-string name_male_lang
-string facialHairCustomization
-string hairCustomization
-int race_related
-int unalteredVisualRaceID
-int uaMaleCreatureSoundDataID
-int uaFemaleCreatureSoundDataID
-int charComponentTextureLayoutID
-int defaultClassID
-int createScreenFileDataID
-int selectScreenFileDataID
-float maleCustomizeOffset
-float femaleCustomizeOffset
-int neutralRaceID
-int lowResScreenFileDataID
-int HighResMaleDisplayId
-int HighResFemaleDisplayId
-int charComponentTexLayoutHiResID
+int Field_6_0_1_18179_000?
+int Field_6_0_1_18179_001?
+int Field_6_0_1_18179_002?
+int Field_6_0_1_18179_003?
+int Field_6_0_1_18179_004?
+int Field_6_0_1_18179_005?
+string Field_6_0_1_18179_006?
+int Field_6_0_1_18179_007?
+int Field_6_0_1_18179_008?
+int Field_6_0_1_18179_009?
+int Field_6_0_1_18179_010?
+string Field_6_0_1_18179_011?
+int Field_6_0_1_18179_012?
+int Field_6_0_1_18179_013?
+string Field_6_0_1_18179_014?
+string Field_6_0_1_18179_015?
+string Field_6_0_1_18179_016?
+string Field_6_0_1_18179_017?
+string Field_6_0_1_18179_018?
+int Field_6_0_1_18179_019?
+int Field_6_0_1_18179_020?
+int Field_6_0_1_18179_021?
+int Field_6_0_1_18179_022?
+int Field_6_0_1_18179_023?
+int Field_6_0_1_18179_024?
+int Field_6_0_1_18179_025?
+int Field_6_0_1_18179_026?
+float Field_6_0_1_18179_027?
+float Field_6_0_1_18179_028?
+int Field_6_0_1_18179_029?
+int Field_6_0_1_18179_030?
+int Field_6_0_1_18179_031?
+int Field_6_0_1_18179_032?
+int Field_6_0_1_18179_033?
 
 BUILD 6.0.1.18179
-$id$ID<32>
-flags<32>
-factionID<32>
-ExplorationSoundID<32>
-MaleDisplayId<32>
-FemaleDisplayId<32>
-ClientPrefix
-BaseLanguage<32>
-creatureType<32>
-ResSicknessSpellID<32>
-SplashSoundID<32>
-clientFileString
-cinematicSequenceID<32>
-alliance<32>
-name_lang
-name_female_lang
-name_male_lang
-facialHairCustomization[2]
-hairCustomization
-race_related<32>
-unalteredVisualRaceID<32>
-uaMaleCreatureSoundDataID<32>
-uaFemaleCreatureSoundDataID<32>
-charComponentTextureLayoutID<32>
-defaultClassID<32>
-createScreenFileDataID<32>
-selectScreenFileDataID<32>
-maleCustomizeOffset[3]
-femaleCustomizeOffset[3]
-neutralRaceID<32>
-lowResScreenFileDataID<32>
-HighResMaleDisplayId<32>
-HighResFemaleDisplayId<32>
-charComponentTexLayoutHiResID<32>
+$id$Field_6_0_1_18179_000<32>
+Field_6_0_1_18179_001<32>
+Field_6_0_1_18179_002<32>
+Field_6_0_1_18179_003<32>
+Field_6_0_1_18179_004<32>
+Field_6_0_1_18179_005<32>
+Field_6_0_1_18179_006
+Field_6_0_1_18179_007<32>
+Field_6_0_1_18179_008<32>
+Field_6_0_1_18179_009<32>
+Field_6_0_1_18179_010<32>
+Field_6_0_1_18179_011
+Field_6_0_1_18179_012<32>
+Field_6_0_1_18179_013<32>
+Field_6_0_1_18179_014
+Field_6_0_1_18179_015
+Field_6_0_1_18179_016
+Field_6_0_1_18179_017[2]
+Field_6_0_1_18179_018
+Field_6_0_1_18179_019<32>
+Field_6_0_1_18179_020<32>
+Field_6_0_1_18179_021<32>
+Field_6_0_1_18179_022<32>
+Field_6_0_1_18179_023<32>
+Field_6_0_1_18179_024<32>
+Field_6_0_1_18179_025<32>
+Field_6_0_1_18179_026<32>
+Field_6_0_1_18179_027[3]
+Field_6_0_1_18179_028[3]
+Field_6_0_1_18179_029<32>
+Field_6_0_1_18179_030<32>
+Field_6_0_1_18179_031<32>
+Field_6_0_1_18179_032<32>
+Field_6_0_1_18179_033<32>

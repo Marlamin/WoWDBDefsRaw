@@ -1,61 +1,61 @@
 COLUMNS
-int ID
-int soundEntryID
-float innerRadius2D
-int timeA
-int timeB
-int timeC
-int timeD
-int randomOffsetRange
-int usage
-int timeIntervalMin
-int timeIntervalMax
-int volumeSliderCategory
-float duckToSFX
-float duckToMusic
-float duckToAmbience
-float innerRadiusOfInfluence
-float outerRadiusOfInfluence
-int timeToDuck
-int timeToUnduck
-float insideAngle
-float outsideAngle
-float outsideVolume
-float outerRadius2D
-int minRandomPosOffset
-int maxRandomPosOffset
-float duckToDialog
-float duckToSuppressors
-int msOffset
-float volume
+int Field_6_0_1_18179_000?
+int Field_6_0_1_18179_001?
+float Field_6_0_1_18179_002?
+int Field_6_0_1_18179_003?
+int Field_6_0_1_18179_004?
+int Field_6_0_1_18179_005?
+int Field_6_0_1_18179_006?
+int Field_6_0_1_18179_007?
+int Field_6_0_1_18179_008?
+int Field_6_0_1_18179_009?
+int Field_6_0_1_18179_010?
+int Field_6_0_1_18179_011?
+float Field_6_0_1_18179_012?
+float Field_6_0_1_18179_013?
+float Field_6_0_1_18179_014?
+float Field_6_0_1_18179_015?
+float Field_6_0_1_18179_016?
+int Field_6_0_1_18179_017?
+int Field_6_0_1_18179_018?
+float Field_6_0_1_18179_019?
+float Field_6_0_1_18179_020?
+float Field_6_0_1_18179_021?
+float Field_6_0_1_18179_022?
+int Field_6_0_1_18179_023?
+int Field_6_0_1_18179_024?
+float Field_6_0_1_18179_025?
+float Field_6_0_1_18179_026?
+int Field_6_0_1_18179_027?
+float Field_6_0_1_18179_028?
 
 BUILD 6.0.1.18179
-$id$ID<32>
-soundEntryID<32>
-innerRadius2D
-timeA<32>
-timeB<32>
-timeC<32>
-timeD<32>
-randomOffsetRange<32>
-usage<32>
-timeIntervalMin<32>
-timeIntervalMax<32>
-volumeSliderCategory<32>
-duckToSFX
-duckToMusic
-duckToAmbience
-innerRadiusOfInfluence
-outerRadiusOfInfluence
-timeToDuck<32>
-timeToUnduck<32>
-insideAngle
-outsideAngle
-outsideVolume
-outerRadius2D
-minRandomPosOffset<32>
-maxRandomPosOffset<32>
-duckToDialog
-duckToSuppressors
-msOffset<32>
-volume[20]
+$id$Field_6_0_1_18179_000<32>
+Field_6_0_1_18179_001<32>
+Field_6_0_1_18179_002
+Field_6_0_1_18179_003<32>
+Field_6_0_1_18179_004<32>
+Field_6_0_1_18179_005<32>
+Field_6_0_1_18179_006<32>
+Field_6_0_1_18179_007<32>
+Field_6_0_1_18179_008<32>
+Field_6_0_1_18179_009<32>
+Field_6_0_1_18179_010<32>
+Field_6_0_1_18179_011<32>
+Field_6_0_1_18179_012
+Field_6_0_1_18179_013
+Field_6_0_1_18179_014
+Field_6_0_1_18179_015
+Field_6_0_1_18179_016
+Field_6_0_1_18179_017<32>
+Field_6_0_1_18179_018<32>
+Field_6_0_1_18179_019
+Field_6_0_1_18179_020
+Field_6_0_1_18179_021
+Field_6_0_1_18179_022
+Field_6_0_1_18179_023<32>
+Field_6_0_1_18179_024<32>
+Field_6_0_1_18179_025
+Field_6_0_1_18179_026
+Field_6_0_1_18179_027<32>
+Field_6_0_1_18179_028[20]

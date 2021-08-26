@@ -1,0 +1,13 @@
+COLUMNS
+int Field_6_2_0_20051_000?
+string Field_6_2_0_20051_001?
+string Field_6_2_0_20051_002?
+string Field_6_2_0_20051_003?
+string Field_6_2_0_20051_004?
+
+BUILD 6.2.0.20051
+$id$Field_6_2_0_20051_000<32>
+Field_6_2_0_20051_001
+Field_6_2_0_20051_002
+Field_6_2_0_20051_003
+Field_6_2_0_20051_004

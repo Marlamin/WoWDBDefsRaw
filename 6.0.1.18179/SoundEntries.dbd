@@ -1,39 +1,39 @@
 COLUMNS
-int ID
-int soundType
-string name
-int FileDataID
-int Freq
-float volumeFloat
-int flags
-float minDistance
-float distanceCutoff
-int EAXDef
-int soundEntriesAdvancedID
-float volumevariationplus
-float volumevariationminus
-float pitchvariationplus
-float pitchvariationminus
-float pitchAdjust
-int dialogtype
-int busOverwriteID
+int Field_6_0_1_18179_000?
+int Field_6_0_1_18179_001?
+string Field_6_0_1_18179_002?
+int Field_6_0_1_18179_003?
+int Field_6_0_1_18179_004?
+float Field_6_0_1_18179_005?
+int Field_6_0_1_18179_006?
+float Field_6_0_1_18179_007?
+float Field_6_0_1_18179_008?
+int Field_6_0_1_18179_009?
+int Field_6_0_1_18179_010?
+float Field_6_0_1_18179_011?
+float Field_6_0_1_18179_012?
+float Field_6_0_1_18179_013?
+float Field_6_0_1_18179_014?
+float Field_6_0_1_18179_015?
+int Field_6_0_1_18179_016?
+int Field_6_0_1_18179_017?
 
 BUILD 6.0.1.18179
-$id$ID<32>
-soundType<32>
-name
-FileDataID<32>[20]
-Freq<32>[20]
-volumeFloat
-flags<32>
-minDistance
-distanceCutoff
-EAXDef<32>
-soundEntriesAdvancedID<32>
-volumevariationplus
-volumevariationminus
-pitchvariationplus
-pitchvariationminus
-pitchAdjust
-dialogtype<32>
-busOverwriteID<32>
+$id$Field_6_0_1_18179_000<32>
+Field_6_0_1_18179_001<32>
+Field_6_0_1_18179_002
+Field_6_0_1_18179_003<32>[20]
+Field_6_0_1_18179_004<32>[20]
+Field_6_0_1_18179_005
+Field_6_0_1_18179_006<32>
+Field_6_0_1_18179_007
+Field_6_0_1_18179_008
+Field_6_0_1_18179_009<32>
+Field_6_0_1_18179_010<32>
+Field_6_0_1_18179_011
+Field_6_0_1_18179_012
+Field_6_0_1_18179_013
+Field_6_0_1_18179_014
+Field_6_0_1_18179_015
+Field_6_0_1_18179_016<32>
+Field_6_0_1_18179_017<32>

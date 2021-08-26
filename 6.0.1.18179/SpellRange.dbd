@@ -1,15 +1,15 @@
 COLUMNS
-int ID
-float rangeMin
-float rangeMax
-int flags
-string displayName_lang
-string displayNameShort_lang
+int Field_6_0_1_18179_000?
+float Field_6_0_1_18179_001?
+float Field_6_0_1_18179_002?
+int Field_6_0_1_18179_003?
+string Field_6_0_1_18179_004?
+string Field_6_0_1_18179_005?
 
 BUILD 6.0.1.18179
-$id$ID<32>
-rangeMin[2]
-rangeMax[2]
-flags<32>
-displayName_lang
-displayNameShort_lang
+$id$Field_6_0_1_18179_000<32>
+Field_6_0_1_18179_001[2]
+Field_6_0_1_18179_002[2]
+Field_6_0_1_18179_003<32>
+Field_6_0_1_18179_004
+Field_6_0_1_18179_005

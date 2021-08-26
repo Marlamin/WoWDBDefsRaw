@@ -1,23 +1,23 @@
 COLUMNS
-int ID
-int criteriatreeid
-int scenarioID
-int orderIndex
-string description_lang
-string title_lang
-int flags
-int relatedStep
-int supersedes
-int rewardQuestID
+int Field_6_0_1_18179_000?
+int Field_6_0_1_18179_001?
+int Field_6_0_1_18179_002?
+int Field_6_0_1_18179_003?
+string Field_6_0_1_18179_004?
+string Field_6_0_1_18179_005?
+int Field_6_0_1_18179_006?
+int Field_6_0_1_18179_007?
+int Field_6_0_1_18179_008?
+int Field_6_0_1_18179_009?
 
 BUILD 6.0.1.18179
-$id$ID<32>
-criteriatreeid<32>
-scenarioID<32>
-orderIndex<32>
-description_lang
-title_lang
-flags<32>
-relatedStep<32>
-supersedes<32>
-rewardQuestID<32>
+$id$Field_6_0_1_18179_000<32>
+Field_6_0_1_18179_001<32>
+Field_6_0_1_18179_002<32>
+Field_6_0_1_18179_003<32>
+Field_6_0_1_18179_004
+Field_6_0_1_18179_005
+Field_6_0_1_18179_006<32>
+Field_6_0_1_18179_007<32>
+Field_6_0_1_18179_008<32>
+Field_6_0_1_18179_009<32>

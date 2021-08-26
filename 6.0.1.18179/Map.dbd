@@ -1,43 +1,43 @@
 COLUMNS
-int ID
-string Directory
-int InstanceType
-int Flags
-int MapType
-string MapName_lang
-int areaTableID
-string MapDescription0_lang
-string MapDescription1_lang
-int LoadingScreenID
-float minimapIconScale
-int corpseMapID
-float corpse
-int timeOfDayOverride
-int expansionID
-int raidOffset
-int maxPlayers
-int parentMapID
-int cosmeticParentMapID
-int timeOffset
+int Field_6_0_1_18179_000?
+string Field_6_0_1_18179_001?
+int Field_6_0_1_18179_002?
+int Field_6_0_1_18179_003?
+int Field_6_0_1_18179_004?
+string Field_6_0_1_18179_005?
+int Field_6_0_1_18179_006?
+string Field_6_0_1_18179_007?
+string Field_6_0_1_18179_008?
+int Field_6_0_1_18179_009?
+float Field_6_0_1_18179_010?
+int Field_6_0_1_18179_011?
+float Field_6_0_1_18179_012?
+int Field_6_0_1_18179_013?
+int Field_6_0_1_18179_014?
+int Field_6_0_1_18179_015?
+int Field_6_0_1_18179_016?
+int Field_6_0_1_18179_017?
+int Field_6_0_1_18179_018?
+int Field_6_0_1_18179_019?
 
 BUILD 6.0.1.18179
-$id$ID<32>
-Directory
-InstanceType<32>
-Flags<32>
-MapType<32>
-MapName_lang
-areaTableID<32>
-MapDescription0_lang
-MapDescription1_lang
-LoadingScreenID<32>
-minimapIconScale
-corpseMapID<32>
-corpse[2]
-timeOfDayOverride<32>
-expansionID<32>
-raidOffset<32>
-maxPlayers<32>
-parentMapID<32>
-cosmeticParentMapID<32>
-timeOffset<32>
+$id$Field_6_0_1_18179_000<32>
+Field_6_0_1_18179_001
+Field_6_0_1_18179_002<32>
+Field_6_0_1_18179_003<32>
+Field_6_0_1_18179_004<32>
+Field_6_0_1_18179_005
+Field_6_0_1_18179_006<32>
+Field_6_0_1_18179_007
+Field_6_0_1_18179_008
+Field_6_0_1_18179_009<32>
+Field_6_0_1_18179_010
+Field_6_0_1_18179_011<32>
+Field_6_0_1_18179_012[2]
+Field_6_0_1_18179_013<32>
+Field_6_0_1_18179_014<32>
+Field_6_0_1_18179_015<32>
+Field_6_0_1_18179_016<32>
+Field_6_0_1_18179_017<32>
+Field_6_0_1_18179_018<32>
+Field_6_0_1_18179_019<32>

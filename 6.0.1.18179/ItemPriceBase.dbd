@@ -1,11 +1,11 @@
 COLUMNS
-int ID
-int itemLevel
-float armor
-float weapon
+int Field_6_0_1_18179_000?
+int Field_6_0_1_18179_001?
+float Field_6_0_1_18179_002?
+float Field_6_0_1_18179_003?
 
 BUILD 6.0.1.18179
-$id$ID<32>
-itemLevel<32>
-armor
-weapon
+$id$Field_6_0_1_18179_000<32>
+Field_6_0_1_18179_001<32>
+Field_6_0_1_18179_002
+Field_6_0_1_18179_003

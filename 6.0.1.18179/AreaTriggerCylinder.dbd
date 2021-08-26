@@ -1,9 +1,9 @@
 COLUMNS
-int ID
-float radius
-float height
+int Field_6_0_1_18179_000?
+float Field_6_0_1_18179_001?
+float Field_6_0_1_18179_002?
 
 BUILD 6.0.1.18179
-$id$ID<32>
-radius
-height
+$id$Field_6_0_1_18179_000<32>
+Field_6_0_1_18179_001
+Field_6_0_1_18179_002

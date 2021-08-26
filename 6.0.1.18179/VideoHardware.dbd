@@ -1,49 +1,49 @@
 COLUMNS
-int ID
-int vendorID
-int deviceID
-int farclipIdx
-int terrainLODDistIdx
-int terrainShadowLOD
-int detailDoodadDensityIdx
-int detailDoodadAlpha
-int animatingDoodadIdx
-int trilinear
-int numLights
-int specularity
-int waterLODIdx
-int particleDensityIdx
-int unitDrawDistIdx
-int smallCullDistIdx
-int resolutionIdx
-int baseMipLevel
-string oglOverrides
-string d3dOverrides
-int fixLag
-int multisample
-int atlasdisable
+int Field_6_0_1_18179_000?
+int Field_6_0_1_18179_001?
+int Field_6_0_1_18179_002?
+int Field_6_0_1_18179_003?
+int Field_6_0_1_18179_004?
+int Field_6_0_1_18179_005?
+int Field_6_0_1_18179_006?
+int Field_6_0_1_18179_007?
+int Field_6_0_1_18179_008?
+int Field_6_0_1_18179_009?
+int Field_6_0_1_18179_010?
+int Field_6_0_1_18179_011?
+int Field_6_0_1_18179_012?
+int Field_6_0_1_18179_013?
+int Field_6_0_1_18179_014?
+int Field_6_0_1_18179_015?
+int Field_6_0_1_18179_016?
+int Field_6_0_1_18179_017?
+string Field_6_0_1_18179_018?
+string Field_6_0_1_18179_019?
+int Field_6_0_1_18179_020?
+int Field_6_0_1_18179_021?
+int Field_6_0_1_18179_022?
 
 BUILD 6.0.1.18179
-$id$ID<32>
-vendorID<32>
-deviceID<32>
-farclipIdx<32>
-terrainLODDistIdx<32>
-terrainShadowLOD<32>
-detailDoodadDensityIdx<32>
-detailDoodadAlpha<32>
-animatingDoodadIdx<32>
-trilinear<32>
-numLights<32>
-specularity<32>
-waterLODIdx<32>
-particleDensityIdx<32>
-unitDrawDistIdx<32>
-smallCullDistIdx<32>
-resolutionIdx<32>
-baseMipLevel<32>
-oglOverrides
-d3dOverrides
-fixLag<32>
-multisample<32>
-atlasdisable<32>
+$id$Field_6_0_1_18179_000<32>
+Field_6_0_1_18179_001<32>
+Field_6_0_1_18179_002<32>
+Field_6_0_1_18179_003<32>
+Field_6_0_1_18179_004<32>
+Field_6_0_1_18179_005<32>
+Field_6_0_1_18179_006<32>
+Field_6_0_1_18179_007<32>
+Field_6_0_1_18179_008<32>
+Field_6_0_1_18179_009<32>
+Field_6_0_1_18179_010<32>
+Field_6_0_1_18179_011<32>
+Field_6_0_1_18179_012<32>
+Field_6_0_1_18179_013<32>
+Field_6_0_1_18179_014<32>
+Field_6_0_1_18179_015<32>
+Field_6_0_1_18179_016<32>
+Field_6_0_1_18179_017<32>
+Field_6_0_1_18179_018
+Field_6_0_1_18179_019
+Field_6_0_1_18179_020<32>
+Field_6_0_1_18179_021<32>
+Field_6_0_1_18179_022<32>
