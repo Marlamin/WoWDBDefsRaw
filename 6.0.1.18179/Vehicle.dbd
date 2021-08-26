@@ -1,63 +1,63 @@
 COLUMNS
-int Field_6_0_1_18179_000?
-int Field_6_0_1_18179_001?
-int Field_6_0_1_18179_002?
-float Field_6_0_1_18179_003?
-float Field_6_0_1_18179_004?
-float Field_6_0_1_18179_005?
-float Field_6_0_1_18179_006?
-int Field_6_0_1_18179_007?
-float Field_6_0_1_18179_008?
-float Field_6_0_1_18179_009?
-float Field_6_0_1_18179_010?
-float Field_6_0_1_18179_011?
-float Field_6_0_1_18179_012?
-float Field_6_0_1_18179_013?
-float Field_6_0_1_18179_014?
-float Field_6_0_1_18179_015?
-float Field_6_0_1_18179_016?
-float Field_6_0_1_18179_017?
-float Field_6_0_1_18179_018?
-float Field_6_0_1_18179_019?
-float Field_6_0_1_18179_020?
-float Field_6_0_1_18179_021?
-string Field_6_0_1_18179_022?
-string Field_6_0_1_18179_023?
-string Field_6_0_1_18179_024?
-float Field_6_0_1_18179_025?
-int Field_6_0_1_18179_026?
-float Field_6_0_1_18179_027?
-int Field_6_0_1_18179_028?
-int Field_6_0_1_18179_029?
+int ID
+int flags
+int flagsB
+float turnSpeed
+float pitchSpeed
+float pitchMin
+float pitchMax
+int seatID
+float mouseLookOffsetPitch
+float cameraFadeDistScalarMin
+float cameraFadeDistScalarMax
+float cameraPitchOffset
+float facingLimitRight
+float facingLimitLeft
+float msslTrgtTurnLingering
+float msslTrgtPitchLingering
+float msslTrgtMouseLingering
+float msslTrgtEndOpacity
+float msslTrgtArcSpeed
+float msslTrgtArcRepeat
+float msslTrgtArcWidth
+float msslTrgtImpactRadius
+string msslTrgtArcTexture
+string msslTrgtImpactTexture
+string msslTrgtImpactModel
+float cameraYawOffset
+int uiLocomotionType
+float msslTrgtImpactTexRadius
+int vehicleUIIndicatorID
+int powerDisplayID
 
 BUILD 6.0.1.18179
-$id$Field_6_0_1_18179_000<32>
-Field_6_0_1_18179_001<32>
-Field_6_0_1_18179_002<32>
-Field_6_0_1_18179_003
-Field_6_0_1_18179_004
-Field_6_0_1_18179_005
-Field_6_0_1_18179_006
-Field_6_0_1_18179_007<32>[8]
-Field_6_0_1_18179_008
-Field_6_0_1_18179_009
-Field_6_0_1_18179_010
-Field_6_0_1_18179_011
-Field_6_0_1_18179_012
-Field_6_0_1_18179_013
-Field_6_0_1_18179_014
-Field_6_0_1_18179_015
-Field_6_0_1_18179_016
-Field_6_0_1_18179_017
-Field_6_0_1_18179_018
-Field_6_0_1_18179_019
-Field_6_0_1_18179_020
-Field_6_0_1_18179_021[2]
-Field_6_0_1_18179_022
-Field_6_0_1_18179_023
-Field_6_0_1_18179_024[2]
-Field_6_0_1_18179_025
-Field_6_0_1_18179_026<32>
-Field_6_0_1_18179_027
-Field_6_0_1_18179_028<32>
-Field_6_0_1_18179_029<32>[3]
+$id$ID<32>
+flags<32>
+flagsB<32>
+turnSpeed
+pitchSpeed
+pitchMin
+pitchMax
+seatID<32>[8]
+mouseLookOffsetPitch
+cameraFadeDistScalarMin
+cameraFadeDistScalarMax
+cameraPitchOffset
+facingLimitRight
+facingLimitLeft
+msslTrgtTurnLingering
+msslTrgtPitchLingering
+msslTrgtMouseLingering
+msslTrgtEndOpacity
+msslTrgtArcSpeed
+msslTrgtArcRepeat
+msslTrgtArcWidth
+msslTrgtImpactRadius[2]
+msslTrgtArcTexture
+msslTrgtImpactTexture
+msslTrgtImpactModel[2]
+cameraYawOffset
+uiLocomotionType<32>
+msslTrgtImpactTexRadius
+vehicleUIIndicatorID<32>
+powerDisplayID<32>[3]

@@ -1,51 +1,51 @@
 COLUMNS
-int Field_6_0_1_18179_000?
-string Field_6_0_1_18179_001?
-int Field_6_0_1_18179_002?
-int Field_6_0_1_18179_003?
-float Field_6_0_1_18179_004?
-float Field_6_0_1_18179_005?
-float Field_6_0_1_18179_006?
-int Field_6_0_1_18179_007?
-int Field_6_0_1_18179_008?
-float Field_6_0_1_18179_009?
-int Field_6_0_1_18179_010?
-float Field_6_0_1_18179_011?
-int Field_6_0_1_18179_012?
-float Field_6_0_1_18179_013?
-float Field_6_0_1_18179_014?
-float Field_6_0_1_18179_015?
-int Field_6_0_1_18179_016?
-float Field_6_0_1_18179_017?
-float Field_6_0_1_18179_018?
-float Field_6_0_1_18179_019?
-float Field_6_0_1_18179_020?
-float Field_6_0_1_18179_021?
-float Field_6_0_1_18179_022?
-float Field_6_0_1_18179_023?
+int ID
+string Description
+int Flags
+int EAXEnvironmentSelection
+float EAXDecayTime
+float EAX2EnvironmentSize
+float EAX2EnvironmentDiffusion
+int EAX2Room
+int EAX2RoomHF
+float EAX2DecayHFRatio
+int EAX2Reflections
+float EAX2ReflectionsDelay
+int EAX2Reverb
+float EAX2ReverbDelay
+float EAX2RoomRolloff
+float EAX2AirAbsorption
+int EAX3RoomLF
+float EAX3DecayLFRatio
+float EAX3EchoTime
+float EAX3EchoDepth
+float EAX3ModulationTime
+float EAX3ModulationDepth
+float EAX3HFReference
+float EAX3LFReference
 
 BUILD 6.0.1.18179
-$id$Field_6_0_1_18179_000<32>
-Field_6_0_1_18179_001
-Field_6_0_1_18179_002<32>
-Field_6_0_1_18179_003<32>
-Field_6_0_1_18179_004
-Field_6_0_1_18179_005
-Field_6_0_1_18179_006
-Field_6_0_1_18179_007<32>
-Field_6_0_1_18179_008<32>
-Field_6_0_1_18179_009
-Field_6_0_1_18179_010<32>
-Field_6_0_1_18179_011
-Field_6_0_1_18179_012<32>
-Field_6_0_1_18179_013
-Field_6_0_1_18179_014
-Field_6_0_1_18179_015
-Field_6_0_1_18179_016<32>
-Field_6_0_1_18179_017
-Field_6_0_1_18179_018
-Field_6_0_1_18179_019
-Field_6_0_1_18179_020
-Field_6_0_1_18179_021
-Field_6_0_1_18179_022
-Field_6_0_1_18179_023
+$id$ID<32>
+Description
+Flags<32>
+EAXEnvironmentSelection<32>
+EAXDecayTime
+EAX2EnvironmentSize
+EAX2EnvironmentDiffusion
+EAX2Room<32>
+EAX2RoomHF<32>
+EAX2DecayHFRatio
+EAX2Reflections<32>
+EAX2ReflectionsDelay
+EAX2Reverb<32>
+EAX2ReverbDelay
+EAX2RoomRolloff
+EAX2AirAbsorption
+EAX3RoomLF<32>
+EAX3DecayLFRatio
+EAX3EchoTime
+EAX3EchoDepth
+EAX3ModulationTime
+EAX3ModulationDepth
+EAX3HFReference
+EAX3LFReference

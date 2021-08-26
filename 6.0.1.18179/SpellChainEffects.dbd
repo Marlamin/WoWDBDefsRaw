@@ -1,99 +1,99 @@
 COLUMNS
-int Field_6_0_1_18179_000?
-float Field_6_0_1_18179_001?
-float Field_6_0_1_18179_002?
-float Field_6_0_1_18179_003?
-float Field_6_0_1_18179_004?
-int Field_6_0_1_18179_005?
-int Field_6_0_1_18179_006?
-int Field_6_0_1_18179_007?
-int Field_6_0_1_18179_008?
-float Field_6_0_1_18179_009?
-int Field_6_0_1_18179_010?
-int Field_6_0_1_18179_011?
-float Field_6_0_1_18179_012?
-float Field_6_0_1_18179_013?
-float Field_6_0_1_18179_014?
-float Field_6_0_1_18179_015?
-float Field_6_0_1_18179_016?
-float Field_6_0_1_18179_017?
-float Field_6_0_1_18179_018?
-float Field_6_0_1_18179_019?
-float Field_6_0_1_18179_020?
-float Field_6_0_1_18179_021?
-float Field_6_0_1_18179_022?
-float Field_6_0_1_18179_023?
-float Field_6_0_1_18179_024?
-float Field_6_0_1_18179_025?
-float Field_6_0_1_18179_026?
-float Field_6_0_1_18179_027?
-float Field_6_0_1_18179_028?
-float Field_6_0_1_18179_029?
-float Field_6_0_1_18179_030?
-float Field_6_0_1_18179_031?
-float Field_6_0_1_18179_032?
-float Field_6_0_1_18179_033?
-float Field_6_0_1_18179_034?
-float Field_6_0_1_18179_035?
-float Field_6_0_1_18179_036?
-float Field_6_0_1_18179_037?
-int Field_6_0_1_18179_038?
-int Field_6_0_1_18179_039?
-int Field_6_0_1_18179_040?
-int Field_6_0_1_18179_041?
-int Field_6_0_1_18179_042?
-int Field_6_0_1_18179_043?
-float Field_6_0_1_18179_044?
-float Field_6_0_1_18179_045?
-int Field_6_0_1_18179_046?
-string Field_6_0_1_18179_047?
+int ID
+float AvgSegLen
+float Width
+float NoiseScale
+float TexCoordScale
+int SegDuration
+int SegDelay
+int Flags
+int JointCount
+float JointOffsetRadius
+int JointsPerMinorJoint
+int MinorJointsPerMajorJoint
+float MinorJointScale
+float MajorJointScale
+float JointMoveSpeed
+float JointSmoothness
+float MinDurationBetweenJointJumps
+float MaxDurationBetweenJointJumps
+float WaveHeight
+float WaveFreq
+float WaveSpeed
+float MinWaveAngle
+float MaxWaveAngle
+float MinWaveSpin
+float MaxWaveSpin
+float ArcHeight
+float MinArcAngle
+float MaxArcAngle
+float MinArcSpin
+float MaxArcSpin
+float DelayBetweenEffects
+float MinFlickerOnDuration
+float MaxFlickerOnDuration
+float MinFlickerOffDuration
+float MaxFlickerOffDuration
+float PulseSpeed
+float PulseOnLength
+float PulseFadeLength
+int Alpha
+int Red
+int Green
+int Blue
+int BlendMode
+int RenderLayer
+float TextureLength
+float WavePhase
+int SpellChainEffectID
+string Texture
 
 BUILD 6.0.1.18179
-$id$Field_6_0_1_18179_000<32>
-Field_6_0_1_18179_001
-Field_6_0_1_18179_002
-Field_6_0_1_18179_003
-Field_6_0_1_18179_004
-Field_6_0_1_18179_005<32>
-Field_6_0_1_18179_006<32>
-Field_6_0_1_18179_007<32>
-Field_6_0_1_18179_008<32>
-Field_6_0_1_18179_009
-Field_6_0_1_18179_010<32>
-Field_6_0_1_18179_011<32>
-Field_6_0_1_18179_012
-Field_6_0_1_18179_013
-Field_6_0_1_18179_014
-Field_6_0_1_18179_015
-Field_6_0_1_18179_016
-Field_6_0_1_18179_017
-Field_6_0_1_18179_018
-Field_6_0_1_18179_019
-Field_6_0_1_18179_020
-Field_6_0_1_18179_021
-Field_6_0_1_18179_022
-Field_6_0_1_18179_023
-Field_6_0_1_18179_024
-Field_6_0_1_18179_025
-Field_6_0_1_18179_026
-Field_6_0_1_18179_027
-Field_6_0_1_18179_028
-Field_6_0_1_18179_029
-Field_6_0_1_18179_030
-Field_6_0_1_18179_031
-Field_6_0_1_18179_032
-Field_6_0_1_18179_033
-Field_6_0_1_18179_034
-Field_6_0_1_18179_035
-Field_6_0_1_18179_036
-Field_6_0_1_18179_037
-Field_6_0_1_18179_038<32>
-Field_6_0_1_18179_039<32>
-Field_6_0_1_18179_040<32>
-Field_6_0_1_18179_041<32>
-Field_6_0_1_18179_042<32>
-Field_6_0_1_18179_043<32>
-Field_6_0_1_18179_044
-Field_6_0_1_18179_045
-Field_6_0_1_18179_046<32>[11]
-Field_6_0_1_18179_047
+$id$ID<32>
+AvgSegLen
+Width
+NoiseScale
+TexCoordScale
+SegDuration<32>
+SegDelay<32>
+Flags<32>
+JointCount<32>
+JointOffsetRadius
+JointsPerMinorJoint<32>
+MinorJointsPerMajorJoint<32>
+MinorJointScale
+MajorJointScale
+JointMoveSpeed
+JointSmoothness
+MinDurationBetweenJointJumps
+MaxDurationBetweenJointJumps
+WaveHeight
+WaveFreq
+WaveSpeed
+MinWaveAngle
+MaxWaveAngle
+MinWaveSpin
+MaxWaveSpin
+ArcHeight
+MinArcAngle
+MaxArcAngle
+MinArcSpin
+MaxArcSpin
+DelayBetweenEffects
+MinFlickerOnDuration
+MaxFlickerOnDuration
+MinFlickerOffDuration
+MaxFlickerOffDuration
+PulseSpeed
+PulseOnLength
+PulseFadeLength
+Alpha<32>
+Red<32>
+Green<32>
+Blue<32>
+BlendMode<32>
+RenderLayer<32>
+TextureLength
+WavePhase
+SpellChainEffectID<32>[11]
+Texture

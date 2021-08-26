@@ -1,127 +1,127 @@
 COLUMNS
-int Field_6_0_1_18179_000?
-int Field_6_0_1_18179_001?
-int Field_6_0_1_18179_002?
-float Field_6_0_1_18179_003?
-float Field_6_0_1_18179_004?
-float Field_6_0_1_18179_005?
-float Field_6_0_1_18179_006?
-float Field_6_0_1_18179_007?
-float Field_6_0_1_18179_008?
-float Field_6_0_1_18179_009?
-float Field_6_0_1_18179_010?
-int Field_6_0_1_18179_011?
-int Field_6_0_1_18179_012?
-int Field_6_0_1_18179_013?
-int Field_6_0_1_18179_014?
-int Field_6_0_1_18179_015?
-int Field_6_0_1_18179_016?
-float Field_6_0_1_18179_017?
-float Field_6_0_1_18179_018?
-float Field_6_0_1_18179_019?
-float Field_6_0_1_18179_020?
-float Field_6_0_1_18179_021?
-float Field_6_0_1_18179_022?
-float Field_6_0_1_18179_023?
-int Field_6_0_1_18179_024?
-int Field_6_0_1_18179_025?
-int Field_6_0_1_18179_026?
-float Field_6_0_1_18179_027?
-float Field_6_0_1_18179_028?
-float Field_6_0_1_18179_029?
-int Field_6_0_1_18179_030?
-int Field_6_0_1_18179_031?
-int Field_6_0_1_18179_032?
-int Field_6_0_1_18179_033?
-int Field_6_0_1_18179_034?
-int Field_6_0_1_18179_035?
-int Field_6_0_1_18179_036?
-float Field_6_0_1_18179_037?
-float Field_6_0_1_18179_038?
-int Field_6_0_1_18179_039?
-int Field_6_0_1_18179_040?
-int Field_6_0_1_18179_041?
-int Field_6_0_1_18179_042?
-float Field_6_0_1_18179_043?
-float Field_6_0_1_18179_044?
-float Field_6_0_1_18179_045?
-float Field_6_0_1_18179_046?
-float Field_6_0_1_18179_047?
-float Field_6_0_1_18179_048?
-float Field_6_0_1_18179_049?
-float Field_6_0_1_18179_050?
-float Field_6_0_1_18179_051?
-float Field_6_0_1_18179_052?
-int Field_6_0_1_18179_053?
-int Field_6_0_1_18179_054?
-int Field_6_0_1_18179_055?
-int Field_6_0_1_18179_056?
-int Field_6_0_1_18179_057?
-int Field_6_0_1_18179_058?
-int Field_6_0_1_18179_059?
-int Field_6_0_1_18179_060?
-int Field_6_0_1_18179_061?
+int ID
+int flags
+int attachmentID
+float attachmentOffset
+float enterPreDelay
+float enterSpeed
+float enterGravity
+float enterMinDuration
+float enterMaxDuration
+float enterMinArcHeight
+float enterMaxArcHeight
+int enterAnimStart
+int enterAnimLoop
+int rideAnimStart
+int rideAnimLoop
+int rideUpperAnimStart
+int rideUpperAnimLoop
+float exitPreDelay
+float exitSpeed
+float exitGravity
+float exitMinDuration
+float exitMaxDuration
+float exitMinArcHeight
+float exitMaxArcHeight
+int exitAnimStart
+int exitAnimLoop
+int exitAnimEnd
+float passengerYaw
+float passengerPitch
+float passengerRoll
+int passengerAttachmentID
+int vehicleEnterAnim
+int vehicleExitAnim
+int vehicleRideAnimLoop
+int vehicleEnterAnimBone
+int vehicleExitAnimBone
+int vehicleRideAnimLoopBone
+float vehicleEnterAnimDelay
+float vehicleExitAnimDelay
+int vehicleAbilityDisplay
+int enterUISoundID
+int exitUISoundID
+int flagsB
+float cameraEnteringDelay
+float cameraEnteringDuration
+float cameraExitingDelay
+float cameraExitingDuration
+float cameraOffset
+float cameraPosChaseRate
+float cameraFacingChaseRate
+float cameraEnteringZoom
+float cameraSeatZoomMin
+float cameraSeatZoomMax
+int enterAnimKitID
+int rideAnimKitID
+int exitAnimKitID
+int vehicleEnterAnimKitID
+int vehicleRideAnimKitID
+int vehicleExitAnimKitID
+int cameraModeID
+int flagsC
+int uiSkinFileDataID
 
 BUILD 6.0.1.18179
-$id$Field_6_0_1_18179_000<32>
-Field_6_0_1_18179_001<32>
-Field_6_0_1_18179_002<32>
-Field_6_0_1_18179_003[3]
-Field_6_0_1_18179_004
-Field_6_0_1_18179_005
-Field_6_0_1_18179_006
-Field_6_0_1_18179_007
-Field_6_0_1_18179_008
-Field_6_0_1_18179_009
-Field_6_0_1_18179_010
-Field_6_0_1_18179_011<32>
-Field_6_0_1_18179_012<32>
-Field_6_0_1_18179_013<32>
-Field_6_0_1_18179_014<32>
-Field_6_0_1_18179_015<32>
-Field_6_0_1_18179_016<32>
-Field_6_0_1_18179_017
-Field_6_0_1_18179_018
-Field_6_0_1_18179_019
-Field_6_0_1_18179_020
-Field_6_0_1_18179_021
-Field_6_0_1_18179_022
-Field_6_0_1_18179_023
-Field_6_0_1_18179_024<32>
-Field_6_0_1_18179_025<32>
-Field_6_0_1_18179_026<32>
-Field_6_0_1_18179_027
-Field_6_0_1_18179_028
-Field_6_0_1_18179_029
-Field_6_0_1_18179_030<32>
-Field_6_0_1_18179_031<32>
-Field_6_0_1_18179_032<32>
-Field_6_0_1_18179_033<32>
-Field_6_0_1_18179_034<32>
-Field_6_0_1_18179_035<32>
-Field_6_0_1_18179_036<32>
-Field_6_0_1_18179_037
-Field_6_0_1_18179_038
-Field_6_0_1_18179_039<32>
-Field_6_0_1_18179_040<32>
-Field_6_0_1_18179_041<32>
-Field_6_0_1_18179_042<32>
-Field_6_0_1_18179_043
-Field_6_0_1_18179_044
-Field_6_0_1_18179_045
-Field_6_0_1_18179_046
-Field_6_0_1_18179_047[3]
-Field_6_0_1_18179_048
-Field_6_0_1_18179_049
-Field_6_0_1_18179_050
-Field_6_0_1_18179_051
-Field_6_0_1_18179_052
-Field_6_0_1_18179_053<32>
-Field_6_0_1_18179_054<32>
-Field_6_0_1_18179_055<32>
-Field_6_0_1_18179_056<32>
-Field_6_0_1_18179_057<32>
-Field_6_0_1_18179_058<32>
-Field_6_0_1_18179_059<32>
-Field_6_0_1_18179_060<32>
-Field_6_0_1_18179_061<32>
+$id$ID<32>
+flags<32>
+attachmentID<32>
+attachmentOffset[3]
+enterPreDelay
+enterSpeed
+enterGravity
+enterMinDuration
+enterMaxDuration
+enterMinArcHeight
+enterMaxArcHeight
+enterAnimStart<32>
+enterAnimLoop<32>
+rideAnimStart<32>
+rideAnimLoop<32>
+rideUpperAnimStart<32>
+rideUpperAnimLoop<32>
+exitPreDelay
+exitSpeed
+exitGravity
+exitMinDuration
+exitMaxDuration
+exitMinArcHeight
+exitMaxArcHeight
+exitAnimStart<32>
+exitAnimLoop<32>
+exitAnimEnd<32>
+passengerYaw
+passengerPitch
+passengerRoll
+passengerAttachmentID<32>
+vehicleEnterAnim<32>
+vehicleExitAnim<32>
+vehicleRideAnimLoop<32>
+vehicleEnterAnimBone<32>
+vehicleExitAnimBone<32>
+vehicleRideAnimLoopBone<32>
+vehicleEnterAnimDelay
+vehicleExitAnimDelay
+vehicleAbilityDisplay<32>
+enterUISoundID<32>
+exitUISoundID<32>
+flagsB<32>
+cameraEnteringDelay
+cameraEnteringDuration
+cameraExitingDelay
+cameraExitingDuration
+cameraOffset[3]
+cameraPosChaseRate
+cameraFacingChaseRate
+cameraEnteringZoom
+cameraSeatZoomMin
+cameraSeatZoomMax
+enterAnimKitID<32>
+rideAnimKitID<32>
+exitAnimKitID<32>
+vehicleEnterAnimKitID<32>
+vehicleRideAnimKitID<32>
+vehicleExitAnimKitID<32>
+cameraModeID<32>
+flagsC<32>
+uiSkinFileDataID<32>

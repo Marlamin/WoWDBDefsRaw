@@ -1,15 +1,15 @@
 COLUMNS
-int Field_6_0_1_18179_000?
-int Field_6_0_1_18179_001?
-int Field_6_0_1_18179_002?
-int Field_6_0_1_18179_003?
-int Field_6_0_1_18179_004?
-string Field_6_0_1_18179_005?
+int ID
+int localeMask
+int create_charsetMask
+int existing_charsetMask
+int flags
+string name_lang
 
 BUILD 6.0.1.18179
-$id$Field_6_0_1_18179_000<32>
-Field_6_0_1_18179_001<32>
-Field_6_0_1_18179_002<32>
-Field_6_0_1_18179_003<32>
-Field_6_0_1_18179_004<32>
-Field_6_0_1_18179_005
+$id$ID<32>
+localeMask<32>
+create_charsetMask<32>
+existing_charsetMask<32>
+flags<32>
+name_lang

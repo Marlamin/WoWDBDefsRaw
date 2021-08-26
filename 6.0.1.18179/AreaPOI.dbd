@@ -1,31 +1,31 @@
 COLUMNS
-int Field_6_0_1_18179_000?
-int Field_6_0_1_18179_001?
-int Field_6_0_1_18179_002?
-int Field_6_0_1_18179_003?
-float Field_6_0_1_18179_004?
-int Field_6_0_1_18179_005?
-int Field_6_0_1_18179_006?
-int Field_6_0_1_18179_007?
-string Field_6_0_1_18179_008?
-string Field_6_0_1_18179_009?
-int Field_6_0_1_18179_010?
-int Field_6_0_1_18179_011?
-int Field_6_0_1_18179_012?
-int Field_6_0_1_18179_013?
+int ID
+int importance
+int icon
+int factionID
+float pos
+int continentID
+int flags
+int areaID
+string name_lang
+string description_lang
+int worldStateID
+int playerConditionID
+int worldMapLink
+int portLocID
 
 BUILD 6.0.1.18179
-$id$Field_6_0_1_18179_000<32>
-Field_6_0_1_18179_001<32>
-Field_6_0_1_18179_002<32>[9]
-Field_6_0_1_18179_003<32>
-Field_6_0_1_18179_004[2]
-Field_6_0_1_18179_005<32>
-Field_6_0_1_18179_006<32>
-Field_6_0_1_18179_007<32>
-Field_6_0_1_18179_008
-Field_6_0_1_18179_009
-Field_6_0_1_18179_010<32>
-Field_6_0_1_18179_011<32>
-Field_6_0_1_18179_012<32>
-Field_6_0_1_18179_013<32>
+$id$ID<32>
+importance<32>
+icon<32>[9]
+factionID<32>
+pos[2]
+continentID<32>
+flags<32>
+areaID<32>
+name_lang
+description_lang
+worldStateID<32>
+playerConditionID<32>
+worldMapLink<32>
+portLocID<32>

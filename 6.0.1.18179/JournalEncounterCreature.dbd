@@ -1,17 +1,17 @@
 COLUMNS
-int Field_6_0_1_18179_000?
-int Field_6_0_1_18179_001?
-int Field_6_0_1_18179_002?
-int Field_6_0_1_18179_003?
-int Field_6_0_1_18179_004?
-string Field_6_0_1_18179_005?
-string Field_6_0_1_18179_006?
+int ID
+int journalEncounterID
+int creatureDisplayInfoID
+int orderIndex
+int fileDataID
+string name_lang
+string description_lang
 
 BUILD 6.0.1.18179
-$id$Field_6_0_1_18179_000<32>
-Field_6_0_1_18179_001<32>
-Field_6_0_1_18179_002<32>
-Field_6_0_1_18179_003<32>
-Field_6_0_1_18179_004<32>
-Field_6_0_1_18179_005
-Field_6_0_1_18179_006
+$id$ID<32>
+journalEncounterID<32>
+creatureDisplayInfoID<32>
+orderIndex<32>
+fileDataID<32>
+name_lang
+description_lang

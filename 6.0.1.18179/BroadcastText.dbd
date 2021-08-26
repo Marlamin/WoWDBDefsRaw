@@ -1,13 +1,13 @@
 COLUMNS
-int Field_6_0_1_18179_000?
-int Field_6_0_1_18179_001?
-string Field_6_0_1_18179_002?
-string Field_6_0_1_18179_003?
-int Field_6_0_1_18179_004?
-int Field_6_0_1_18179_005?
-int Field_6_0_1_18179_006?
-int Field_6_0_1_18179_007?
-int Field_6_0_1_18179_008?
+int Field_6_0_1_18179_000
+int Field_6_0_1_18179_001
+string Field_6_0_1_18179_002
+string Field_6_0_1_18179_003
+int Field_6_0_1_18179_004
+int Field_6_0_1_18179_005
+int Field_6_0_1_18179_006
+int Field_6_0_1_18179_007
+int Field_6_0_1_18179_008
 
 BUILD 6.0.1.18179
 $id$Field_6_0_1_18179_000<32>

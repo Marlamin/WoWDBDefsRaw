@@ -1,53 +1,53 @@
 COLUMNS
-int Field_6_0_1_18179_000?
-int Field_6_0_1_18179_001?
-int Field_6_0_1_18179_002?
-float Field_6_0_1_18179_003?
-int Field_6_0_1_18179_004?
-int Field_6_0_1_18179_005?
-int Field_6_0_1_18179_006?
-float Field_6_0_1_18179_007?
-float Field_6_0_1_18179_008?
-int Field_6_0_1_18179_009?
-int Field_6_0_1_18179_010?
-int Field_6_0_1_18179_011?
-int Field_6_0_1_18179_012?
-int Field_6_0_1_18179_013?
-float Field_6_0_1_18179_014?
-int Field_6_0_1_18179_015?
-float Field_6_0_1_18179_016?
-int Field_6_0_1_18179_017?
-int Field_6_0_1_18179_018?
-float Field_6_0_1_18179_019?
-int Field_6_0_1_18179_020?
-int Field_6_0_1_18179_021?
-int Field_6_0_1_18179_022?
-int Field_6_0_1_18179_023?
-float Field_6_0_1_18179_024?
+int ID
+int difficultyID
+int effect
+float effectAmplitude
+int effectAura
+int effectAuraPeriod
+int effectBasePoints
+float effectBonusCoefficient
+float effectChainAmplitude
+int effectChainTargets
+int effectDieSides
+int effectItemType
+int effectMechanic
+int effectMiscValue
+float effectPointsPerResource
+int effectRadiusIndex
+float effectRealPointsPerLevel
+int effectSpellClassMask
+int effectTriggerSpell
+float effectPos_facing
+int implicitTarget
+int spellID
+int effectIndex
+int effectAttributes
+float bonusCoefficientFromAP
 
 BUILD 6.0.1.18179
-$id$Field_6_0_1_18179_000<32>
-Field_6_0_1_18179_001<32>
-Field_6_0_1_18179_002<32>
-Field_6_0_1_18179_003
-Field_6_0_1_18179_004<32>
-Field_6_0_1_18179_005<32>
-Field_6_0_1_18179_006<32>
-Field_6_0_1_18179_007
-Field_6_0_1_18179_008
-Field_6_0_1_18179_009<32>
-Field_6_0_1_18179_010<32>
-Field_6_0_1_18179_011<32>
-Field_6_0_1_18179_012<32>
-Field_6_0_1_18179_013<32>[2]
-Field_6_0_1_18179_014
-Field_6_0_1_18179_015<32>[2]
-Field_6_0_1_18179_016
-Field_6_0_1_18179_017<32>[4]
-Field_6_0_1_18179_018<32>
-Field_6_0_1_18179_019
-Field_6_0_1_18179_020<32>[2]
-Field_6_0_1_18179_021<32>
-Field_6_0_1_18179_022<32>
-Field_6_0_1_18179_023<32>
-Field_6_0_1_18179_024
+$id$ID<32>
+difficultyID<32>
+effect<32>
+effectAmplitude
+effectAura<32>
+effectAuraPeriod<32>
+effectBasePoints<32>
+effectBonusCoefficient
+effectChainAmplitude
+effectChainTargets<32>
+effectDieSides<32>
+effectItemType<32>
+effectMechanic<32>
+effectMiscValue<32>[2]
+effectPointsPerResource
+effectRadiusIndex<32>[2]
+effectRealPointsPerLevel
+effectSpellClassMask<32>[4]
+effectTriggerSpell<32>
+effectPos_facing
+implicitTarget<32>[2]
+spellID<32>
+effectIndex<32>
+effectAttributes<32>
+bonusCoefficientFromAP

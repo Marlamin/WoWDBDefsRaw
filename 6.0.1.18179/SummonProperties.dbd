@@ -1,15 +1,15 @@
 COLUMNS
-int Field_6_0_1_18179_000?
-int Field_6_0_1_18179_001?
-int Field_6_0_1_18179_002?
-int Field_6_0_1_18179_003?
-int Field_6_0_1_18179_004?
-int Field_6_0_1_18179_005?
+int id
+int control
+int faction
+int title
+int slot
+int flags
 
 BUILD 6.0.1.18179
-$id$Field_6_0_1_18179_000<32>
-Field_6_0_1_18179_001<32>
-Field_6_0_1_18179_002<32>
-Field_6_0_1_18179_003<32>
-Field_6_0_1_18179_004<32>
-Field_6_0_1_18179_005<32>
+$id$id<32>
+control<32>
+faction<32>
+title<32>
+slot<32>
+flags<32>

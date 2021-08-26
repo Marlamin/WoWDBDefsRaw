@@ -1,155 +1,155 @@
 COLUMNS
-int Field_6_0_1_18179_000?
-int Field_6_0_1_18179_001?
-int Field_6_0_1_18179_002?
-int Field_6_0_1_18179_003?
-int Field_6_0_1_18179_004?
-int Field_6_0_1_18179_005?
-int Field_6_0_1_18179_006?
-int Field_6_0_1_18179_007?
-int Field_6_0_1_18179_008?
-int Field_6_0_1_18179_009?
-int Field_6_0_1_18179_010?
-int Field_6_0_1_18179_011?
-int Field_6_0_1_18179_012?
-int Field_6_0_1_18179_013?
-int Field_6_0_1_18179_014?
-int Field_6_0_1_18179_015?
-int Field_6_0_1_18179_016?
-int Field_6_0_1_18179_017?
-int Field_6_0_1_18179_018?
-int Field_6_0_1_18179_019?
-int Field_6_0_1_18179_020?
-int Field_6_0_1_18179_021?
-int Field_6_0_1_18179_022?
-int Field_6_0_1_18179_023?
-int Field_6_0_1_18179_024?
-int Field_6_0_1_18179_025?
-int Field_6_0_1_18179_026?
-int Field_6_0_1_18179_027?
-int Field_6_0_1_18179_028?
-int Field_6_0_1_18179_029?
-int Field_6_0_1_18179_030?
-int Field_6_0_1_18179_031?
-int Field_6_0_1_18179_032?
-int Field_6_0_1_18179_033?
-int Field_6_0_1_18179_034?
-int Field_6_0_1_18179_035?
-int Field_6_0_1_18179_036?
-int Field_6_0_1_18179_037?
-int Field_6_0_1_18179_038?
-int Field_6_0_1_18179_039?
-int Field_6_0_1_18179_040?
-int Field_6_0_1_18179_041?
-int Field_6_0_1_18179_042?
-int Field_6_0_1_18179_043?
-int Field_6_0_1_18179_044?
-int Field_6_0_1_18179_045?
-int Field_6_0_1_18179_046?
-int Field_6_0_1_18179_047?
-int Field_6_0_1_18179_048?
-int Field_6_0_1_18179_049?
-int Field_6_0_1_18179_050?
-int Field_6_0_1_18179_051?
-int Field_6_0_1_18179_052?
-int Field_6_0_1_18179_053?
-int Field_6_0_1_18179_054?
-int Field_6_0_1_18179_055?
-int Field_6_0_1_18179_056?
-int Field_6_0_1_18179_057?
-int Field_6_0_1_18179_058?
-int Field_6_0_1_18179_059?
-int Field_6_0_1_18179_060?
-int Field_6_0_1_18179_061?
-int Field_6_0_1_18179_062?
-int Field_6_0_1_18179_063?
-int Field_6_0_1_18179_064?
-int Field_6_0_1_18179_065?
-int Field_6_0_1_18179_066?
-int Field_6_0_1_18179_067?
-int Field_6_0_1_18179_068?
-int Field_6_0_1_18179_069?
-int Field_6_0_1_18179_070?
-int Field_6_0_1_18179_071?
-string Field_6_0_1_18179_072?
-int Field_6_0_1_18179_073?
-int Field_6_0_1_18179_074?
-int Field_6_0_1_18179_075?
+int ID
+int flags
+int minLevel
+int maxLevel
+int raceMask
+int classMask
+int gender
+int nativeGender
+int skillID
+int minSkill
+int maxSkill
+int skillLogic
+int languageID
+int minLanguage
+int maxLanguage
+int minFactionID
+int maxFactionID
+int minReputation
+int maxReputation
+int reputationLogic
+int minPVPRank
+int maxPVPRank
+int pvpMedal
+int prevQuestLogic
+int prevQuestID
+int currQuestLogic
+int currQuestID
+int currentCompletedQuestLogic
+int currentCompletedQuestID
+int spellLogic
+int spellID
+int itemLogic
+int itemID
+int itemCount
+int itemFlags
+int explored
+int time
+int auraSpellLogic
+int auraSpellID
+int worldStateExpressionID
+int weatherID
+int partyStatus
+int lifetimeMaxPVPRank
+int achievementLogic
+int achievement
+int lfgLogic
+int lfgStatus
+int lfgCompare
+int lfgValue
+int areaLogic
+int areaID
+int currencyLogic
+int currencyID
+int currencyCount
+int questKillID
+int questKillLogic
+int questKillMonster
+int minExpansionLevel
+int maxExpansionLevel
+int minExpansionTier
+int maxExpansionTier
+int minGuildLevel
+int maxGuildLevel
+int phaseUseFlags
+int phaseID
+int phaseGroupID
+int minAvgItemLevel
+int maxAvgItemLevel
+int minAvgEquippedItemLevel
+int maxAvgEquippedItemLevel
+int chrSpecializationIndex
+int chrSpecializationRole
+string failure_description_lang
+int powerType
+int powerTypeComp
+int powerTypeValue
 
 BUILD 6.0.1.18179
-$id$Field_6_0_1_18179_000<32>
-Field_6_0_1_18179_001<32>
-Field_6_0_1_18179_002<32>
-Field_6_0_1_18179_003<32>
-Field_6_0_1_18179_004<32>
-Field_6_0_1_18179_005<32>
-Field_6_0_1_18179_006<32>
-Field_6_0_1_18179_007<32>
-Field_6_0_1_18179_008<32>[4]
-Field_6_0_1_18179_009<32>[4]
-Field_6_0_1_18179_010<32>[4]
-Field_6_0_1_18179_011<32>
-Field_6_0_1_18179_012<32>
-Field_6_0_1_18179_013<32>
-Field_6_0_1_18179_014<32>
-Field_6_0_1_18179_015<32>[3]
-Field_6_0_1_18179_016<32>
-Field_6_0_1_18179_017<32>[3]
-Field_6_0_1_18179_018<32>
-Field_6_0_1_18179_019<32>
-Field_6_0_1_18179_020<32>
-Field_6_0_1_18179_021<32>
-Field_6_0_1_18179_022<32>
-Field_6_0_1_18179_023<32>
-Field_6_0_1_18179_024<32>[4]
-Field_6_0_1_18179_025<32>
-Field_6_0_1_18179_026<32>[4]
-Field_6_0_1_18179_027<32>
-Field_6_0_1_18179_028<32>[4]
-Field_6_0_1_18179_029<32>
-Field_6_0_1_18179_030<32>[4]
-Field_6_0_1_18179_031<32>
-Field_6_0_1_18179_032<32>[4]
-Field_6_0_1_18179_033<32>[4]
-Field_6_0_1_18179_034<32>
-Field_6_0_1_18179_035<32>[2]
-Field_6_0_1_18179_036<32>[2]
-Field_6_0_1_18179_037<32>
-Field_6_0_1_18179_038<32>[4]
-Field_6_0_1_18179_039<32>
-Field_6_0_1_18179_040<32>
-Field_6_0_1_18179_041<32>
-Field_6_0_1_18179_042<32>
-Field_6_0_1_18179_043<32>
-Field_6_0_1_18179_044<32>[4]
-Field_6_0_1_18179_045<32>
-Field_6_0_1_18179_046<32>[4]
-Field_6_0_1_18179_047<32>[4]
-Field_6_0_1_18179_048<32>[4]
-Field_6_0_1_18179_049<32>
-Field_6_0_1_18179_050<32>[4]
-Field_6_0_1_18179_051<32>
-Field_6_0_1_18179_052<32>[4]
-Field_6_0_1_18179_053<32>[4]
-Field_6_0_1_18179_054<32>
-Field_6_0_1_18179_055<32>
-Field_6_0_1_18179_056<32>[4]
-Field_6_0_1_18179_057<32>
-Field_6_0_1_18179_058<32>
-Field_6_0_1_18179_059<32>
-Field_6_0_1_18179_060<32>
-Field_6_0_1_18179_061<32>
-Field_6_0_1_18179_062<32>
-Field_6_0_1_18179_063<32>
-Field_6_0_1_18179_064<32>
-Field_6_0_1_18179_065<32>
-Field_6_0_1_18179_066<32>
-Field_6_0_1_18179_067<32>
-Field_6_0_1_18179_068<32>
-Field_6_0_1_18179_069<32>
-Field_6_0_1_18179_070<32>
-Field_6_0_1_18179_071<32>
-Field_6_0_1_18179_072
-Field_6_0_1_18179_073<32>
-Field_6_0_1_18179_074<32>
-Field_6_0_1_18179_075<32>
+$id$ID<32>
+flags<32>
+minLevel<32>
+maxLevel<32>
+raceMask<32>
+classMask<32>
+gender<32>
+nativeGender<32>
+skillID<32>[4]
+minSkill<32>[4]
+maxSkill<32>[4]
+skillLogic<32>
+languageID<32>
+minLanguage<32>
+maxLanguage<32>
+minFactionID<32>[3]
+maxFactionID<32>
+minReputation<32>[3]
+maxReputation<32>
+reputationLogic<32>
+minPVPRank<32>
+maxPVPRank<32>
+pvpMedal<32>
+prevQuestLogic<32>
+prevQuestID<32>[4]
+currQuestLogic<32>
+currQuestID<32>[4]
+currentCompletedQuestLogic<32>
+currentCompletedQuestID<32>[4]
+spellLogic<32>
+spellID<32>[4]
+itemLogic<32>
+itemID<32>[4]
+itemCount<32>[4]
+itemFlags<32>
+explored<32>[2]
+time<32>[2]
+auraSpellLogic<32>
+auraSpellID<32>[4]
+worldStateExpressionID<32>
+weatherID<32>
+partyStatus<32>
+lifetimeMaxPVPRank<32>
+achievementLogic<32>
+achievement<32>[4]
+lfgLogic<32>
+lfgStatus<32>[4]
+lfgCompare<32>[4]
+lfgValue<32>[4]
+areaLogic<32>
+areaID<32>[4]
+currencyLogic<32>
+currencyID<32>[4]
+currencyCount<32>[4]
+questKillID<32>
+questKillLogic<32>
+questKillMonster<32>[4]
+minExpansionLevel<32>
+maxExpansionLevel<32>
+minExpansionTier<32>
+maxExpansionTier<32>
+minGuildLevel<32>
+maxGuildLevel<32>
+phaseUseFlags<32>
+phaseID<32>
+phaseGroupID<32>
+minAvgItemLevel<32>
+maxAvgItemLevel<32>
+minAvgEquippedItemLevel<32>
+maxAvgEquippedItemLevel<32>
+chrSpecializationIndex<32>
+chrSpecializationRole<32>
+failure_description_lang
+powerType<32>
+powerTypeComp<32>
+powerTypeValue<32>

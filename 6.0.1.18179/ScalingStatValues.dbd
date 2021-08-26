@@ -1,53 +1,53 @@
 COLUMNS
-int Field_6_0_1_18179_000?
-int Field_6_0_1_18179_001?
-int Field_6_0_1_18179_002?
-int Field_6_0_1_18179_003?
-int Field_6_0_1_18179_004?
-int Field_6_0_1_18179_005?
-int Field_6_0_1_18179_006?
-int Field_6_0_1_18179_007?
-int Field_6_0_1_18179_008?
-int Field_6_0_1_18179_009?
-int Field_6_0_1_18179_010?
-int Field_6_0_1_18179_011?
-int Field_6_0_1_18179_012?
-int Field_6_0_1_18179_013?
-int Field_6_0_1_18179_014?
-int Field_6_0_1_18179_015?
-int Field_6_0_1_18179_016?
-int Field_6_0_1_18179_017?
-int Field_6_0_1_18179_018?
-int Field_6_0_1_18179_019?
-int Field_6_0_1_18179_020?
-int Field_6_0_1_18179_021?
-int Field_6_0_1_18179_022?
-int Field_6_0_1_18179_023?
-int Field_6_0_1_18179_024?
+int ID
+int charlevel
+int effectiveLevel
+int weaponDPS1H
+int weaponDPS2H
+int spellcasterDPS1H
+int spellcasterDPS2H
+int rangedDPS
+int wandDPS
+int spellPower
+int budgetPrimary
+int budgetSecondary
+int budgetTertiary
+int budgetSub
+int budgetTrivial
+int armorShoulder
+int armorChest
+int armorHead
+int armorLegs
+int armorFeet
+int armorWaist
+int armorHands
+int armorWrists
+int armorBack
+int armorShield
 
 BUILD 6.0.1.18179
-$id$Field_6_0_1_18179_000<32>
-Field_6_0_1_18179_001<32>
-Field_6_0_1_18179_002<32>
-Field_6_0_1_18179_003<32>
-Field_6_0_1_18179_004<32>
-Field_6_0_1_18179_005<32>
-Field_6_0_1_18179_006<32>
-Field_6_0_1_18179_007<32>
-Field_6_0_1_18179_008<32>
-Field_6_0_1_18179_009<32>
-Field_6_0_1_18179_010<32>
-Field_6_0_1_18179_011<32>
-Field_6_0_1_18179_012<32>
-Field_6_0_1_18179_013<32>
-Field_6_0_1_18179_014<32>
-Field_6_0_1_18179_015<32>[4]
-Field_6_0_1_18179_016<32>[4]
-Field_6_0_1_18179_017<32>[4]
-Field_6_0_1_18179_018<32>[4]
-Field_6_0_1_18179_019<32>[4]
-Field_6_0_1_18179_020<32>[4]
-Field_6_0_1_18179_021<32>[4]
-Field_6_0_1_18179_022<32>[4]
-Field_6_0_1_18179_023<32>
-Field_6_0_1_18179_024<32>
+$id$ID<32>
+charlevel<32>
+effectiveLevel<32>
+weaponDPS1H<32>
+weaponDPS2H<32>
+spellcasterDPS1H<32>
+spellcasterDPS2H<32>
+rangedDPS<32>
+wandDPS<32>
+spellPower<32>
+budgetPrimary<32>
+budgetSecondary<32>
+budgetTertiary<32>
+budgetSub<32>
+budgetTrivial<32>
+armorShoulder<32>[4]
+armorChest<32>[4]
+armorHead<32>[4]
+armorLegs<32>[4]
+armorFeet<32>[4]
+armorWaist<32>[4]
+armorHands<32>[4]
+armorWrists<32>[4]
+armorBack<32>
+armorShield<32>
