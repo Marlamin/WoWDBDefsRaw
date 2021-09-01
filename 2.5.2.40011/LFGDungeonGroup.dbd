@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+locstring Field_2_5_2_40011_000_lang?
+int Field_2_5_2_40011_001?
+int Field_2_5_2_40011_002?
+int Field_2_5_2_40011_003?
+
+LAYOUT FDF860DD
+BUILD 2.5.2.40011
+$noninline,id$ID<32>
+Field_2_5_2_40011_000_lang
+Field_2_5_2_40011_001<u8>
+Field_2_5_2_40011_002<u8>
+Field_2_5_2_40011_003<u16>
