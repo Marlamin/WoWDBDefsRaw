@@ -1,0 +1,26 @@
+COLUMNS
+int ID
+int Field_2_5_2_40045_000?
+int Field_2_5_2_40045_001?
+int Field_2_5_2_40045_002?
+int Field_2_5_2_40045_003?
+int Field_2_5_2_40045_004?
+int Field_2_5_2_40045_005?
+int Field_2_5_2_40045_006?
+int Field_2_5_2_40045_007?
+int Field_2_5_2_40045_008?
+int Field_2_5_2_40045_009?
+
+LAYOUT BF42FB43
+BUILD 2.5.2.40045
+$noninline,id$ID<32>
+Field_2_5_2_40045_000<u8>
+Field_2_5_2_40045_001<u8>
+Field_2_5_2_40045_002<u8>
+Field_2_5_2_40045_003<u8>
+Field_2_5_2_40045_004<u8>
+Field_2_5_2_40045_005<32>
+Field_2_5_2_40045_006<32>
+Field_2_5_2_40045_007<32>
+Field_2_5_2_40045_008<32>
+$noninline,relation$Field_2_5_2_40045_009<32>
