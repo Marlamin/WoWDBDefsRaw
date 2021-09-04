@@ -1,0 +1,32 @@
+COLUMNS
+int ID
+float Field_9_1_5_40071_000?
+float Field_9_1_5_40071_001?
+float Field_9_1_5_40071_002?
+float Field_9_1_5_40071_003?
+float Field_9_1_5_40071_004?
+float Field_9_1_5_40071_005?
+float Field_9_1_5_40071_006?
+float Field_9_1_5_40071_007?
+float Field_9_1_5_40071_008?
+int Field_9_1_5_40071_009?
+float Field_9_1_5_40071_010?
+int Field_9_1_5_40071_011?
+int Field_9_1_5_40071_012?
+
+LAYOUT 1A14D443
+BUILD 9.1.5.40071
+$noninline,id$ID<32>
+Field_9_1_5_40071_000
+Field_9_1_5_40071_001
+Field_9_1_5_40071_002
+Field_9_1_5_40071_003
+Field_9_1_5_40071_004
+Field_9_1_5_40071_005
+Field_9_1_5_40071_006
+Field_9_1_5_40071_007
+Field_9_1_5_40071_008
+Field_9_1_5_40071_009<8>
+Field_9_1_5_40071_010
+Field_9_1_5_40071_011<32>
+Field_9_1_5_40071_012<u32>

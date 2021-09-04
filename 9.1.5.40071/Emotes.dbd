@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+int Field_9_1_5_40071_000?
+string Field_9_1_5_40071_001?
+int Field_9_1_5_40071_002?
+int Field_9_1_5_40071_003?
+int Field_9_1_5_40071_004?
+int Field_9_1_5_40071_005?
+int Field_9_1_5_40071_006?
+int Field_9_1_5_40071_007?
+int Field_9_1_5_40071_008?
+
+LAYOUT B3BBAC91
+BUILD 9.1.5.40071
+$noninline,id$ID<32>
+Field_9_1_5_40071_000<64>
+Field_9_1_5_40071_001
+Field_9_1_5_40071_002<32>
+Field_9_1_5_40071_003<u32>
+Field_9_1_5_40071_004<u8>
+Field_9_1_5_40071_005<u32>
+Field_9_1_5_40071_006<u32>
+Field_9_1_5_40071_007<u32>
+Field_9_1_5_40071_008<32>

@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+string Field_9_1_5_40071_000?
+int Field_9_1_5_40071_001?
+int Field_9_1_5_40071_002?
+int Field_9_1_5_40071_003?
+int Field_9_1_5_40071_004?
+int Field_9_1_5_40071_005?
+int Field_9_1_5_40071_006?
+
+LAYOUT CC5288E7
+BUILD 9.1.5.40071
+$noninline,id$ID<32>
+Field_9_1_5_40071_000
+Field_9_1_5_40071_001<u8>
+Field_9_1_5_40071_002<32>
+Field_9_1_5_40071_003<32>
+Field_9_1_5_40071_004<u8>
+Field_9_1_5_40071_005<u8>
+Field_9_1_5_40071_006<u32>[2]
