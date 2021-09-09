@@ -1,0 +1,22 @@
+COLUMNS
+int ID
+int Field_9_1_0_40120_000?
+int Field_9_1_0_40120_001?
+int Field_9_1_0_40120_002?
+int Field_9_1_0_40120_003?
+float Field_9_1_0_40120_004?
+int Field_9_1_0_40120_005?
+float Field_9_1_0_40120_006?
+int Field_9_1_0_40120_007?
+
+LAYOUT 2D0BF086
+BUILD 9.1.0.40120
+$noninline,id$ID<32>
+Field_9_1_0_40120_000<u32>
+Field_9_1_0_40120_001<u32>
+Field_9_1_0_40120_002<u32>
+Field_9_1_0_40120_003<u32>
+Field_9_1_0_40120_004
+Field_9_1_0_40120_005<32>
+Field_9_1_0_40120_006
+Field_9_1_0_40120_007<32>[2]
