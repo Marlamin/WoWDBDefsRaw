@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+locstring Field_1_14_0_40179_000_lang?
+int Field_1_14_0_40179_001?
+int Field_1_14_0_40179_002?
+
+LAYOUT FF4D821C
+BUILD 1.14.0.40179
+$noninline,id$ID<32>
+Field_1_14_0_40179_000_lang
+Field_1_14_0_40179_001<u8>
+Field_1_14_0_40179_002<32>
