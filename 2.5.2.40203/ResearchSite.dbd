@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+locstring Field_2_5_2_40203_000_lang?
+int Field_2_5_2_40203_001?
+int Field_2_5_2_40203_002?
+int Field_2_5_2_40203_003?
+
+LAYOUT D726A6EE
+BUILD 2.5.2.40203
+$noninline,id$ID<32>
+Field_2_5_2_40203_000_lang
+Field_2_5_2_40203_001<16>
+Field_2_5_2_40203_002<32>
+Field_2_5_2_40203_003<u32>

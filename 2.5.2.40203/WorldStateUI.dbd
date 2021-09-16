@@ -1,0 +1,38 @@
+COLUMNS
+string Field_2_5_2_40203_000?
+locstring Field_2_5_2_40203_001_lang?
+locstring Field_2_5_2_40203_002_lang?
+locstring Field_2_5_2_40203_003_lang?
+string Field_2_5_2_40203_004?
+int Field_2_5_2_40203_005?
+int Field_2_5_2_40203_006?
+int Field_2_5_2_40203_007?
+int Field_2_5_2_40203_008?
+int Field_2_5_2_40203_009?
+int Field_2_5_2_40203_010?
+int Field_2_5_2_40203_011?
+int Field_2_5_2_40203_012?
+int Field_2_5_2_40203_013?
+int Field_2_5_2_40203_014?
+int Field_2_5_2_40203_015?
+int Field_2_5_2_40203_016?
+
+LAYOUT B319BAE8
+BUILD 2.5.2.40203
+Field_2_5_2_40203_000
+Field_2_5_2_40203_001_lang
+Field_2_5_2_40203_002_lang
+Field_2_5_2_40203_003_lang
+Field_2_5_2_40203_004
+$id$Field_2_5_2_40203_005<32>
+$relation$Field_2_5_2_40203_006<16>
+Field_2_5_2_40203_007<u16>
+Field_2_5_2_40203_008<u16>
+Field_2_5_2_40203_009<u8>
+Field_2_5_2_40203_010<32>
+Field_2_5_2_40203_011<32>
+Field_2_5_2_40203_012<u8>
+Field_2_5_2_40203_013<u8>
+Field_2_5_2_40203_014<u16>
+Field_2_5_2_40203_015<u16>
+Field_2_5_2_40203_016<u16>[3]
