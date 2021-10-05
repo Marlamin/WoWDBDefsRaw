@@ -1,0 +1,108 @@
+COLUMNS
+int ID
+string Field_9_1_5_40496_000?
+string Field_9_1_5_40496_001?
+locstring Field_9_1_5_40496_002_lang?
+locstring Field_9_1_5_40496_003_lang?
+locstring Field_9_1_5_40496_004_lang?
+locstring Field_9_1_5_40496_005_lang?
+locstring Field_9_1_5_40496_006_lang?
+locstring Field_9_1_5_40496_007_lang?
+locstring Field_9_1_5_40496_008_lang?
+locstring Field_9_1_5_40496_009_lang?
+locstring Field_9_1_5_40496_010_lang?
+locstring Field_9_1_5_40496_011_lang?
+locstring Field_9_1_5_40496_012_lang?
+locstring Field_9_1_5_40496_013_lang?
+locstring Field_9_1_5_40496_014_lang?
+int Field_9_1_5_40496_015?
+int Field_9_1_5_40496_016?
+int Field_9_1_5_40496_017?
+int Field_9_1_5_40496_018?
+int Field_9_1_5_40496_019?
+int Field_9_1_5_40496_020?
+int Field_9_1_5_40496_021?
+int Field_9_1_5_40496_022?
+int Field_9_1_5_40496_023?
+int Field_9_1_5_40496_024?
+int Field_9_1_5_40496_025?
+int Field_9_1_5_40496_026?
+int Field_9_1_5_40496_027?
+int Field_9_1_5_40496_028?
+int Field_9_1_5_40496_029?
+int Field_9_1_5_40496_030?
+int Field_9_1_5_40496_031?
+int Field_9_1_5_40496_032?
+int Field_9_1_5_40496_033?
+int Field_9_1_5_40496_034?
+int Field_9_1_5_40496_035?
+int Field_9_1_5_40496_036?
+int Field_9_1_5_40496_037?
+int Field_9_1_5_40496_038?
+int Field_9_1_5_40496_039?
+int Field_9_1_5_40496_040?
+float Field_9_1_5_40496_041?
+float Field_9_1_5_40496_042?
+float Field_9_1_5_40496_043?
+float Field_9_1_5_40496_044?
+int Field_9_1_5_40496_045?
+int Field_9_1_5_40496_046?
+int Field_9_1_5_40496_047?
+int Field_9_1_5_40496_048?
+int Field_9_1_5_40496_049?
+int Field_9_1_5_40496_050?
+
+LAYOUT 40164CD9
+BUILD 9.1.5.40496
+$noninline,id$ID<32>
+Field_9_1_5_40496_000
+Field_9_1_5_40496_001
+Field_9_1_5_40496_002_lang
+Field_9_1_5_40496_003_lang
+Field_9_1_5_40496_004_lang
+Field_9_1_5_40496_005_lang
+Field_9_1_5_40496_006_lang
+Field_9_1_5_40496_007_lang
+Field_9_1_5_40496_008_lang
+Field_9_1_5_40496_009_lang
+Field_9_1_5_40496_010_lang
+Field_9_1_5_40496_011_lang
+Field_9_1_5_40496_012_lang
+Field_9_1_5_40496_013_lang
+Field_9_1_5_40496_014_lang
+Field_9_1_5_40496_015<32>
+Field_9_1_5_40496_016<32>
+Field_9_1_5_40496_017<32>
+Field_9_1_5_40496_018<32>
+Field_9_1_5_40496_019<32>
+Field_9_1_5_40496_020<32>
+Field_9_1_5_40496_021<32>
+Field_9_1_5_40496_022<32>
+Field_9_1_5_40496_023<32>
+Field_9_1_5_40496_024<32>
+Field_9_1_5_40496_025<32>
+Field_9_1_5_40496_026<32>
+Field_9_1_5_40496_027<32>
+Field_9_1_5_40496_028<32>[3]
+Field_9_1_5_40496_029<32>[3]
+Field_9_1_5_40496_030<32>
+Field_9_1_5_40496_031<32>
+Field_9_1_5_40496_032<32>
+Field_9_1_5_40496_033<32>
+Field_9_1_5_40496_034<32>
+Field_9_1_5_40496_035<32>
+Field_9_1_5_40496_036<32>
+Field_9_1_5_40496_037<32>
+Field_9_1_5_40496_038<32>
+Field_9_1_5_40496_039<32>
+Field_9_1_5_40496_040<32>
+Field_9_1_5_40496_041[3]
+Field_9_1_5_40496_042
+Field_9_1_5_40496_043[3]
+Field_9_1_5_40496_044[3]
+Field_9_1_5_40496_045<8>
+Field_9_1_5_40496_046<8>
+Field_9_1_5_40496_047<8>
+Field_9_1_5_40496_048<8>
+Field_9_1_5_40496_049<8>
+Field_9_1_5_40496_050<8>
