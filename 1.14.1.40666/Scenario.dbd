@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+locstring Field_1_14_1_40666_000_lang?
+int Field_1_14_1_40666_001?
+int Field_1_14_1_40666_002?
+int Field_1_14_1_40666_003?
+int Field_1_14_1_40666_004?
+
+LAYOUT 25359326
+BUILD 1.14.1.40666
+$noninline,id$ID<32>
+Field_1_14_1_40666_000_lang
+Field_1_14_1_40666_001<u16>
+Field_1_14_1_40666_002<u8>
+Field_1_14_1_40666_003<u8>
+Field_1_14_1_40666_004<u32>

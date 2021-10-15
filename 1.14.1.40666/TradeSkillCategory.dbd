@@ -1,0 +1,18 @@
+COLUMNS
+locstring Field_1_14_1_40666_000_lang?
+locstring Field_1_14_1_40666_001_lang?
+int Field_1_14_1_40666_002?
+int Field_1_14_1_40666_003?
+int Field_1_14_1_40666_004?
+int Field_1_14_1_40666_005?
+int Field_1_14_1_40666_006?
+
+LAYOUT EACBC3D4
+BUILD 1.14.1.40666
+Field_1_14_1_40666_000_lang
+Field_1_14_1_40666_001_lang
+$id$Field_1_14_1_40666_002<32>
+Field_1_14_1_40666_003<u16>
+Field_1_14_1_40666_004<u16>
+Field_1_14_1_40666_005<16>
+Field_1_14_1_40666_006<u8>
