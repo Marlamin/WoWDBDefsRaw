@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+locstring Field_9_1_5_40738_000_lang?
+float Field_9_1_5_40738_001?
+float Field_9_1_5_40738_002?
+float Field_9_1_5_40738_003?
+int Field_9_1_5_40738_004?
+int Field_9_1_5_40738_005?
+int Field_9_1_5_40738_006?
+int Field_9_1_5_40738_007?
+int Field_9_1_5_40738_008?
+int Field_9_1_5_40738_009?
+int Field_9_1_5_40738_010?
+int Field_9_1_5_40738_011?
+int Field_9_1_5_40738_012?
+float Field_9_1_5_40738_013?
+int Field_9_1_5_40738_014?
+int Field_9_1_5_40738_015?
+
+LAYOUT BCCA03D2
+BUILD 9.1.5.40738
+$noninline,id$ID<32>
+Field_9_1_5_40738_000_lang
+Field_9_1_5_40738_001[3]
+Field_9_1_5_40738_002[3]
+Field_9_1_5_40738_003[3]
+Field_9_1_5_40738_004<u8>
+Field_9_1_5_40738_005<32>
+Field_9_1_5_40738_006<32>
+Field_9_1_5_40738_007<32>
+Field_9_1_5_40738_008<32>
+Field_9_1_5_40738_009<32>
+Field_9_1_5_40738_010<32>
+Field_9_1_5_40738_011<32>
+Field_9_1_5_40738_012<32>
+Field_9_1_5_40738_013
+Field_9_1_5_40738_014<32>
+$noninline,relation$Field_9_1_5_40738_015<32>
