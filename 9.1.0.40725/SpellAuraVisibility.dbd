@@ -1,0 +1,12 @@
+COLUMNS
+int Field_9_1_0_40725_000?
+int Field_9_1_0_40725_001?
+int Field_9_1_0_40725_002?
+int Field_9_1_0_40725_003?
+
+LAYOUT B8AA32DE
+BUILD 9.1.0.40725
+$id$Field_9_1_0_40725_000<32>
+Field_9_1_0_40725_001<8>
+Field_9_1_0_40725_002<8>
+$noninline,relation$Field_9_1_0_40725_003<32>

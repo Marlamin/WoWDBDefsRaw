@@ -1,0 +1,50 @@
+COLUMNS
+int ID
+locstring Field_9_1_0_40725_000_lang?
+locstring Field_9_1_0_40725_001_lang?
+locstring Field_9_1_0_40725_002_lang?
+locstring Field_9_1_0_40725_003_lang?
+locstring Field_9_1_0_40725_004_lang?
+int Field_9_1_0_40725_005?
+int Field_9_1_0_40725_006?
+int Field_9_1_0_40725_007?
+int Field_9_1_0_40725_008?
+int Field_9_1_0_40725_009?
+int Field_9_1_0_40725_010?
+int Field_9_1_0_40725_011?
+int Field_9_1_0_40725_012?
+int Field_9_1_0_40725_013?
+int Field_9_1_0_40725_014?
+int Field_9_1_0_40725_015?
+int Field_9_1_0_40725_016?
+int Field_9_1_0_40725_017?
+int Field_9_1_0_40725_018?
+int Field_9_1_0_40725_019?
+int Field_9_1_0_40725_020?
+int Field_9_1_0_40725_021?
+
+LAYOUT 8591A17C
+BUILD 9.1.0.40725
+$noninline,id$ID<32>
+Field_9_1_0_40725_000_lang
+Field_9_1_0_40725_001_lang
+Field_9_1_0_40725_002_lang
+Field_9_1_0_40725_003_lang
+Field_9_1_0_40725_004_lang
+Field_9_1_0_40725_005<u8>
+Field_9_1_0_40725_006<u32>
+Field_9_1_0_40725_007<u8>
+Field_9_1_0_40725_008<u8>
+Field_9_1_0_40725_009<32>
+Field_9_1_0_40725_010<u16>
+Field_9_1_0_40725_011<32>
+Field_9_1_0_40725_012<u16>
+Field_9_1_0_40725_013<u8>
+Field_9_1_0_40725_014<u8>
+Field_9_1_0_40725_015<32>
+Field_9_1_0_40725_016<u32>
+Field_9_1_0_40725_017<u16>
+Field_9_1_0_40725_018<u32>
+Field_9_1_0_40725_019<u16>
+Field_9_1_0_40725_020<u32>[2]
+Field_9_1_0_40725_021<u8>[2]
