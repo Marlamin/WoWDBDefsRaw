@@ -1,0 +1,14 @@
+COLUMNS
+float Field_2_5_2_40892_000?
+int Field_2_5_2_40892_001?
+int Field_2_5_2_40892_002?
+int Field_2_5_2_40892_003?
+int Field_2_5_2_40892_004?
+
+LAYOUT DB36FC65
+BUILD 2.5.2.40892
+Field_2_5_2_40892_000[2]
+$id$Field_2_5_2_40892_001<32>
+$relation$Field_2_5_2_40892_002<u8>
+Field_2_5_2_40892_003<u16>
+Field_2_5_2_40892_004<u16>
