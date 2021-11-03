@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_9_1_5_40906_000?
+locstring Field_9_1_5_40906_001_lang?
+locstring Field_9_1_5_40906_002_lang?
+int Field_9_1_5_40906_003?
+int Field_9_1_5_40906_004?
+int Field_9_1_5_40906_005?
+
+LAYOUT 2EAF1C11
+BUILD 9.1.5.40906
+$noninline,id$ID<32>
+Field_9_1_5_40906_000<64>
+Field_9_1_5_40906_001_lang
+Field_9_1_5_40906_002_lang
+Field_9_1_5_40906_003<u8>
+Field_9_1_5_40906_004<32>
+Field_9_1_5_40906_005<32>

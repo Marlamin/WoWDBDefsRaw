@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+locstring Field_9_1_5_40906_000_lang?
+locstring Field_9_1_5_40906_001_lang?
+int Field_9_1_5_40906_002?
+int Field_9_1_5_40906_003?
+int Field_9_1_5_40906_004?
+int Field_9_1_5_40906_005?
+int Field_9_1_5_40906_006?
+
+LAYOUT EC12D90F
+BUILD 9.1.5.40906
+$noninline,id$ID<32>
+Field_9_1_5_40906_000_lang
+Field_9_1_5_40906_001_lang
+Field_9_1_5_40906_002<32>
+Field_9_1_5_40906_003<32>
+Field_9_1_5_40906_004<32>
+Field_9_1_5_40906_005<32>
+Field_9_1_5_40906_006<32>
