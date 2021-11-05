@@ -1,0 +1,11 @@
+COLUMNS
+int ID
+string Field_1_14_1_40926_000?
+string Field_1_14_1_40926_001?
+
+LAYOUT 2023785D
+BUILD 1.14.1.40926
+COMMENT table is sparse
+$noninline,id$ID<32>
+Field_1_14_1_40926_000
+Field_1_14_1_40926_001
