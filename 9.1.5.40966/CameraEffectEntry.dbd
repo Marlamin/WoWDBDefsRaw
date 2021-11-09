@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+int Field_9_1_5_40966_000?
+int Field_9_1_5_40966_001?
+float Field_9_1_5_40966_002?
+float Field_9_1_5_40966_003?
+float Field_9_1_5_40966_004?
+float Field_9_1_5_40966_005?
+float Field_9_1_5_40966_006?
+float Field_9_1_5_40966_007?
+float Field_9_1_5_40966_008?
+float Field_9_1_5_40966_009?
+int Field_9_1_5_40966_010?
+int Field_9_1_5_40966_011?
+int Field_9_1_5_40966_012?
+int Field_9_1_5_40966_013?
+int Field_9_1_5_40966_014?
+int Field_9_1_5_40966_015?
+
+LAYOUT CE956A7C
+BUILD 9.1.5.40966
+$noninline,id$ID<32>
+Field_9_1_5_40966_000<u8>
+Field_9_1_5_40966_001<u16>
+Field_9_1_5_40966_002
+Field_9_1_5_40966_003
+Field_9_1_5_40966_004
+Field_9_1_5_40966_005
+Field_9_1_5_40966_006
+Field_9_1_5_40966_007
+Field_9_1_5_40966_008
+Field_9_1_5_40966_009
+Field_9_1_5_40966_010<u8>
+Field_9_1_5_40966_011<8>
+Field_9_1_5_40966_012<u8>
+Field_9_1_5_40966_013<u8>
+Field_9_1_5_40966_014<8>
+$noninline,relation$Field_9_1_5_40966_015<32>
