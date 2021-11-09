@@ -1,0 +1,16 @@
+COLUMNS
+string Field_1_14_1_41009_000?
+locstring Field_1_14_1_41009_001_lang?
+int Field_1_14_1_41009_002?
+int Field_1_14_1_41009_003?
+int Field_1_14_1_41009_004?
+int Field_1_14_1_41009_005?
+
+LAYOUT 059DA8DE
+BUILD 1.14.1.41009
+Field_1_14_1_41009_000
+Field_1_14_1_41009_001_lang
+$id$Field_1_14_1_41009_002<32>
+Field_1_14_1_41009_003<u8>
+Field_1_14_1_41009_004<32>
+Field_1_14_1_41009_005<32>
