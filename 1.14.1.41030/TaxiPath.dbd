@@ -1,0 +1,12 @@
+COLUMNS
+int Field_1_14_1_41030_000?
+int Field_1_14_1_41030_001?
+int Field_1_14_1_41030_002?
+int Field_1_14_1_41030_003?
+
+LAYOUT 0ECA5A01
+BUILD 1.14.1.41030
+$id$Field_1_14_1_41030_000<32>
+$relation$Field_1_14_1_41030_001<u16>
+Field_1_14_1_41030_002<u16>
+Field_1_14_1_41030_003<u32>
