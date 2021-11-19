@@ -1,0 +1,14 @@
+COLUMNS
+float Field_9_2_0_41089_000?
+int Field_9_2_0_41089_001?
+int Field_9_2_0_41089_002?
+int Field_9_2_0_41089_003?
+int Field_9_2_0_41089_004?
+
+LAYOUT DB36FC65
+BUILD 9.2.0.41089
+Field_9_2_0_41089_000[2]
+$id$Field_9_2_0_41089_001<32>
+$relation$Field_9_2_0_41089_002<u8>
+Field_9_2_0_41089_003<u16>
+Field_9_2_0_41089_004<u16>

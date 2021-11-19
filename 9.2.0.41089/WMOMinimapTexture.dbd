@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int Field_9_2_0_41089_000?
+int Field_9_2_0_41089_001?
+int Field_9_2_0_41089_002?
+int Field_9_2_0_41089_003?
+int Field_9_2_0_41089_004?
+
+LAYOUT ECCFAA9B
+BUILD 9.2.0.41089
+$noninline,id$ID<32>
+Field_9_2_0_41089_000<u16>
+Field_9_2_0_41089_001<u8>
+Field_9_2_0_41089_002<u8>
+Field_9_2_0_41089_003<32>
+$noninline,relation$Field_9_2_0_41089_004<32>
