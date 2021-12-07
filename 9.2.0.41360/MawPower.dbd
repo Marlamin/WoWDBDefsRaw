@@ -1,0 +1,10 @@
+COLUMNS
+int Field_9_2_0_41360_000?
+int Field_9_2_0_41360_001?
+int Field_9_2_0_41360_002?
+
+LAYOUT EE3C69AF
+BUILD 9.2.0.41360
+$id$Field_9_2_0_41360_000<32>
+$relation$Field_9_2_0_41360_001<32>
+Field_9_2_0_41360_002<32>
