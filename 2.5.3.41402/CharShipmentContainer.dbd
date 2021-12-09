@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+locstring Field_2_5_3_41402_000_lang?
+locstring Field_2_5_3_41402_001_lang?
+int Field_2_5_3_41402_002?
+int Field_2_5_3_41402_003?
+int Field_2_5_3_41402_004?
+int Field_2_5_3_41402_005?
+int Field_2_5_3_41402_006?
+int Field_2_5_3_41402_007?
+int Field_2_5_3_41402_008?
+int Field_2_5_3_41402_009?
+int Field_2_5_3_41402_010?
+int Field_2_5_3_41402_011?
+int Field_2_5_3_41402_012?
+int Field_2_5_3_41402_013?
+int Field_2_5_3_41402_014?
+int Field_2_5_3_41402_015?
+
+LAYOUT 5369BFD6
+BUILD 2.5.3.41402
+$noninline,id$ID<32>
+Field_2_5_3_41402_000_lang
+Field_2_5_3_41402_001_lang
+Field_2_5_3_41402_002<u16>
+Field_2_5_3_41402_003<u8>
+Field_2_5_3_41402_004<u8>
+Field_2_5_3_41402_005<u8>
+Field_2_5_3_41402_006<u16>
+Field_2_5_3_41402_007<u16>
+Field_2_5_3_41402_008<u16>
+Field_2_5_3_41402_009<32>
+Field_2_5_3_41402_010<u32>
+Field_2_5_3_41402_011<u32>
+Field_2_5_3_41402_012<u8>
+Field_2_5_3_41402_013<u8>
+Field_2_5_3_41402_014<8>
+Field_2_5_3_41402_015<u16>
