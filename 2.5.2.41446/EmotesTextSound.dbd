@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int Field_2_5_2_41446_000?
+int Field_2_5_2_41446_001?
+int Field_2_5_2_41446_002?
+int Field_2_5_2_41446_003?
+int Field_2_5_2_41446_004?
+
+LAYOUT DDB1DE6E
+BUILD 2.5.2.41446
+$noninline,id$ID<32>
+Field_2_5_2_41446_000<u8>
+Field_2_5_2_41446_001<u8>
+Field_2_5_2_41446_002<u8>
+Field_2_5_2_41446_003<u32>
+$noninline,relation$Field_2_5_2_41446_004<32>

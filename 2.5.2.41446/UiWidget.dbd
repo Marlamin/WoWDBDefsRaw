@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+string Field_2_5_2_41446_000?
+int Field_2_5_2_41446_001?
+int Field_2_5_2_41446_002?
+int Field_2_5_2_41446_003?
+int Field_2_5_2_41446_004?
+int Field_2_5_2_41446_005?
+
+LAYOUT D139CBB3
+BUILD 2.5.2.41446
+$noninline,id$ID<32>
+Field_2_5_2_41446_000
+Field_2_5_2_41446_001<u16>
+Field_2_5_2_41446_002<32>
+Field_2_5_2_41446_003<32>
+Field_2_5_2_41446_004<32>
+Field_2_5_2_41446_005<u32>

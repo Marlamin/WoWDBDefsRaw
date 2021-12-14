@@ -1,0 +1,12 @@
+COLUMNS
+int Field_2_5_2_41446_000?
+int Field_2_5_2_41446_001?
+int Field_2_5_2_41446_002?
+int Field_2_5_2_41446_003?
+
+LAYOUT 3CC5A9B0
+BUILD 2.5.2.41446
+$id$Field_2_5_2_41446_000<32>
+$relation$Field_2_5_2_41446_001<32>
+Field_2_5_2_41446_002<32>
+Field_2_5_2_41446_003<32>
