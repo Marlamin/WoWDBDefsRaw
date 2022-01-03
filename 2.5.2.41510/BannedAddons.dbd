@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+string Field_2_5_2_41510_000?
+string Field_2_5_2_41510_001?
+int Field_2_5_2_41510_002?
+
+LAYOUT FFC1F2CD
+BUILD 2.5.2.41510
+$noninline,id$ID<32>
+Field_2_5_2_41510_000
+Field_2_5_2_41510_001
+Field_2_5_2_41510_002<u8>

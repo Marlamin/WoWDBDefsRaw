@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+float Field_2_5_2_41510_000?
+float Field_2_5_2_41510_001?
+
+LAYOUT D6CE20A8
+BUILD 2.5.2.41510
+$noninline,id$ID<32>
+Field_2_5_2_41510_000[3]
+Field_2_5_2_41510_001[3]
