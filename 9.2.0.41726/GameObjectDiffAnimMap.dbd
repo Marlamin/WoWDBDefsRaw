@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_9_2_0_41726_000?
+int Field_9_2_0_41726_001?
+int Field_9_2_0_41726_002?
+int Field_9_2_0_41726_003?
+
+LAYOUT 0BA11B63
+BUILD 9.2.0.41726
+$noninline,id$ID<32>
+Field_9_2_0_41726_000<u8>
+Field_9_2_0_41726_001<u8>
+Field_9_2_0_41726_002<32>
+$noninline,relation$Field_9_2_0_41726_003<32>
