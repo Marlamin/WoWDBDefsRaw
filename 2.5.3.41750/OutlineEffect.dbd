@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_2_5_3_41750_000?
+int Field_2_5_3_41750_001?
+int Field_2_5_3_41750_002?
+int Field_2_5_3_41750_003?
+float Field_2_5_3_41750_004?
+int Field_2_5_3_41750_005?
+
+LAYOUT CAD7FE83
+BUILD 2.5.3.41750
+$noninline,id$ID<32>
+Field_2_5_3_41750_000<u32>
+Field_2_5_3_41750_001<u32>
+Field_2_5_3_41750_002<32>
+Field_2_5_3_41750_003<32>
+Field_2_5_3_41750_004
+Field_2_5_3_41750_005<u32>[2]

@@ -1,0 +1,18 @@
+COLUMNS
+int Field_2_5_3_41750_000?
+int Field_2_5_3_41750_001?
+int Field_2_5_3_41750_002?
+int Field_2_5_3_41750_003?
+float Field_2_5_3_41750_004?
+int Field_2_5_3_41750_005?
+int Field_2_5_3_41750_006?
+
+LAYOUT DECEC2B1
+BUILD 2.5.3.41750
+$id$Field_2_5_3_41750_000<32>
+$relation$Field_2_5_3_41750_001<32>
+Field_2_5_3_41750_002<u32>
+Field_2_5_3_41750_003<u8>
+Field_2_5_3_41750_004
+Field_2_5_3_41750_005<u8>
+Field_2_5_3_41750_006<u8>
