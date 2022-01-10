@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+int Field_1_14_1_41794_000?
+int Field_1_14_1_41794_001?
+int Field_1_14_1_41794_002?
+int Field_1_14_1_41794_003?
+int Field_1_14_1_41794_004?
+int Field_1_14_1_41794_005?
+int Field_1_14_1_41794_006?
+
+LAYOUT C96332BB
+BUILD 1.14.1.41794
+$noninline,id$ID<32>
+Field_1_14_1_41794_000<u8>
+Field_1_14_1_41794_001<u16>
+Field_1_14_1_41794_002<u8>
+Field_1_14_1_41794_003<u8>
+Field_1_14_1_41794_004<32>
+Field_1_14_1_41794_005<32>
+$noninline,relation$Field_1_14_1_41794_006<32>

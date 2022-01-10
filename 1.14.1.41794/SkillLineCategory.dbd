@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+locstring Field_1_14_1_41794_000_lang?
+int Field_1_14_1_41794_001?
+
+LAYOUT D521FCDB
+BUILD 1.14.1.41794
+$noninline,id$ID<32>
+Field_1_14_1_41794_000_lang
+Field_1_14_1_41794_001<u8>
