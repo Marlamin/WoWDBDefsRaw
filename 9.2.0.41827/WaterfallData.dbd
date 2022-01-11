@@ -1,0 +1,44 @@
+COLUMNS
+int ID
+int Field_9_2_0_41827_000?
+int Field_9_2_0_41827_001?
+int Field_9_2_0_41827_002?
+int Field_9_2_0_41827_003?
+float Field_9_2_0_41827_004?
+float Field_9_2_0_41827_005?
+float Field_9_2_0_41827_006?
+float Field_9_2_0_41827_007?
+float Field_9_2_0_41827_008?
+float Field_9_2_0_41827_009?
+float Field_9_2_0_41827_010?
+float Field_9_2_0_41827_011?
+float Field_9_2_0_41827_012?
+float Field_9_2_0_41827_013?
+float Field_9_2_0_41827_014?
+float Field_9_2_0_41827_015?
+float Field_9_2_0_41827_016?
+float Field_9_2_0_41827_017?
+int Field_9_2_0_41827_018?
+
+LAYOUT CCCAA6CA
+BUILD 9.2.0.41827
+$noninline,id$ID<32>
+Field_9_2_0_41827_000<32>
+Field_9_2_0_41827_001<32>
+Field_9_2_0_41827_002<32>
+Field_9_2_0_41827_003<32>
+Field_9_2_0_41827_004
+Field_9_2_0_41827_005
+Field_9_2_0_41827_006
+Field_9_2_0_41827_007
+Field_9_2_0_41827_008
+Field_9_2_0_41827_009
+Field_9_2_0_41827_010
+Field_9_2_0_41827_011
+Field_9_2_0_41827_012
+Field_9_2_0_41827_013
+Field_9_2_0_41827_014
+Field_9_2_0_41827_015
+Field_9_2_0_41827_016
+Field_9_2_0_41827_017
+Field_9_2_0_41827_018<32>
