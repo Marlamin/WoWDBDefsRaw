@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+float Field_1_14_2_41858_000?
+int Field_1_14_2_41858_001?
+int Field_1_14_2_41858_002?
+int Field_1_14_2_41858_003?
+int Field_1_14_2_41858_004?
+
+LAYOUT C185CFC1
+BUILD 1.14.2.41858
+$noninline,id$ID<32>
+Field_1_14_2_41858_000[2]
+Field_1_14_2_41858_001<32>
+Field_1_14_2_41858_002<32>
+Field_1_14_2_41858_003<u8>
+$noninline,relation$Field_1_14_2_41858_004<32>
