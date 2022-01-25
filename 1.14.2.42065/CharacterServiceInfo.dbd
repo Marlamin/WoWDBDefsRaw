@@ -1,0 +1,30 @@
+COLUMNS
+int ID
+locstring Field_1_14_2_42065_000_lang?
+locstring Field_1_14_2_42065_001_lang?
+locstring Field_1_14_2_42065_002_lang?
+int Field_1_14_2_42065_003?
+int Field_1_14_2_42065_004?
+int Field_1_14_2_42065_005?
+int Field_1_14_2_42065_006?
+int Field_1_14_2_42065_007?
+int Field_1_14_2_42065_008?
+int Field_1_14_2_42065_009?
+int Field_1_14_2_42065_010?
+int Field_1_14_2_42065_011?
+
+LAYOUT EA8A1A38
+BUILD 1.14.2.42065
+$noninline,id$ID<32>
+Field_1_14_2_42065_000_lang
+Field_1_14_2_42065_001_lang
+Field_1_14_2_42065_002_lang
+Field_1_14_2_42065_003<32>
+Field_1_14_2_42065_004<32>
+Field_1_14_2_42065_005<32>
+Field_1_14_2_42065_006<32>
+Field_1_14_2_42065_007<u32>
+Field_1_14_2_42065_008<32>
+Field_1_14_2_42065_009<32>
+Field_1_14_2_42065_010<32>
+Field_1_14_2_42065_011<32>
