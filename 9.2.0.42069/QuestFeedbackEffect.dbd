@@ -1,0 +1,22 @@
+COLUMNS
+int ID
+string Field_9_2_0_42069_000?
+int Field_9_2_0_42069_001?
+int Field_9_2_0_42069_002?
+int Field_9_2_0_42069_003?
+int Field_9_2_0_42069_004?
+int Field_9_2_0_42069_005?
+int Field_9_2_0_42069_006?
+int Field_9_2_0_42069_007?
+
+LAYOUT 6CA6256A
+BUILD 9.2.0.42069
+$noninline,id$ID<32>
+Field_9_2_0_42069_000
+Field_9_2_0_42069_001<u32>
+Field_9_2_0_42069_002<u16>
+Field_9_2_0_42069_003<u8>
+Field_9_2_0_42069_004<u8>
+Field_9_2_0_42069_005<u8>
+Field_9_2_0_42069_006<u8>
+Field_9_2_0_42069_007<32>
