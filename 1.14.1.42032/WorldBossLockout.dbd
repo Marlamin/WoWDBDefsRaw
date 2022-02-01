@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+locstring Field_1_14_1_42032_000_lang?
+int Field_1_14_1_42032_001?
+
+LAYOUT F6CA67DB
+BUILD 1.14.1.42032
+$noninline,id$ID<32>
+Field_1_14_1_42032_000_lang
+Field_1_14_1_42032_001<u32>
