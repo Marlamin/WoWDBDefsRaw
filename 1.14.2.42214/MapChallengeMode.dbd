@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_1_14_2_42214_000_lang?
+int Field_1_14_2_42214_001?
+int Field_1_14_2_42214_002?
+int Field_1_14_2_42214_003?
+int Field_1_14_2_42214_004?
+
+LAYOUT D1A78B20
+BUILD 1.14.2.42214
+Field_1_14_2_42214_000_lang
+$id$Field_1_14_2_42214_001<32>
+$relation$Field_1_14_2_42214_002<u16>
+Field_1_14_2_42214_003<u8>
+Field_1_14_2_42214_004<16>[3]
