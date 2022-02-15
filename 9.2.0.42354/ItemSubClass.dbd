@@ -1,0 +1,26 @@
+COLUMNS
+locstring Field_9_2_0_42354_000_lang?
+locstring Field_9_2_0_42354_001_lang?
+int Field_9_2_0_42354_002?
+int Field_9_2_0_42354_003?
+int Field_9_2_0_42354_004?
+int Field_9_2_0_42354_005?
+int Field_9_2_0_42354_006?
+int Field_9_2_0_42354_007?
+int Field_9_2_0_42354_008?
+int Field_9_2_0_42354_009?
+int Field_9_2_0_42354_010?
+
+LAYOUT CE3533A2
+BUILD 9.2.0.42354
+Field_9_2_0_42354_000_lang
+Field_9_2_0_42354_001_lang
+$id$Field_9_2_0_42354_002<32>
+$relation$Field_9_2_0_42354_003<8>
+Field_9_2_0_42354_004<8>
+Field_9_2_0_42354_005<u8>
+Field_9_2_0_42354_006<8>
+Field_9_2_0_42354_007<16>
+Field_9_2_0_42354_008<8>
+Field_9_2_0_42354_009<8>
+Field_9_2_0_42354_010<8>
