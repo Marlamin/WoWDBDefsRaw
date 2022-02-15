@@ -1,0 +1,26 @@
+COLUMNS
+int ID
+locstring Field_2_5_3_42328_000_lang?
+locstring Field_2_5_3_42328_001_lang?
+float Field_2_5_3_42328_002?
+int Field_2_5_3_42328_003?
+int Field_2_5_3_42328_004?
+int Field_2_5_3_42328_005?
+int Field_2_5_3_42328_006?
+int Field_2_5_3_42328_007?
+int Field_2_5_3_42328_008?
+int Field_2_5_3_42328_009?
+
+LAYOUT DFEDC272
+BUILD 2.5.3.42328
+$noninline,id$ID<32>
+Field_2_5_3_42328_000_lang
+Field_2_5_3_42328_001_lang
+Field_2_5_3_42328_002[2]
+Field_2_5_3_42328_003<u16>
+Field_2_5_3_42328_004<u32>
+Field_2_5_3_42328_005<u16>
+Field_2_5_3_42328_006<u16>
+Field_2_5_3_42328_007<u32>
+Field_2_5_3_42328_008<u8>
+Field_2_5_3_42328_009<8>
