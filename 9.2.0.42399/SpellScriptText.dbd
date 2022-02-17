@@ -1,0 +1,14 @@
+COLUMNS
+string Field_9_2_0_42399_000?
+int Field_9_2_0_42399_001?
+int Field_9_2_0_42399_002?
+int Field_9_2_0_42399_003?
+int Field_9_2_0_42399_004?
+
+LAYOUT 1DD3B137
+BUILD 9.2.0.42399
+Field_9_2_0_42399_000
+$id$Field_9_2_0_42399_001<32>
+Field_9_2_0_42399_002<32>
+Field_9_2_0_42399_003<32>
+$noninline,relation$Field_9_2_0_42399_004<32>
