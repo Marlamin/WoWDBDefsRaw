@@ -1,0 +1,20 @@
+COLUMNS
+locstring Field_1_14_2_42597_000_lang?
+string Field_1_14_2_42597_001?
+int Field_1_14_2_42597_002?
+int Field_1_14_2_42597_003?
+float Field_1_14_2_42597_004?
+float Field_1_14_2_42597_005?
+float Field_1_14_2_42597_006?
+float Field_1_14_2_42597_007?
+
+LAYOUT 301FDC00
+BUILD 1.14.2.42597
+Field_1_14_2_42597_000_lang
+Field_1_14_2_42597_001
+$id$Field_1_14_2_42597_002<32>
+Field_1_14_2_42597_003<32>
+Field_1_14_2_42597_004
+Field_1_14_2_42597_005
+Field_1_14_2_42597_006
+Field_1_14_2_42597_007
