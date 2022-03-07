@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+int Field_2_5_3_42598_000?
+int Field_2_5_3_42598_001?
+int Field_2_5_3_42598_002?
+int Field_2_5_3_42598_003?
+float Field_2_5_3_42598_004?
+float Field_2_5_3_42598_005?
+float Field_2_5_3_42598_006?
+
+LAYOUT E28EC062
+BUILD 2.5.3.42598
+$noninline,id$ID<32>
+Field_2_5_3_42598_000<u32>
+Field_2_5_3_42598_001<u32>
+Field_2_5_3_42598_002<u32>
+Field_2_5_3_42598_003<u32>
+Field_2_5_3_42598_004
+Field_2_5_3_42598_005
+Field_2_5_3_42598_006

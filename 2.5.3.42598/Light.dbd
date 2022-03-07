@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+float Field_2_5_3_42598_000?
+float Field_2_5_3_42598_001?
+float Field_2_5_3_42598_002?
+int Field_2_5_3_42598_003?
+int Field_2_5_3_42598_004?
+
+LAYOUT 9088A2A3
+BUILD 2.5.3.42598
+$noninline,id$ID<32>
+Field_2_5_3_42598_000[3]
+Field_2_5_3_42598_001
+Field_2_5_3_42598_002
+Field_2_5_3_42598_003<16>
+Field_2_5_3_42598_004<u16>[8]
