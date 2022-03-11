@@ -1,0 +1,14 @@
+COLUMNS
+int Field_2_5_4_42695_000?
+float Field_2_5_4_42695_001?
+float Field_2_5_4_42695_002?
+float Field_2_5_4_42695_003?
+float Field_2_5_4_42695_004?
+
+LAYOUT 20BC890C
+BUILD 2.5.4.42695
+$id$Field_2_5_4_42695_000<32>
+Field_2_5_4_42695_001
+Field_2_5_4_42695_002
+Field_2_5_4_42695_003
+Field_2_5_4_42695_004

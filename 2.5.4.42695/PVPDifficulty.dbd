@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_2_5_4_42695_000?
+int Field_2_5_4_42695_001?
+int Field_2_5_4_42695_002?
+int Field_2_5_4_42695_003?
+
+LAYOUT CB799A74
+BUILD 2.5.4.42695
+$noninline,id$ID<32>
+Field_2_5_4_42695_000<u8>
+Field_2_5_4_42695_001<u8>
+Field_2_5_4_42695_002<u8>
+$noninline,relation$Field_2_5_4_42695_003<32>

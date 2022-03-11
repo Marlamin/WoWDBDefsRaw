@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int Field_2_5_4_42695_000?
+int Field_2_5_4_42695_001?
+int Field_2_5_4_42695_002?
+int Field_2_5_4_42695_003?
+int Field_2_5_4_42695_004?
+
+LAYOUT CBC85802
+BUILD 2.5.4.42695
+$noninline,id$ID<32>
+Field_2_5_4_42695_000<u8>
+Field_2_5_4_42695_001<u8>
+Field_2_5_4_42695_002<u8>
+Field_2_5_4_42695_003<u8>
+Field_2_5_4_42695_004<u8>
