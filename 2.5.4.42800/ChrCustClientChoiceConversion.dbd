@@ -1,0 +1,12 @@
+COLUMNS
+int Field_2_5_4_42800_000?
+int Field_2_5_4_42800_001?
+int Field_2_5_4_42800_002?
+int Field_2_5_4_42800_003?
+
+LAYOUT 531DD388
+BUILD 2.5.4.42800
+$id$Field_2_5_4_42800_000<32>
+Field_2_5_4_42800_001<32>
+Field_2_5_4_42800_002<32>
+$noninline,relation$Field_2_5_4_42800_003<32>

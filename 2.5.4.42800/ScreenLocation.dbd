@@ -1,0 +1,8 @@
+COLUMNS
+int ID
+string Field_2_5_4_42800_000?
+
+LAYOUT E7C2B265
+BUILD 2.5.4.42800
+$noninline,id$ID<32>
+Field_2_5_4_42800_000
