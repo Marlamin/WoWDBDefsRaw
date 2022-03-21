@@ -1,0 +1,8 @@
+COLUMNS
+int ID
+int Field_9_2_0_42825_000?
+
+LAYOUT 9153400D
+BUILD 9.2.0.42825
+$noninline,id$ID<32>
+$relation$Field_9_2_0_42825_000<32>
