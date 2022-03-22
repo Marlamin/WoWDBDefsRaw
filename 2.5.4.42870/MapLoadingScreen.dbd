@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+float Field_2_5_4_42870_000?
+float Field_2_5_4_42870_001?
+int Field_2_5_4_42870_002?
+int Field_2_5_4_42870_003?
+int Field_2_5_4_42870_004?
+
+LAYOUT 901F4821
+BUILD 2.5.4.42870
+$noninline,id$ID<32>
+Field_2_5_4_42870_000[2]
+Field_2_5_4_42870_001[2]
+Field_2_5_4_42870_002<32>
+Field_2_5_4_42870_003<32>
+$noninline,relation$Field_2_5_4_42870_004<32>
