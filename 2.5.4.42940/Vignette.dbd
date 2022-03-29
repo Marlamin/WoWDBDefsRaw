@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+locstring Field_2_5_4_42940_000_lang?
+int Field_2_5_4_42940_001?
+int Field_2_5_4_42940_002?
+int Field_2_5_4_42940_003?
+int Field_2_5_4_42940_004?
+float Field_2_5_4_42940_005?
+float Field_2_5_4_42940_006?
+int Field_2_5_4_42940_007?
+int Field_2_5_4_42940_008?
+
+LAYOUT DCB9DC5F
+BUILD 2.5.4.42940
+$noninline,id$ID<32>
+Field_2_5_4_42940_000_lang
+Field_2_5_4_42940_001<u32>
+Field_2_5_4_42940_002<u32>
+Field_2_5_4_42940_003<u32>
+Field_2_5_4_42940_004<32>
+Field_2_5_4_42940_005
+Field_2_5_4_42940_006
+Field_2_5_4_42940_007<8>
+Field_2_5_4_42940_008<32>
