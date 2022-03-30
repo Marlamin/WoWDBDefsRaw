@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+int Field_9_2_0_42979_000?
+int Field_9_2_0_42979_001?
+
+LAYOUT ABA94CC1
+BUILD 9.2.0.42979
+$noninline,id$ID<32>
+Field_9_2_0_42979_000<u16>
+Field_9_2_0_42979_001<u16>
