@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int Field_9_2_0_43114_000?
+int Field_9_2_0_43114_001?
+int Field_9_2_0_43114_002?
+int Field_9_2_0_43114_003?
+int Field_9_2_0_43114_004?
+
+LAYOUT ECCFAA9B
+BUILD 9.2.0.43114
+$noninline,id$ID<32>
+Field_9_2_0_43114_000<u16>
+Field_9_2_0_43114_001<u8>
+Field_9_2_0_43114_002<u8>
+Field_9_2_0_43114_003<32>
+$noninline,relation$Field_9_2_0_43114_004<32>
