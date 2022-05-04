@@ -1,0 +1,14 @@
+COLUMNS
+string Field_9_2_5_43519_000?
+int Field_9_2_5_43519_001?
+int Field_9_2_5_43519_002?
+int Field_9_2_5_43519_003?
+int Field_9_2_5_43519_004?
+
+LAYOUT 035224C6
+BUILD 9.2.5.43519
+Field_9_2_5_43519_000
+$id$Field_9_2_5_43519_001<32>
+Field_9_2_5_43519_002<32>
+Field_9_2_5_43519_003<32>
+$noninline,relation$Field_9_2_5_43519_004<32>
