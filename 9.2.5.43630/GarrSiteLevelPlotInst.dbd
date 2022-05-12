@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+float Field_9_2_5_43630_000?
+int Field_9_2_5_43630_001?
+int Field_9_2_5_43630_002?
+int Field_9_2_5_43630_003?
+
+LAYOUT 1CAD597B
+BUILD 9.2.5.43630
+$noninline,id$ID<32>
+Field_9_2_5_43630_000[2]
+$relation$Field_9_2_5_43630_001<u16>
+Field_9_2_5_43630_002<u8>
+Field_9_2_5_43630_003<u8>

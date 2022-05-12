@@ -1,0 +1,16 @@
+COLUMNS
+locstring Field_9_2_5_43630_000_lang?
+int Field_9_2_5_43630_001?
+int Field_9_2_5_43630_002?
+int Field_9_2_5_43630_003?
+int Field_9_2_5_43630_004?
+int Field_9_2_5_43630_005?
+
+LAYOUT A524AD21
+BUILD 9.2.5.43630
+Field_9_2_5_43630_000_lang
+$id$Field_9_2_5_43630_001<32>
+$relation$Field_9_2_5_43630_002<u16>
+Field_9_2_5_43630_003<32>
+Field_9_2_5_43630_004<32>
+Field_9_2_5_43630_005<u8>
