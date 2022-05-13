@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_3_4_0_43682_000_lang?
+int Field_3_4_0_43682_001?
+int Field_3_4_0_43682_002?
+int Field_3_4_0_43682_003?
+int Field_3_4_0_43682_004?
+
+LAYOUT E7DA5527
+BUILD 3.4.0.43682
+Field_3_4_0_43682_000_lang
+$id$Field_3_4_0_43682_001<32>
+Field_3_4_0_43682_002<32>
+Field_3_4_0_43682_003<32>
+$noninline,relation$Field_3_4_0_43682_004<32>
