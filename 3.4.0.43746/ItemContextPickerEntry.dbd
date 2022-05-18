@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_3_4_0_43746_000?
+int Field_3_4_0_43746_001?
+int Field_3_4_0_43746_002?
+int Field_3_4_0_43746_003?
+int Field_3_4_0_43746_004?
+int Field_3_4_0_43746_005?
+
+LAYOUT A71A3E17
+BUILD 3.4.0.43746
+$noninline,id$ID<32>
+Field_3_4_0_43746_000<u8>
+Field_3_4_0_43746_001<u8>
+Field_3_4_0_43746_002<32>
+Field_3_4_0_43746_003<u32>
+Field_3_4_0_43746_004<u32>
+$noninline,relation$Field_3_4_0_43746_005<32>
