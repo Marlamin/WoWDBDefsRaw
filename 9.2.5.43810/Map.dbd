@@ -1,0 +1,52 @@
+COLUMNS
+int ID
+string Field_9_2_5_43810_000?
+locstring Field_9_2_5_43810_001_lang?
+locstring Field_9_2_5_43810_002_lang?
+locstring Field_9_2_5_43810_003_lang?
+locstring Field_9_2_5_43810_004_lang?
+locstring Field_9_2_5_43810_005_lang?
+float Field_9_2_5_43810_006?
+int Field_9_2_5_43810_007?
+int Field_9_2_5_43810_008?
+int Field_9_2_5_43810_009?
+int Field_9_2_5_43810_010?
+int Field_9_2_5_43810_011?
+int Field_9_2_5_43810_012?
+int Field_9_2_5_43810_013?
+int Field_9_2_5_43810_014?
+int Field_9_2_5_43810_015?
+float Field_9_2_5_43810_016?
+int Field_9_2_5_43810_017?
+int Field_9_2_5_43810_018?
+int Field_9_2_5_43810_019?
+int Field_9_2_5_43810_020?
+int Field_9_2_5_43810_021?
+int Field_9_2_5_43810_022?
+
+LAYOUT AAA1F94E
+BUILD 9.2.5.43810
+$noninline,id$ID<32>
+Field_9_2_5_43810_000
+Field_9_2_5_43810_001_lang
+Field_9_2_5_43810_002_lang
+Field_9_2_5_43810_003_lang
+Field_9_2_5_43810_004_lang
+Field_9_2_5_43810_005_lang
+Field_9_2_5_43810_006[2]
+Field_9_2_5_43810_007<u8>
+Field_9_2_5_43810_008<8>
+Field_9_2_5_43810_009<u8>
+Field_9_2_5_43810_010<u16>
+Field_9_2_5_43810_011<16>
+Field_9_2_5_43810_012<16>
+Field_9_2_5_43810_013<16>
+Field_9_2_5_43810_014<16>
+Field_9_2_5_43810_015<u8>
+Field_9_2_5_43810_016
+Field_9_2_5_43810_017<16>
+Field_9_2_5_43810_018<u8>
+Field_9_2_5_43810_019<16>
+Field_9_2_5_43810_020<32>
+Field_9_2_5_43810_021<32>
+Field_9_2_5_43810_022<32>[3]
