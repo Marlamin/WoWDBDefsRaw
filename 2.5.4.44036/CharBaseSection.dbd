@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int Field_2_5_4_44036_000?
+int Field_2_5_4_44036_001?
+int Field_2_5_4_44036_002?
+
+LAYOUT DA5163F4
+BUILD 2.5.4.44036
+$noninline,id$ID<32>
+Field_2_5_4_44036_000<u8>
+Field_2_5_4_44036_001<u8>
+Field_2_5_4_44036_002<u8>

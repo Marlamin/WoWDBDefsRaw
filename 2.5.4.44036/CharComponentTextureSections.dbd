@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+int Field_2_5_4_44036_000?
+int Field_2_5_4_44036_001?
+int Field_2_5_4_44036_002?
+int Field_2_5_4_44036_003?
+int Field_2_5_4_44036_004?
+int Field_2_5_4_44036_005?
+int Field_2_5_4_44036_006?
+
+LAYOUT 7C4B248E
+BUILD 2.5.4.44036
+$noninline,id$ID<32>
+$relation$Field_2_5_4_44036_000<8>
+Field_2_5_4_44036_001<8>
+Field_2_5_4_44036_002<16>
+Field_2_5_4_44036_003<16>
+Field_2_5_4_44036_004<16>
+Field_2_5_4_44036_005<16>
+Field_2_5_4_44036_006<u32>
