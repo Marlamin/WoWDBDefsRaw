@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int Field_1_14_3_44016_000?
+float Field_1_14_3_44016_001?
+float Field_1_14_3_44016_002?
+float Field_1_14_3_44016_003?
+int Field_1_14_3_44016_004?
+
+LAYOUT 65E85BF3
+BUILD 1.14.3.44016
+$noninline,id$ID<32>
+Field_1_14_3_44016_000<u8>
+Field_1_14_3_44016_001
+Field_1_14_3_44016_002
+Field_1_14_3_44016_003
+Field_1_14_3_44016_004<u32>
