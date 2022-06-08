@@ -1,0 +1,30 @@
+COLUMNS
+int ID
+float Field_3_4_0_44064_000?
+float Field_3_4_0_44064_001?
+float Field_3_4_0_44064_002?
+float Field_3_4_0_44064_003?
+float Field_3_4_0_44064_004?
+float Field_3_4_0_44064_005?
+float Field_3_4_0_44064_006?
+float Field_3_4_0_44064_007?
+int Field_3_4_0_44064_008?
+int Field_3_4_0_44064_009?
+float Field_3_4_0_44064_010?
+int Field_3_4_0_44064_011?
+
+LAYOUT 057C9AA8
+BUILD 3.4.0.44064
+$noninline,id$ID<32>
+Field_3_4_0_44064_000
+Field_3_4_0_44064_001
+Field_3_4_0_44064_002
+Field_3_4_0_44064_003
+Field_3_4_0_44064_004
+Field_3_4_0_44064_005
+Field_3_4_0_44064_006
+Field_3_4_0_44064_007
+Field_3_4_0_44064_008<32>
+Field_3_4_0_44064_009<32>
+Field_3_4_0_44064_010[2]
+Field_3_4_0_44064_011<32>[2]
