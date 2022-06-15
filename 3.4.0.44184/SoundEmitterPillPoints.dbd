@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+float Field_3_4_0_44184_000?
+int Field_3_4_0_44184_001?
+
+LAYOUT FB1F432A
+BUILD 3.4.0.44184
+$noninline,id$ID<32>
+Field_3_4_0_44184_000[3]
+$relation$Field_3_4_0_44184_001<u16>

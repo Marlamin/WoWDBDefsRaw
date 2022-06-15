@@ -1,0 +1,24 @@
+COLUMNS
+locstring Field_3_4_0_44184_000_lang?
+float Field_3_4_0_44184_001?
+int Field_3_4_0_44184_002?
+int Field_3_4_0_44184_003?
+int Field_3_4_0_44184_004?
+int Field_3_4_0_44184_005?
+int Field_3_4_0_44184_006?
+int Field_3_4_0_44184_007?
+int Field_3_4_0_44184_008?
+int Field_3_4_0_44184_009?
+
+LAYOUT C66039FC
+BUILD 3.4.0.44184
+Field_3_4_0_44184_000_lang
+Field_3_4_0_44184_001[2]
+$id$Field_3_4_0_44184_002<32>
+Field_3_4_0_44184_003<32>
+Field_3_4_0_44184_004<32>
+Field_3_4_0_44184_005<32>
+Field_3_4_0_44184_006<u32>
+Field_3_4_0_44184_007<32>
+Field_3_4_0_44184_008<32>
+$noninline,relation$Field_3_4_0_44184_009<32>
