@@ -1,0 +1,22 @@
+COLUMNS
+int ID
+int Field_3_4_0_44250_000?
+float Field_3_4_0_44250_001?
+int Field_3_4_0_44250_002?
+int Field_3_4_0_44250_003?
+int Field_3_4_0_44250_004?
+int Field_3_4_0_44250_005?
+float Field_3_4_0_44250_006?
+int Field_3_4_0_44250_007?
+
+LAYOUT AC82CF4B
+BUILD 3.4.0.44250
+$noninline,id$ID<32>
+Field_3_4_0_44250_000<u8>
+Field_3_4_0_44250_001
+Field_3_4_0_44250_002<u8>
+Field_3_4_0_44250_003<u32>
+Field_3_4_0_44250_004<16>
+Field_3_4_0_44250_005<32>
+Field_3_4_0_44250_006
+$noninline,relation$Field_3_4_0_44250_007<32>
