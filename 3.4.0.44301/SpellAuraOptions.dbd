@@ -1,0 +1,22 @@
+COLUMNS
+int ID
+int Field_3_4_0_44301_000?
+int Field_3_4_0_44301_001?
+int Field_3_4_0_44301_002?
+int Field_3_4_0_44301_003?
+int Field_3_4_0_44301_004?
+int Field_3_4_0_44301_005?
+int Field_3_4_0_44301_006?
+int Field_3_4_0_44301_007?
+
+LAYOUT B247D703
+BUILD 3.4.0.44301
+$noninline,id$ID<32>
+Field_3_4_0_44301_000<u8>
+Field_3_4_0_44301_001<u32>
+Field_3_4_0_44301_002<32>
+Field_3_4_0_44301_003<u8>
+Field_3_4_0_44301_004<32>
+Field_3_4_0_44301_005<u16>
+Field_3_4_0_44301_006<32>[2]
+$noninline,relation$Field_3_4_0_44301_007<32>

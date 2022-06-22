@@ -1,0 +1,120 @@
+COLUMNS
+int ID
+string Field_3_4_0_44301_000?
+string Field_3_4_0_44301_001?
+locstring Field_3_4_0_44301_002_lang?
+locstring Field_3_4_0_44301_003_lang?
+locstring Field_3_4_0_44301_004_lang?
+locstring Field_3_4_0_44301_005_lang?
+locstring Field_3_4_0_44301_006_lang?
+locstring Field_3_4_0_44301_007_lang?
+locstring Field_3_4_0_44301_008_lang?
+locstring Field_3_4_0_44301_009_lang?
+locstring Field_3_4_0_44301_010_lang?
+locstring Field_3_4_0_44301_011_lang?
+locstring Field_3_4_0_44301_012_lang?
+locstring Field_3_4_0_44301_013_lang?
+locstring Field_3_4_0_44301_014_lang?
+int Field_3_4_0_44301_015?
+int Field_3_4_0_44301_016?
+int Field_3_4_0_44301_017?
+int Field_3_4_0_44301_018?
+int Field_3_4_0_44301_019?
+int Field_3_4_0_44301_020?
+int Field_3_4_0_44301_021?
+int Field_3_4_0_44301_022?
+int Field_3_4_0_44301_023?
+int Field_3_4_0_44301_024?
+int Field_3_4_0_44301_025?
+int Field_3_4_0_44301_026?
+int Field_3_4_0_44301_027?
+int Field_3_4_0_44301_028?
+int Field_3_4_0_44301_029?
+int Field_3_4_0_44301_030?
+int Field_3_4_0_44301_031?
+int Field_3_4_0_44301_032?
+int Field_3_4_0_44301_033?
+int Field_3_4_0_44301_034?
+float Field_3_4_0_44301_035?
+float Field_3_4_0_44301_036?
+float Field_3_4_0_44301_037?
+float Field_3_4_0_44301_038?
+int Field_3_4_0_44301_039?
+int Field_3_4_0_44301_040?
+int Field_3_4_0_44301_041?
+int Field_3_4_0_44301_042?
+int Field_3_4_0_44301_043?
+int Field_3_4_0_44301_044?
+int Field_3_4_0_44301_045?
+int Field_3_4_0_44301_046?
+int Field_3_4_0_44301_047?
+int Field_3_4_0_44301_048?
+int Field_3_4_0_44301_049?
+int Field_3_4_0_44301_050?
+int Field_3_4_0_44301_051?
+int Field_3_4_0_44301_052?
+int Field_3_4_0_44301_053?
+int Field_3_4_0_44301_054?
+int Field_3_4_0_44301_055?
+int Field_3_4_0_44301_056?
+
+LAYOUT 756C30D6
+BUILD 3.4.0.44301
+$noninline,id$ID<32>
+Field_3_4_0_44301_000
+Field_3_4_0_44301_001
+Field_3_4_0_44301_002_lang
+Field_3_4_0_44301_003_lang
+Field_3_4_0_44301_004_lang
+Field_3_4_0_44301_005_lang
+Field_3_4_0_44301_006_lang
+Field_3_4_0_44301_007_lang
+Field_3_4_0_44301_008_lang
+Field_3_4_0_44301_009_lang
+Field_3_4_0_44301_010_lang
+Field_3_4_0_44301_011_lang
+Field_3_4_0_44301_012_lang
+Field_3_4_0_44301_013_lang
+Field_3_4_0_44301_014_lang
+Field_3_4_0_44301_015<32>
+Field_3_4_0_44301_016<u32>
+Field_3_4_0_44301_017<u32>
+Field_3_4_0_44301_018<u32>
+Field_3_4_0_44301_019<u32>
+Field_3_4_0_44301_020<32>
+Field_3_4_0_44301_021<32>
+Field_3_4_0_44301_022<32>
+Field_3_4_0_44301_023<32>
+Field_3_4_0_44301_024<32>
+Field_3_4_0_44301_025<u32>[3]
+Field_3_4_0_44301_026<u32>[3]
+Field_3_4_0_44301_027<32>
+Field_3_4_0_44301_028<32>
+Field_3_4_0_44301_029<32>
+Field_3_4_0_44301_030<32>
+Field_3_4_0_44301_031<32>
+Field_3_4_0_44301_032<32>
+Field_3_4_0_44301_033<32>
+Field_3_4_0_44301_034<32>
+Field_3_4_0_44301_035[3]
+Field_3_4_0_44301_036
+Field_3_4_0_44301_037[3]
+Field_3_4_0_44301_038[3]
+Field_3_4_0_44301_039<16>
+Field_3_4_0_44301_040<16>
+Field_3_4_0_44301_041<8>
+Field_3_4_0_44301_042<8>
+Field_3_4_0_44301_043<8>
+Field_3_4_0_44301_044<8>
+Field_3_4_0_44301_045<8>
+Field_3_4_0_44301_046<8>
+Field_3_4_0_44301_047<8>
+Field_3_4_0_44301_048<8>
+Field_3_4_0_44301_049<8>
+Field_3_4_0_44301_050<8>
+Field_3_4_0_44301_051<8>
+Field_3_4_0_44301_052<8>
+Field_3_4_0_44301_053<8>
+Field_3_4_0_44301_054<8>
+Field_3_4_0_44301_055<8>
+Field_3_4_0_44301_056<8>
