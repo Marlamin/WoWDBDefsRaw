@@ -1,0 +1,26 @@
+COLUMNS
+int ID
+locstring Field_9_2_5_44325_000_lang?
+int Field_9_2_5_44325_001?
+int Field_9_2_5_44325_002?
+int Field_9_2_5_44325_003?
+int Field_9_2_5_44325_004?
+float Field_9_2_5_44325_005?
+float Field_9_2_5_44325_006?
+int Field_9_2_5_44325_007?
+int Field_9_2_5_44325_008?
+int Field_9_2_5_44325_009?
+
+LAYOUT EC171292
+BUILD 9.2.5.44325
+$noninline,id$ID<32>
+Field_9_2_5_44325_000_lang
+Field_9_2_5_44325_001<u32>
+Field_9_2_5_44325_002<u32>
+Field_9_2_5_44325_003<u32>
+Field_9_2_5_44325_004<32>
+Field_9_2_5_44325_005
+Field_9_2_5_44325_006
+Field_9_2_5_44325_007<8>
+Field_9_2_5_44325_008<32>
+Field_9_2_5_44325_009<32>
