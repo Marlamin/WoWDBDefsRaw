@@ -1,0 +1,38 @@
+COLUMNS
+int ID
+int Field_1_14_3_44403_000?
+int Field_1_14_3_44403_001?
+float Field_1_14_3_44403_002?
+float Field_1_14_3_44403_003?
+float Field_1_14_3_44403_004?
+float Field_1_14_3_44403_005?
+float Field_1_14_3_44403_006?
+float Field_1_14_3_44403_007?
+float Field_1_14_3_44403_008?
+float Field_1_14_3_44403_009?
+int Field_1_14_3_44403_010?
+int Field_1_14_3_44403_011?
+int Field_1_14_3_44403_012?
+int Field_1_14_3_44403_013?
+int Field_1_14_3_44403_014?
+int Field_1_14_3_44403_015?
+
+LAYOUT CE956A7C
+BUILD 1.14.3.44403
+$noninline,id$ID<32>
+Field_1_14_3_44403_000<u8>
+Field_1_14_3_44403_001<u16>
+Field_1_14_3_44403_002
+Field_1_14_3_44403_003
+Field_1_14_3_44403_004
+Field_1_14_3_44403_005
+Field_1_14_3_44403_006
+Field_1_14_3_44403_007
+Field_1_14_3_44403_008
+Field_1_14_3_44403_009
+Field_1_14_3_44403_010<u8>
+Field_1_14_3_44403_011<8>
+Field_1_14_3_44403_012<u8>
+Field_1_14_3_44403_013<u8>
+Field_1_14_3_44403_014<8>
+$noninline,relation$Field_1_14_3_44403_015<32>
