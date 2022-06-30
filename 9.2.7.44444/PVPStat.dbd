@@ -1,0 +1,10 @@
+COLUMNS
+locstring Field_9_2_7_44444_000_lang?
+int Field_9_2_7_44444_001?
+int Field_9_2_7_44444_002?
+
+LAYOUT 33F25E0C
+BUILD 9.2.7.44444
+Field_9_2_7_44444_000_lang
+$id$Field_9_2_7_44444_001<32>
+$relation$Field_9_2_7_44444_002<32>
