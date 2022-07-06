@@ -1,0 +1,8 @@
+COLUMNS
+int ID
+int Field_3_4_0_44547_000?
+
+LAYOUT CC84B93E
+BUILD 3.4.0.44547
+$noninline,id$ID<32>
+Field_3_4_0_44547_000<u16>[10]
