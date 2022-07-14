@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+locstring Field_10_0_0_44649_000_lang?
+int Field_10_0_0_44649_001?
+int Field_10_0_0_44649_002?
+int Field_10_0_0_44649_003?
+
+LAYOUT FCCAFEFD
+BUILD 10.0.0.44649
+$noninline,id$ID<32>
+Field_10_0_0_44649_000_lang
+Field_10_0_0_44649_001<u8>
+Field_10_0_0_44649_002<u8>
+Field_10_0_0_44649_003<u16>
