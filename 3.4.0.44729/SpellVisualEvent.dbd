@@ -1,0 +1,24 @@
+COLUMNS
+int ID
+int Field_3_4_0_44729_000?
+int Field_3_4_0_44729_001?
+int Field_3_4_0_44729_002?
+int Field_3_4_0_44729_003?
+int Field_3_4_0_44729_004?
+int Field_3_4_0_44729_005?
+int Field_3_4_0_44729_006?
+int Field_3_4_0_44729_007?
+int Field_3_4_0_44729_008?
+
+LAYOUT 54DB405C
+BUILD 3.4.0.44729
+$noninline,id$ID<32>
+Field_3_4_0_44729_000<32>
+Field_3_4_0_44729_001<32>
+Field_3_4_0_44729_002<32>
+Field_3_4_0_44729_003<32>
+Field_3_4_0_44729_004<32>
+Field_3_4_0_44729_005<32>
+Field_3_4_0_44729_006<32>
+Field_3_4_0_44729_007<32>
+$noninline,relation$Field_3_4_0_44729_008<32>
