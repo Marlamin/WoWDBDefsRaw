@@ -1,0 +1,18 @@
+COLUMNS
+locstring Field_9_2_5_44730_000_lang?
+locstring Field_9_2_5_44730_001_lang?
+locstring Field_9_2_5_44730_002_lang?
+int Field_9_2_5_44730_003?
+int Field_9_2_5_44730_004?
+int Field_9_2_5_44730_005?
+int Field_9_2_5_44730_006?
+
+LAYOUT DCF9508F
+BUILD 9.2.5.44730
+Field_9_2_5_44730_000_lang
+Field_9_2_5_44730_001_lang
+Field_9_2_5_44730_002_lang
+$id$Field_9_2_5_44730_003<32>
+Field_9_2_5_44730_004<32>
+Field_9_2_5_44730_005<32>
+Field_9_2_5_44730_006<32>

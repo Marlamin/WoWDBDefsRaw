@@ -1,0 +1,28 @@
+COLUMNS
+int ID
+float Field_9_2_5_44730_000?
+int Field_9_2_5_44730_001?
+int Field_9_2_5_44730_002?
+int Field_9_2_5_44730_003?
+float Field_9_2_5_44730_004?
+float Field_9_2_5_44730_005?
+float Field_9_2_5_44730_006?
+float Field_9_2_5_44730_007?
+float Field_9_2_5_44730_008?
+int Field_9_2_5_44730_009?
+int Field_9_2_5_44730_010?
+
+LAYOUT 9C29BEEF
+BUILD 9.2.5.44730
+$noninline,id$ID<32>
+Field_9_2_5_44730_000[3]
+Field_9_2_5_44730_001<u8>
+Field_9_2_5_44730_002<u16>
+Field_9_2_5_44730_003<u8>
+Field_9_2_5_44730_004
+Field_9_2_5_44730_005
+Field_9_2_5_44730_006
+Field_9_2_5_44730_007
+Field_9_2_5_44730_008
+Field_9_2_5_44730_009<32>
+Field_9_2_5_44730_010<32>
