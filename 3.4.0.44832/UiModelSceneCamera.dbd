@@ -1,0 +1,36 @@
+COLUMNS
+string Field_3_4_0_44832_000?
+float Field_3_4_0_44832_001?
+float Field_3_4_0_44832_002?
+int Field_3_4_0_44832_003?
+int Field_3_4_0_44832_004?
+int Field_3_4_0_44832_005?
+float Field_3_4_0_44832_006?
+float Field_3_4_0_44832_007?
+float Field_3_4_0_44832_008?
+float Field_3_4_0_44832_009?
+float Field_3_4_0_44832_010?
+float Field_3_4_0_44832_011?
+float Field_3_4_0_44832_012?
+float Field_3_4_0_44832_013?
+float Field_3_4_0_44832_014?
+int Field_3_4_0_44832_015?
+
+LAYOUT 10F8A956
+BUILD 3.4.0.44832
+Field_3_4_0_44832_000
+Field_3_4_0_44832_001[3]
+Field_3_4_0_44832_002[3]
+$id$Field_3_4_0_44832_003<32>
+Field_3_4_0_44832_004<u8>
+Field_3_4_0_44832_005<u8>
+Field_3_4_0_44832_006
+Field_3_4_0_44832_007
+Field_3_4_0_44832_008
+Field_3_4_0_44832_009
+Field_3_4_0_44832_010
+Field_3_4_0_44832_011
+Field_3_4_0_44832_012
+Field_3_4_0_44832_013
+Field_3_4_0_44832_014
+$noninline,relation$Field_3_4_0_44832_015<32>
