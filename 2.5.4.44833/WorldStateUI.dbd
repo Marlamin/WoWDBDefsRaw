@@ -1,0 +1,38 @@
+COLUMNS
+string Field_2_5_4_44833_000?
+locstring Field_2_5_4_44833_001_lang?
+locstring Field_2_5_4_44833_002_lang?
+locstring Field_2_5_4_44833_003_lang?
+string Field_2_5_4_44833_004?
+int Field_2_5_4_44833_005?
+int Field_2_5_4_44833_006?
+int Field_2_5_4_44833_007?
+int Field_2_5_4_44833_008?
+int Field_2_5_4_44833_009?
+int Field_2_5_4_44833_010?
+int Field_2_5_4_44833_011?
+int Field_2_5_4_44833_012?
+int Field_2_5_4_44833_013?
+int Field_2_5_4_44833_014?
+int Field_2_5_4_44833_015?
+int Field_2_5_4_44833_016?
+
+LAYOUT B319BAE8
+BUILD 2.5.4.44833
+Field_2_5_4_44833_000
+Field_2_5_4_44833_001_lang
+Field_2_5_4_44833_002_lang
+Field_2_5_4_44833_003_lang
+Field_2_5_4_44833_004
+$id$Field_2_5_4_44833_005<32>
+$relation$Field_2_5_4_44833_006<16>
+Field_2_5_4_44833_007<u16>
+Field_2_5_4_44833_008<u16>
+Field_2_5_4_44833_009<u8>
+Field_2_5_4_44833_010<32>
+Field_2_5_4_44833_011<32>
+Field_2_5_4_44833_012<u8>
+Field_2_5_4_44833_013<u8>
+Field_2_5_4_44833_014<u16>
+Field_2_5_4_44833_015<u16>
+Field_2_5_4_44833_016<u16>[3]
