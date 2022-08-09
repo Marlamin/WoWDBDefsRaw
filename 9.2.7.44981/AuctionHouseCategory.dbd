@@ -1,0 +1,22 @@
+COLUMNS
+locstring Field_9_2_7_44981_000_lang?
+locstring Field_9_2_7_44981_001_lang?
+int Field_9_2_7_44981_002?
+int Field_9_2_7_44981_003?
+int Field_9_2_7_44981_004?
+int Field_9_2_7_44981_005?
+int Field_9_2_7_44981_006?
+int Field_9_2_7_44981_007?
+int Field_9_2_7_44981_008?
+
+LAYOUT A528FA70
+BUILD 9.2.7.44981
+Field_9_2_7_44981_000_lang
+Field_9_2_7_44981_001_lang
+$id$Field_9_2_7_44981_002<32>
+Field_9_2_7_44981_003<32>
+Field_9_2_7_44981_004<32>
+Field_9_2_7_44981_005<8>
+Field_9_2_7_44981_006<32>
+Field_9_2_7_44981_007<u8>
+$noninline,relation$Field_9_2_7_44981_008<32>
