@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int Field_3_4_0_45064_000?
+int Field_3_4_0_45064_001?
+int Field_3_4_0_45064_002?
+
+LAYOUT 6287EB21
+BUILD 3.4.0.45064
+$noninline,id$ID<32>
+Field_3_4_0_45064_000<u32>
+Field_3_4_0_45064_001<u16>
+Field_3_4_0_45064_002<u16>
