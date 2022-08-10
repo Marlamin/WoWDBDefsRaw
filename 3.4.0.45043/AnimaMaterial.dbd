@@ -1,0 +1,68 @@
+COLUMNS
+int ID
+float Field_3_4_0_45043_000?
+float Field_3_4_0_45043_001?
+float Field_3_4_0_45043_002?
+float Field_3_4_0_45043_003?
+float Field_3_4_0_45043_004?
+float Field_3_4_0_45043_005?
+float Field_3_4_0_45043_006?
+float Field_3_4_0_45043_007?
+float Field_3_4_0_45043_008?
+float Field_3_4_0_45043_009?
+float Field_3_4_0_45043_010?
+float Field_3_4_0_45043_011?
+float Field_3_4_0_45043_012?
+float Field_3_4_0_45043_013?
+float Field_3_4_0_45043_014?
+float Field_3_4_0_45043_015?
+float Field_3_4_0_45043_016?
+float Field_3_4_0_45043_017?
+float Field_3_4_0_45043_018?
+float Field_3_4_0_45043_019?
+float Field_3_4_0_45043_020?
+float Field_3_4_0_45043_021?
+float Field_3_4_0_45043_022?
+float Field_3_4_0_45043_023?
+int Field_3_4_0_45043_024?
+float Field_3_4_0_45043_025?
+float Field_3_4_0_45043_026?
+int Field_3_4_0_45043_027?
+int Field_3_4_0_45043_028?
+float Field_3_4_0_45043_029?
+int Field_3_4_0_45043_030?
+
+LAYOUT EA8F56B4
+BUILD 3.4.0.45043
+$noninline,id$ID<32>
+Field_3_4_0_45043_000
+Field_3_4_0_45043_001
+Field_3_4_0_45043_002
+Field_3_4_0_45043_003
+Field_3_4_0_45043_004
+Field_3_4_0_45043_005
+Field_3_4_0_45043_006
+Field_3_4_0_45043_007
+Field_3_4_0_45043_008
+Field_3_4_0_45043_009
+Field_3_4_0_45043_010
+Field_3_4_0_45043_011
+Field_3_4_0_45043_012
+Field_3_4_0_45043_013
+Field_3_4_0_45043_014
+Field_3_4_0_45043_015
+Field_3_4_0_45043_016
+Field_3_4_0_45043_017
+Field_3_4_0_45043_018
+Field_3_4_0_45043_019
+Field_3_4_0_45043_020
+Field_3_4_0_45043_021
+Field_3_4_0_45043_022
+Field_3_4_0_45043_023
+Field_3_4_0_45043_024<32>
+Field_3_4_0_45043_025
+Field_3_4_0_45043_026
+Field_3_4_0_45043_027<32>
+Field_3_4_0_45043_028<32>
+Field_3_4_0_45043_029
+Field_3_4_0_45043_030<32>[3]
