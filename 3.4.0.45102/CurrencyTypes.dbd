@@ -1,0 +1,28 @@
+COLUMNS
+int ID
+locstring Field_3_4_0_45102_000_lang?
+locstring Field_3_4_0_45102_001_lang?
+int Field_3_4_0_45102_002?
+int Field_3_4_0_45102_003?
+int Field_3_4_0_45102_004?
+int Field_3_4_0_45102_005?
+int Field_3_4_0_45102_006?
+int Field_3_4_0_45102_007?
+int Field_3_4_0_45102_008?
+int Field_3_4_0_45102_009?
+int Field_3_4_0_45102_010?
+
+LAYOUT 24526C25
+BUILD 3.4.0.45102
+$noninline,id$ID<32>
+Field_3_4_0_45102_000_lang
+Field_3_4_0_45102_001_lang
+Field_3_4_0_45102_002<u8>
+Field_3_4_0_45102_003<32>
+Field_3_4_0_45102_004<u32>
+Field_3_4_0_45102_005<u8>
+Field_3_4_0_45102_006<u32>
+Field_3_4_0_45102_007<u32>
+Field_3_4_0_45102_008<8>
+Field_3_4_0_45102_009<32>
+Field_3_4_0_45102_010<32>[2]
