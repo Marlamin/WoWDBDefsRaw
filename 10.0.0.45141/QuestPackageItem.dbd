@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_10_0_0_45141_000?
+int Field_10_0_0_45141_001?
+int Field_10_0_0_45141_002?
+int Field_10_0_0_45141_003?
+
+LAYOUT A2C252CF
+BUILD 10.0.0.45141
+$noninline,id$ID<32>
+Field_10_0_0_45141_000<u16>
+Field_10_0_0_45141_001<32>
+Field_10_0_0_45141_002<u32>
+Field_10_0_0_45141_003<u8>
