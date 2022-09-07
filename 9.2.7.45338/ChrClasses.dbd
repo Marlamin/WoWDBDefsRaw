@@ -1,0 +1,82 @@
+COLUMNS
+locstring Field_9_2_7_45338_000_lang?
+string Field_9_2_7_45338_001?
+locstring Field_9_2_7_45338_002_lang?
+locstring Field_9_2_7_45338_003_lang?
+string Field_9_2_7_45338_004?
+locstring Field_9_2_7_45338_005_lang?
+locstring Field_9_2_7_45338_006_lang?
+locstring Field_9_2_7_45338_007_lang?
+locstring Field_9_2_7_45338_008_lang?
+locstring Field_9_2_7_45338_009_lang?
+int Field_9_2_7_45338_010?
+int Field_9_2_7_45338_011?
+int Field_9_2_7_45338_012?
+int Field_9_2_7_45338_013?
+int Field_9_2_7_45338_014?
+int Field_9_2_7_45338_015?
+int Field_9_2_7_45338_016?
+int Field_9_2_7_45338_017?
+int Field_9_2_7_45338_018?
+int Field_9_2_7_45338_019?
+int Field_9_2_7_45338_020?
+int Field_9_2_7_45338_021?
+int Field_9_2_7_45338_022?
+int Field_9_2_7_45338_023?
+int Field_9_2_7_45338_024?
+int Field_9_2_7_45338_025?
+int Field_9_2_7_45338_026?
+int Field_9_2_7_45338_027?
+int Field_9_2_7_45338_028?
+int Field_9_2_7_45338_029?
+int Field_9_2_7_45338_030?
+int Field_9_2_7_45338_031?
+int Field_9_2_7_45338_032?
+int Field_9_2_7_45338_033?
+int Field_9_2_7_45338_034?
+int Field_9_2_7_45338_035?
+int Field_9_2_7_45338_036?
+int Field_9_2_7_45338_037?
+int Field_9_2_7_45338_038?
+
+LAYOUT CD8CBEDA
+BUILD 9.2.7.45338
+Field_9_2_7_45338_000_lang
+Field_9_2_7_45338_001
+Field_9_2_7_45338_002_lang
+Field_9_2_7_45338_003_lang
+Field_9_2_7_45338_004
+Field_9_2_7_45338_005_lang
+Field_9_2_7_45338_006_lang
+Field_9_2_7_45338_007_lang
+Field_9_2_7_45338_008_lang
+Field_9_2_7_45338_009_lang
+$id$Field_9_2_7_45338_010<32>
+Field_9_2_7_45338_011<u32>
+Field_9_2_7_45338_012<u32>
+Field_9_2_7_45338_013<u32>
+Field_9_2_7_45338_014<u32>
+Field_9_2_7_45338_015<32>
+Field_9_2_7_45338_016<u32>
+Field_9_2_7_45338_017<u32>
+Field_9_2_7_45338_018<u32>
+Field_9_2_7_45338_019<32>
+Field_9_2_7_45338_020<32>
+Field_9_2_7_45338_021<32>
+Field_9_2_7_45338_022<32>
+Field_9_2_7_45338_023<32>
+Field_9_2_7_45338_024<32>
+Field_9_2_7_45338_025<32>
+Field_9_2_7_45338_026<32>
+Field_9_2_7_45338_027<32>
+Field_9_2_7_45338_028<u16>
+Field_9_2_7_45338_029<u16>
+Field_9_2_7_45338_030<u8>
+Field_9_2_7_45338_031<u8>
+Field_9_2_7_45338_032<u8>
+Field_9_2_7_45338_033<u8>
+Field_9_2_7_45338_034<u8>
+Field_9_2_7_45338_035<u8>
+Field_9_2_7_45338_036<u8>
+Field_9_2_7_45338_037<u8>
+Field_9_2_7_45338_038<u8>
