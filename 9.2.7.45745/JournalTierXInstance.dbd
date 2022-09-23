@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+int Field_9_2_7_45745_000?
+int Field_9_2_7_45745_001?
+
+LAYOUT EF61F77B
+BUILD 9.2.7.45745
+$noninline,id$ID<32>
+$relation$Field_9_2_7_45745_000<u16>
+Field_9_2_7_45745_001<u16>

@@ -1,0 +1,46 @@
+COLUMNS
+int ID
+locstring Field_9_2_7_45745_000_lang?
+locstring Field_9_2_7_45745_001_lang?
+locstring Field_9_2_7_45745_002_lang?
+locstring Field_9_2_7_45745_003_lang?
+locstring Field_9_2_7_45745_004_lang?
+locstring Field_9_2_7_45745_005_lang?
+int Field_9_2_7_45745_006?
+int Field_9_2_7_45745_007?
+int Field_9_2_7_45745_008?
+int Field_9_2_7_45745_009?
+int Field_9_2_7_45745_010?
+int Field_9_2_7_45745_011?
+int Field_9_2_7_45745_012?
+int Field_9_2_7_45745_013?
+int Field_9_2_7_45745_014?
+int Field_9_2_7_45745_015?
+int Field_9_2_7_45745_016?
+int Field_9_2_7_45745_017?
+int Field_9_2_7_45745_018?
+int Field_9_2_7_45745_019?
+
+LAYOUT D800F14D
+BUILD 9.2.7.45745
+$noninline,id$ID<32>
+Field_9_2_7_45745_000_lang
+Field_9_2_7_45745_001_lang
+Field_9_2_7_45745_002_lang
+Field_9_2_7_45745_003_lang
+Field_9_2_7_45745_004_lang
+Field_9_2_7_45745_005_lang
+Field_9_2_7_45745_006<32>
+Field_9_2_7_45745_007<32>
+Field_9_2_7_45745_008<32>
+Field_9_2_7_45745_009<32>
+Field_9_2_7_45745_010<32>
+Field_9_2_7_45745_011<32>
+Field_9_2_7_45745_012<32>
+Field_9_2_7_45745_013<32>
+Field_9_2_7_45745_014<32>
+Field_9_2_7_45745_015<32>
+Field_9_2_7_45745_016<32>
+Field_9_2_7_45745_017<32>
+Field_9_2_7_45745_018<32>
+Field_9_2_7_45745_019<32>
