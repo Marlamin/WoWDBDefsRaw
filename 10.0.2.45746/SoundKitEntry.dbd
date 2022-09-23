@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_10_0_2_45746_000?
+int Field_10_0_2_45746_001?
+int Field_10_0_2_45746_002?
+float Field_10_0_2_45746_003?
+
+LAYOUT 962B1DCC
+BUILD 10.0.2.45746
+$noninline,id$ID<32>
+$relation$Field_10_0_2_45746_000<u32>
+Field_10_0_2_45746_001<32>
+Field_10_0_2_45746_002<u8>
+Field_10_0_2_45746_003
