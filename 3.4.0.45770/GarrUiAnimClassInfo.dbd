@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_3_4_0_45770_000?
+int Field_3_4_0_45770_001?
+float Field_3_4_0_45770_002?
+int Field_3_4_0_45770_003?
+int Field_3_4_0_45770_004?
+int Field_3_4_0_45770_005?
+
+LAYOUT D9F77F3D
+BUILD 3.4.0.45770
+$noninline,id$ID<32>
+Field_3_4_0_45770_000<u8>
+Field_3_4_0_45770_001<u8>
+Field_3_4_0_45770_002
+Field_3_4_0_45770_003<u32>
+Field_3_4_0_45770_004<u32>
+Field_3_4_0_45770_005<u32>
