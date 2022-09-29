@@ -1,0 +1,16 @@
+COLUMNS
+int Field_10_0_2_45779_000?
+int Field_10_0_2_45779_001?
+int Field_10_0_2_45779_002?
+float Field_10_0_2_45779_003?
+float Field_10_0_2_45779_004?
+int Field_10_0_2_45779_005?
+
+LAYOUT CE4DB0CC
+BUILD 10.0.2.45779
+$id$Field_10_0_2_45779_000<32>
+Field_10_0_2_45779_001<32>
+Field_10_0_2_45779_002<32>
+Field_10_0_2_45779_003
+Field_10_0_2_45779_004
+$noninline,relation$Field_10_0_2_45779_005<32>
