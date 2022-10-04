@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+int Field_3_4_0_45942_000?
+int Field_3_4_0_45942_001?
+
+LAYOUT DAC5C754
+BUILD 3.4.0.45942
+$noninline,id$ID<32>
+Field_3_4_0_45942_000<u16>
+Field_3_4_0_45942_001<u16>

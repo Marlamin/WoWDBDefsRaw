@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_3_4_0_45942_000?
+int Field_3_4_0_45942_001?
+int Field_3_4_0_45942_002?
+int Field_3_4_0_45942_003?
+
+LAYOUT D2EA425C
+BUILD 3.4.0.45942
+$noninline,id$ID<32>
+$relation$Field_3_4_0_45942_000<32>
+Field_3_4_0_45942_001<32>
+Field_3_4_0_45942_002<32>
+Field_3_4_0_45942_003<32>
