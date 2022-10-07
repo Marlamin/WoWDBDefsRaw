@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int Field_10_0_0_45970_000?
+int Field_10_0_0_45970_001?
+int Field_10_0_0_45970_002?
+int Field_10_0_0_45970_003?
+int Field_10_0_0_45970_004?
+
+LAYOUT D23ECB64
+BUILD 10.0.0.45970
+$noninline,id$ID<32>
+Field_10_0_0_45970_000<32>
+Field_10_0_0_45970_001<u16>
+Field_10_0_0_45970_002<u32>
+Field_10_0_0_45970_003<u32>
+$noninline,relation$Field_10_0_0_45970_004<32>
