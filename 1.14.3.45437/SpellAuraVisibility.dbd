@@ -1,0 +1,12 @@
+COLUMNS
+int Field_1_14_3_45437_000?
+int Field_1_14_3_45437_001?
+int Field_1_14_3_45437_002?
+int Field_1_14_3_45437_003?
+
+LAYOUT CE14F092
+BUILD 1.14.3.45437
+$id$Field_1_14_3_45437_000<32>
+Field_1_14_3_45437_001<8>
+Field_1_14_3_45437_002<8>
+$noninline,relation$Field_1_14_3_45437_003<32>
