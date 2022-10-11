@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_10_0_0_46047_000_lang?
+int Field_10_0_0_46047_001?
+int Field_10_0_0_46047_002?
+int Field_10_0_0_46047_003?
+int Field_10_0_0_46047_004?
+
+LAYOUT E7DA5527
+BUILD 10.0.0.46047
+Field_10_0_0_46047_000_lang
+$id$Field_10_0_0_46047_001<32>
+Field_10_0_0_46047_002<32>
+Field_10_0_0_46047_003<32>
+$noninline,relation$Field_10_0_0_46047_004<32>
