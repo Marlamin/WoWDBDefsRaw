@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_3_4_0_46158_000_lang?
+locstring Field_3_4_0_46158_001_lang?
+locstring Field_3_4_0_46158_002_lang?
+string Field_3_4_0_46158_003?
+int Field_3_4_0_46158_004?
+
+LAYOUT 2C772BE0
+BUILD 3.4.0.46158
+Field_3_4_0_46158_000_lang
+Field_3_4_0_46158_001_lang
+Field_3_4_0_46158_002_lang
+Field_3_4_0_46158_003
+$id$Field_3_4_0_46158_004<32>

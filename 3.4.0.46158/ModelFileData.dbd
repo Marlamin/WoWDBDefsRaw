@@ -1,0 +1,12 @@
+COLUMNS
+int Field_3_4_0_46158_000?
+int Field_3_4_0_46158_001?
+int Field_3_4_0_46158_002?
+int Field_3_4_0_46158_003?
+
+LAYOUT DFBC2A88
+BUILD 3.4.0.46158
+$id$Field_3_4_0_46158_000<32>
+Field_3_4_0_46158_001<u8>
+Field_3_4_0_46158_002<u8>
+$relation$Field_3_4_0_46158_003<u32>
