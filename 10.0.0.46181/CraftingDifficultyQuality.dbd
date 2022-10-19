@@ -1,0 +1,16 @@
+COLUMNS
+int Field_10_0_0_46181_000?
+int Field_10_0_0_46181_001?
+int Field_10_0_0_46181_002?
+float Field_10_0_0_46181_003?
+float Field_10_0_0_46181_004?
+int Field_10_0_0_46181_005?
+
+LAYOUT C1A830DE
+BUILD 10.0.0.46181
+$id$Field_10_0_0_46181_000<32>
+Field_10_0_0_46181_001<32>
+Field_10_0_0_46181_002<32>
+Field_10_0_0_46181_003
+Field_10_0_0_46181_004
+$noninline,relation$Field_10_0_0_46181_005<32>
