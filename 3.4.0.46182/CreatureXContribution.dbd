@@ -1,0 +1,10 @@
+COLUMNS
+int Field_3_4_0_46182_000?
+int Field_3_4_0_46182_001?
+int Field_3_4_0_46182_002?
+
+LAYOUT 5CAD3660
+BUILD 3.4.0.46182
+$id$Field_3_4_0_46182_000<32>
+Field_3_4_0_46182_001<32>
+$noninline,relation$Field_3_4_0_46182_002<32>
