@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_3_4_0_46269_000?
+int Field_3_4_0_46269_001?
+int Field_3_4_0_46269_002?
+float Field_3_4_0_46269_003?
+float Field_3_4_0_46269_004?
+float Field_3_4_0_46269_005?
+
+LAYOUT FBA6277D
+BUILD 3.4.0.46269
+$noninline,id$ID<32>
+Field_3_4_0_46269_000<32>
+Field_3_4_0_46269_001<u8>
+Field_3_4_0_46269_002<u16>
+Field_3_4_0_46269_003
+Field_3_4_0_46269_004
+Field_3_4_0_46269_005
