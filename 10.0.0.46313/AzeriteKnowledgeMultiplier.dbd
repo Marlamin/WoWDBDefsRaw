@@ -1,0 +1,8 @@
+COLUMNS
+int ID
+float Field_10_0_0_46313_000?
+
+LAYOUT 9DCCF58B
+BUILD 10.0.0.46313
+$noninline,id$ID<32>
+Field_10_0_0_46313_000
