@@ -1,0 +1,26 @@
+COLUMNS
+int ID
+int Field_10_0_2_46259_000?
+float Field_10_0_2_46259_001?
+float Field_10_0_2_46259_002?
+float Field_10_0_2_46259_003?
+float Field_10_0_2_46259_004?
+float Field_10_0_2_46259_005?
+int Field_10_0_2_46259_006?
+int Field_10_0_2_46259_007?
+int Field_10_0_2_46259_008?
+int Field_10_0_2_46259_009?
+
+LAYOUT DC6EF9B4
+BUILD 10.0.2.46259
+$noninline,id$ID<32>
+Field_10_0_2_46259_000<u8>
+Field_10_0_2_46259_001
+Field_10_0_2_46259_002
+Field_10_0_2_46259_003
+Field_10_0_2_46259_004
+Field_10_0_2_46259_005
+Field_10_0_2_46259_006<8>
+Field_10_0_2_46259_007<8>
+Field_10_0_2_46259_008<u8>
+$noninline,relation$Field_10_0_2_46259_009<32>
