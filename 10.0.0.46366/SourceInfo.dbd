@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+locstring Field_10_0_0_46366_000_lang?
+int Field_10_0_0_46366_001?
+int Field_10_0_0_46366_002?
+int Field_10_0_0_46366_003?
+
+LAYOUT F32B81DC
+BUILD 10.0.0.46366
+$noninline,id$ID<32>
+Field_10_0_0_46366_000_lang
+Field_10_0_0_46366_001<8>
+Field_10_0_0_46366_002<8>
+$noninline,relation$Field_10_0_0_46366_003<32>
