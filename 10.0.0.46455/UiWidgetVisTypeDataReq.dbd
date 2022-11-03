@@ -1,0 +1,16 @@
+COLUMNS
+string Field_10_0_0_46455_000?
+int Field_10_0_0_46455_001?
+int Field_10_0_0_46455_002?
+int Field_10_0_0_46455_003?
+int Field_10_0_0_46455_004?
+int Field_10_0_0_46455_005?
+
+LAYOUT 5FB9338F
+BUILD 10.0.0.46455
+Field_10_0_0_46455_000
+$id$Field_10_0_0_46455_001<32>
+Field_10_0_0_46455_002<32>
+Field_10_0_0_46455_003<32>
+Field_10_0_0_46455_004<32>
+$noninline,relation$Field_10_0_0_46455_005<32>

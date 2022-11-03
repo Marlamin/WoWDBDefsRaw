@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+locstring Field_10_0_0_46455_000_lang?
+string Field_10_0_0_46455_001?
+int Field_10_0_0_46455_002?
+float Field_10_0_0_46455_003?
+float Field_10_0_0_46455_004?
+float Field_10_0_0_46455_005?
+float Field_10_0_0_46455_006?
+
+LAYOUT 115BE21D
+BUILD 10.0.0.46455
+$noninline,id$ID<32>
+Field_10_0_0_46455_000_lang
+Field_10_0_0_46455_001
+Field_10_0_0_46455_002<32>
+Field_10_0_0_46455_003
+Field_10_0_0_46455_004
+Field_10_0_0_46455_005
+Field_10_0_0_46455_006
