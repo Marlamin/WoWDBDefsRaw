@@ -1,0 +1,18 @@
+COLUMNS
+locstring Field_10_0_2_46479_000_lang?
+locstring Field_10_0_2_46479_001_lang?
+locstring Field_10_0_2_46479_002_lang?
+int Field_10_0_2_46479_003?
+int Field_10_0_2_46479_004?
+int Field_10_0_2_46479_005?
+int Field_10_0_2_46479_006?
+
+LAYOUT 8D15C420
+BUILD 10.0.2.46479
+Field_10_0_2_46479_000_lang
+Field_10_0_2_46479_001_lang
+Field_10_0_2_46479_002_lang
+$id$Field_10_0_2_46479_003<32>
+Field_10_0_2_46479_004<32>
+Field_10_0_2_46479_005<32>
+Field_10_0_2_46479_006<32>
