@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_10_0_0_46597_000?
+int Field_10_0_0_46597_001?
+int Field_10_0_0_46597_002?
+int Field_10_0_0_46597_003?
+
+LAYOUT EC27351D
+BUILD 10.0.0.46597
+$noninline,id$ID<32>
+Field_10_0_0_46597_000<u16>
+Field_10_0_0_46597_001<u16>
+Field_10_0_0_46597_002<u8>
+Field_10_0_0_46597_003<32>

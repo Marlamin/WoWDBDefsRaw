@@ -1,0 +1,12 @@
+COLUMNS
+locstring Field_10_0_0_46597_000_lang?
+int Field_10_0_0_46597_001?
+int Field_10_0_0_46597_002?
+int Field_10_0_0_46597_003?
+
+LAYOUT C4B6C048
+BUILD 10.0.0.46597
+Field_10_0_0_46597_000_lang
+$id$Field_10_0_0_46597_001<32>
+Field_10_0_0_46597_002<u8>
+Field_10_0_0_46597_003<u8>
