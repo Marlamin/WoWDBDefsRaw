@@ -1,0 +1,24 @@
+COLUMNS
+string Field_10_0_2_46619_000?
+float Field_10_0_2_46619_001?
+int Field_10_0_2_46619_002?
+int Field_10_0_2_46619_003?
+int Field_10_0_2_46619_004?
+float Field_10_0_2_46619_005?
+float Field_10_0_2_46619_006?
+float Field_10_0_2_46619_007?
+float Field_10_0_2_46619_008?
+int Field_10_0_2_46619_009?
+
+LAYOUT A3270DEE
+BUILD 10.0.2.46619
+Field_10_0_2_46619_000
+Field_10_0_2_46619_001[3]
+$id$Field_10_0_2_46619_002<32>
+Field_10_0_2_46619_003<u8>
+Field_10_0_2_46619_004<32>
+Field_10_0_2_46619_005
+Field_10_0_2_46619_006
+Field_10_0_2_46619_007
+Field_10_0_2_46619_008
+$noninline,relation$Field_10_0_2_46619_009<32>
