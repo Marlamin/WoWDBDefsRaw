@@ -1,0 +1,20 @@
+COLUMNS
+int ID
+float Field_10_0_2_46689_000?
+float Field_10_0_2_46689_001?
+float Field_10_0_2_46689_002?
+int Field_10_0_2_46689_003?
+int Field_10_0_2_46689_004?
+int Field_10_0_2_46689_005?
+int Field_10_0_2_46689_006?
+
+LAYOUT 3AC1561C
+BUILD 10.0.2.46689
+$noninline,id$ID<32>
+Field_10_0_2_46689_000
+Field_10_0_2_46689_001
+Field_10_0_2_46689_002
+Field_10_0_2_46689_003<32>
+Field_10_0_2_46689_004<32>
+Field_10_0_2_46689_005<32>
+$noninline,relation$Field_10_0_2_46689_006<32>
