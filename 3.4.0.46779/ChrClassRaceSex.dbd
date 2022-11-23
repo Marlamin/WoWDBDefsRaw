@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_3_4_0_46779_000?
+int Field_3_4_0_46779_001?
+int Field_3_4_0_46779_002?
+int Field_3_4_0_46779_003?
+int Field_3_4_0_46779_004?
+int Field_3_4_0_46779_005?
+
+LAYOUT CE5A498A
+BUILD 3.4.0.46779
+$noninline,id$ID<32>
+Field_3_4_0_46779_000<8>
+Field_3_4_0_46779_001<8>
+Field_3_4_0_46779_002<8>
+Field_3_4_0_46779_003<32>
+Field_3_4_0_46779_004<u32>
+Field_3_4_0_46779_005<u32>
