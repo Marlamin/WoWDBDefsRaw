@@ -1,0 +1,10 @@
+COLUMNS
+int Field_10_0_2_46802_000?
+int Field_10_0_2_46802_001?
+int Field_10_0_2_46802_002?
+
+LAYOUT E03BF02A
+BUILD 10.0.2.46802
+$id$Field_10_0_2_46802_000<32>
+$relation$Field_10_0_2_46802_001<32>
+Field_10_0_2_46802_002<32>
