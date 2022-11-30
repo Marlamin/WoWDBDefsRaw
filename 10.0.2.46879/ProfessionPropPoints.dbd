@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+float Field_10_0_2_46879_000?
+float Field_10_0_2_46879_001?
+float Field_10_0_2_46879_002?
+int Field_10_0_2_46879_003?
+int Field_10_0_2_46879_004?
+int Field_10_0_2_46879_005?
+
+LAYOUT E2DEF177
+BUILD 10.0.2.46879
+$noninline,id$ID<32>
+Field_10_0_2_46879_000[2]
+Field_10_0_2_46879_001[2]
+Field_10_0_2_46879_002[2]
+Field_10_0_2_46879_003<u32>[2]
+Field_10_0_2_46879_004<u32>[2]
+Field_10_0_2_46879_005<u32>[2]

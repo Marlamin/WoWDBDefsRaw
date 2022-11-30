@@ -1,0 +1,12 @@
+COLUMNS
+locstring Field_10_0_2_46879_000_lang?
+int Field_10_0_2_46879_001?
+int Field_10_0_2_46879_002?
+int Field_10_0_2_46879_003?
+
+LAYOUT C3562871
+BUILD 10.0.2.46879
+Field_10_0_2_46879_000_lang
+$id$Field_10_0_2_46879_001<32>
+Field_10_0_2_46879_002<16>
+$relation$Field_10_0_2_46879_003<8>
