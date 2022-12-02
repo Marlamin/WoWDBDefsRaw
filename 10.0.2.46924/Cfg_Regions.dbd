@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+string Field_10_0_2_46924_000?
+int Field_10_0_2_46924_001?
+int Field_10_0_2_46924_002?
+int Field_10_0_2_46924_003?
+int Field_10_0_2_46924_004?
+
+LAYOUT FC93C56C
+BUILD 10.0.2.46924
+$noninline,id$ID<32>
+Field_10_0_2_46924_000
+Field_10_0_2_46924_001<u16>
+Field_10_0_2_46924_002<u32>
+Field_10_0_2_46924_003<u8>
+Field_10_0_2_46924_004<u32>
