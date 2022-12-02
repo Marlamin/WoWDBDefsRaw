@@ -1,0 +1,20 @@
+COLUMNS
+locstring Field_3_4_1_46917_000_lang?
+string Field_3_4_1_46917_001?
+int Field_3_4_1_46917_002?
+int Field_3_4_1_46917_003?
+float Field_3_4_1_46917_004?
+float Field_3_4_1_46917_005?
+float Field_3_4_1_46917_006?
+float Field_3_4_1_46917_007?
+
+LAYOUT CCAADB90
+BUILD 3.4.1.46917
+Field_3_4_1_46917_000_lang
+Field_3_4_1_46917_001
+$id$Field_3_4_1_46917_002<32>
+Field_3_4_1_46917_003<32>
+Field_3_4_1_46917_004
+Field_3_4_1_46917_005
+Field_3_4_1_46917_006
+Field_3_4_1_46917_007

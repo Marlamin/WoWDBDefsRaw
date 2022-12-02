@@ -1,0 +1,14 @@
+COLUMNS
+float Field_3_4_1_46917_000?
+int Field_3_4_1_46917_001?
+int Field_3_4_1_46917_002?
+int Field_3_4_1_46917_003?
+int Field_3_4_1_46917_004?
+
+LAYOUT DEF48812
+BUILD 3.4.1.46917
+Field_3_4_1_46917_000[2]
+$id$Field_3_4_1_46917_001<32>
+$relation$Field_3_4_1_46917_002<u8>
+Field_3_4_1_46917_003<u16>
+Field_3_4_1_46917_004<u16>
