@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int Field_3_4_1_47014_000?
+int Field_3_4_1_47014_001?
+int Field_3_4_1_47014_002?
+int Field_3_4_1_47014_003?
+int Field_3_4_1_47014_004?
+
+LAYOUT E2CB2DDC
+BUILD 3.4.1.47014
+$noninline,id$ID<32>
+Field_3_4_1_47014_000<32>
+Field_3_4_1_47014_001<u16>
+Field_3_4_1_47014_002<u8>
+Field_3_4_1_47014_003<32>
+Field_3_4_1_47014_004<32>
