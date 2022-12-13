@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+int Field_3_4_1_47110_000?
+int Field_3_4_1_47110_001?
+int Field_3_4_1_47110_002?
+int Field_3_4_1_47110_003?
+int Field_3_4_1_47110_004?
+
+LAYOUT 6C616EAA
+BUILD 3.4.1.47110
+$noninline,id$ID<32>
+Field_3_4_1_47110_000<32>
+Field_3_4_1_47110_001<32>
+Field_3_4_1_47110_002<32>
+Field_3_4_1_47110_003<32>
+$noninline,relation$Field_3_4_1_47110_004<32>
