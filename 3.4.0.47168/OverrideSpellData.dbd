@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int Field_3_4_0_47168_000?
+int Field_3_4_0_47168_001?
+int Field_3_4_0_47168_002?
+
+LAYOUT DC04AC20
+BUILD 3.4.0.47168
+$noninline,id$ID<32>
+Field_3_4_0_47168_000<32>[10]
+Field_3_4_0_47168_001<32>
+Field_3_4_0_47168_002<u8>
