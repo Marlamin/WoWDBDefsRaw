@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+float Field_10_0_2_47187_000?
+float Field_10_0_2_47187_001?
+int Field_10_0_2_47187_002?
+int Field_10_0_2_47187_003?
+int Field_10_0_2_47187_004?
+
+LAYOUT 6CAEB8A1
+BUILD 10.0.2.47187
+$noninline,id$ID<32>
+Field_10_0_2_47187_000
+Field_10_0_2_47187_001
+Field_10_0_2_47187_002<16>
+Field_10_0_2_47187_003<u8>
+Field_10_0_2_47187_004<u8>
