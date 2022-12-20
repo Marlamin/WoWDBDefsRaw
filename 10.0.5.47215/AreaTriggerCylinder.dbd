@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+float Field_10_0_5_47215_000?
+float Field_10_0_5_47215_001?
+float Field_10_0_5_47215_002?
+
+LAYOUT AF2720AC
+BUILD 10.0.5.47215
+$noninline,id$ID<32>
+Field_10_0_5_47215_000
+Field_10_0_5_47215_001
+Field_10_0_5_47215_002
