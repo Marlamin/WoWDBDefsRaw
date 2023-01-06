@@ -1,0 +1,14 @@
+COLUMNS
+int ID
+int Field_10_0_5_47481_000?
+int Field_10_0_5_47481_001?
+int Field_10_0_5_47481_002?
+int Field_10_0_5_47481_003?
+
+LAYOUT EF41DC0A
+BUILD 10.0.5.47481
+$noninline,id$ID<32>
+Field_10_0_5_47481_000<64>
+Field_10_0_5_47481_001<8>
+Field_10_0_5_47481_002<32>
+Field_10_0_5_47481_003<8>
