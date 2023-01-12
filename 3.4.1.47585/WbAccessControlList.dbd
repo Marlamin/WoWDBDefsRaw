@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+string Field_3_4_1_47585_000?
+int Field_3_4_1_47585_001?
+int Field_3_4_1_47585_002?
+int Field_3_4_1_47585_003?
+int Field_3_4_1_47585_004?
+
+LAYOUT F9DAF847
+BUILD 3.4.1.47585
+$noninline,id$ID<32>
+Field_3_4_1_47585_000
+Field_3_4_1_47585_001<u16>
+Field_3_4_1_47585_002<u8>
+Field_3_4_1_47585_003<u8>
+Field_3_4_1_47585_004<u8>
