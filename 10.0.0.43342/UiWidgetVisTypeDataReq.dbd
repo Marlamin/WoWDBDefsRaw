@@ -1,0 +1,16 @@
+COLUMNS
+string Field_10_0_0_43342_000?
+int Field_10_0_0_43342_001?
+int Field_10_0_0_43342_002?
+int Field_10_0_0_43342_003?
+int Field_10_0_0_43342_004?
+int Field_10_0_0_43342_005?
+
+LAYOUT ED45A74E
+BUILD 10.0.0.43342
+Field_10_0_0_43342_000
+$id$Field_10_0_0_43342_001<32>
+Field_10_0_0_43342_002<32>
+Field_10_0_0_43342_003<32>
+Field_10_0_0_43342_004<32>
+$noninline,relation$Field_10_0_0_43342_005<32>

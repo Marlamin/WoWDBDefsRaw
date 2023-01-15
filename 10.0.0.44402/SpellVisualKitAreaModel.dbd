@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_10_0_0_44402_000?
+int Field_10_0_0_44402_001?
+int Field_10_0_0_44402_002?
+float Field_10_0_0_44402_003?
+float Field_10_0_0_44402_004?
+float Field_10_0_0_44402_005?
+
+LAYOUT FBA6277D
+BUILD 10.0.0.44402
+$noninline,id$ID<32>
+Field_10_0_0_44402_000<32>
+Field_10_0_0_44402_001<u8>
+Field_10_0_0_44402_002<u16>
+Field_10_0_0_44402_003
+Field_10_0_0_44402_004
+Field_10_0_0_44402_005

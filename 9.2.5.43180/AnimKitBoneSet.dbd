@@ -1,0 +1,16 @@
+COLUMNS
+int ID
+string Field_9_2_5_43180_000?
+int Field_9_2_5_43180_001?
+int Field_9_2_5_43180_002?
+int Field_9_2_5_43180_003?
+int Field_9_2_5_43180_004?
+
+LAYOUT ED0473C4
+BUILD 9.2.5.43180
+$noninline,id$ID<32>
+Field_9_2_5_43180_000
+Field_9_2_5_43180_001<32>
+Field_9_2_5_43180_002<8>
+Field_9_2_5_43180_003<8>
+Field_9_2_5_43180_004<32>

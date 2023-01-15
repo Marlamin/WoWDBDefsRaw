@@ -1,0 +1,82 @@
+COLUMNS
+locstring Field_9_2_5_43180_000_lang?
+string Field_9_2_5_43180_001?
+locstring Field_9_2_5_43180_002_lang?
+locstring Field_9_2_5_43180_003_lang?
+string Field_9_2_5_43180_004?
+locstring Field_9_2_5_43180_005_lang?
+locstring Field_9_2_5_43180_006_lang?
+locstring Field_9_2_5_43180_007_lang?
+locstring Field_9_2_5_43180_008_lang?
+locstring Field_9_2_5_43180_009_lang?
+int Field_9_2_5_43180_010?
+int Field_9_2_5_43180_011?
+int Field_9_2_5_43180_012?
+int Field_9_2_5_43180_013?
+int Field_9_2_5_43180_014?
+int Field_9_2_5_43180_015?
+int Field_9_2_5_43180_016?
+int Field_9_2_5_43180_017?
+int Field_9_2_5_43180_018?
+int Field_9_2_5_43180_019?
+int Field_9_2_5_43180_020?
+int Field_9_2_5_43180_021?
+int Field_9_2_5_43180_022?
+int Field_9_2_5_43180_023?
+int Field_9_2_5_43180_024?
+int Field_9_2_5_43180_025?
+int Field_9_2_5_43180_026?
+int Field_9_2_5_43180_027?
+int Field_9_2_5_43180_028?
+int Field_9_2_5_43180_029?
+int Field_9_2_5_43180_030?
+int Field_9_2_5_43180_031?
+int Field_9_2_5_43180_032?
+int Field_9_2_5_43180_033?
+int Field_9_2_5_43180_034?
+int Field_9_2_5_43180_035?
+int Field_9_2_5_43180_036?
+int Field_9_2_5_43180_037?
+int Field_9_2_5_43180_038?
+
+LAYOUT 090C9967
+BUILD 9.2.5.43180
+Field_9_2_5_43180_000_lang
+Field_9_2_5_43180_001
+Field_9_2_5_43180_002_lang
+Field_9_2_5_43180_003_lang
+Field_9_2_5_43180_004
+Field_9_2_5_43180_005_lang
+Field_9_2_5_43180_006_lang
+Field_9_2_5_43180_007_lang
+Field_9_2_5_43180_008_lang
+Field_9_2_5_43180_009_lang
+$id$Field_9_2_5_43180_010<32>
+Field_9_2_5_43180_011<u32>
+Field_9_2_5_43180_012<u32>
+Field_9_2_5_43180_013<u32>
+Field_9_2_5_43180_014<u32>
+Field_9_2_5_43180_015<u32>
+Field_9_2_5_43180_016<u32>
+Field_9_2_5_43180_017<u32>
+Field_9_2_5_43180_018<u32>
+Field_9_2_5_43180_019<32>
+Field_9_2_5_43180_020<32>
+Field_9_2_5_43180_021<32>
+Field_9_2_5_43180_022<32>
+Field_9_2_5_43180_023<32>
+Field_9_2_5_43180_024<32>
+Field_9_2_5_43180_025<32>
+Field_9_2_5_43180_026<32>
+Field_9_2_5_43180_027<32>
+Field_9_2_5_43180_028<u16>
+Field_9_2_5_43180_029<u16>
+Field_9_2_5_43180_030<u8>
+Field_9_2_5_43180_031<u8>
+Field_9_2_5_43180_032<u8>
+Field_9_2_5_43180_033<u8>
+Field_9_2_5_43180_034<u8>
+Field_9_2_5_43180_035<u8>
+Field_9_2_5_43180_036<u8>
+Field_9_2_5_43180_037<u8>
+Field_9_2_5_43180_038<u8>

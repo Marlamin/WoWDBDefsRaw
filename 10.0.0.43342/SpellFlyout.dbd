@@ -1,0 +1,18 @@
+COLUMNS
+int ID
+int Field_10_0_0_43342_000?
+locstring Field_10_0_0_43342_001_lang?
+locstring Field_10_0_0_43342_002_lang?
+int Field_10_0_0_43342_003?
+int Field_10_0_0_43342_004?
+int Field_10_0_0_43342_005?
+
+LAYOUT 2EAF1C11
+BUILD 10.0.0.43342
+$noninline,id$ID<32>
+Field_10_0_0_43342_000<64>
+Field_10_0_0_43342_001_lang
+Field_10_0_0_43342_002_lang
+Field_10_0_0_43342_003<u8>
+Field_10_0_0_43342_004<32>
+Field_10_0_0_43342_005<32>

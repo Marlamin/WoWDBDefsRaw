@@ -1,0 +1,8 @@
+COLUMNS
+int ID
+locstring Field_10_0_0_44167_000_lang?
+
+LAYOUT E59553DF
+BUILD 10.0.0.44167
+$noninline,id$ID<32>
+Field_10_0_0_44167_000_lang

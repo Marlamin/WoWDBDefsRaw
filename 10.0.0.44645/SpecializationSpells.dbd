@@ -1,0 +1,16 @@
+COLUMNS
+locstring Field_10_0_0_44645_000_lang?
+int Field_10_0_0_44645_001?
+int Field_10_0_0_44645_002?
+int Field_10_0_0_44645_003?
+int Field_10_0_0_44645_004?
+int Field_10_0_0_44645_005?
+
+LAYOUT A524AD21
+BUILD 10.0.0.44645
+Field_10_0_0_44645_000_lang
+$id$Field_10_0_0_44645_001<32>
+$relation$Field_10_0_0_44645_002<u16>
+Field_10_0_0_44645_003<32>
+Field_10_0_0_44645_004<32>
+Field_10_0_0_44645_005<u8>

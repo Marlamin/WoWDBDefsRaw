@@ -1,0 +1,10 @@
+COLUMNS
+int ID
+string Field_10_0_0_44475_000?
+int Field_10_0_0_44475_001?
+
+LAYOUT 8C749D28
+BUILD 10.0.0.44475
+$noninline,id$ID<32>
+Field_10_0_0_44475_000
+Field_10_0_0_44475_001<u16>

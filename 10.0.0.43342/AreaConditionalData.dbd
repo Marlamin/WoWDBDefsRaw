@@ -1,0 +1,14 @@
+COLUMNS
+locstring Field_10_0_0_43342_000_lang?
+int Field_10_0_0_43342_001?
+int Field_10_0_0_43342_002?
+int Field_10_0_0_43342_003?
+int Field_10_0_0_43342_004?
+
+LAYOUT 1F0DE7F6
+BUILD 10.0.0.43342
+Field_10_0_0_43342_000_lang
+$id$Field_10_0_0_43342_001<32>
+Field_10_0_0_43342_002<32>
+Field_10_0_0_43342_003<32>
+$noninline,relation$Field_10_0_0_43342_004<32>

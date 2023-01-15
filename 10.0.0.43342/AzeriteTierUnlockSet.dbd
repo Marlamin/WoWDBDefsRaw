@@ -1,0 +1,8 @@
+COLUMNS
+int ID
+int Field_10_0_0_43342_000?
+
+LAYOUT 2598F32A
+BUILD 10.0.0.43342
+$noninline,id$ID<32>
+Field_10_0_0_43342_000<32>

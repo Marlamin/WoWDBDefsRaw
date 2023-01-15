@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int Field_10_0_2_46394_000?
+int Field_10_0_2_46394_001?
+int Field_10_0_2_46394_002?
+
+LAYOUT C31BC15A
+BUILD 10.0.2.46394
+$noninline,id$ID<32>
+Field_10_0_2_46394_000<32>
+Field_10_0_2_46394_001<32>
+Field_10_0_2_46394_002<32>
