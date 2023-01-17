@@ -1,0 +1,12 @@
+COLUMNS
+int Field_3_4_0_47659_000?
+int Field_3_4_0_47659_001?
+int Field_3_4_0_47659_002?
+int Field_3_4_0_47659_003?
+
+LAYOUT 398764D3
+BUILD 3.4.0.47659
+$id$Field_3_4_0_47659_000<32>
+Field_3_4_0_47659_001<8>
+Field_3_4_0_47659_002<8>
+$noninline,relation$Field_3_4_0_47659_003<32>
